@@ -47,6 +47,7 @@ const config: Config = {
       {name: 'keywords', content: 'solid, server, json-ld, nostr, decentralized, git, linked data'},
       {name: 'description', content: 'Documentation for JavaScript Solid Server - a minimal, fast, JSON-LD native Solid server'},
       {property: 'og:type', content: 'website'},
+      {name: 'twitter:card', content: 'summary_large_image'},
     ],
 
     colorMode: {
