@@ -33,7 +33,7 @@ A drop-in alternative to `npx serve` with REST write support, live reload, and S
 | [Multi-user Pods](/docs/features/multi-user-pods) | Path-based or subdomain-based pod isolation | [Details](/docs/features/multi-user-pods) |
 | Pod Discovery | `.well-known/openid-configuration`, TypeIndex generation | |
 | HTTP Range Requests | Partial content delivery for streaming media | |
-| Storage Quotas | Per-pod quota enforcement with CLI management | |
+| [Storage Quotas](/docs/features/quotas-and-invites) | Per-pod quota enforcement with CLI management | [Details](/docs/features/quotas-and-invites) |
 | CORS | Full cross-origin support with proper header exposure | |
 
 ## Authentication & Identity
@@ -44,33 +44,33 @@ A drop-in alternative to `npx serve` with REST write support, live reload, and S
 | Built-in Identity Provider | Full OAuth2/OIDC login flows (`--idp`) | |
 | Passkey / WebAuthn | Passwordless authentication using FIDO2 | |
 | WebID-TLS | Client certificate authentication with X.509 certs | |
-| Nostr NIP-98 | Schnorr signature-based HTTP auth, `did:nostr` identity | |
-| Invite-only Registration | Restrict signups with invite codes (`--invite-only`) | |
+| [Nostr NIP-98](/docs/features/nostr) | Schnorr signature-based HTTP auth, `did:nostr` identity | [Details](/docs/features/nostr) |
+| [Invite-only Registration](/docs/features/quotas-and-invites) | Restrict signups with invite codes (`--invite-only`) | [Details](/docs/features/quotas-and-invites) |
 | Token Management | DPoP validation, jti replay prevention | |
 
 ## Developer Tools
 
-| Feature | Description |
-|---------|-------------|
-| **Live Reload** | Edit a file, browser refreshes automatically (`--live-reload`) |
-| **Public Mode** | Skip authentication for local development (`--public`) |
-| **Read-only Mode** | Disable PUT/DELETE/PATCH for safe viewing (`--read-only`) |
-| **Single-user Mode** | Personal pod server, no registration needed (`--single-user`) |
-| File Watcher | Detects filesystem changes and triggers WebSocket notifications |
-| [Mashlib / SolidOS](/docs/features/mashlib-ui) | Data browser UI, local or CDN mode (`--mashlib`, `--mashlib-cdn`) |
-| SolidOS UI | Modern Nextcloud-style interface (`--solidos-ui`) |
-| Config System | CLI args > env vars > config file > defaults |
-| Print Config | Debug configuration with `--print-config` |
+| Feature | Description | Docs |
+|---------|-------------|------|
+| [**Live Reload**](/docs/features/live-reload) | Edit a file, browser refreshes automatically (`--live-reload`) | [Details](/docs/features/live-reload) |
+| **Public Mode** | Skip authentication for local development (`--public`) | |
+| **Read-only Mode** | Disable PUT/DELETE/PATCH for safe viewing (`--read-only`) | |
+| **Single-user Mode** | Personal pod server, no registration needed (`--single-user`) | |
+| File Watcher | Detects filesystem changes and triggers WebSocket notifications | |
+| [Mashlib / SolidOS](/docs/features/mashlib-ui) | Data browser UI, local or CDN mode (`--mashlib`, `--mashlib-cdn`) | [Details](/docs/features/mashlib-ui) |
+| SolidOS UI | Modern Nextcloud-style interface (`--solidos-ui`) | |
+| Config System | CLI args > env vars > config file > defaults | |
+| Print Config | Debug configuration with `--print-config` | |
 
 ## Federation & Social
 
-| Feature | Description |
-|---------|-------------|
-| **ActivityPub** | Full federation support with inbox, outbox, followers (`--activitypub`) |
-| Webfinger | Standard actor discovery for federation |
-| **Nostr Relay** | NIP-01 relay with configurable event limits (`--nostr`) |
-| Nostr Event Types | Replaceable, ephemeral, parameterized replaceable kinds |
-| Nostr-AP Linking | Link Nostr identity to ActivityPub actor (`--ap-nostr-pubkey`) |
+| Feature | Description | Docs |
+|---------|-------------|------|
+| [**ActivityPub**](/docs/features/activitypub) | Full federation support with inbox, outbox, followers (`--activitypub`) | [Details](/docs/features/activitypub) |
+| Webfinger | Standard actor discovery for federation | |
+| [**Nostr Relay**](/docs/features/nostr) | NIP-01 relay with configurable event limits (`--nostr`) | [Details](/docs/features/nostr) |
+| Nostr Event Types | Replaceable, ephemeral, parameterized replaceable kinds | |
+| [Nostr-AP Linking](/docs/features/nostr) | Link Nostr identity to ActivityPub actor (`--ap-nostr-pubkey`) | [Details](/docs/features/nostr) |
 
 ## Security
 
