@@ -95,14 +95,17 @@ The inbox spam problem is structurally similar to email spam. The web community 
 | Reputation systems | Issuer allowlists / trust scores | Not yet implemented |
 | UX segregation | Trusted vs untrusted inbox views | Not yet implemented |
 
-## What's Not Yet Implemented
+## Planned
 
-These are natural next steps that can be layered on without protocol changes:
+These are natural next steps that can be layered on without protocol changes, following industry best practices:
 
 - **Issuer allowlists**: Trust specific OIDC issuers, deprioritize unknown ones
 - **Payload shape validation**: Require notifications to match a specific ShEx/SHACL shape
 - **Inbox segregation**: Separate trusted and untrusted notifications at the storage level
 - **Reputation scoring**: Track sender behavior over time
+- **HTTP 402 Payment Required**: Support for payment-gated access, enabling micropayments or subscription-based access control as a spam deterrent and monetization layer
+- **CAPTCHA / proof-of-work challenges**: Raise the cost of automated abuse without blocking legitimate users
+- **Sender verification escalation**: Progressively require stronger identity proof based on trust level
 
 ## ActivityPub Inbox
 
