@@ -36,6 +36,7 @@ const sidebars: SidebarsConfig = {
         'features/websocket-notifications',
         'features/multi-user-pods',
         'features/mashlib-ui',
+        'features/payments',
       ],
     },
     {
