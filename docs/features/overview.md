@@ -85,6 +85,18 @@ A drop-in alternative to `npx serve` with REST write support, live reload, and S
 | DPoP Replay Prevention | jti cache prevents token reuse | |
 | Password Hashing | bcryptjs with minimum length validation | |
 
+## Payments & Tokens
+
+| Feature | Description | Docs |
+|---------|-------------|------|
+| [**HTTP 402 Payments**](/docs/features/payments) | Monetize `/pay/*` resources with per-request sat payments (`--pay`) | [Details](/docs/features/payments) |
+| Sat Deposits | Credit balance by posting a Bitcoin UTXO (TXO URI) | [Details](/docs/features/payments) |
+| MRC20 Token Deposits | Deposit tokens with state proof and anchor verification | [Details](/docs/features/payments) |
+| Primary Market | Buy/withdraw pod tokens with sat balance (`--pay-token`) | [Details](/docs/features/payments) |
+| Secondary Market | Peer-to-peer sell orders and swaps via pod escrow | [Details](/docs/features/payments) |
+| Token CLI | Mint, transfer, and inspect MRC20 tokens (`jss token`) | [Details](/docs/features/payments) |
+| Web Ledger | Balance tracking per `did:nostr` ([webledgers.org](https://webledgers.org/) spec) | |
+
 ## Integrations
 
 | Feature | Description | Docs |
