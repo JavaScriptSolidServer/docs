@@ -95,7 +95,9 @@ A drop-in alternative to `npx serve` with REST write support, live reload, and S
 | Primary Market | Buy/withdraw pod tokens with sat balance (`--pay-token`) | [Details](/docs/features/payments) |
 | Secondary Market | Peer-to-peer sell orders and swaps via pod escrow | [Details](/docs/features/payments) |
 | Token CLI | Mint, transfer, and inspect MRC20 tokens (`jss token`) | [Details](/docs/features/payments) |
-| Web Ledger | Balance tracking per `did:nostr` ([webledgers.org](https://webledgers.org/) spec) | |
+| Multi-Chain Deposits | Accept sats from multiple Bitcoin networks (`--pay-chains`) | [Details](/docs/features/payments) |
+| [**AMM Pool**](/docs/features/payments) | Constant-product market maker for cross-chain trading | [Details](/docs/features/payments) |
+| Web Ledger | Multi-currency balance tracking per `did:nostr` ([webledgers.org](https://webledgers.org/) spec) | |
 
 ## Integrations
 

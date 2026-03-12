@@ -34,6 +34,7 @@ Now accessing `GET /pay/hello.json` requires NIP-98 authentication and 1 sat of 
 | `--pay-address <addr>` | Address for receiving MRC20 token deposits | - |
 | `--pay-token <ticker>` | Token to sell (enables buy/withdraw/sell/swap) | - |
 | `--pay-rate <n>` | Sats per token for buy/withdraw | `1` |
+| `--pay-chains <ids>` | Multi-chain deposits + AMM (e.g. `"tbtc3,tbtc4"`) | - |
 
 ### Environment Variables
 
@@ -44,6 +45,7 @@ export JSS_PAY_MEMPOOL_URL=https://mempool.space/testnet4
 export JSS_PAY_ADDRESS=tb1q...
 export JSS_PAY_TOKEN=PODS
 export JSS_PAY_RATE=10
+export JSS_PAY_CHAINS=tbtc3,tbtc4
 ```
 
 ## API Endpoints
@@ -52,19 +54,21 @@ export JSS_PAY_RATE=10
 
 | Method | Path | Description |
 |--------|------|-------------|
-| GET | `/pay/.info` | Payment config: cost, token info, available routes |
+| GET | `/pay/.info` | Payment config: cost, token info, chains, pool |
 | GET | `/pay/.offers` | Open sell orders (secondary market) |
+| GET | `/pay/.pool` | AMM pool state (requires `--pay-chains`) |
 
 ### Authenticated (NIP-98)
 
 | Method | Path | Description |
 |--------|------|-------------|
-| GET | `/pay/.balance` | Check your sat balance |
+| GET | `/pay/.balance` | Check your balance (includes per-chain balances) |
 | POST | `/pay/.deposit` | Deposit sats (TXO URI) or MRC20 tokens |
 | POST | `/pay/.buy` | Buy tokens with sat balance |
 | POST | `/pay/.withdraw` | Withdraw balance as portable tokens |
 | POST | `/pay/.sell` | Create a sell order |
 | POST | `/pay/.swap` | Execute a swap against a sell order |
+| POST | `/pay/.pool` | AMM: swap, add-liquidity, remove-liquidity |
 | GET | `/pay/*` | Access a paid resource (deducts balance) |
 
 ## How It Works
@@ -219,6 +223,94 @@ curl -X POST -H "Authorization: Nostr <token>" \
 
 The pod transfers tokens from seller to buyer on the Bitcoin trail, debits the buyer's sats, and credits the seller's sats.
 
+## Multi-Chain AMM
+
+When `--pay-chains` is configured with two or more chain IDs, the pod enables multi-chain deposits and an automated market maker.
+
+```bash
+jss start --pay --pay-chains "tbtc3,tbtc4"
+```
+
+### Supported Chains
+
+| Chain ID | Network | Explorer |
+|----------|---------|----------|
+| `btc` | Bitcoin mainnet | mempool.space |
+| `tbtc3` | Bitcoin Testnet3 | mempool.space/testnet |
+| `tbtc4` | Bitcoin Testnet4 | mempool.space/testnet4 |
+| `ltc` | Litecoin | litecoinspace.org |
+| `signet` | Bitcoin Signet | mempool.space/signet |
+
+### Multi-Chain Deposits
+
+Deposits detect the chain from the TXO URI prefix:
+
+```bash
+# Deposit testnet3 sats
+curl -X POST -H "Authorization: Nostr <token>" \
+  https://example.com/pay/.deposit \
+  -d "txo:tbtc3:<txid>:<vout>"
+
+# Deposit testnet4 sats
+curl -X POST -H "Authorization: Nostr <token>" \
+  https://example.com/pay/.deposit \
+  -d "txo:tbtc4:<txid>:<vout>"
+```
+
+Each chain's balance is tracked separately in the webledger using multi-currency format. The `.balance` endpoint returns per-chain balances:
+
+```json
+{
+  "did": "did:nostr:<pubkey>",
+  "balance": 0,
+  "balances": { "tbtc3": 10000, "tbtc4": 50000 }
+}
+```
+
+### AMM Pool
+
+The pool uses a constant-product formula (x × y = k) with a 0.3% fee on swaps.
+
+**Add liquidity:**
+```bash
+curl -X POST -H "Authorization: Nostr <token>" \
+  -H "Content-Type: application/json" \
+  https://example.com/pay/.pool \
+  -d '{"action": "add-liquidity", "tbtc3": 1000, "tbtc4": 5000}'
+```
+
+**Swap:**
+```bash
+curl -X POST -H "Authorization: Nostr <token>" \
+  -H "Content-Type: application/json" \
+  https://example.com/pay/.pool \
+  -d '{"action": "swap", "sell": "tbtc3", "amount": 100, "minReceived": 400}'
+```
+
+**Remove liquidity:**
+```bash
+curl -X POST -H "Authorization: Nostr <token>" \
+  -H "Content-Type: application/json" \
+  https://example.com/pay/.pool \
+  -d '{"action": "remove-liquidity", "shares": 50}'
+```
+
+**Pool state (public):**
+```bash
+curl https://example.com/pay/.pool
+```
+
+```json
+{
+  "pair": ["tbtc3", "tbtc4"],
+  "reserves": { "tbtc3": 10000, "tbtc4": 50000 },
+  "k": 500000000,
+  "fee": 0.003,
+  "totalShares": 22360,
+  "lpShares": { "did:nostr:<pubkey>": 22360 }
+}
+```
+
 ## Use Cases
 
 - **Paid APIs** — AI agents, data feeds, premium content, all metered per-request
@@ -226,6 +318,8 @@ The pod transfers tokens from seller to buyer on the Bitcoin trail, debits the b
 - **Pod Monetization** — Pod owners mint tokens and sell access
 - **Portable Credits** — Buy on one pod, withdraw, deposit on another
 - **Micropayments** — No Lightning channels, no payment processor, just Bitcoin UTXOs
+- **Cross-chain trading** — AMM pool between any two UTXO chains (e.g. testnet3 ↔ testnet4)
+- **Liquidity provision** — Earn 0.3% fees by providing liquidity to AMM pools
 
 ## Balance Tracking
 
