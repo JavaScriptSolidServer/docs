@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Git Push with Nostr
 description: Set up Nostr-authenticated git push
 ---
