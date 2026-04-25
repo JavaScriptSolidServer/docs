@@ -51,6 +51,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'guides/overview',
         'guides/deploy-production',
+        'guides/git-on-solid',
         'guides/git-push-nostr',
         'guides/solid-apps',
       ],
