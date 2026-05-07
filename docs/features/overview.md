@@ -45,6 +45,7 @@ A drop-in alternative to `npx serve` with REST write support, live reload, and S
 | Passkey / WebAuthn | Passwordless authentication using FIDO2 | |
 | WebID-TLS | Client certificate authentication with X.509 certs | |
 | [Nostr NIP-98](/docs/features/nostr) | Schnorr signature-based HTTP auth, `did:nostr` identity | [Details](/docs/features/nostr) |
+| [End-to-End Encryption](/docs/features/e2ee) | Client-side NIP-44 / NIP-04 over `did:nostr` keys; pod stores ciphertext only | [Details](/docs/features/e2ee) |
 | [Invite-only Registration](/docs/features/quotas-and-invites) | Restrict signups with invite codes (`--invite-only`) | [Details](/docs/features/quotas-and-invites) |
 | Token Management | DPoP validation, jti replay prevention | |
 

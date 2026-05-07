@@ -55,3 +55,7 @@ git config --global nostr.privkey <key>
 ```
 
 See [git-credential-nostr](https://github.com/JavaScriptSolidServer/git-credential-nostr) for details.
+
+### End-to-end encryption
+
+The same `secp256k1` keypair used by `did:nostr` also provides the ECDH primitive for [NIP-44](https://github.com/nostr-protocol/nips/blob/master/44.md) / [NIP-04](https://github.com/nostr-protocol/nips/blob/master/04.md) content encryption — clients can encrypt before `PUT` and decrypt after `GET` with no server-side changes. See [End-to-End Encryption](./e2ee.md).
