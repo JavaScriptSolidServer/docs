@@ -41,6 +41,7 @@ const sidebars: SidebarsConfig = {
         'features/git-integration',
         'features/activitypub',
         'features/nostr',
+        'features/e2ee',
         'features/payments',
       ],
     },
