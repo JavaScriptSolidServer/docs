@@ -12,26 +12,7 @@ The architectural shape: **the server is not in the trust boundary.** Encrypt be
 
 ## Architecture
 
-```
-Client A (did:nostr_A)              Client B (did:nostr_B)
-    │                                    │
-    │  shared = ECDH(privA, pubB)        │
-    │  ct = nip44.encrypt(plaintext,     │
-    │         shared)                    │
-    │                                    │
-    ├── PUT ct ─────────────┐            │
-    │                       ▼            │
-    │              ┌──────────────┐      │
-    │              │   JSS pod    │      │
-    │              │  (ciphertext │      │
-    │              │   as RDF)    │      │
-    │              └──────────────┘      │
-    │                       │            │
-    │                       └─── GET ────┤
-    │                                    │
-    │             nip44.decrypt(ct,      │
-    │               ECDH(privB, pubA))   │
-```
+![End-to-end encryption flow: clients derive a shared key via ECDH between their did:nostr keypairs, encrypt with NIP-44, PUT ciphertext to the pod, and GET ciphertext to decrypt locally; the pod never sees plaintext.](/img/e2ee-architecture.svg)
 
 JSS does not implement encryption, decryption, or key management. The encryption boundary is between clients.
 
