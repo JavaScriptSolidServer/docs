@@ -54,6 +54,7 @@ const sidebars: SidebarsConfig = {
         'guides/deploy-production',
         'guides/git-on-solid',
         'guides/git-push-nostr',
+        'guides/jss-on-android',
         'guides/solid-apps',
       ],
     },
