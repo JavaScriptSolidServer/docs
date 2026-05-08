@@ -136,6 +136,27 @@ git push origin main
 
 Authentication is handled per the [Git Push with Nostr](./git-push-nostr.md) guide.
 
+## Browser viewer
+
+[JSS Git](https://jss.live/git/) is the browser-side companion to Pattern B — a web app that browses any compliant git remote (including JSS-hosted pods) over standard smart-HTTP.
+
+```
+https://jss.live/git/?repo=https://your.pod/path/to/repo
+```
+
+Features:
+
+- File tree with folder navigation, file-type icons, syntax highlighting
+- Markdown rendering for READMEs (with shields.io badges, code blocks)
+- Commits view with full history and per-commit detail (changed files, parents)
+- Branch dropdown for multi-branch repos
+- Repo header with breadcrumb, sidebar with About / branch / clone snippet
+- OGP previews when sharing repo URLs
+
+Architecturally, JSS Git is a pure smart-HTTP client (via [isomorphic-git](https://isomorphic-git.org)) — the same protocol JSS speaks server-side. No `.git/` path-walking, no raw object fetching: handles packed refs, pack files, and delta compression like any standard git client.
+
+Source: [github.com/JavaScriptSolidServer/git](https://github.com/JavaScriptSolidServer/git)
+
 ## Server-side dotfile policy
 
 JSS recommends blocking dotfile paths at the server layer by default:
@@ -153,6 +174,7 @@ This is long-standing best practice in web server configuration (Apache, nginx, 
 
 ## Further reading
 
+- [JSS Git](https://jss.live/git/) — browser frontend for Pattern B repos
 - [Git Push with Nostr](./git-push-nostr.md) — practical setup guide
 - [JSS Issue #28](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/28) — original `.git/` exposure security report
 - [Reference implementation gist](https://gist.github.com/melvincarvalho/054479068a699dcde97bbd9046ae247b) — `git-http-backend` integration pattern
