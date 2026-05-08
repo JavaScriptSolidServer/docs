@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" style="max-width:800px;height:auto" role="img" aria-labelledby="title desc">
+  <title id="title">JSS Android architecture</title>
+  <desc id="desc">Android APK containing a WebView and a libnode.so JNI thread that runs JSS, communicating over HTTP on localhost. The whole APK runs as a foreground service.</desc>
+
+  <defs>
+    <marker id="arrow-end" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#656d76"/>
+    </marker>
+    <marker id="arrow-start" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M10,0 L0,5 L10,10 Z" fill="#656d76"/>
+    </marker>
+  </defs>
+
+  <!-- Outer Android APK container -->
+  <rect x="20" y="20" width="760" height="440" rx="10" fill="none" stroke="#656d76" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="50" y="55" font-family="-apple-system, BlinkMacSystemFont, system-ui, sans-serif" font-size="18" font-weight="700" fill="#1f2328">Android APK (Kotlin)</text>
+
+  <!-- WebView box -->
+  <rect x="80" y="110" width="280" height="220" rx="8" fill="#f0f6ff" stroke="#0969da" stroke-width="2"/>
+  <text x="220" y="155" font-family="-apple-system, BlinkMacSystemFont, system-ui, sans-serif" font-size="22" font-weight="700" fill="#1f2328" text-anchor="middle">WebView</text>
+  <text x="220" y="180" font-family="-apple-system, BlinkMacSystemFont, system-ui, sans-serif" font-size="14" fill="#656d76" text-anchor="middle">(MainActivity)</text>
+  <text x="220" y="245" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#1f2328" text-anchor="middle">http://</text>
+  <text x="220" y="270" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#1f2328" text-anchor="middle">127.0.0.1:4443</text>
+
+  <!-- libnode.so box -->
+  <rect x="440" y="110" width="280" height="220" rx="8" fill="#f0fff4" stroke="#1f883d" stroke-width="2"/>
+  <text x="580" y="155" font-family="-apple-system, BlinkMacSystemFont, system-ui, sans-serif" font-size="22" font-weight="700" fill="#1f2328" text-anchor="middle">libnode.so</text>
+  <text x="580" y="180" font-family="-apple-system, BlinkMacSystemFont, system-ui, sans-serif" font-size="14" fill="#656d76" text-anchor="middle">(JNI thread)</text>
+  <text x="580" y="245" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#1f2328" text-anchor="middle">bin/jss.js</text>
+  <text x="580" y="270" font-family="-apple-system, BlinkMacSystemFont, system-ui, sans-serif" font-size="13" fill="#656d76" text-anchor="middle">(single-user)</text>
+
+  <!-- HTTP bidirectional arrow -->
+  <line x1="360" y1="220" x2="440" y2="220" stroke="#656d76" stroke-width="2" marker-start="url(#arrow-start)" marker-end="url(#arrow-end)"/>
+  <text x="400" y="210" font-family="-apple-system, BlinkMacSystemFont, system-ui, sans-serif" font-size="13" fill="#656d76" text-anchor="middle" font-weight="700">HTTP</text>
+
+  <!-- Foreground service note -->
+  <text x="400" y="410" font-family="-apple-system, BlinkMacSystemFont, system-ui, sans-serif" font-size="14" fill="#656d76" text-anchor="middle" font-style="italic">Foreground service + notification</text>
+</svg>
