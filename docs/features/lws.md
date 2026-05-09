@@ -21,7 +21,7 @@ Convergence tracker: [JSS#386](https://github.com/JavaScriptSolidServer/JavaScri
 
 ## What you can do today
 
-1. **Inspect any WebID profile.** Open <https://jss.live/doctor/>, paste a WebID URL, see a pass/warn/fail/skip checklist of the CID v1 vocabulary, controller predicate, verificationMethod entries, alsoKnownAs DIDs, etc.
+1. **Inspect any WebID profile.** Open the [doctor](https://jss.live/doctor/), paste a WebID URL, see a pass/warn/fail/skip checklist of the CID v1 vocabulary, controller predicate, verificationMethod entries, alsoKnownAs DIDs, etc.
 2. **Add keys to your WebID profile.** Two paths in the doctor, side by side: B.2 emits a Nostr `Multikey` VM (for did:nostr binding and NIP-98 lookup) from a [NIP-07](https://github.com/nostr-protocol/nips/blob/master/07.md) signer; B.3 emits a `JsonWebKey` VM (for ES256K LWS-CID JWT auth) from a 32-byte secp256k1 hex private key. Sign in via Solid-OIDC, doctor PATCHes via authenticated GET-merge-PUT (with `If-Match`).
 3. **Sign in via three auth methods.** Solid-OIDC (existing), LWS10-CID JWT (new in 0.0.177 — `Authorization: Bearer <jwt>` with a `kid` pointing at a VM in your profile), or NIP-98 (existing, now upgrades to WebID in 0.0.178 when your Nostr pubkey is in your profile's `verificationMethod`).
 
