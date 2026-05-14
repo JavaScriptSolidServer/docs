@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Quick Start
 description: Get up and running with JSS in 5 minutes
 ---
