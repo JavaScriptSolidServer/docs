@@ -150,5 +150,6 @@ Specific implementation choices are made when they become clear; this document i
 - [Solid Protocol §5.5](https://solidproject.org/TR/protocol) — content negotiation requirements
 - [W3C LWS](https://www.w3.org/TR/lws/) — Linked Web Storage (in progress)
 - [JSON-LD 1.1](https://www.w3.org/TR/json-ld11/)
+- [Mapping http: and file: spaces (TBL Design Issues, 2015)](https://www.w3.org/DesignIssues/HTTPFilenameMapping.html) — background on the filesystem ↔ HTTP mapping question
 - [JSS LWS implementation status](../features/lws.md)
 - [JSON-LD First](./json-ld-first.md)
