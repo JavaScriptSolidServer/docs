@@ -49,13 +49,15 @@ There's **one WebSocket per server**. Subscribe to as many resources as you want
 
 ## Connect
 
-Per the spec, clients SHOULD include `solid-0.1` in the `Sec-WebSocket-Protocol` header:
+Open a WebSocket to the URL from `Updates-Via`:
 
 ```javascript
-const ws = new WebSocket('ws://localhost:3000/.notifications', ['solid-0.1']);
+const ws = new WebSocket('ws://localhost:3000/.notifications');
 ```
 
 JSS sends `protocol solid-0.1` as the first frame on every connection.
+
+The spec also mentions a `Sec-WebSocket-Protocol: solid-0.1` header, but this was a later addition and almost no client in the wild sends it. JSS does not require it, and SolidOS / mashlib / our reference clients all omit it. Treat the header as optional; the first-frame greeting is the practical version handshake.
 
 ## Subscribe
 
@@ -128,7 +130,7 @@ If the socket drops, the client reconnects and re-subscribes from scratch. There
 
 ```javascript
 const url = 'http://localhost:3000/alice/public/data.json';
-const ws = new WebSocket('ws://localhost:3000/.notifications', ['solid-0.1']);
+const ws = new WebSocket('ws://localhost:3000/.notifications');
 
 ws.onopen = () => ws.send('sub ' + url);
 
