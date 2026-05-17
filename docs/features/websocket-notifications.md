@@ -1,16 +1,18 @@
 ---
 sidebar_position: 7
 title: WebSocket Notifications
-description: Real-time updates via the solid-0.1 protocol, with JSS as a reference implementation
+description: Real-time updates via the solid-0.1 protocol — JSS's primary notifications surface
 ---
 
 # WebSocket Notifications
 
 JSS treats WebSocket notifications as a **first-class, performance-critical** feature. A client subscribes to a resource URL on one socket; the server pushes a tiny text frame whenever that resource changes. The whole exchange is a handful of bytes per event.
 
+JSS implements the [Solid WebSockets API spec](https://github.com/solid/solid-spec/blob/master/api-websockets.md) (`solid-0.1`).
+
 ## Position
 
-JSS ships the **`solid-0.1`** protocol as the primary notifications surface. This is a deliberate choice — performance is a non-negotiable design constraint for JSS, and `solid-0.1` is roughly **an order of magnitude** lighter than the channel-based W3C Solid Notifications Protocol on every axis that matters:
+JSS ships `solid-0.1` as the **primary** notifications surface. This is a deliberate choice — performance is a non-negotiable design constraint for JSS, and `solid-0.1` is roughly **an order of magnitude** lighter than the channel-based W3C Solid Notifications Protocol on every axis that matters:
 
 | | `solid-0.1` | WebSocketChannel2023 |
 |---|---|---|
@@ -34,98 +36,99 @@ jss start --notifications
 
 ## Discover
 
-Every GET response sets an `Updates-Via` header pointing at the server's notification WebSocket:
+Every response sets an `Updates-Via` header pointing at the server's notification WebSocket:
 
 ```bash
 curl -I http://localhost:3000/alice/public/
 # Updates-Via: ws://localhost:3000/.notifications
 ```
 
-There's one WebSocket per server. Subscribe to as many resources as you want on the one connection.
+The spec defines this header on `OPTIONS`; JSS additionally sets it on every GET so clients don't need a separate request.
 
-## Protocol: `solid-0.1`
+There's **one WebSocket per server**. Subscribe to as many resources as you want on the one connection.
 
-`solid-0.1` originated in SolidOS/mashlib; it was never formally written down. JSS is the most active server implementing it today. The wire format is captured here as a normative reference for anyone writing a client.
+## Connect
 
-### Frames
+Per the spec, clients SHOULD include `solid-0.1` in the `Sec-WebSocket-Protocol` header:
 
-Every frame is a single line of UTF-8 text. The first space-delimited token is the **verb**; the remainder is the **argument**.
-
-**Server greeting** (sent on connect):
-
-```
-protocol solid-0.1
+```javascript
+const ws = new WebSocket('ws://localhost:3000/.notifications', ['solid-0.1']);
 ```
 
-**Client → server: subscribe**
+JSS sends `protocol solid-0.1` as the first frame on every connection.
+
+## Subscribe
+
+Once connected, send `sub <absolute-url>`:
 
 ```
-sub <absolute-url>
+sub http://localhost:3000/alice/public/data.json
 ```
 
-Subscribes the current connection to change notifications for `<absolute-url>`. The URL must be absolute and within the server's scope. The server runs ACL Read on the resource as the connection's authenticated WebID (or `null` for anonymous); only authorized subscriptions are accepted.
-
-**Server → client: ack**
+Subscribing to a **container** also works: changes to any child resource (POST, PUT, PATCH, DELETE) produce a `pub` for the container URI. This is the canonical pattern for "tell me when anything in this folder changes."
 
 ```
-ack <absolute-url>
+sub http://localhost:3000/alice/public/
 ```
 
-Confirms a successful subscribe.
-
-**Server → client: err**
+On any change:
 
 ```
-err <absolute-url> <reason>
+pub http://localhost:3000/alice/public/
 ```
 
-Subscribe denied. Defined `<reason>` tokens:
+The `pub` frame carries the URI of the changed resource, not its new content. Clients refetch if they need the new state. This is intentional — keeps frames small, avoids invalidating partial caches, and side-steps content negotiation entirely.
+
+## JSS-specific extensions
+
+The base spec defines `sub` and `pub`. JSS adds these to make subscription state observable and recoverable:
+
+### `ack <absolute-url>`
+
+Sent by the server after a successful subscribe. Lets clients distinguish "subscribed and listening" from "still negotiating." Clients can safely ignore it; tools that want to confirm subscriptions should wait for it.
+
+### `err <absolute-url> <reason>`
+
+Sent when a subscribe is rejected. Defined `<reason>` tokens:
 
 - `forbidden` — ACL denied
-- `not_found` — resource doesn't exist (and the policy doesn't auto-create)
+- `not_found` — resource doesn't exist
 - `bad_request` — URL malformed, exceeds length limit, or out of scope
 
-**Server → client: publish**
+### `unsub <absolute-url>`
 
-```
-pub <absolute-url>
-```
+Client→server: cancel a subscription without closing the socket. Closing the connection is the canonical "stop everything"; `unsub` is for clients that want fine-grained control on a long-lived socket.
 
-The resource at `<absolute-url>` has changed (PUT, POST, PATCH, DELETE, or container child add/remove). The client should refetch if it needs the new state. JSS does not include the new content in the frame — the notification is a signal, not a payload.
+These extensions are additive — clients that ignore them still get correct `pub` events.
 
-**Client → server: unsubscribe** *(optional)*
+## Implementation limits
 
-```
-unsub <absolute-url>
-```
-
-Removes a previously-acknowledged subscription. Servers SHOULD support this; clients SHOULD NOT rely on it (closing the socket is the canonical "stop").
-
-### Semantics
-
-- **Multiplex.** One connection carries many subscriptions. The server tracks a `socket → Set<url>` map; clients track their own. There is no per-resource "channel" concept.
-- **Auth scope.** ACL is checked at subscribe time. If the client's permissions later change (e.g. ACL is tightened), in-flight subscriptions MAY continue to receive notifications until the connection closes. Clients should treat published URLs as hints, not authorization grants — refetching the resource will re-check ACL.
-- **Ordering.** Notifications for distinct URLs are unordered. Notifications for the same URL are delivered in the order the server applies the change.
-- **De-duplication.** None at the protocol level. A rapid burst of writes against the same resource may produce one frame per write; servers MAY coalesce.
-- **No payload.** `pub` carries a URL, not the new representation. This is intentional — keeps frames small, avoids invalidating client caches on partial reads, and side-steps content negotiation entirely.
-- **Lifecycle.** Subscriptions live until the socket closes or the client sends `unsub`. There is no TTL.
-
-### Limits (JSS implementation)
+JSS enforces:
 
 - `MAX_SUBSCRIPTIONS_PER_CONNECTION = 100`
 - `MAX_URL_LENGTH = 2048`
 
-A subscribe that exceeds either limit is rejected with `err <url> bad_request`. These values are policy, not protocol — other servers MAY set them differently.
+Subscribes that exceed either are rejected with `err <url> bad_request`. These are policy, not protocol.
 
-### Reconnect
+## Auth
 
-If the socket drops, the client reconnects and re-subscribes from scratch. There is no resume token. In practice this is invisible: the typical client uses exponential-backoff reconnect (50 ms → 10 s cap) and rebuilds subscriptions in a few milliseconds.
+ACL `Read` is enforced **at subscribe time** against the connection's authenticated WebID (or `null` for anonymous). Authorized resources stay subscribed for the life of the socket; if the resource's ACL is later tightened, in-flight subscriptions MAY continue receiving notifications until the socket closes. Treat published URLs as **hints**, not authorization grants — refetching the resource re-checks ACL.
+
+## Ordering and delivery
+
+- Notifications for distinct URLs are unordered.
+- Notifications for the same URL are delivered in the order the server applies the change.
+- No deduplication at the protocol level. Rapid bursts of writes against the same resource may produce one frame per write. Servers MAY coalesce; JSS does not.
+
+## Reconnect
+
+If the socket drops, the client reconnects and re-subscribes from scratch. There is no resume token. Typical clients use exponential backoff (50 ms → 10 s cap); rebuilding subscriptions takes a few milliseconds.
 
 ## JavaScript example
 
 ```javascript
 const url = 'http://localhost:3000/alice/public/data.json';
-const ws = new WebSocket('ws://localhost:3000/.notifications');
+const ws = new WebSocket('ws://localhost:3000/.notifications', ['solid-0.1']);
 
 ws.onopen = () => ws.send('sub ' + url);
 
