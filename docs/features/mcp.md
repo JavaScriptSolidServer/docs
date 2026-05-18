@@ -104,6 +104,83 @@ Both `SKILL.md` (Anthropic markdown format) and `SKILL.jsonld` (typed JSON-LD de
 
 Pod-resident docs (`/docs/`, `/public/apps/<name>/docs/`) are reachable via the regular CRUD tools — no separate surface.
 
+### ACL editing
+
+The most common owner operation is delegating an agent access to a resource. The MCP server exposes ACL editing as first-class tools so bots don't need to hand-roll JSON-LD.
+
+| Tool | Effect | WAC check |
+|---|---|---|
+| `read_acl` | Return the ACL for a resource as a structured list (agents, agentClasses, modes, isDefault) | Control on resource |
+| `write_acl` | Persist a structured ACL to the resource's `.acl` file | Control on resource |
+
+```json
+// write_acl arguments
+{
+  "path": "/private/notes/",
+  "authorizations": [
+    {
+      "agents": ["did:nostr:abc...", "https://alice.example.com/profile#me"],
+      "modes": ["Read", "Append"],
+      "isDefault": true
+    },
+    {
+      "agentClasses": ["acl:AuthenticatedAgent"],
+      "modes": ["Read"]
+    }
+  ]
+}
+```
+
+The structured form abstracts JSON-LD shape (`acl:agent` vs `acl:agentClass`, mode URI prefixes, `acl:default` propagation). New WAC vocabulary additions extend the structure without breaking existing bots.
+
+**Safety**: `write_acl` refuses ACLs that would lock the caller out (no Control for the calling identity). This is the most common write_acl failure mode — typically caused by relative WebID paths in `agents` resolving against the .acl URL to a different absolute URI than the caller's actual WebID.
+
+### Subscribe — live change notifications
+
+`subscribe` is a streaming tool. The response switches to SSE (`text/event-stream`) and emits MCP notifications as resources change. WAC-filtered per event so subscribers only see resources they have Read access to.
+
+| Tool | Effect |
+|---|---|
+| `subscribe` | Stream `resource_changed` events for a container subtree or specific path |
+
+```bash
+curl -N http://localhost:4443/mcp \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $TOKEN" \
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"subscribe","arguments":{"path":"/forum/channels/general/"}}}'
+```
+
+Events arrive as:
+```
+event: notification
+data: {"jsonrpc":"2.0","method":"notifications/tool_event","params":{"tool":"subscribe","event":{"type":"resource_changed","path":"/forum/channels/general/abc.jsonld"}}}
+```
+
+For chat-style bots, replace polling with `subscribe` and react to events as they land. Path scope: trailing slash watches a subtree, exact path watches a single resource, default watches the whole pod (filtered by Read access).
+
+### Federation — bot-to-bot
+
+`call_remote_pod` lets a bot on this pod invoke MCP tools on another pod. WAC-gated on both ends; depth-capped at 3 hops.
+
+| Tool | Effect | Gating |
+|---|---|---|
+| `call_remote_pod` | Forward an MCP `tools/call` to another pod | Caller needs `acl:Write` on `<their-pod>/private/federation/` on this pod |
+
+```json
+{
+  "pod_url": "https://alice.example.com",
+  "tool": "read_resource",
+  "arguments": { "path": "/public/notes/shared.md" },
+  "auth": { "type": "bearer", "token": "..." }
+}
+```
+
+To delegate outbound federation to a specific agent, grant them `acl:Write` on your `/private/federation/` container. Owners control which agents can initiate calls; remote pods control what they expose.
+
+In single-user mode, the pod owner has implicit gate access via `/private/` inheritance. In multi-user mode, each pod's owner gates their own federation.
+
+Foreign WebIDs (identities hosted on other pods) cannot initiate federation from this pod — there's no local path for the gate to live at. Multi-pod federation chains compose by hopping between pods, each gated locally.
+
 ### Introspection
 
 | Tool | Returns |
@@ -138,13 +215,42 @@ The owner opens `/public/apps/charlie/`, logs in via [xlogin](https://npm.im/xlo
 
 The bot's *behavior* lives in `SKILL.md`. Edit the file → next session picks up the change. No re-deploy, no API call sequence — the bot's brain is a pod resource.
 
+## Footguns
+
+A short list of real gotchas, learned from live-fire use:
+
+### Use absolute WebIDs in `write_acl` agents
+
+The `agents` array is interpreted as a list of URIs. Relative paths (e.g. `../profile/card.jsonld#me`) resolve against the **.acl file's URL**, not the pod root — and the .acl URL changes depending on which resource the ACL applies to. Two pitfalls:
+
+```json
+// Pod owner WebID: http://example.com/profile/card.jsonld#me
+// Writing this ACL to /public/forum/.acl:
+"agents": ["../profile/card.jsonld#me"]           // wrong — resolves to /public/profile/card.jsonld#me
+"agents": ["./profile/card.jsonld#me"]            // wrong — resolves to /public/forum/profile/card.jsonld#me
+"agents": ["/profile/card.jsonld#me"]             // right — absolute path
+"agents": ["http://example.com/profile/card.jsonld#me"]  // right — absolute URL, portable
+```
+
+**Always use absolute WebID URLs unless you know exactly what relative-URL resolution will give you.**
+
+### `write_acl` will refuse if you'd lock yourself out
+
+If the proposed ACL doesn't grant `Control` to the caller (typically a relative-URL mistake), `write_acl` refuses with an explanatory error. This is a safety, not a permission check — it's stopping you from breaking your own access.
+
+If you really want to transfer ownership: do it in two steps. First `write_acl` granting Control to the new owner *in addition to* yourself. Then the new owner calls `write_acl` removing you.
+
+### Subscribe needs an SSE-capable client
+
+`subscribe` keeps an HTTP+SSE connection open indefinitely. Some proxies and load balancers will time out idle streams. Use a client that handles SSE reconnect (most browsers do; raw `curl` does not).
+
 ## What's not yet included
 
-The first cut ships CRUD, skills, docs, and introspection. Deferred (tracked on [JSS#490](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/490)):
+The current cut ships CRUD, structured ACL editing, subscribe, federation, skills, docs, and introspection. Deferred (tracked on [JSS#490](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/490)):
 
 - **`update_resource` (PATCH)** — SPARQL Update / N3 patches. Read-modify-write through the CRUD tools is the workaround.
-- **`subscribe`** — wrap JSS's WebSocket notifications as MCP events over SSE. Today, agents can poll via `read_resource`.
-- **`call_remote_pod`** — federation primitive for bot-to-bot. Today, an agent can talk to two pods by registering both as MCP servers in its client.
+- **Discovery layer** — no DNS SRV / Solid Type Index entry for "this pod offers MCP". Owners share URLs explicitly today.
+- **Pod-resident federation credentials** — every `call_remote_pod` carries its own auth. A vault for storing remote-pod credentials is a separate security surface worth its own design pass.
 - **Hosted Charlie** (`/agent/` endpoint) — JSS-internal LLM proxy with token metering. Tracked on [JSS#205](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/205).
 
 ## References
