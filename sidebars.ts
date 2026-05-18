@@ -41,6 +41,7 @@ const sidebars: SidebarsConfig = {
         'features/live-reload',
         'features/mashlib-ui',
         'features/git-integration',
+        'features/app-install',
         'features/activitypub',
         'features/nostr',
         'features/e2ee',
