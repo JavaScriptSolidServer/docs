@@ -42,6 +42,7 @@ const sidebars: SidebarsConfig = {
         'features/mashlib-ui',
         'features/git-integration',
         'features/app-install',
+        'features/mcp',
         'features/activitypub',
         'features/nostr',
         'features/e2ee',
