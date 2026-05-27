@@ -33,6 +33,7 @@ const sidebars: SidebarsConfig = {
         'features/patching',
         'features/access-control',
         'features/authentication',
+        'features/account-management',
         'features/lws',
         'features/websocket-notifications',
         'features/multi-user-pods',
