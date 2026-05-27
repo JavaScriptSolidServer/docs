@@ -8,6 +8,9 @@ description: Solid-OIDC, Nostr NIP-98, and token authentication
 
 JSS supports multiple authentication methods.
 
+> Already have an account? See [Account Management](./account-management.md) for changing
+> your password, exporting/backing up your pod, and deleting your account.
+
 ## Simple Tokens (Development)
 
 Token returned from pod creation:
