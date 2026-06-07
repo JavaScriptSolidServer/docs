@@ -50,6 +50,22 @@ Then Charlie examined the ACLs properly. It called `read_acl` on the paths in qu
 
 **This is the demonstration.** Not "the pod refused" , that's mere enforcement. But "the pod refused, the agent examined the policy, understood why, and operated within the scope it had been granted." That distinction is what makes scoped consent useful in practice rather than just architecturally tidy. **The WAC is a *language* the agent can read, not a fence the agent runs into.**
 
+### Watch the loop close
+
+The Charlie pattern extends naturally from reading the pod to writing into it. In the demo below, Charlie generates JSON-LD into `/public/markmap/solid-project.jsonld` on a local JSS pod, while the [markmap](https://markmap.js.org/) app , served from the same pod at `/public/apps/markmap/` , renders the data live. **Agent generates → pod stores → app reads → user sees**, all on the same substrate, no vendor in the loop.
+
+<iframe
+  width="100%"
+  height="400"
+  src="https://www.youtube.com/embed/wJ3GmYJgB0g"
+  title="SolidMap , Interactive Mind Maps from Your Solid Pod"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen>
+</iframe>
+
+The *"Updated from pod"* indicator at the bottom of the demo is the visible signal that the loop has closed: each Charlie update lands on the pod, the app picks it up, the visualisation re-renders. JSON-LD as the wire format means any tool that speaks linked data can be the rendering surface , markmap here, anything else next.
+
 ## Why this matters
 
 ### Consent as language, not cage
