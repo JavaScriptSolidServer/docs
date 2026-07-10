@@ -8,24 +8,81 @@ description: Extend JSS with whole applications — where the plugin system stan
 
 JSS can host entire applications beside your pod — same origin, same server,
 with the pod's identity system as the app's login. This page covers what
-works **today** (v0.0.213+), how to build on it, and where the full plugin
-system is headed.
+works **today** (v0.0.215+), how to build a plugin, and the seams underneath.
 
 :::tip The one-line version
-`createServer({ appPaths: ['/myapp'] })` mounts an application under a URL
-prefix. The app owns everything below its prefix; the pod keeps everything
-else. Your WebID can be the app's account — no separate passwords.
+`createServer({ plugins: [{ module: 'my-app/plugin.js', prefix: '/myapp' }] })`
+loads an application and mounts it under a URL prefix. The app owns
+everything below its prefix; the pod keeps everything else. Your WebID can
+be the app's account — no separate passwords.
 :::
 
 ## Status at a glance
 
 | Piece | Status | Where |
 |---|---|---|
-| Application mount points (`appPaths`) | ✅ **Shipped in v0.0.213** | [#582](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/582), [#585](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/585) |
-| Reference plugin ("plugin zero") | ✅ Running — [Tideholm](https://github.com/melvincarvalho/tideholm/tree/gh-pages/jss-plugin), a multiplayer game where pod WebIDs are player accounts | [#206 discussion](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206) |
+| **Plugin loader** (`plugins` option, `activate(api)`) | ✅ **Shipped in v0.0.215** | [#206](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206), [#589](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/589) |
+| Application mount points (`appPaths`) | ✅ Shipped in v0.0.213 | [#582](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/582), [#585](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/585) |
+| Public identity accessor (`getAgent`) | ✅ Shipped in v0.0.214 | [#584](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/584), [#586](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/586) |
+| WebSocket routing for realtime plugins (`api.ws.route`) | ✅ Shipped in v0.0.215 | [#588](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/588), [#589](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/589) |
+| Reference plugins | ✅ Two running — [Tideholm](https://github.com/melvincarvalho/tideholm/tree/gh-pages/jss-plugin) (strategy game, pod WebIDs as player accounts) and [bridge](https://github.com/melvincarvalho/bridge/tree/gh-pages/jss-plugin) (realtime card game over WebSocket) | [#206 discussion](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206) |
 | Raw-body mode for wrapped apps | 📋 Pattern documented below; helper proposed | [#583](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/583) |
-| Public identity accessor (`getAgent`) | ✅ **Shipped in v0.0.214** | [#584](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/584), [#586](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/586) |
-| Plugin loader (manifest, discovery, policy) | 🔭 Designed, not yet built | [#206](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206), [#564](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564) |
+| Bundled-feature migration, CLI config block, panes | 🔭 Next | [#564](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564) |
+
+## Using the loader
+
+Declare your apps; the server imports, mounts, and tears them down:
+
+```js
+import { createServer } from 'javascript-solid-server/src/server.js';
+
+const fastify = createServer({
+  root: './data/pods',
+  idp: true,
+  idpIssuer: 'https://pod.example',
+  plugins: [
+    { module: 'tideholm/jss-plugin/tideholm-jss.js', prefix: '/tideholm',
+      config: { bots: 8 } },
+    { module: './my-app/plugin.js', prefix: '/myapp' },
+  ],
+});
+await fastify.listen({ port: 4443 });
+```
+
+A plugin module exports one function:
+
+```js
+export async function activate(api) {
+  // HTTP routes — the prefix is already WAC-exempt (appPaths, below):
+  api.fastify.all(api.prefix + '/api/*', async (request, reply) => {
+    const agent = await api.auth.getAgent(request);   // WebID | did:nostr | null
+    // ...
+  });
+
+  // Realtime — the loader owns the upgrade; you get the ready socket:
+  await api.ws.route(api.prefix + '/ws', (socket, request) => {
+    socket.on('message', (data) => socket.send(data));
+  });
+
+  // Private server-side storage (never served over HTTP):
+  const dir = api.storage.pluginDir();
+
+  return { deactivate() { /* save state, clear timers */ } };
+}
+```
+
+The api also carries `api.config` (the entry's config, verbatim) and
+`api.log` (speaks both pino and console dialects). A plugin that fails to
+import or activate **fails `listen()` loudly** — a server silently missing
+an app is worse than one that refuses to start. Entries take an optional
+`id` when two modules would reduce to the same name (it keys `pluginDir`).
+
+Plugins load **only from operator config — never from pod storage** (pods
+are user-writable; a loader that read them would be remote code execution).
+
+Everything below this point is the machinery the loader assembles — worth
+knowing when you're debugging, composing by hand, or targeting a pre-0.0.215
+host.
 
 ## Why plugins?
 
@@ -38,10 +95,10 @@ anything that wants to live on your pod's origin and speak to your pod's
 identity.
 
 The strategy is deliberate: ship the smallest seam, prove it with a real
-consumer, bless the API afterward. The first consumer — *plugin zero* — is
-[Tideholm](https://github.com/melvincarvalho/tideholm), a zero-dependency
-island-strategy game. Mounting it surfaced exactly three missing seams, of
-which only one required a core change. That one shipped in v0.0.213.
+consumer, bless the API afterward. Tideholm (*plugin zero*) forced
+`appPaths` (v0.0.213) and `getAgent` (v0.0.214); bridge (*plugin two*, the
+first realtime app) forced `ws.route`; the loader that assembles them
+shipped in v0.0.215 with both games as its test consumers.
 
 ## What shipped: `appPaths`
 
@@ -137,13 +194,17 @@ await fastify.register(async (scope) => {
 proposes packaging this as `api.mountApp(prefix, nodeHandler)` so nobody
 rediscovers it the hard way.
 
-## Case study: plugin zero
+## Case studies: the plugins that built the system
 
-[Tideholm](https://github.com/melvincarvalho/tideholm) is the working
-reference for everything above — a multiplayer browser strategy game whose
-core is zero-dependency and transport-agnostic, with a ~100-line adapter
-([`jss-plugin/`](https://github.com/melvincarvalho/tideholm/tree/gh-pages/jss-plugin))
-that mounts it at `/tideholm`:
+Every seam above was forced by a real consumer before it shipped — that's
+the house method. Two reference plugins are live at
+[nostr.social/tideholm](https://nostr.social/tideholm/) and
+[nostr.social/bridge](https://nostr.social/bridge/):
+
+**[Tideholm](https://github.com/melvincarvalho/tideholm)** (plugin zero —
+forced `appPaths` and `getAgent`): a multiplayer island-strategy game whose
+core is zero-dependency and transport-agnostic, with a ~100-line adapter at
+[`jss-plugin/`](https://github.com/melvincarvalho/tideholm/tree/gh-pages/jss-plugin).
 
 - **WebID → player**: first authenticated request auto-provisions a game
   account keyed to the pod identity. Two pods, two players. No passwords.
@@ -152,32 +213,38 @@ that mounts it at `/tideholm`:
 - **Dual mode**: the same game runs standalone (`node server.js`, its own
   password accounts) or mounted (pod identity), switching via a tiny
   `GET /api/meta` the client reads at boot.
-- **Try it**: `JSS_PATH=... node jss-plugin/demo.js` runs a 12-check
-  end-to-end proof; `jss-plugin/serve.js` is a persistent composed server.
 
-The adapter also ships `jss.plugin.json` and an `activate(api)` entry —
-dead code today, but shaped exactly like the coming loader contract, so it
-becomes a drop-in plugin the day the loader lands.
+**[bridge](https://github.com/melvincarvalho/bridge)** (plugin two — forced
+`ws.route`): a realtime card game, no build step, WebSocket tables. It
+contributed the **ticket pattern** for WebSocket auth: the client
+authenticates a normal HTTP request (`/bridge/auth/nip98`), `getAgent`
+verifies it — NIP-98 signature or pod Bearer, same call — and the app mints
+a one-use short-TTL ticket presented in the first socket message.
+Credentials never cross the upgrade, and the host never touches the app's
+socket protocol.
+
+Both adapters export the `activate(api)` contract, so one server can run
+both games from six lines of `plugins:` config — one pod account is a
+Tideholm player and a bridge seat with a single sign-in.
 
 ## The road ahead
 
 From [#206](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206)
-/ [#564](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564),
-in order:
+/ [#564](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564):
 
-1. **Loader** — `jss.plugin.json` manifests (`{ id, version, entry }`),
-   `activate(api)` entry points, allow/deny policy, per-plugin config.
-   Plugins load **only from operator config paths — never from pod
-   storage** (pods are user-writable; a loader that reads them is RCE).
-2. **Migrate the bundled features** onto the loader (#564) — eight
-   battle-tested consumers from day one.
+1. **A `plugins` block in the CLI config file** — the programmatic option
+   shipped; a config-file form makes "install an app = edit config" real
+   for non-programmatic deployments.
+2. **Migrate the bundled features** onto the loader (#564) — the relay,
+   ActivityPub, git, pay and friends become battle-tested consumers, one at
+   a time.
 3. **Richer seams as consumers demand them** — `api.mountApp` (#583),
-   `registerMcpTool`, `registerPane` (`getAgent` already shipped: the
-   loader hands plugins the same function as `api.auth.getAgent`), with the
+   `registerMcpTool`, `registerPane`, with the
    [pane store](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/184)
    as the eventual marketplace layer.
 
 The pattern for contributing a seam is established: build a real thing
 against JSS, hit a wall, file the smallest issue that removes it, prove it
-with your consumer. Plugin zero took two seams (`appPaths`, `getAgent`) from idea to npm in a
-day each — the door is open.
+with your consumer. Three seams (`appPaths`, `getAgent`, `ws.route`) and
+the loader itself each went from idea to npm in about a day this way — the
+door is open.
