@@ -44,6 +44,7 @@ const sidebars: SidebarsConfig = {
         'features/git-integration',
         'features/app-install',
         'features/mcp',
+        'features/plugins',
         'features/charlie',
         'features/activitypub',
         'features/nostr',
