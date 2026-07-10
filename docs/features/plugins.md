@@ -24,7 +24,7 @@ else. Your WebID can be the app's account — no separate passwords.
 | Application mount points (`appPaths`) | ✅ **Shipped in v0.0.213** | [#582](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/582), [#585](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/585) |
 | Reference plugin ("plugin zero") | ✅ Running — [Tideholm](https://github.com/melvincarvalho/tideholm/tree/gh-pages/jss-plugin), a multiplayer game where pod WebIDs are player accounts | [#206 discussion](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206) |
 | Raw-body mode for wrapped apps | 📋 Pattern documented below; helper proposed | [#583](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/583) |
-| Public identity accessor (`api.auth.getAgent`) | 📋 Works via internal import; public blessing proposed | [#584](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/584) |
+| Public identity accessor (`getAgent`) | ✅ **Shipped in v0.0.214** | [#584](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/584), [#586](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/586) |
 | Plugin loader (manifest, discovery, policy) | 🔭 Designed, not yet built | [#206](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206), [#564](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564) |
 
 ## Why plugins?
@@ -85,28 +85,28 @@ already handles every supported scheme uniformly — IdP Bearer tokens,
 Solid-OIDC DPoP, Nostr NIP-98 signatures, LWS10-CID:
 
 ```js
-import { getWebIdFromRequestAsync } from 'javascript-solid-server/src/auth/token.js';
+import { getAgent } from 'javascript-solid-server/auth.js'; // v0.0.214+
 
 async function myAppHandler(request, reply) {
-  const { webId } = await getWebIdFromRequestAsync(request);
-  if (!webId) return reply.code(401).send({ error: 'sign in with your pod' });
-  // webId is a verified identity — key your app's users on it
+  const agent = await getAgent(request);
+  if (!agent) return reply.code(401).send({ error: 'sign in with your pod' });
+  // agent is a verified identifier — key your app's users on it
 }
 ```
 
-:::caution
-`getWebIdFromRequestAsync` is currently an internal import — it works, but
-its path isn't a stable contract yet.
-[#584](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/584)
-tracks blessing it as public API (`api.auth.getAgent`).
-:::
+`getAgent` returns the verified **agent identifier**: usually an HTTP(S)
+WebID, but a `did:nostr:...` DID for NIP-98 agents without a WebID mapping —
+DID agents are first-class. It covers all five credential schemes (IdP
+Bearer, Solid-OIDC DPoP, Nostr NIP-98, LWS10-CID, WebID-TLS), never throws
+on bad credentials, and everything under `src/` stays internal — this
+import is the contract.
 
 **Browser users** don't send `Authorization` headers by themselves. The
 pattern proven in Tideholm: the app's login screen POSTs pod credentials to
 JSS's documented [`/idp/credentials`](/docs/features/authentication)
 endpoint, stores the returned Bearer token, and attaches it to the app's
 API calls. Tokens expire after 3600s — handle the 401 by returning to the
-login screen (or watch #584 for improvements here).
+login screen.
 
 ## Wrapping an existing app (raw bodies)
 
@@ -124,8 +124,7 @@ await fastify.register(async (scope) => {
   scope.addContentTypeParser('*', (req, payload, done) => done(null, payload));
 
   const handler = async (request, reply) => {
-    const { webId } = await getWebIdFromRequestAsync(request);
-    request.raw.myAppWebId = webId;      // hand identity to the raw handler
+    request.raw.myAppAgent = await getAgent(request); // identity for the raw handler
     reply.hijack();                      // fastify lets go of the response
     myNodeApp.handle(request.raw, reply.raw);
   };
@@ -172,12 +171,13 @@ in order:
    storage** (pods are user-writable; a loader that reads them is RCE).
 2. **Migrate the bundled features** onto the loader (#564) — eight
    battle-tested consumers from day one.
-3. **Richer seams as consumers demand them** — `api.auth.getAgent` (#584),
-   `api.mountApp` (#583), `registerMcpTool`, `registerPane`, with the
+3. **Richer seams as consumers demand them** — `api.mountApp` (#583),
+   `registerMcpTool`, `registerPane` (`getAgent` already shipped: the
+   loader hands plugins the same function as `api.auth.getAgent`), with the
    [pane store](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/184)
    as the eventual marketplace layer.
 
 The pattern for contributing a seam is established: build a real thing
 against JSS, hit a wall, file the smallest issue that removes it, prove it
-with your consumer. Plugin zero took the `appPaths` route from idea to npm
-in a day — the door is open.
+with your consumer. Plugin zero took two seams (`appPaths`, `getAgent`) from idea to npm in a
+day each — the door is open.
