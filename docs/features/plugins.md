@@ -8,7 +8,7 @@ description: Extend JSS with whole applications — where the plugin system stan
 
 JSS can host entire applications beside your pod — same origin, same server,
 with the pod's identity system as the app's login. This page covers what
-works **today** (v0.0.215+), how to build a plugin, and the seams underneath.
+works **today** (v0.0.219+), how to build a plugin, and the seams underneath.
 
 :::tip The one-line version
 `createServer({ plugins: [{ module: 'my-app/plugin.js', prefix: '/myapp' }] })`
@@ -21,13 +21,17 @@ be the app's account — no separate passwords.
 
 | Piece | Status | Where |
 |---|---|---|
-| **Plugin loader** (`plugins` option, `activate(api)`) | ✅ **Shipped in v0.0.215** | [#206](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206), [#589](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/589) |
-| Application mount points (`appPaths`) | ✅ Shipped in v0.0.213 | [#582](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/582), [#585](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/585) |
-| Public identity accessor (`getAgent`) | ✅ Shipped in v0.0.214 | [#584](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/584), [#586](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/586) |
-| WebSocket routing for realtime plugins (`api.ws.route`) | ✅ Shipped in v0.0.215 | [#588](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/588), [#589](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/589) |
-| Reference plugins | ✅ Two running — [Tideholm](https://github.com/melvincarvalho/tideholm/tree/gh-pages/jss-plugin) (strategy game, pod WebIDs as player accounts) and [bridge](https://github.com/melvincarvalho/bridge/tree/gh-pages/jss-plugin) (realtime card game over WebSocket) | [#206 discussion](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206) |
-| Raw-body mode for wrapped apps | 📋 Pattern documented below; helper proposed | [#583](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/583) |
-| Bundled-feature migration, CLI config block, panes | 🔭 Next | [#564](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564) |
+| **Plugin loader** (`plugins` option, `activate(api)`) | ✅ **Shipped v0.0.215** | [#206](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206), [#589](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/589) |
+| Application mount points (`appPaths`) | ✅ Shipped v0.0.213 | [#582](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/582), [#585](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/585) |
+| Public identity accessor (`getAgent`) | ✅ Shipped v0.0.214 | [#584](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/584), [#586](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/586) |
+| WebSocket routing (`api.ws.route`) | ✅ Shipped v0.0.215 | [#588](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/588), [#589](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/589) |
+| CLI: config-file `plugins` + repeatable `--plugin module@prefix` | ✅ Shipped v0.0.216–217 | [#593](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/593), [#595](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/595) |
+| Wrapping node apps (`api.mountApp`) | ✅ Shipped v0.0.217 | [#583](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/583), [#590](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/590) |
+| Server origin (`api.serverInfo()`) | ✅ Shipped v0.0.218 | [#601](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/601), [#605](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/605) |
+| Reserve fixed paths (`api.reservePath`) | ✅ Shipped v0.0.218 | [#602](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/602), [#607](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/607) |
+| Loaded-plugin roster (`api.plugins`) | ✅ Shipped v0.0.218 | [#610](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/610), [#612](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/612) |
+| Reference plugins | ✅ A [33-plugin out-of-tree suite](https://github.com/JavaScriptSolidServer/plugins) (dashboard, WebDAV/CalDAV/CardDAV, Mastodon/Bluesky/Matrix shims, S3, JMAP, …) plus [Tideholm](https://github.com/melvincarvalho/tideholm) & [bridge](https://github.com/melvincarvalho/bridge) | [plugins repo](https://github.com/JavaScriptSolidServer/plugins) |
+| Bundled-feature migration; `api.events`, `api.authorize` seams; panes | 🔭 Next | [#564](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564), [#603](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/603), [#604](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/604) |
 
 ## Using the loader
 
@@ -49,6 +53,16 @@ const fastify = createServer({
 await fastify.listen({ port: 4443 });
 ```
 
+No config file? Mount the same apps from the CLI — the repeatable `--plugin`
+flag takes `module[@prefix]` and appends to any config-file `plugins`
+(v0.0.216–217):
+
+```bash
+jss start \
+  --plugin ./relay/plugin.js@/relay \
+  --plugin ./dashboard/plugin.js@/dashboard
+```
+
 A plugin module exports one function:
 
 ```js
@@ -67,15 +81,33 @@ export async function activate(api) {
   // Private server-side storage (never served over HTTP):
   const dir = api.storage.pluginDir();
 
+  // The server's own origin — for absolute URLs and loopback calls, so you
+  // never repeat baseUrl in config. Call it per request (with port 0 the
+  // real port exists only once listening):
+  const { baseUrl, host, port } = api.serverInfo();              // (#601)
+
+  // Every co-loaded plugin, read-only — enumerate your siblings instead of a
+  // hand-copied list (this is how the dashboard plugin knows what to show):
+  for (const { id, prefix, module } of api.plugins) { /* … */ }  // (#610)
+
   return { deactivate() { /* save state, clear timers */ } };
 }
 ```
 
-The api also carries `api.config` (the entry's config, verbatim) and
-`api.log` (speaks both pino and console dialects). A plugin that fails to
-import or activate **fails `listen()` loudly** — a server silently missing
-an app is worse than one that refuses to start. Entries take an optional
-`id` when two modules would reduce to the same name (it keys `pluginDir`).
+The api also carries `api.config` (the entry's config, verbatim), `api.log`
+(speaks both pino and console dialects), `api.reservePath(path)` — claim and
+WAC-exempt a fixed or `/:param/`-shaped route **outside** your prefix, for
+protocols that pin absolute paths (`/xrpc`, `/:user/did.json`) — and
+`api.mountApp(handler, { prefix })` for wrapping a node-style app (below). A
+plugin that fails to import or activate **fails `listen()` loudly** — a
+server silently missing an app is worse than one that refuses to start.
+
+Entries take an optional `id` that keys `pluginDir`. It defaults to a name
+derived from `module`: the file's basename, or its **parent directory** for
+the conventional `<name>/plugin.js` layout (`relay/plugin.js` → `relay`), so
+distinct plugins get distinct ids with none set (v0.0.219+,
+[#596](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/596)).
+Set it explicitly only if two specifiers still reduce to the same name.
 
 Plugins load **only from operator config — never from pod storage** (pods
 are user-writable; a loader that read them would be remote code execution).
@@ -165,39 +197,46 @@ endpoint, stores the returned Bearer token, and attaches it to the app's
 API calls. Tokens expire after 3600s — handle the 401 by returning to the
 login screen.
 
-## Wrapping an existing app (raw bodies)
+## Wrapping an existing app (`api.mountApp`)
 
 If your "plugin" is an existing node-style HTTP app (`(req, res)` handler),
-two gotchas — both solved with one pattern:
-
-1. Fastify's content parsers **consume request bodies** before handlers
-   run, so your wrapped app hangs waiting for a stream that's been drained.
-2. Fastify wants to own the response unless you tell it otherwise.
+two gotchas bite: Fastify's content parsers **consume request bodies**
+before handlers run (so a wrapped app hangs waiting for a stream that's been
+drained), and Fastify wants to own the response. `api.mountApp` (v0.0.217,
+[#590](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/pull/590))
+handles both — plus the `appPaths` exemption and `reply.hijack()`:
 
 ```js
-await fastify.register(async (scope) => {
-  // Pass bodies through untouched, scoped so the host is unaffected.
-  scope.removeAllContentTypeParsers();
-  scope.addContentTypeParser('*', (req, payload, done) => done(null, payload));
-
-  const handler = async (request, reply) => {
-    request.raw.myAppAgent = await getAgent(request); // identity for the raw handler
-    reply.hijack();                      // fastify lets go of the response
-    myNodeApp.handle(request.raw, reply.raw);
-  };
-  scope.all('/myapp', handler);
-  scope.all('/myapp/*', handler);
-});
+export async function activate(api) {
+  await api.mountApp(
+    (req, res) => myNodeApp.handle(req, res),   // your (req, res) app
+    { prefix: api.prefix },                     // omit to use the entry prefix
+  );
+}
 ```
 
-[#583](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/583)
-proposes packaging this as `api.mountApp(prefix, nodeHandler)` so nobody
-rediscovers it the hard way.
+The wrapped app receives the **undrained** request stream and owns the
+response — including gzipped bodies, which it inflates itself. Need the
+caller's identity inside it? Resolve it before handing off:
+`req.agent = await api.auth.getAgent(request)`.
+
+Under the hood it's a scoped pass-through content-type parser plus
+`reply.hijack()`, registered on both the bare prefix and its subtree — the
+pattern plugins rediscovered the hard way before the helper shipped
+([#583](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/583)).
 
 ## Case studies: the plugins that built the system
 
 Every seam above was forced by a real consumer before it shipped — that's
-the house method. Two reference plugins are live at
+the house method, and it scaled. A
+[33-plugin out-of-tree suite](https://github.com/JavaScriptSolidServer/plugins)
+now exercises the whole api — a status **dashboard** that auto-discovers its
+siblings via `api.plugins`, the WebDAV/CalDAV/CardDAV family, Mastodon /
+Bluesky / Matrix / ActivityPub shims, an S3 gateway, JMAP mail, Micropub,
+remoteStorage, and more, all on one server from pure config. Each plugin's
+`README` records the seam it needed and the wall it hit — the findings that
+drove `serverInfo`, `reservePath`, and `api.plugins` upstream. The two games
+remain the original forcing consumers, live at
 [nostr.social/tideholm](https://nostr.social/tideholm/) and
 [nostr.social/bridge](https://nostr.social/bridge/):
 
@@ -232,19 +271,22 @@ Tideholm player and a bridge seat with a single sign-in.
 From [#206](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206)
 / [#564](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564):
 
-1. **A `plugins` block in the CLI config file** — the programmatic option
-   shipped; a config-file form makes "install an app = edit config" real
-   for non-programmatic deployments.
-2. **Migrate the bundled features** onto the loader (#564) — the relay,
+1. **Migrate the bundled features** onto the loader (#564) — the relay,
    ActivityPub, git, pay and friends become battle-tested consumers, one at
    a time.
-3. **Richer seams as consumers demand them** — `api.mountApp` (#583),
-   `registerMcpTool`, `registerPane`, with the
+2. **The next demanded seams** —
+   [`api.events.onResourceChange`](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/603)
+   (react to pod writes; seven consumers waiting) and
+   [`api.authorize`](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/604)
+   (ask WAC about authority the caller doesn't drive), then `registerMcpTool`
+   and `registerPane`, with the
    [pane store](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/184)
    as the eventual marketplace layer.
+3. **Publish the plugin suite as a package** so
+   `--plugin @jss/plugins/dashboard@/dashboard` loads by name, no clone.
 
 The pattern for contributing a seam is established: build a real thing
 against JSS, hit a wall, file the smallest issue that removes it, prove it
-with your consumer. Three seams (`appPaths`, `getAgent`, `ws.route`) and
-the loader itself each went from idea to npm in about a day this way — the
-door is open.
+with your consumer. Seven seams (`appPaths`, `getAgent`, `ws.route`,
+`mountApp`, `serverInfo`, `reservePath`, `api.plugins`) and the loader
+itself each went from idea to npm this way — the door is open.
