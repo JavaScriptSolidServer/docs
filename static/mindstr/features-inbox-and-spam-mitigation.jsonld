@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Inbox & Spam Mitigation",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#tgdsut",
+      "name": "Inbox Setup",
+      "x": -243,
+      "y": -51,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#inbox-setup",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ijf3kk",
+      "name": "How It Works",
+      "x": -187,
+      "y": -142,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#how-it-works",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#anp567",
+      "name": "Spam Mitigation",
+      "x": 112,
+      "y": -190,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#spam-mitigation",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#svn3gp",
+      "name": "Rate Limiting",
+      "x": -111,
+      "y": -414,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#rate-limiting",
+      "bgColor": "#ffe2ed",
+      "parent": "#anp567"
+    },
+    {
+      "@id": "#vbyvwg",
+      "name": "WAC Enforcement",
+      "x": 110,
+      "y": -493,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#wac-enforcement",
+      "bgColor": "#ffe2ed",
+      "parent": "#anp567"
+    },
+    {
+      "@id": "#ahre4u",
+      "name": "Authentication",
+      "x": 282,
+      "y": -351,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#authentication",
+      "bgColor": "#ffe2ed",
+      "parent": "#anp567"
+    },
+    {
+      "@id": "#ibdfdz",
+      "name": "Additional Protections",
+      "x": 521,
+      "y": -236,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#additional-protections",
+      "bgColor": "#ffe2ed",
+      "parent": "#anp567"
+    },
+    {
+      "@id": "#z7edqb",
+      "name": "Comparison with Email Anti-Spam Evolution",
+      "x": 217,
+      "y": 106,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#comparison-with-email-anti-spam-evolution",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2qq2fn",
+      "name": "Planned",
+      "x": 62,
+      "y": 206,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#planned",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ri2pzw",
+      "name": "ActivityPub Inbox",
+      "x": -68,
+      "y": 205,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#activitypub-inbox",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qbizrq",
+      "name": "Design Philosophy",
+      "x": -182,
+      "y": 146,
+      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#design-philosophy",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yyfuzg",
+      "name": "← Features",
+      "x": -243,
+      "y": 51,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

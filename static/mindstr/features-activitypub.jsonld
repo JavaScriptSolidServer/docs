@@ -1,0 +1,155 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "ActivityPub Federation",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#y2vgqr",
+      "name": "Quick Start",
+      "x": -236,
+      "y": -70,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub#quick-start",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nb2pv3",
+      "name": "Configuration",
+      "x": -134,
+      "y": -180,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub#configuration",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gb9vd3",
+      "name": "Endpoints",
+      "x": 27,
+      "y": -211,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub#endpoints",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#85n9f9",
+      "name": "Supported Activities",
+      "x": 224,
+      "y": -94,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub#supported-activities",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59pd9r",
+      "name": "Incoming",
+      "x": 369,
+      "y": -287,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub#incoming-inbox",
+      "bgColor": "#ffe4d9",
+      "parent": "#85n9f9"
+    },
+    {
+      "@id": "#2ec6a3",
+      "name": "Outgoing",
+      "x": 581,
+      "y": -88,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub#outgoing-outbox",
+      "bgColor": "#ffe4d9",
+      "parent": "#85n9f9"
+    },
+    {
+      "@id": "#ta2q85",
+      "name": "Security",
+      "x": 213,
+      "y": 111,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub#security",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f6qx4w",
+      "name": "Nostr Identity Linking",
+      "x": 57,
+      "y": 207,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub#nostr-identity-linking",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#su9mmy",
+      "name": "NodeInfo",
+      "x": -134,
+      "y": 180,
+      "link": "https://javascriptsolidserver.github.io/docs/features/activitypub#nodeinfo",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#puabcz",
+      "name": "← Features",
+      "x": -236,
+      "y": 70,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

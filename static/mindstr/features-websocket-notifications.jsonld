@@ -1,0 +1,259 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "WebSocket Notifications",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ucttef",
+      "name": "Position",
+      "x": -247,
+      "y": -31,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#position",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vzipyd",
+      "name": "Enable",
+      "x": -226,
+      "y": -91,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#enable",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#miy6ts",
+      "name": "Discover",
+      "x": -185,
+      "y": -140,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#discover",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ft3k8u",
+      "name": "Connect",
+      "x": -150,
+      "y": -184,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#connect",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#it6792",
+      "name": "Subscribe",
+      "x": -50,
+      "y": -206,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#subscribe",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnz3gb",
+      "name": "JSS-specific extensions",
+      "x": 119,
+      "y": -187,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#jss-specific-extensions",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ifse5",
+      "name": "ack <absolute-url>",
+      "x": 68,
+      "y": -421,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#ack-absolute-url",
+      "bgColor": "#ddf2de",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#ju3xzh",
+      "name": "err <absolute-url> <reason>",
+      "x": 277,
+      "y": -443,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#err-absolute-url-reason",
+      "bgColor": "#ddf2de",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#p46jmx",
+      "name": "unsub <absolute-url>",
+      "x": 373,
+      "y": -283,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#unsub-absolute-url",
+      "bgColor": "#ddf2de",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#bu7kuh",
+      "name": "Implementation limits",
+      "x": 240,
+      "y": -59,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#implementation-limits",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2iffkx",
+      "name": "Auth",
+      "x": 250,
+      "y": 13,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#auth",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ssgz3q",
+      "name": "Ordering and delivery",
+      "x": 230,
+      "y": 67,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#ordering-and-delivery",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gksydt",
+      "name": "Reconnect",
+      "x": 184,
+      "y": 113,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#reconnect",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8su7v6",
+      "name": "JavaScript example",
+      "x": 122,
+      "y": 158,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#javascript-example",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2da7xj",
+      "name": "Shell example",
+      "x": 48,
+      "y": 246,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#shell-example",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9e878e",
+      "name": "Relation to the W3C Solid Notifications Protocol",
+      "x": -85,
+      "y": 202,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#relation-to-the-w3c-solid-notifications-protocol",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cp2str",
+      "name": "Why this matters for app design",
+      "x": -212,
+      "y": 113,
+      "link": "https://javascriptsolidserver.github.io/docs/features/websocket-notifications#why-this-matters-for-app-design",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#swzzzt",
+      "name": "← Features",
+      "x": -247,
+      "y": 31,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

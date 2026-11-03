@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "LWS / Controlled Identifiers",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/lws",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#pvzwd8",
+      "name": "Compatibility, by level",
+      "x": -222,
+      "y": -97,
+      "link": "https://javascriptsolidserver.github.io/docs/features/lws#compatibility-by-level",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#57iy7q",
+      "name": "What you can do today",
+      "x": -45,
+      "y": -209,
+      "link": "https://javascriptsolidserver.github.io/docs/features/lws#what-you-can-do-today",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qprvms",
+      "name": "Profile shape",
+      "x": 140,
+      "y": -176,
+      "link": "https://javascriptsolidserver.github.io/docs/features/lws#profile-shape-phase-a-whats-emitted-at-pod-creation-jss-00174",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fucmt",
+      "name": "Adding keys",
+      "x": 238,
+      "y": -64,
+      "link": "https://javascriptsolidserver.github.io/docs/features/lws#adding-keys-phase-b-via-the-doctor",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t922yq",
+      "name": "Server-side verifier",
+      "x": 225,
+      "y": 93,
+      "link": "https://javascriptsolidserver.github.io/docs/features/lws#server-side-verifier-phase-3-srcauthlws-cidjs",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#26rfi6",
+      "name": "NIP-98 → WebID upgrade",
+      "x": 59,
+      "y": 207,
+      "link": "https://javascriptsolidserver.github.io/docs/features/lws#nip-98-webid-upgrade-srcauthnostrjs",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u28rkq",
+      "name": "Spec references",
+      "x": -133,
+      "y": 180,
+      "link": "https://javascriptsolidserver.github.io/docs/features/lws#spec-references",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#varvfj",
+      "name": "← Features",
+      "x": -236,
+      "y": 70,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

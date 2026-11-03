@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Multi-User Pods",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#pj9sd5",
+      "name": "Path-based",
+      "x": -218,
+      "y": -104,
+      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#path-based-default",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9incsq",
+      "name": "Subdomain-based",
+      "x": -6,
+      "y": -212,
+      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#subdomain-based",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gwp9qx",
+      "name": "Comparison",
+      "x": 211,
+      "y": -113,
+      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#comparison",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7csjb6",
+      "name": "DNS Configuration",
+      "x": 217,
+      "y": 106,
+      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#dns-configuration",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cyfvb8",
+      "name": "Pod URLs",
+      "x": -9,
+      "y": 212,
+      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#pod-urls",
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ngjuhg",
+      "name": "← Features",
+      "x": -218,
+      "y": 104,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

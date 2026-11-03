@@ -1,0 +1,337 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "JSS docs",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ab9ysn",
+      "name": "Getting Started",
+      "x": -223,
+      "y": -95,
+      "link": "./getting-started.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhtzie",
+      "name": "Installation",
+      "x": -490,
+      "y": -86,
+      "link": "./getting-started-installation.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#2sgmjt",
+      "name": "First Run",
+      "x": -527,
+      "y": -225,
+      "link": "./getting-started-first-run.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#j9h6ge",
+      "name": "Quick Start",
+      "x": -374,
+      "y": -282,
+      "link": "./getting-started-quick-start.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#ejt2c7",
+      "name": "Core Concepts",
+      "x": -29,
+      "y": -211,
+      "link": "./core-concepts.jsonld",
+      "bgColor": "#e9c1ef",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tvx8v7",
+      "name": "JSON-LD First",
+      "x": -207,
+      "y": -387,
+      "link": "./core-concepts-json-ld-first.jsonld",
+      "bgColor": "#f7e4f9",
+      "parent": "#ejt2c7"
+    },
+    {
+      "@id": "#4bfmpa",
+      "name": "Pods and Resources",
+      "x": -85,
+      "y": -496,
+      "link": "./core-concepts-pods-and-resources.jsonld",
+      "bgColor": "#f7e4f9",
+      "parent": "#ejt2c7"
+    },
+    {
+      "@id": "#c2mpq8",
+      "name": "Content Negotiation",
+      "x": 83,
+      "y": -419,
+      "link": "./core-concepts-content-negotiation.jsonld",
+      "bgColor": "#f7e4f9",
+      "parent": "#ejt2c7"
+    },
+    {
+      "@id": "#yykmee",
+      "name": "Features",
+      "x": 219,
+      "y": -103,
+      "link": "./features.jsonld",
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7kgwkb",
+      "name": "Data",
+      "x": 300,
+      "y": -340,
+      "link": "./features.jsonld",
+      "bgColor": "#ffe3dc",
+      "parent": "#yykmee"
+    },
+    {
+      "@id": "#x7t4w7",
+      "name": "Identity and access",
+      "x": 474,
+      "y": -299,
+      "link": "./features.jsonld",
+      "bgColor": "#ffe3dc",
+      "parent": "#yykmee"
+    },
+    {
+      "@id": "#dsw684",
+      "name": "Apps and agents",
+      "x": 470,
+      "y": -145,
+      "link": "./features.jsonld",
+      "bgColor": "#ffe3dc",
+      "parent": "#yykmee"
+    },
+    {
+      "@id": "#v88t4a",
+      "name": "Networks",
+      "x": 588,
+      "y": -43,
+      "link": "./features.jsonld",
+      "bgColor": "#ffe3dc",
+      "parent": "#yykmee"
+    },
+    {
+      "@id": "#skzt29",
+      "name": "Guides",
+      "x": 130,
+      "y": 182,
+      "link": "./guides.jsonld",
+      "bgColor": "#d7d59b",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t4pwzt",
+      "name": "Deploy to Production",
+      "x": 449,
+      "y": 187,
+      "link": "./guides-deploy-production.jsonld",
+      "bgColor": "#eeedd3",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#jhaa84",
+      "name": "Git on Solid",
+      "x": 432,
+      "y": 342,
+      "link": "./guides-git-on-solid.jsonld",
+      "bgColor": "#eeedd3",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#wavvy9",
+      "name": "Git Push with Nostr",
+      "x": 254,
+      "y": 366,
+      "link": "./guides-git-push-nostr.jsonld",
+      "bgColor": "#eeedd3",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#i9w3v4",
+      "name": "JSS on Android",
+      "x": 142,
+      "y": 487,
+      "link": "./guides-jss-on-android.jsonld",
+      "bgColor": "#eeedd3",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#e9sufn",
+      "name": "Connect Solid Apps",
+      "x": -19,
+      "y": 425,
+      "link": "./guides-solid-apps.jsonld",
+      "bgColor": "#eeedd3",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#g45zx9",
+      "name": "Reference",
+      "x": -203,
+      "y": 123,
+      "link": "./reference.jsonld",
+      "bgColor": "#9be2d1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vz8rhu",
+      "name": "CLI Commands",
+      "x": -266,
+      "y": 360,
+      "link": "./reference-cli.jsonld",
+      "bgColor": "#d3f3eb",
+      "parent": "#g45zx9"
+    },
+    {
+      "@id": "#35gtrs",
+      "name": "Configuration",
+      "x": -432,
+      "y": 342,
+      "link": "./reference-configuration.jsonld",
+      "bgColor": "#d3f3eb",
+      "parent": "#g45zx9"
+    },
+    {
+      "@id": "#fiqrfa",
+      "name": "HTTP API",
+      "x": -441,
+      "y": 200,
+      "link": "./reference-api.jsonld",
+      "bgColor": "#d3f3eb",
+      "parent": "#g45zx9"
+    },
+    {
+      "@id": "#fad69b",
+      "name": "Pod Structure",
+      "x": -575,
+      "y": 114,
+      "link": "./reference-pod-structure.jsonld",
+      "bgColor": "#d3f3eb",
+      "parent": "#g45zx9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

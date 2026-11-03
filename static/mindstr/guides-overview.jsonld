@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Guides Overview",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/overview",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#v52rfv",
+      "name": "Available Guides",
+      "x": 13,
+      "y": -212,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/overview#available-guides",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gitnhm",
+      "name": "← Guides",
+      "x": -13,
+      "y": 212,
+      "link": "./guides.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    }
+  ],
+  "selectedNode": 0
+}

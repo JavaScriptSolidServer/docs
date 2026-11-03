@@ -1,0 +1,168 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Content Negotiation",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#rfby2g",
+      "name": "Design constraints",
+      "x": -240,
+      "y": -59,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#design-constraints",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#arxjt8",
+      "name": "Content negotiation is a negotiation",
+      "x": -122,
+      "y": -170,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#content-negotiation-is-a-negotiation",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jtyjdw",
+      "name": "A living position",
+      "x": 64,
+      "y": -214,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#a-living-position",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dtqx4z",
+      "name": "Current behaviour",
+      "x": 179,
+      "y": -149,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#current-behaviour",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u2s2vv",
+      "name": "Enabling conneg",
+      "x": 242,
+      "y": -55,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#enabling-conneg",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vx2z65",
+      "name": "Examples",
+      "x": 244,
+      "y": 47,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#examples",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xwei9g",
+      "name": "Why these choices",
+      "x": 185,
+      "y": 143,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#why-these-choices",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bzs4i",
+      "name": "Future-proofing posture",
+      "x": 75,
+      "y": 207,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#future-proofing-posture",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fkywkd",
+      "name": "How it works",
+      "x": -98,
+      "y": 199,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#how-it-works",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j8deiz",
+      "name": "Direction",
+      "x": -186,
+      "y": 142,
+      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#direction",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aya9s9",
+      "name": "← Core Concepts",
+      "x": -243,
+      "y": 52,
+      "link": "./core-concepts.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

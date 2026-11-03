@@ -1,0 +1,90 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Quick Start",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ptf2jy",
+      "name": "Start the server",
+      "x": -200,
+      "y": -128,
+      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start#start-the-server",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4bfy6j",
+      "name": "Create a pod",
+      "x": 81,
+      "y": -201,
+      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start#create-a-pod",
+      "bgColor": "#e9c1ef",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4wkdd9",
+      "name": "Write data",
+      "x": 250,
+      "y": -6,
+      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start#write-data",
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yiscsp",
+      "name": "Read data",
+      "x": 95,
+      "y": 197,
+      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start#read-data",
+      "bgColor": "#d7d59b",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2fzfhg",
+      "name": "← Getting Started",
+      "x": -195,
+      "y": 133,
+      "link": "./getting-started.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "selectedNode": 0
+}

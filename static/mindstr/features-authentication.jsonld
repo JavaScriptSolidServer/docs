@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Authentication",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/authentication",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#rx55k2",
+      "name": "Simple Tokens",
+      "x": -221,
+      "y": -99,
+      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#simple-tokens-development",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ux93wm",
+      "name": "Solid-OIDC",
+      "x": 201,
+      "y": -126,
+      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#solid-oidc",
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a464iu",
+      "name": "Built-in Identity Provider",
+      "x": 137,
+      "y": -409,
+      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#built-in-identity-provider",
+      "bgColor": "#fce3f3",
+      "parent": "#ux93wm"
+    },
+    {
+      "@id": "#simp87",
+      "name": "External Identity Providers",
+      "x": 590,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#external-identity-providers",
+      "bgColor": "#fce3f3",
+      "parent": "#ux93wm"
+    },
+    {
+      "@id": "#tzmucf",
+      "name": "Nostr Authentication",
+      "x": 8,
+      "y": 212,
+      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#nostr-authentication-nip-98",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xmtzgz",
+      "name": "End-to-end encryption",
+      "x": 16,
+      "y": 425,
+      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#end-to-end-encryption",
+      "bgColor": "#fbe8d3",
+      "parent": "#tzmucf"
+    },
+    {
+      "@id": "#b9snuz",
+      "name": "← Features",
+      "x": -221,
+      "y": 99,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 2,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

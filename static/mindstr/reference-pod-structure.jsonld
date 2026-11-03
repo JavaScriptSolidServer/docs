@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Pod Structure",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/pod-structure",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#j52mw6",
+      "name": "WebID Profile",
+      "x": -177,
+      "y": -150,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/pod-structure#webid-profile",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gu5n3w",
+      "name": "Root ACL",
+      "x": 177,
+      "y": -150,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/pod-structure#root-acl",
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mukqya",
+      "name": "Inbox ACL",
+      "x": 177,
+      "y": 150,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/pod-structure#inbox-acl",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rdjmhy",
+      "name": "← Reference",
+      "x": -177,
+      "y": 150,
+      "link": "./reference.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "selectedNode": 0
+}

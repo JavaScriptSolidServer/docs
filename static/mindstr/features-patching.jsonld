@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Patching Data",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/patching",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#abq85r",
+      "name": "N3 Patch",
+      "x": -108,
+      "y": -192,
+      "link": "https://javascriptsolidserver.github.io/docs/features/patching#n3-patch",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sy2ncx",
+      "name": "Insert and Delete",
+      "x": -215,
+      "y": -384,
+      "link": "https://javascriptsolidserver.github.io/docs/features/patching#insert-and-delete",
+      "bgColor": "#daeeff",
+      "parent": "#abq85r"
+    },
+    {
+      "@id": "#fertai",
+      "name": "SPARQL Update",
+      "x": 248,
+      "y": 25,
+      "link": "https://javascriptsolidserver.github.io/docs/features/patching#sparql-update",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9u36xp",
+      "name": "← Features",
+      "x": -133,
+      "y": 180,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "selectedNode": 0
+}

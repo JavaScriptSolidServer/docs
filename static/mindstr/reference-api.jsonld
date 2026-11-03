@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "HTTP API",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#drrwuk",
+      "name": "Pod Management",
+      "x": -235,
+      "y": -72,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#pod-management",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nsm2yi",
+      "name": "Create Pod",
+      "x": -470,
+      "y": -144,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#create-pod",
+      "bgColor": "#daeeff",
+      "parent": "#drrwuk"
+    },
+    {
+      "@id": "#2xe78q",
+      "name": "Resource Operations",
+      "x": 188,
+      "y": -140,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#resource-operations",
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jgw4tz",
+      "name": "GET",
+      "x": -153,
+      "y": -405,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#get",
+      "bgColor": "#fce3f3",
+      "parent": "#2xe78q"
+    },
+    {
+      "@id": "#bekswu",
+      "name": "PUT",
+      "x": 157,
+      "y": -483,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#put",
+      "bgColor": "#fce3f3",
+      "parent": "#2xe78q"
+    },
+    {
+      "@id": "#pxrawa",
+      "name": "POST",
+      "x": 376,
+      "y": -280,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#post",
+      "bgColor": "#fce3f3",
+      "parent": "#2xe78q"
+    },
+    {
+      "@id": "#gsrdqa",
+      "name": "DELETE",
+      "x": 584,
+      "y": -70,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#delete",
+      "bgColor": "#fce3f3",
+      "parent": "#2xe78q"
+    },
+    {
+      "@id": "#ttvgv4",
+      "name": "PATCH",
+      "x": 452,
+      "y": 182,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#patch",
+      "bgColor": "#fce3f3",
+      "parent": "#2xe78q"
+    },
+    {
+      "@id": "#g5xqe3",
+      "name": "Headers",
+      "x": -39,
+      "y": 210,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#headers",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cvkstp",
+      "name": "Request Headers",
+      "x": 75,
+      "y": 420,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#request-headers",
+      "bgColor": "#fbe8d3",
+      "parent": "#g5xqe3"
+    },
+    {
+      "@id": "#jw6hux",
+      "name": "Response Headers",
+      "x": -259,
+      "y": 451,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/api#response-headers",
+      "bgColor": "#fbe8d3",
+      "parent": "#g5xqe3"
+    },
+    {
+      "@id": "#ueruwd",
+      "name": "← Reference",
+      "x": -235,
+      "y": 72,
+      "link": "./reference.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "JSS on Android",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#hir8hx",
+      "name": "Today",
+      "x": 23,
+      "y": -212,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#today-proof-of-concept-via-termux",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ykkb9u",
+      "name": "Resource footprint",
+      "x": -437,
+      "y": -207,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#resource-footprint",
+      "bgColor": "#daeeff",
+      "parent": "#hir8hx"
+    },
+    {
+      "@id": "#7ikicx",
+      "name": "Install",
+      "x": -339,
+      "y": -410,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#install",
+      "bgColor": "#daeeff",
+      "parent": "#hir8hx"
+    },
+    {
+      "@id": "#ice2bk",
+      "name": "Run",
+      "x": -98,
+      "y": -417,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#run",
+      "bgColor": "#daeeff",
+      "parent": "#hir8hx"
+    },
+    {
+      "@id": "#scytyn",
+      "name": "Public access via --tunnel",
+      "x": 194,
+      "y": -474,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#public-access-via---tunnel",
+      "bgColor": "#daeeff",
+      "parent": "#hir8hx"
+    },
+    {
+      "@id": "#jbhqgv",
+      "name": "Persistence",
+      "x": 381,
+      "y": -275,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#persistence",
+      "bgColor": "#daeeff",
+      "parent": "#hir8hx"
+    },
+    {
+      "@id": "#5seuyw",
+      "name": "Storage",
+      "x": 566,
+      "y": -143,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#storage",
+      "bgColor": "#daeeff",
+      "parent": "#hir8hx"
+    },
+    {
+      "@id": "#nm5hts",
+      "name": "Coming",
+      "x": 184,
+      "y": 144,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#coming-native-apk",
+      "bgColor": "#e9c1ef",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mesfa4",
+      "name": "Architecture",
+      "x": 443,
+      "y": 197,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#architecture",
+      "bgColor": "#f7e4f9",
+      "parent": "#nm5hts"
+    },
+    {
+      "@id": "#ek2jcm",
+      "name": "Why this is feasible",
+      "x": 342,
+      "y": 409,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#why-this-is-feasible",
+      "bgColor": "#f7e4f9",
+      "parent": "#nm5hts"
+    },
+    {
+      "@id": "#uja84e",
+      "name": "Long arc",
+      "x": 5,
+      "y": 214,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#long-arc-full-os-via-postmarketos",
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#78sngm",
+      "name": "Why \"runs on a phone\" matters",
+      "x": -152,
+      "y": 168,
+      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#why-runs-on-a-phone-matters",
+      "bgColor": "#d7d59b",
+      "parent": "#this"
+    },
+    {
+      "@id": "#58pkgm",
+      "name": "← Guides",
+      "x": -242,
+      "y": 52,
+      "link": "./guides.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

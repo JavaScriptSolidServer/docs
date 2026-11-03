@@ -1,0 +1,246 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Nostr Relay",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#pggewd",
+      "name": "Quick Start",
+      "x": -244,
+      "y": -45,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#quick-start",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7cv7qa",
+      "name": "Configuration",
+      "x": -200,
+      "y": -128,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#configuration",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4evz5w",
+      "name": "Supported NIPs",
+      "x": -139,
+      "y": -187,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#supported-nips",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vh32g5",
+      "name": "Event Kinds",
+      "x": -5,
+      "y": -212,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#event-kinds",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ktxue",
+      "name": "Protocol",
+      "x": 179,
+      "y": -149,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#protocol",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qrakrq",
+      "name": "EVENT",
+      "x": 211,
+      "y": -385,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#event",
+      "bgColor": "#f2ecd2",
+      "parent": "#6ktxue"
+    },
+    {
+      "@id": "#ppuaac",
+      "name": "REQ",
+      "x": 422,
+      "y": -351,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#req",
+      "bgColor": "#f2ecd2",
+      "parent": "#6ktxue"
+    },
+    {
+      "@id": "#f77hg7",
+      "name": "CLOSE",
+      "x": 458,
+      "y": -171,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#close",
+      "bgColor": "#f2ecd2",
+      "parent": "#6ktxue"
+    },
+    {
+      "@id": "#kpihvt",
+      "name": "Relay Information",
+      "x": 248,
+      "y": 24,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#relay-information-nip-11",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k58b5b",
+      "name": "Rate Limiting",
+      "x": 211,
+      "y": 114,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#rate-limiting",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#htircd",
+      "name": "NIP-98 HTTP Authentication",
+      "x": 148,
+      "y": 178,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#nip-98-http-authentication",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sixamq",
+      "name": "Browser Login",
+      "x": 271,
+      "y": 357,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#browser-login",
+      "bgColor": "#daeeff",
+      "parent": "#htircd"
+    },
+    {
+      "@id": "#j99zi5",
+      "name": "Identity Linking",
+      "x": -51,
+      "y": 209,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#identity-linking",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwrapz",
+      "name": "Nostr → ActivityPub",
+      "x": 27,
+      "y": 424,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#nostr-activitypub",
+      "bgColor": "#efe6ff",
+      "parent": "#j99zi5"
+    },
+    {
+      "@id": "#n3epze",
+      "name": "did:nostr Resolution",
+      "x": -227,
+      "y": 463,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#didnostr-resolution",
+      "bgColor": "#efe6ff",
+      "parent": "#j99zi5"
+    },
+    {
+      "@id": "#42eis4",
+      "name": "Storage",
+      "x": -200,
+      "y": 128,
+      "link": "https://javascriptsolidserver.github.io/docs/features/nostr#storage",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f65d8e",
+      "name": "← Features",
+      "x": -244,
+      "y": 45,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

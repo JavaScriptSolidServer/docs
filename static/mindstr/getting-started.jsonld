@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Getting Started",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/getting-started/introduction",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#fnrzmm",
+      "name": "Installation",
+      "x": -177,
+      "y": -150,
+      "link": "./getting-started-installation.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3y3s3p",
+      "name": "First Run",
+      "x": 177,
+      "y": -150,
+      "link": "./getting-started-first-run.jsonld",
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ujs2ci",
+      "name": "Quick Start",
+      "x": 177,
+      "y": 150,
+      "link": "./getting-started-quick-start.jsonld",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#442pm7",
+      "name": "← JSS docs",
+      "x": -177,
+      "y": 150,
+      "link": "./index.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "selectedNode": 0
+}

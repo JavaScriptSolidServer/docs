@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "End-to-End Encryption",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/e2ee",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ncsetq",
+      "name": "Architecture",
+      "x": -243,
+      "y": -51,
+      "link": "https://javascriptsolidserver.github.io/docs/features/e2ee#architecture",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9nzdc",
+      "name": "Protocols",
+      "x": -186,
+      "y": -142,
+      "link": "https://javascriptsolidserver.github.io/docs/features/e2ee#protocols",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k8wdpx",
+      "name": "Recipe: encrypt-then-PUT",
+      "x": -90,
+      "y": -206,
+      "link": "https://javascriptsolidserver.github.io/docs/features/e2ee#recipe-encrypt-then-put",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a9fnph",
+      "name": "Recipe: GET-then-decrypt",
+      "x": 130,
+      "y": -189,
+      "link": "https://javascriptsolidserver.github.io/docs/features/e2ee#recipe-get-then-decrypt",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yyu7jz",
+      "name": "Browser flow with a NIP-07 signer",
+      "x": 241,
+      "y": -58,
+      "link": "https://javascriptsolidserver.github.io/docs/features/e2ee#browser-flow-with-a-nip-07-signer",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wkrebf",
+      "name": "Threat model",
+      "x": 227,
+      "y": 89,
+      "link": "https://javascriptsolidserver.github.io/docs/features/e2ee#threat-model",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bu5bte",
+      "name": "Why reuse Nostr primitives instead of designing a Solid-native E2EE protocol",
+      "x": -24,
+      "y": 212,
+      "link": "https://javascriptsolidserver.github.io/docs/features/e2ee#why-reuse-nostr-primitives-instead-of-designing-a-solid-native-e2ee-protocol",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4hakzu",
+      "name": "← Features",
+      "x": -243,
+      "y": 51,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

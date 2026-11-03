@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Features Overview",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#rmckuv",
+      "name": "Quick Start",
+      "x": -243,
+      "y": -49,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#quick-start",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cicry",
+      "name": "Core Solid Protocol",
+      "x": -184,
+      "y": -144,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#core-solid-protocol",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7c28q6",
+      "name": "Authentication & Identity",
+      "x": -78,
+      "y": -209,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#authentication-identity",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qbh3e",
+      "name": "Developer Tools",
+      "x": 112,
+      "y": -196,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#developer-tools",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m3xps2",
+      "name": "Federation & Social",
+      "x": 198,
+      "y": -130,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#federation-social",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yxjf84",
+      "name": "Security",
+      "x": 247,
+      "y": -30,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#security",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrv4db",
+      "name": "Payments & Tokens",
+      "x": 235,
+      "y": 72,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#payments-tokens",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i6483q",
+      "name": "Integrations",
+      "x": 167,
+      "y": 158,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#integrations",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kmcrgd",
+      "name": "HTTP Methods",
+      "x": 78,
+      "y": 205,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#http-methods",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ktiw89",
+      "name": "CLI Commands",
+      "x": -54,
+      "y": 208,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#cli-commands",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c74y5q",
+      "name": "What's New Since v0.0.42",
+      "x": -174,
+      "y": 153,
+      "link": "https://javascriptsolidserver.github.io/docs/features/overview#whats-new-since-v0042",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#374kep",
+      "name": "← Features",
+      "x": -243,
+      "y": 49,
+      "link": "./features.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}
