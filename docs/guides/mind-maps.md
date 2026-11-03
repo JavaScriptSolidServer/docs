@@ -24,12 +24,14 @@ The convention is a `/mindstr/` folder next to the content it describes:
 | `https://jss.live/docs/mindstr/index.jsonld` | The root map. Always the entry point. |
 | `https://jss.live/docs/mindstr/outline.md` | The whole set as one nested Markdown outline, with every link. For people and LLMs. |
 | `https://jss.live/docs/mindstr/<name>.jsonld` | One map per section, page, module, plugin, repo or issue group. |
+| `https://jss.live/mindstr/index.jsonld` | The org map: every repo and its open issues, from the [mindstr](https://github.com/JavaScriptSolidServer/mindstr) repo. |
 
 Any map can be opened directly: `https://mindstr.org/?uri=<map url>`. Maps link to each
 other with relative links, so the folder can be copied or mirrored intact.
 
 The same convention works for any site or repo: put `index.jsonld` and `outline.md` under
-`/mindstr/` and anyone can open it the same way.
+`/mindstr/` and anyone can open it the same way. An org gets a `mindstr` repo (its map links
+to each repo); a repo gets a `mindstr/` folder.
 
 ## What is in the set
 
