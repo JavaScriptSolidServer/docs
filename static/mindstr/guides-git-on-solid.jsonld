@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#c8rxju",
+      "@id": "#jr3z4p",
       "name": "The architectural question",
       "x": -234,
       "y": -76,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#jr3z4p",
+      "@id": "#hmnpnc",
       "name": "Pattern A",
       "x": -155,
       "y": -174,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#hmnpnc",
+      "@id": "#tbf3y4",
       "name": "Pattern B",
       "x": -46,
       "y": -210,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#tbf3y4",
+      "@id": "#z9ubg8",
       "name": "Why this matters",
       "x": 89,
       "y": -201,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#z9ubg8",
+      "@id": "#5h5cc9",
       "name": "Security comparison",
       "x": 216,
       "y": -107,
@@ -64,25 +64,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#5h5cc9",
+      "@id": "#2682x9",
       "name": "Pattern A",
       "x": 376,
       "y": -281,
       "link": "https://jss.live/docs/guides/git-on-solid#pattern-a-what-is-exposed",
       "bgColor": "#f2ecd2",
-      "parent": "#z9ubg8"
+      "parent": "#5h5cc9"
     },
     {
-      "@id": "#2682x9",
+      "@id": "#dgxw48",
       "name": "Pattern B",
       "x": 558,
       "y": -163,
       "link": "https://jss.live/docs/guides/git-on-solid#pattern-b-what-is-mitigated",
       "bgColor": "#f2ecd2",
-      "parent": "#z9ubg8"
+      "parent": "#5h5cc9"
     },
     {
-      "@id": "#dgxw48",
+      "@id": "#3m2wcm",
       "name": "JSS reference pattern",
       "x": 243,
       "y": 51,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#3m2wcm",
+      "@id": "#4ad697",
       "name": "Browser viewer",
       "x": 177,
       "y": 150,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4ad697",
+      "@id": "#z237xc",
       "name": "Server-side dotfile policy",
       "x": 78,
       "y": 209,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#z237xc",
+      "@id": "#ern3ds",
       "name": "Further reading",
       "x": -116,
       "y": 195,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ern3ds",
+      "@id": "#cixa8i",
       "name": "Philosophy",
       "x": -192,
       "y": 136,
@@ -127,7 +127,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cixa8i",
+      "@id": "#w8ga4c",
       "name": "← Guides",
       "x": -243,
       "y": 49,

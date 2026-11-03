@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#eegh3a",
+      "@id": "#tmtdcb",
       "name": "How it works",
       "x": -202,
       "y": -125,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#tmtdcb",
+      "@id": "#ziixui",
       "name": "ACL Structure",
       "x": 77,
       "y": -202,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ziixui",
+      "@id": "#qnf7j2",
       "name": "Access Modes",
       "x": 250,
       "y": 0,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#qnf7j2",
+      "@id": "#rx55k2",
       "name": "Agent Types",
       "x": 77,
       "y": 202,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#rx55k2",
+      "@id": "#ux93wm",
       "name": "← Features",
       "x": -202,
       "y": 125,

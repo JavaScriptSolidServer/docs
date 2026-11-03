@@ -1,0 +1,141 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "headers.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/headers.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#wymkpw",
+      "name": "exports",
+      "x": 187,
+      "y": -141,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhm56x",
+      "name": "getLinkHeader()",
+      "x": -383,
+      "y": -273,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/headers.js#L15",
+      "bgColor": "#daeeff",
+      "parent": "#wymkpw"
+    },
+    {
+      "@id": "#gyahr4",
+      "name": "getAclUrl()",
+      "x": -150,
+      "y": -485,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/headers.js#L37",
+      "bgColor": "#daeeff",
+      "parent": "#wymkpw"
+    },
+    {
+      "@id": "#wt6f72",
+      "name": "getResponseHeaders()",
+      "x": 211,
+      "y": -385,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/headers.js#L52",
+      "bgColor": "#daeeff",
+      "parent": "#wymkpw"
+    },
+    {
+      "@id": "#zy9np2",
+      "name": "getCorsHeaders()",
+      "x": 538,
+      "y": -205,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/headers.js#L94",
+      "bgColor": "#daeeff",
+      "parent": "#wymkpw"
+    },
+    {
+      "@id": "#3jk3i5",
+      "name": "getAllHeaders()",
+      "x": 489,
+      "y": 91,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/headers.js#L110",
+      "bgColor": "#daeeff",
+      "parent": "#wymkpw"
+    },
+    {
+      "@id": "#94asrn",
+      "name": "getNotFoundHeaders()",
+      "x": 361,
+      "y": 397,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/headers.js#L123",
+      "bgColor": "#daeeff",
+      "parent": "#wymkpw"
+    },
+    {
+      "@id": "#kgrwxb",
+      "name": "146 lines",
+      "x": -115,
+      "y": 189,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/headers.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aj9t28",
+      "name": "← ldp",
+      "x": -234,
+      "y": 76,
+      "link": "./src-ldp.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

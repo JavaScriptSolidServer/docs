@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "src/nostr/",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/tree/fix/post-any-content-type/src/nostr",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#eqxhbv",
+      "name": "event.js · 7",
+      "x": -143,
+      "y": -174,
+      "link": "./src-nostr-event-js.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m3zt7z",
+      "name": "relay.js",
+      "x": 250,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/relay.js",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzgaz8",
+      "name": "registerNostrRelay()",
+      "x": 500,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/relay.js#L93",
+      "bgColor": "#ffe2e6",
+      "parent": "#m3zt7z"
+    },
+    {
+      "@id": "#brfb5w",
+      "name": "← src/",
+      "x": -143,
+      "y": 174,
+      "link": "./src.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "selectedNode": 0
+}

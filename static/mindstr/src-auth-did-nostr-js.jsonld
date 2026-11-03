@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "did-nostr.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/did-nostr.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#eqmaaw",
+      "name": "exports",
+      "x": 122,
+      "y": -185,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pjbq25",
+      "name": "fetchWithRedirectGuard()",
+      "x": -276,
+      "y": -354,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/did-nostr.js#L93",
+      "bgColor": "#daeeff",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#tz98k5",
+      "name": "resolveDidNostrToWebId()",
+      "x": 389,
+      "y": -377,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/did-nostr.js#L184",
+      "bgColor": "#daeeff",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#437yyk",
+      "name": "clearCache()",
+      "x": 485,
+      "y": 103,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/did-nostr.js#L561",
+      "bgColor": "#daeeff",
+      "parent": "#eqmaaw"
+    },
+    {
+      "@id": "#j3k2bu",
+      "name": "577 lines",
+      "x": 4,
+      "y": 212,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/did-nostr.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uhqx6j",
+      "name": "← auth",
+      "x": -216,
+      "y": 107,
+      "link": "./src-auth.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

@@ -18,7 +18,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#9n2fi8",
+      "@id": "#27czbt",
       "name": "CLI Commands",
       "x": -202,
       "y": -125,
@@ -27,7 +27,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#27czbt",
+      "@id": "#eqxhbv",
       "name": "Configuration",
       "x": 77,
       "y": -202,
@@ -36,7 +36,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#eqxhbv",
+      "@id": "#m3zt7z",
       "name": "HTTP API",
       "x": 250,
       "y": 0,
@@ -45,7 +45,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#m3zt7z",
+      "@id": "#xzgaz8",
       "name": "Pod Structure",
       "x": 77,
       "y": 202,
@@ -54,7 +54,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#xzgaz8",
+      "@id": "#brfb5w",
       "name": "← JSS docs",
       "x": -202,
       "y": 125,

@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#4bfy6j",
+      "@id": "#4wkdd9",
       "name": "Start the server",
       "x": -200,
       "y": -128,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4wkdd9",
+      "@id": "#yiscsp",
       "name": "Create a pod",
       "x": 81,
       "y": -201,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#yiscsp",
+      "@id": "#2fzfhg",
       "name": "Write data",
       "x": 250,
       "y": -6,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#2fzfhg",
+      "@id": "#6ab87r",
       "name": "Read data",
       "x": 95,
       "y": 197,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#6ab87r",
+      "@id": "#uyfscv",
       "name": "← Getting Started",
       "x": -195,
       "y": 133,

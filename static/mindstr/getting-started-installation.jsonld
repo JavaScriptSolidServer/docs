@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#z8kicz",
+      "@id": "#7348h9",
       "name": "Prerequisites",
       "x": -212,
       "y": -113,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7348h9",
+      "@id": "#jtny2v",
       "name": "Install from npm",
       "x": 36,
       "y": -210,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#jtny2v",
+      "@id": "#zvvi4r",
       "name": "Install from source",
       "x": 247,
       "y": -32,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#zvvi4r",
+      "@id": "#ezqtt6",
       "name": "Verify installation",
       "x": 88,
       "y": 199,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ezqtt6",
+      "@id": "#8edjsn",
       "name": "← Getting Started",
       "x": -203,
       "y": 124,

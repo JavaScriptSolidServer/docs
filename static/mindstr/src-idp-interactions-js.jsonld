@@ -1,0 +1,218 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "interactions.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#spatem",
+      "name": "exports 1/2",
+      "x": -42,
+      "y": -209,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#twzhxn",
+      "name": "handleInteractionGet()",
+      "x": -449,
+      "y": -188,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L85",
+      "bgColor": "#daeeff",
+      "parent": "#spatem"
+    },
+    {
+      "@id": "#ir6eif",
+      "name": "handleLogin()",
+      "x": -385,
+      "y": -380,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L121",
+      "bgColor": "#daeeff",
+      "parent": "#spatem"
+    },
+    {
+      "@id": "#bwj4g5",
+      "name": "handleConsent()",
+      "x": -180,
+      "y": -397,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L318",
+      "bgColor": "#daeeff",
+      "parent": "#spatem"
+    },
+    {
+      "@id": "#9fjvd8",
+      "name": "handleSwitchAccount()",
+      "x": 18,
+      "y": -501,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L381",
+      "bgColor": "#daeeff",
+      "parent": "#spatem"
+    },
+    {
+      "@id": "#6fwnzy",
+      "name": "handleAbort()",
+      "x": 206,
+      "y": -387,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L444",
+      "bgColor": "#daeeff",
+      "parent": "#spatem"
+    },
+    {
+      "@id": "#rtnzsk",
+      "name": "handleRegisterGet()",
+      "x": 424,
+      "y": -349,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L472",
+      "bgColor": "#daeeff",
+      "parent": "#spatem"
+    },
+    {
+      "@id": "#v8phzs",
+      "name": "exports 2/2",
+      "x": 136,
+      "y": 178,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#izxsmt",
+      "name": "handleRegisterPost()",
+      "x": 498,
+      "y": 39,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L493",
+      "bgColor": "#fce3f3",
+      "parent": "#v8phzs"
+    },
+    {
+      "@id": "#er3xwg",
+      "name": "handlePasskeyComplete()",
+      "x": 504,
+      "y": 261,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L632",
+      "bgColor": "#fce3f3",
+      "parent": "#v8phzs"
+    },
+    {
+      "@id": "#3p4wn2",
+      "name": "handlePasskeySkip()",
+      "x": 272,
+      "y": 357,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L685",
+      "bgColor": "#fce3f3",
+      "parent": "#v8phzs"
+    },
+    {
+      "@id": "#f356md",
+      "name": "handleSchnorrLogin()",
+      "x": 89,
+      "y": 496,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L758",
+      "bgColor": "#fce3f3",
+      "parent": "#v8phzs"
+    },
+    {
+      "@id": "#c9pfmk",
+      "name": "handleSchnorrComplete()",
+      "x": -150,
+      "y": 405,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js#L863",
+      "bgColor": "#fce3f3",
+      "parent": "#v8phzs"
+    },
+    {
+      "@id": "#metvfr",
+      "name": "900 lines",
+      "x": -205,
+      "y": 121,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/interactions.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rnyi3y",
+      "name": "← idp",
+      "x": -245,
+      "y": 43,
+      "link": "./src-idp.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 8,
+      "end": 12
+    },
+    {
+      "start": 8,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

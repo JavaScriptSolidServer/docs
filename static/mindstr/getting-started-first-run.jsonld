@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#8edjsn",
+      "@id": "#75s7ir",
       "name": "You should see the welcome page",
       "x": -218,
       "y": -105,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#75s7ir",
+      "@id": "#7x3k79",
       "name": "Try it in a Solid app",
       "x": -53,
       "y": -210,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7x3k79",
+      "@id": "#4af2dc",
       "name": "Sign up / sign in",
       "x": 131,
       "y": -184,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4af2dc",
+      "@id": "#7iui3z",
       "name": "Connect from your own app",
       "x": 239,
       "y": -63,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7iui3z",
+      "@id": "#bq9ccn",
       "name": "Enable more features",
       "x": 221,
       "y": 99,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#bq9ccn",
+      "@id": "#3yirdr",
       "name": "Customise the landing page",
       "x": 83,
       "y": 204,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#3yirdr",
+      "@id": "#ptf2jy",
       "name": "Where to ask questions",
       "x": -138,
       "y": 181,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ptf2jy",
+      "@id": "#4bfy6j",
       "name": "← Getting Started",
       "x": -238,
       "y": 66,

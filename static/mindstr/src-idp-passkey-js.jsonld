@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "passkey.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#hgctui",
+      "name": "exports",
+      "x": 164,
+      "y": -160,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vz6dbr",
+      "name": "registrationOptions()",
+      "x": -335,
+      "y": -316,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js#L85",
+      "bgColor": "#daeeff",
+      "parent": "#hgctui"
+    },
+    {
+      "@id": "#ecv4rb",
+      "name": "registrationVerify()",
+      "x": 113,
+      "y": -492,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js#L137",
+      "bgColor": "#daeeff",
+      "parent": "#hgctui"
+    },
+    {
+      "@id": "#57jxgj",
+      "name": "authenticationOptions()",
+      "x": 457,
+      "y": -172,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js#L197",
+      "bgColor": "#daeeff",
+      "parent": "#hgctui"
+    },
+    {
+      "@id": "#ttdvnf",
+      "name": "authenticationVerify()",
+      "x": 494,
+      "y": 275,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js#L243",
+      "bgColor": "#daeeff",
+      "parent": "#hgctui"
+    },
+    {
+      "@id": "#pehema",
+      "name": "312 lines",
+      "x": -72,
+      "y": 204,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#csimu2",
+      "name": "← idp",
+      "x": -228,
+      "y": 88,
+      "link": "./src-idp.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

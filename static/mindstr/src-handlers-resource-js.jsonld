@@ -1,0 +1,141 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "resource.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/resource.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#svn3gp",
+      "name": "exports",
+      "x": 177,
+      "y": -150,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vbyvwg",
+      "name": "handleGet()",
+      "x": -380,
+      "y": -276,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/resource.js#L145",
+      "bgColor": "#daeeff",
+      "parent": "#svn3gp"
+    },
+    {
+      "@id": "#ahre4u",
+      "name": "handleHead()",
+      "x": -121,
+      "y": -491,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/resource.js#L783",
+      "bgColor": "#daeeff",
+      "parent": "#svn3gp"
+    },
+    {
+      "@id": "#ibdfdz",
+      "name": "handlePut()",
+      "x": 219,
+      "y": -382,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/resource.js#L914",
+      "bgColor": "#daeeff",
+      "parent": "#svn3gp"
+    },
+    {
+      "@id": "#z7edqb",
+      "name": "handleDelete()",
+      "x": 529,
+      "y": -223,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/resource.js#L1109",
+      "bgColor": "#daeeff",
+      "parent": "#svn3gp"
+    },
+    {
+      "@id": "#2qq2fn",
+      "name": "handleOptions()",
+      "x": 490,
+      "y": 86,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/resource.js#L1165",
+      "bgColor": "#daeeff",
+      "parent": "#svn3gp"
+    },
+    {
+      "@id": "#ri2pzw",
+      "name": "handlePatch()",
+      "x": 382,
+      "y": 383,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/resource.js#L1198",
+      "bgColor": "#daeeff",
+      "parent": "#svn3gp"
+    },
+    {
+      "@id": "#qbizrq",
+      "name": "1398 lines",
+      "x": -96,
+      "y": 196,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/resource.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yyfuzg",
+      "name": "← handlers",
+      "x": -231,
+      "y": 81,
+      "link": "./src-handlers.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "conditional.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/conditional.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#k8arpb",
+      "name": "exports",
+      "x": 126,
+      "y": -183,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jqh9fh",
+      "name": "checkIfMatch()",
+      "x": -358,
+      "y": -297,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/conditional.js#L44",
+      "bgColor": "#daeeff",
+      "parent": "#k8arpb"
+    },
+    {
+      "@id": "#t4du3j",
+      "name": "checkIfNoneMatchForGet()",
+      "x": 164,
+      "y": -482,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/conditional.js#L88",
+      "bgColor": "#daeeff",
+      "parent": "#k8arpb"
+    },
+    {
+      "@id": "#dxtxsr",
+      "name": "checkIfNoneMatchForWrite()",
+      "x": 500,
+      "y": 16,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/conditional.js#L119",
+      "bgColor": "#daeeff",
+      "parent": "#k8arpb"
+    },
+    {
+      "@id": "#nmjv76",
+      "name": "154 lines",
+      "x": -2,
+      "y": 212,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/conditional.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mjdvee",
+      "name": "← utils",
+      "x": -217,
+      "y": 106,
+      "link": "./src-utils.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

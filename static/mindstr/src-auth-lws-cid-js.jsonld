@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "lws-cid.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/lws-cid.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#aurbbn",
+      "name": "exports",
+      "x": 106,
+      "y": -192,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fxz322",
+      "name": "hasLwsCidAuth()",
+      "x": -347,
+      "y": -306,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/lws-cid.js#L85",
+      "bgColor": "#daeeff",
+      "parent": "#aurbbn"
+    },
+    {
+      "@id": "#s77s87",
+      "name": "verifyLwsCidAuth()",
+      "x": 159,
+      "y": -483,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/lws-cid.js#L110",
+      "bgColor": "#daeeff",
+      "parent": "#aurbbn"
+    },
+    {
+      "@id": "#k73rni",
+      "name": "normalizeControllers()",
+      "x": 498,
+      "y": -40,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/lws-cid.js#L453",
+      "bgColor": "#daeeff",
+      "parent": "#aurbbn"
+    },
+    {
+      "@id": "#r8zm2z",
+      "name": "517 lines",
+      "x": 32,
+      "y": 211,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/lws-cid.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wzv4c3",
+      "name": "← auth",
+      "x": -211,
+      "y": 114,
+      "link": "./src-auth.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

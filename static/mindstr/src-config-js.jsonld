@@ -1,0 +1,141 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "config.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/config.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#4w8knq",
+      "name": "exports",
+      "x": 179,
+      "y": -149,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7bushy",
+      "name": "defaults()",
+      "x": -381,
+      "y": -275,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/config.js#L17",
+      "bgColor": "#daeeff",
+      "parent": "#4w8knq"
+    },
+    {
+      "@id": "#9uzi5i",
+      "name": "parseSize()",
+      "x": -127,
+      "y": -490,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/config.js#L217",
+      "bgColor": "#daeeff",
+      "parent": "#4w8knq"
+    },
+    {
+      "@id": "#stqn7y",
+      "name": "parsePluginFlag()",
+      "x": 227,
+      "y": -379,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/config.js#L325",
+      "bgColor": "#daeeff",
+      "parent": "#4w8knq"
+    },
+    {
+      "@id": "#j6h28m",
+      "name": "loadConfig()",
+      "x": 541,
+      "y": -200,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/config.js#L361",
+      "bgColor": "#daeeff",
+      "parent": "#4w8knq"
+    },
+    {
+      "@id": "#cr4xei",
+      "name": "saveConfig()",
+      "x": 486,
+      "y": 101,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/config.js#L442",
+      "bgColor": "#daeeff",
+      "parent": "#4w8knq"
+    },
+    {
+      "@id": "#yxp6wn",
+      "name": "printConfig()",
+      "x": 372,
+      "y": 390,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/config.js#L459",
+      "bgColor": "#daeeff",
+      "parent": "#4w8knq"
+    },
+    {
+      "@id": "#gzqwa4",
+      "name": "494 lines",
+      "x": -100,
+      "y": 195,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/config.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qy3bub",
+      "name": "← src",
+      "x": -232,
+      "y": 80,
+      "link": "./src-.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

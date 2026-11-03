@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-oidc.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#h7ym9k",
+      "name": "exports",
+      "x": 140,
+      "y": -176,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ius84b",
+      "name": "addTrustedIssuer()",
+      "x": -340,
+      "y": -312,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js#L35",
+      "bgColor": "#daeeff",
+      "parent": "#h7ym9k"
+    },
+    {
+      "@id": "#583aqh",
+      "name": "verifySolidOidc()",
+      "x": 110,
+      "y": -493,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js#L85",
+      "bgColor": "#daeeff",
+      "parent": "#h7ym9k"
+    },
+    {
+      "@id": "#sbf4ee",
+      "name": "clearCaches()",
+      "x": 435,
+      "y": -210,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js#L333",
+      "bgColor": "#daeeff",
+      "parent": "#h7ym9k"
+    },
+    {
+      "@id": "#t6q67m",
+      "name": "hasSolidOidcAuth()",
+      "x": 550,
+      "y": 181,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js#L341",
+      "bgColor": "#daeeff",
+      "parent": "#h7ym9k"
+    },
+    {
+      "@id": "#abq85r",
+      "name": "345 lines",
+      "x": -27,
+      "y": 211,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sy2ncx",
+      "name": "← auth",
+      "x": -221,
+      "y": 99,
+      "link": "./src-auth.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

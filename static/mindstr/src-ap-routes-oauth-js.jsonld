@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "oauth.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/oauth.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#4wkdd9",
+      "name": "exports",
+      "x": 165,
+      "y": -160,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yiscsp",
+      "name": "createAuthorizeHandler()",
+      "x": -315,
+      "y": -330,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/oauth.js#L77",
+      "bgColor": "#daeeff",
+      "parent": "#4wkdd9"
+    },
+    {
+      "@id": "#2fzfhg",
+      "name": "createAuthorizePostHandler()",
+      "x": 249,
+      "y": -454,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/oauth.js#L99",
+      "bgColor": "#daeeff",
+      "parent": "#4wkdd9"
+    },
+    {
+      "@id": "#6ab87r",
+      "name": "createTokenHandler()",
+      "x": 498,
+      "y": -37,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/oauth.js#L168",
+      "bgColor": "#daeeff",
+      "parent": "#4wkdd9"
+    },
+    {
+      "@id": "#uyfscv",
+      "name": "default export",
+      "x": 444,
+      "y": 331,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/oauth.js#L307",
+      "bgColor": "#daeeff",
+      "parent": "#4wkdd9"
+    },
+    {
+      "@id": "#z5cumb",
+      "name": "312 lines",
+      "x": -73,
+      "y": 203,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/oauth.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7iejm3",
+      "name": "← routes",
+      "x": -228,
+      "y": 88,
+      "link": "./src-ap-routes.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#2xe78q",
+      "@id": "#jgw4tz",
       "name": "Pod Management",
       "x": -235,
       "y": -72,
@@ -28,16 +28,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#jgw4tz",
+      "@id": "#bekswu",
       "name": "Create Pod",
       "x": -470,
       "y": -144,
       "link": "https://jss.live/docs/reference/api#create-pod",
       "bgColor": "#daeeff",
-      "parent": "#2xe78q"
+      "parent": "#jgw4tz"
     },
     {
-      "@id": "#bekswu",
+      "@id": "#pxrawa",
       "name": "Resource Operations",
       "x": 188,
       "y": -140,
@@ -46,52 +46,52 @@
       "parent": "#this"
     },
     {
-      "@id": "#pxrawa",
+      "@id": "#gsrdqa",
       "name": "GET",
       "x": -153,
       "y": -405,
       "link": "https://jss.live/docs/reference/api#get",
       "bgColor": "#fce3f3",
-      "parent": "#bekswu"
+      "parent": "#pxrawa"
     },
     {
-      "@id": "#gsrdqa",
+      "@id": "#ttvgv4",
       "name": "PUT",
       "x": 157,
       "y": -483,
       "link": "https://jss.live/docs/reference/api#put",
       "bgColor": "#fce3f3",
-      "parent": "#bekswu"
+      "parent": "#pxrawa"
     },
     {
-      "@id": "#ttvgv4",
+      "@id": "#g5xqe3",
       "name": "POST",
       "x": 376,
       "y": -280,
       "link": "https://jss.live/docs/reference/api#post",
       "bgColor": "#fce3f3",
-      "parent": "#bekswu"
+      "parent": "#pxrawa"
     },
     {
-      "@id": "#g5xqe3",
+      "@id": "#cvkstp",
       "name": "DELETE",
       "x": 584,
       "y": -70,
       "link": "https://jss.live/docs/reference/api#delete",
       "bgColor": "#fce3f3",
-      "parent": "#bekswu"
+      "parent": "#pxrawa"
     },
     {
-      "@id": "#cvkstp",
+      "@id": "#jw6hux",
       "name": "PATCH",
       "x": 452,
       "y": 182,
       "link": "https://jss.live/docs/reference/api#patch",
       "bgColor": "#fce3f3",
-      "parent": "#bekswu"
+      "parent": "#pxrawa"
     },
     {
-      "@id": "#jw6hux",
+      "@id": "#ueruwd",
       "name": "Headers",
       "x": -39,
       "y": 210,
@@ -100,25 +100,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#ueruwd",
+      "@id": "#j52mw6",
       "name": "Request Headers",
       "x": 75,
       "y": 420,
       "link": "https://jss.live/docs/reference/api#request-headers",
       "bgColor": "#fbe8d3",
-      "parent": "#jw6hux"
+      "parent": "#ueruwd"
     },
     {
-      "@id": "#j52mw6",
+      "@id": "#gu5n3w",
       "name": "Response Headers",
       "x": -259,
       "y": 451,
       "link": "https://jss.live/docs/reference/api#response-headers",
       "bgColor": "#fbe8d3",
-      "parent": "#jw6hux"
+      "parent": "#ueruwd"
     },
     {
-      "@id": "#gu5n3w",
+      "@id": "#mukqya",
       "name": "← Reference",
       "x": -235,
       "y": 72,

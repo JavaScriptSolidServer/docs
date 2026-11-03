@@ -1,0 +1,257 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "url.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#a69dfq",
+      "name": "exports 1/2",
+      "x": -50,
+      "y": -260,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sfg4qv",
+      "name": "getDataRoot()",
+      "x": -465,
+      "y": -156,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L7",
+      "bgColor": "#daeeff",
+      "parent": "#a69dfq"
+    },
+    {
+      "@id": "#xww8q9",
+      "name": "DATA_ROOT()",
+      "x": -459,
+      "y": -315,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L12",
+      "bgColor": "#daeeff",
+      "parent": "#a69dfq"
+    },
+    {
+      "@id": "#yv5i54",
+      "name": "updateDataRoot()",
+      "x": -274,
+      "y": -356,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L15",
+      "bgColor": "#daeeff",
+      "parent": "#a69dfq"
+    },
+    {
+      "@id": "#cfextr",
+      "name": "urlToPath()",
+      "x": -156,
+      "y": -484,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L25",
+      "bgColor": "#daeeff",
+      "parent": "#a69dfq"
+    },
+    {
+      "@id": "#n4bn2e",
+      "name": "urlToPathWithPod()",
+      "x": 30,
+      "y": -424,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L60",
+      "bgColor": "#daeeff",
+      "parent": "#a69dfq"
+    },
+    {
+      "@id": "#eud79w",
+      "name": "getPathFromRequest()",
+      "x": 245,
+      "y": -456,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L97",
+      "bgColor": "#daeeff",
+      "parent": "#a69dfq"
+    },
+    {
+      "@id": "#wn4gws",
+      "name": "getEffectiveUrlPath()",
+      "x": 365,
+      "y": -290,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L114",
+      "bgColor": "#daeeff",
+      "parent": "#a69dfq"
+    },
+    {
+      "@id": "#7urzyg",
+      "name": "exports 2/2",
+      "x": 155,
+      "y": 228,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fcdibk",
+      "name": "isContainer()",
+      "x": 500,
+      "y": 19,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L130",
+      "bgColor": "#fce3f3",
+      "parent": "#7urzyg"
+    },
+    {
+      "@id": "#tmtxc2",
+      "name": "getParentContainer()",
+      "x": 546,
+      "y": 189,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L139",
+      "bgColor": "#fce3f3",
+      "parent": "#7urzyg"
+    },
+    {
+      "@id": "#f5mzxc",
+      "name": "getResourceName()",
+      "x": 367,
+      "y": 289,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L150",
+      "bgColor": "#fce3f3",
+      "parent": "#7urzyg"
+    },
+    {
+      "@id": "#assz83",
+      "name": "getPodName()",
+      "x": 285,
+      "y": 439,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L179",
+      "bgColor": "#fce3f3",
+      "parent": "#7urzyg"
+    },
+    {
+      "@id": "#ef2zi4",
+      "name": "getContentType()",
+      "x": 95,
+      "y": 417,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L220",
+      "bgColor": "#fce3f3",
+      "parent": "#7urzyg"
+    },
+    {
+      "@id": "#mmiwv8",
+      "name": "isRdfContentType()",
+      "x": -86,
+      "y": 496,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L261",
+      "bgColor": "#fce3f3",
+      "parent": "#7urzyg"
+    },
+    {
+      "@id": "#nac2qv",
+      "name": "safeJsonParse()",
+      "x": -230,
+      "y": 378,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js#L285",
+      "bgColor": "#fce3f3",
+      "parent": "#7urzyg"
+    },
+    {
+      "@id": "#jgxjap",
+      "name": "291 lines",
+      "x": -214,
+      "y": 109,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/url.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a2eq5j",
+      "name": "← utils",
+      "x": -246,
+      "y": 38,
+      "link": "./src-utils.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 1,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 9,
+      "end": 15
+    },
+    {
+      "start": 9,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

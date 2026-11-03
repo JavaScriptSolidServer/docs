@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "nostr-keys.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#sf37xb",
+      "name": "exports",
+      "x": 175,
+      "y": -151,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fuhjpf",
+      "name": "nostrJwkYParities()",
+      "x": -355,
+      "y": -299,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js#L28",
+      "bgColor": "#daeeff",
+      "parent": "#sf37xb"
+    },
+    {
+      "@id": "#dry8wx",
+      "name": "pubkeyFromValidatedJwk()",
+      "x": 62,
+      "y": -499,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js#L64",
+      "bgColor": "#daeeff",
+      "parent": "#sf37xb"
+    },
+    {
+      "@id": "#rmckuv",
+      "name": "decodeFFormSecp256k1()",
+      "x": 434,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js#L94",
+      "bgColor": "#daeeff",
+      "parent": "#sf37xb"
+    },
+    {
+      "@id": "#6cicry",
+      "name": "extractNostrPubkeysFromProfile()",
+      "x": 501,
+      "y": 265,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js#L117",
+      "bgColor": "#daeeff",
+      "parent": "#sf37xb"
+    },
+    {
+      "@id": "#7c28q6",
+      "name": "140 lines",
+      "x": -93,
+      "y": 197,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qbh3e",
+      "name": "← auth",
+      "x": -231,
+      "y": 82,
+      "link": "./src-auth.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

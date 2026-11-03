@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#vzipyd",
+      "@id": "#miy6ts",
       "name": "Position",
       "x": -247,
       "y": -31,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#miy6ts",
+      "@id": "#ft3k8u",
       "name": "Enable",
       "x": -226,
       "y": -91,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ft3k8u",
+      "@id": "#it6792",
       "name": "Discover",
       "x": -185,
       "y": -140,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#it6792",
+      "@id": "#dnz3gb",
       "name": "Connect",
       "x": -150,
       "y": -184,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#dnz3gb",
+      "@id": "#3ifse5",
       "name": "Subscribe",
       "x": -50,
       "y": -206,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#3ifse5",
+      "@id": "#ju3xzh",
       "name": "JSS-specific extensions",
       "x": 119,
       "y": -187,
@@ -73,34 +73,34 @@
       "parent": "#this"
     },
     {
-      "@id": "#ju3xzh",
+      "@id": "#p46jmx",
       "name": "ack <absolute-url>",
       "x": 68,
       "y": -421,
       "link": "https://jss.live/docs/features/websocket-notifications#ack-absolute-url",
       "bgColor": "#ddf2de",
-      "parent": "#3ifse5"
+      "parent": "#ju3xzh"
     },
     {
-      "@id": "#p46jmx",
+      "@id": "#bu7kuh",
       "name": "err <absolute-url> <reason>",
       "x": 277,
       "y": -443,
       "link": "https://jss.live/docs/features/websocket-notifications#err-absolute-url-reason",
       "bgColor": "#ddf2de",
-      "parent": "#3ifse5"
+      "parent": "#ju3xzh"
     },
     {
-      "@id": "#bu7kuh",
+      "@id": "#2iffkx",
       "name": "unsub <absolute-url>",
       "x": 373,
       "y": -283,
       "link": "https://jss.live/docs/features/websocket-notifications#unsub-absolute-url",
       "bgColor": "#ddf2de",
-      "parent": "#3ifse5"
+      "parent": "#ju3xzh"
     },
     {
-      "@id": "#2iffkx",
+      "@id": "#ssgz3q",
       "name": "Implementation limits",
       "x": 240,
       "y": -65,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ssgz3q",
+      "@id": "#gksydt",
       "name": "Auth",
       "x": 250,
       "y": 13,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#gksydt",
+      "@id": "#8su7v6",
       "name": "Ordering and delivery",
       "x": 230,
       "y": 67,
@@ -127,7 +127,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#8su7v6",
+      "@id": "#2da7xj",
       "name": "Reconnect",
       "x": 184,
       "y": 113,
@@ -136,7 +136,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#2da7xj",
+      "@id": "#9e878e",
       "name": "JavaScript example",
       "x": 122,
       "y": 158,
@@ -145,7 +145,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#9e878e",
+      "@id": "#cp2str",
       "name": "Shell example",
       "x": 48,
       "y": 246,
@@ -154,7 +154,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cp2str",
+      "@id": "#swzzzt",
       "name": "Relation to the W3C Solid Notifications Protocol",
       "x": -85,
       "y": 202,
@@ -163,7 +163,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#swzzzt",
+      "@id": "#pj9sd5",
       "name": "Why this matters for app design",
       "x": -212,
       "y": 113,
@@ -172,7 +172,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#pj9sd5",
+      "@id": "#9incsq",
       "name": "← Features",
       "x": -247,
       "y": 31,

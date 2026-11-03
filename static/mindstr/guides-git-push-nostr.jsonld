@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#w8ga4c",
+      "@id": "#eud4cc",
       "name": "Prerequisites",
       "x": -235,
       "y": -73,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#eud4cc",
+      "@id": "#5mb355",
       "name": "Install credential helper",
       "x": -81,
       "y": -201,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#5mb355",
+      "@id": "#mikqv6",
       "name": "Generate keypair",
       "x": 138,
       "y": -177,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mikqv6",
+      "@id": "#7s8ycb",
       "name": "Configure git",
       "x": 242,
       "y": -54,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7s8ycb",
+      "@id": "#7jybab",
       "name": "Create repository ACL",
       "x": 212,
       "y": 113,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7jybab",
+      "@id": "#7rqytw",
       "name": "Push",
       "x": 48,
       "y": 209,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7rqytw",
+      "@id": "#hir8hx",
       "name": "How it works",
       "x": -122,
       "y": 185,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#hir8hx",
+      "@id": "#ykkb9u",
       "name": "← Guides",
       "x": -235,
       "y": 73,

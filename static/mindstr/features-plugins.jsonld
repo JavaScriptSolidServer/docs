@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#mkijzp",
+      "@id": "#wm3fr8",
       "name": "Status at a glance",
       "x": -239,
       "y": -64,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wm3fr8",
+      "@id": "#xx6ai9",
       "name": "Using the loader",
       "x": -164,
       "y": -160,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#xx6ai9",
+      "@id": "#t5gcp9",
       "name": "Why plugins?",
       "x": -64,
       "y": -208,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#t5gcp9",
+      "@id": "#wdgxta",
       "name": "What shipped: appPaths",
       "x": 105,
       "y": -196,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wdgxta",
+      "@id": "#4pcagq",
       "name": "Pod identity as the app's login",
       "x": 233,
       "y": -77,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4pcagq",
+      "@id": "#5b4mbz",
       "name": "Wrapping an existing app",
       "x": 225,
       "y": 93,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#5b4mbz",
+      "@id": "#6kbx7u",
       "name": "Case studies: the plugins that built the system",
       "x": 23,
       "y": 212,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#6kbx7u",
+      "@id": "#9bysfh",
       "name": "The road ahead",
       "x": -182,
       "y": 145,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#9bysfh",
+      "@id": "#cyd9xx",
       "name": "← Features",
       "x": -242,
       "y": 53,

@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "src/handlers/",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/tree/fix/post-any-content-type/src/handlers",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#xet7zf",
+      "name": "container.js · 3",
+      "x": -225,
+      "y": -93,
+      "link": "./src-handlers-container-js.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wjzwqw",
+      "name": "cors-proxy.js · 4",
+      "x": -46,
+      "y": -209,
+      "link": "./src-handlers-cors-proxy-js.jsonld",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cpmgtf",
+      "name": "git.js · 4",
+      "x": 164,
+      "y": -160,
+      "link": "./src-handlers-git-js.jsonld",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a85fzz",
+      "name": "pay.js",
+      "x": 220,
+      "y": 101,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/pay.js",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eitj67",
+      "name": "isPayRequest()",
+      "x": 498,
+      "y": 34,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/pay.js#L226",
+      "bgColor": "#fbe8d3",
+      "parent": "#a85fzz"
+    },
+    {
+      "@id": "#bpmjzd",
+      "name": "createPayHandler()",
+      "x": 387,
+      "y": 379,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/pay.js#L241",
+      "bgColor": "#fbe8d3",
+      "parent": "#a85fzz"
+    },
+    {
+      "@id": "#r8aetn",
+      "name": "resource.js · 6",
+      "x": -70,
+      "y": 204,
+      "link": "./src-handlers-resource-js.jsonld",
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3rh5f",
+      "name": "← src/",
+      "x": -228,
+      "y": 88,
+      "link": "./src.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

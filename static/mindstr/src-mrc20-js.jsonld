@@ -1,0 +1,192 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "mrc20.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#p3akty",
+      "name": "exports 1/2",
+      "x": -35,
+      "y": -210,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vvkdar",
+      "name": "jcs()",
+      "x": -452,
+      "y": -182,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js#L32",
+      "bgColor": "#daeeff",
+      "parent": "#p3akty"
+    },
+    {
+      "@id": "#853ejw",
+      "name": "sha256Hex()",
+      "x": -382,
+      "y": -382,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js#L44",
+      "bgColor": "#daeeff",
+      "parent": "#p3akty"
+    },
+    {
+      "@id": "#dug4dv",
+      "name": "verifyStateLink()",
+      "x": -125,
+      "y": -411,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js#L54",
+      "bgColor": "#daeeff",
+      "parent": "#p3akty"
+    },
+    {
+      "@id": "#6debha",
+      "name": "validateMrc20State()",
+      "x": 148,
+      "y": -485,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js#L79",
+      "bgColor": "#daeeff",
+      "parent": "#p3akty"
+    },
+    {
+      "@id": "#yhmzsm",
+      "name": "extractTransfersTo()",
+      "x": 356,
+      "y": -298,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js#L101",
+      "bgColor": "#daeeff",
+      "parent": "#p3akty"
+    },
+    {
+      "@id": "#bp8t6w",
+      "name": "exports 2/2",
+      "x": 151,
+      "y": 170,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nxqa9m",
+      "name": "totalTransferredTo()",
+      "x": 492,
+      "y": 78,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js#L114",
+      "bgColor": "#fce3f3",
+      "parent": "#bp8t6w"
+    },
+    {
+      "@id": "#jk6pre",
+      "name": "verifyMrc20Deposit()",
+      "x": 443,
+      "y": 332,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js#L127",
+      "bgColor": "#fce3f3",
+      "parent": "#bp8t6w"
+    },
+    {
+      "@id": "#fcz58x",
+      "name": "btAddress()",
+      "x": 179,
+      "y": 397,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js#L259",
+      "bgColor": "#fce3f3",
+      "parent": "#bp8t6w"
+    },
+    {
+      "@id": "#3n8bgc",
+      "name": "verifyMrc20Anchor()",
+      "x": -62,
+      "y": 499,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js#L279",
+      "bgColor": "#fce3f3",
+      "parent": "#bp8t6w"
+    },
+    {
+      "@id": "#qry47y",
+      "name": "336 lines",
+      "x": -181,
+      "y": 146,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mrc20.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dskmb8",
+      "name": "← src",
+      "x": -242,
+      "y": 53,
+      "link": "./src-.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

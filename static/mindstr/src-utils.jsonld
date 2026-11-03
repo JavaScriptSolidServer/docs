@@ -1,0 +1,142 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "src/utils/",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/tree/fix/post-any-content-type/src/utils",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#wgv26u",
+      "name": "conditional.js · 3",
+      "x": -221,
+      "y": -99,
+      "link": "./src-utils-conditional-js.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#35akk8",
+      "name": "error-handler.js",
+      "x": -7,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/error-handler.js",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hm3hwr",
+      "name": "registerErrorHandler()",
+      "x": -14,
+      "y": -425,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/error-handler.js#L11",
+      "bgColor": "#f2e5fd",
+      "parent": "#35akk8"
+    },
+    {
+      "@id": "#3i5a36",
+      "name": "port.js",
+      "x": 245,
+      "y": -41,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/port.js",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vvg4pd",
+      "name": "formatUrl()",
+      "x": 428,
+      "y": -220,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/port.js#L21",
+      "bgColor": "#ffe2e6",
+      "parent": "#3i5a36"
+    },
+    {
+      "@id": "#auchct",
+      "name": "findFreePort()",
+      "x": 583,
+      "y": 78,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/port.js#L52",
+      "bgColor": "#ffe2e6",
+      "parent": "#3i5a36"
+    },
+    {
+      "@id": "#jc8bp2",
+      "name": "ssrf.js · 3",
+      "x": 123,
+      "y": 185,
+      "link": "./src-utils-ssrf-js.jsonld",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xftmry",
+      "name": "url.js · 14",
+      "x": -79,
+      "y": 202,
+      "link": "./src-utils-url-js.jsonld",
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yykvgk",
+      "name": "← src/",
+      "x": -229,
+      "y": 86,
+      "link": "./src.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

@@ -21,8 +21,8 @@
     {
       "@id": "#ab9ysn",
       "name": "Getting Started",
-      "x": -227,
-      "y": -90,
+      "x": -229,
+      "y": -86,
       "link": "./getting-started.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#qhtzie",
       "name": "Installation",
-      "x": -491,
-      "y": -81,
+      "x": -492,
+      "y": -77,
       "link": "./getting-started-installation.jsonld",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -39,8 +39,8 @@
     {
       "@id": "#2sgmjt",
       "name": "First Run",
-      "x": -535,
-      "y": -211,
+      "x": -540,
+      "y": -203,
       "link": "./getting-started-first-run.jsonld",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -48,8 +48,8 @@
     {
       "@id": "#j9h6ge",
       "name": "Quick Start",
-      "x": -389,
-      "y": -267,
+      "x": -398,
+      "y": -257,
       "link": "./getting-started-quick-start.jsonld",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -57,190 +57,199 @@
     {
       "@id": "#ejt2c7",
       "name": "Core Concepts",
-      "x": -52,
-      "y": -208,
+      "x": -67,
+      "y": -205,
       "link": "./core-concepts.jsonld",
-      "bgColor": "#e0c4f6",
+      "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#tvx8v7",
       "name": "JSON-LD First",
-      "x": -240,
-      "y": -373,
+      "x": -260,
+      "y": -363,
       "link": "./core-concepts-json-ld-first.jsonld",
-      "bgColor": "#f2e5fd",
+      "bgColor": "#efe6ff",
       "parent": "#ejt2c7"
     },
     {
       "@id": "#4bfmpa",
       "name": "Pods and Resources",
-      "x": -138,
-      "y": -488,
+      "x": -172,
+      "y": -480,
       "link": "./core-concepts-pods-and-resources.jsonld",
-      "bgColor": "#f2e5fd",
+      "bgColor": "#efe6ff",
       "parent": "#ejt2c7"
     },
     {
       "@id": "#c2mpq8",
       "name": "Content Negotiation",
-      "x": 27,
-      "y": -424,
+      "x": -9,
+      "y": -425,
       "link": "./core-concepts-content-negotiation.jsonld",
-      "bgColor": "#f2e5fd",
+      "bgColor": "#efe6ff",
       "parent": "#ejt2c7"
     },
     {
       "@id": "#yykmee",
       "name": "Features",
-      "x": 204,
-      "y": -123,
+      "x": 186,
+      "y": -142,
       "link": "./features.jsonld",
-      "bgColor": "#febdc6",
+      "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
       "@id": "#7kgwkb",
       "name": "Data · 4",
-      "x": 244,
-      "y": -371,
+      "x": 203,
+      "y": -388,
       "link": "./features.jsonld",
-      "bgColor": "#ffe2e6",
+      "bgColor": "#ffe2ed",
       "parent": "#yykmee"
     },
     {
       "@id": "#x7t4w7",
       "name": "Identity and access · 7",
-      "x": 425,
-      "y": -348,
+      "x": 380,
+      "y": -384,
       "link": "./features.jsonld",
-      "bgColor": "#ffe2e6",
+      "bgColor": "#ffe2ed",
       "parent": "#yykmee"
     },
     {
       "@id": "#dsw684",
       "name": "Apps and agents · 5",
-      "x": 451,
-      "y": -183,
+      "x": 422,
+      "y": -228,
       "link": "./features.jsonld",
-      "bgColor": "#ffe2e6",
+      "bgColor": "#ffe2ed",
       "parent": "#yykmee"
     },
     {
       "@id": "#v88t4a",
       "name": "Networks · 5",
-      "x": 581,
-      "y": -88,
+      "x": 562,
+      "y": -152,
       "link": "./features.jsonld",
-      "bgColor": "#ffe2e6",
+      "bgColor": "#ffe2ed",
       "parent": "#yykmee"
     },
     {
       "@id": "#skzt29",
       "name": "Guides",
-      "x": 161,
-      "y": 163,
+      "x": 192,
+      "y": 136,
       "link": "./guides.jsonld",
-      "bgColor": "#f1c99c",
+      "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
       "@id": "#t4pwzt",
       "name": "Deploy to Production",
-      "x": 472,
-      "y": 141,
+      "x": 491,
+      "y": 78,
       "link": "./guides-deploy-production.jsonld",
-      "bgColor": "#fbe8d3",
+      "bgColor": "#ffe4d9",
       "parent": "#skzt29"
     },
     {
       "@id": "#jhaa84",
       "name": "Git on Solid",
-      "x": 482,
-      "y": 289,
+      "x": 532,
+      "y": 218,
       "link": "./guides-git-on-solid.jsonld",
-      "bgColor": "#fbe8d3",
+      "bgColor": "#ffe4d9",
       "parent": "#skzt29"
     },
     {
       "@id": "#wavvy9",
       "name": "Git Push with Nostr",
-      "x": 317,
-      "y": 329,
+      "x": 380,
+      "y": 276,
       "link": "./guides-git-push-nostr.jsonld",
-      "bgColor": "#fbe8d3",
+      "bgColor": "#ffe4d9",
       "parent": "#skzt29"
     },
     {
       "@id": "#i9w3v4",
       "name": "JSS on Android",
-      "x": 239,
-      "y": 459,
+      "x": 336,
+      "y": 412,
       "link": "./guides-jss-on-android.jsonld",
-      "bgColor": "#fbe8d3",
+      "bgColor": "#ffe4d9",
       "parent": "#skzt29"
     },
     {
       "@id": "#e9sufn",
       "name": "Connect Solid Apps",
-      "x": 76,
-      "y": 420,
+      "x": 173,
+      "y": 399,
       "link": "./guides-solid-apps.jsonld",
-      "bgColor": "#fbe8d3",
+      "bgColor": "#ffe4d9",
       "parent": "#skzt29"
     },
     {
       "@id": "#g45zx9",
       "name": "Reference",
-      "x": -161,
-      "y": 162,
+      "x": -111,
+      "y": 190,
       "link": "./reference.jsonld",
-      "bgColor": "#c1dba8",
+      "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
       "@id": "#vz8rhu",
       "name": "CLI Commands",
-      "x": -165,
-      "y": 401,
+      "x": -56,
+      "y": 422,
       "link": "./reference-cli.jsonld",
-      "bgColor": "#e3f0d8",
+      "bgColor": "#f2ecd2",
       "parent": "#g45zx9"
     },
     {
       "@id": "#35gtrs",
       "name": "Configuration",
-      "x": -323,
-      "y": 420,
+      "x": -200,
+      "y": 472,
       "link": "./reference-configuration.jsonld",
-      "bgColor": "#e3f0d8",
+      "bgColor": "#f2ecd2",
       "parent": "#g45zx9"
     },
     {
       "@id": "#fiqrfa",
       "name": "HTTP API",
-      "x": -366,
-      "y": 289,
+      "x": -273,
+      "y": 356,
       "link": "./reference-api.jsonld",
-      "bgColor": "#e3f0d8",
+      "bgColor": "#f2ecd2",
       "parent": "#g45zx9"
     },
     {
       "@id": "#fad69b",
       "name": "Pod Structure",
-      "x": -516,
-      "y": 242,
+      "x": -428,
+      "y": 345,
       "link": "./reference-pod-structure.jsonld",
-      "bgColor": "#e3f0d8",
+      "bgColor": "#f2ecd2",
       "parent": "#g45zx9"
     },
     {
       "@id": "#fnrzmm",
       "name": "Repositories",
-      "x": -247,
-      "y": 31,
+      "x": -229,
+      "y": 86,
       "link": "./org.jsonld",
-      "bgColor": "#96e1dc",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3y3s3p",
+      "name": "Source code",
+      "x": -248,
+      "y": 29,
+      "link": "./src.jsonld",
+      "bgColor": "#95e1e3",
       "parent": "#this"
     }
   ],
@@ -344,6 +353,10 @@
     {
       "start": 0,
       "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
     }
   ],
   "selectedNode": 0

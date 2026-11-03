@@ -1,0 +1,205 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "webledger.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#5xddae",
+      "name": "exports 1/2",
+      "x": -65,
+      "y": -205,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g56v86",
+      "name": "createLedger()",
+      "x": -455,
+      "y": -177,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L26",
+      "bgColor": "#daeeff",
+      "parent": "#5xddae"
+    },
+    {
+      "@id": "#7ptw38",
+      "name": "readLedger()",
+      "x": -381,
+      "y": -383,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L50",
+      "bgColor": "#daeeff",
+      "parent": "#5xddae"
+    },
+    {
+      "@id": "#hkakqp",
+      "name": "writeLedger()",
+      "x": -129,
+      "y": -411,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L80",
+      "bgColor": "#daeeff",
+      "parent": "#5xddae"
+    },
+    {
+      "@id": "#cmc5g4",
+      "name": "getBalance()",
+      "x": 104,
+      "y": -494,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L92",
+      "bgColor": "#daeeff",
+      "parent": "#5xddae"
+    },
+    {
+      "@id": "#h64kxg",
+      "name": "setBalance()",
+      "x": 290,
+      "y": -346,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L114",
+      "bgColor": "#daeeff",
+      "parent": "#5xddae"
+    },
+    {
+      "@id": "#3mw9e8",
+      "name": "exports 2/2",
+      "x": 177,
+      "y": 150,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3yvsbg",
+      "name": "credit()",
+      "x": 498,
+      "y": -40,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L151",
+      "bgColor": "#fce3f3",
+      "parent": "#3mw9e8"
+    },
+    {
+      "@id": "#ijvikk",
+      "name": "debit()",
+      "x": 555,
+      "y": 170,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L166",
+      "bgColor": "#fce3f3",
+      "parent": "#3mw9e8"
+    },
+    {
+      "@id": "#4dijv5",
+      "name": "creditOnce()",
+      "x": 354,
+      "y": 301,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L194",
+      "bgColor": "#fce3f3",
+      "parent": "#3mw9e8"
+    },
+    {
+      "@id": "#ievj7v",
+      "name": "listBalances()",
+      "x": 200,
+      "y": 472,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L209",
+      "bgColor": "#fce3f3",
+      "parent": "#3mw9e8"
+    },
+    {
+      "@id": "#ak9asq",
+      "name": "compact()",
+      "x": -47,
+      "y": 423,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js#L219",
+      "bgColor": "#fce3f3",
+      "parent": "#3mw9e8"
+    },
+    {
+      "@id": "#8vzryr",
+      "name": "228 lines",
+      "x": -177,
+      "y": 150,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webledger.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wsjdx6",
+      "name": "← src",
+      "x": -241,
+      "y": 55,
+      "link": "./src-.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 7,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

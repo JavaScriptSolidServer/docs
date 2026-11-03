@@ -1,0 +1,141 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "nostr.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#m3xps2",
+      "name": "exports",
+      "x": 196,
+      "y": -132,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yxjf84",
+      "name": "hasNostrAuth()",
+      "x": -390,
+      "y": -266,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L57",
+      "bgColor": "#daeeff",
+      "parent": "#m3xps2"
+    },
+    {
+      "@id": "#mrv4db",
+      "name": "extractNostrToken()",
+      "x": -158,
+      "y": -483,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L83",
+      "bgColor": "#daeeff",
+      "parent": "#m3xps2"
+    },
+    {
+      "@id": "#i6483q",
+      "name": "pubkeyToDidNostr()",
+      "x": 195,
+      "y": -392,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L150",
+      "bgColor": "#daeeff",
+      "parent": "#m3xps2"
+    },
+    {
+      "@id": "#kmcrgd",
+      "name": "verifyNostrAuth()",
+      "x": 509,
+      "y": -253,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L159",
+      "bgColor": "#daeeff",
+      "parent": "#m3xps2"
+    },
+    {
+      "@id": "#ktiw89",
+      "name": "verifyNostrPubkeyAgainstWebId()",
+      "x": 478,
+      "y": 124,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L577",
+      "bgColor": "#daeeff",
+      "parent": "#m3xps2"
+    },
+    {
+      "@id": "#c74y5q",
+      "name": "getNostrPubkey()",
+      "x": 264,
+      "y": 448,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L727",
+      "bgColor": "#daeeff",
+      "parent": "#m3xps2"
+    },
+    {
+      "@id": "#374kep",
+      "name": "744 lines",
+      "x": -134,
+      "y": 179,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ba2cgp",
+      "name": "← auth",
+      "x": -236,
+      "y": 70,
+      "link": "./src-auth.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

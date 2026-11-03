@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#qrspvr",
+      "@id": "#wfbk2v",
       "name": "SolidOS / Mashlib",
       "x": -225,
       "y": -92,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wfbk2v",
+      "@id": "#xetwaa",
       "name": "Solid-OIDC Apps",
       "x": -65,
       "y": -205,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#xetwaa",
+      "@id": "#wtpnjp",
       "name": "Common Apps",
       "x": 130,
       "y": -182,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wtpnjp",
+      "@id": "#7cw6cg",
       "name": "Troubleshooting",
       "x": 164,
       "y": 161,
@@ -55,34 +55,34 @@
       "parent": "#this"
     },
     {
-      "@id": "#7cw6cg",
+      "@id": "#a54nev",
       "name": "App can't parse responses",
       "x": 496,
       "y": 53,
       "link": "https://jss.live/docs/guides/solid-apps#app-cant-parse-responses",
       "bgColor": "#eeedd3",
-      "parent": "#wtpnjp"
+      "parent": "#7cw6cg"
     },
     {
-      "@id": "#a54nev",
+      "@id": "#qhb5iq",
       "name": "Login doesn't work",
       "x": 303,
       "y": 430,
       "link": "https://jss.live/docs/guides/solid-apps#login-doesnt-work",
       "bgColor": "#eeedd3",
-      "parent": "#wtpnjp"
+      "parent": "#7cw6cg"
     },
     {
-      "@id": "#qhb5iq",
+      "@id": "#nvqaxu",
       "name": "CORS errors",
       "x": -96,
       "y": 417,
       "link": "https://jss.live/docs/guides/solid-apps#cors-errors",
       "bgColor": "#eeedd3",
-      "parent": "#wtpnjp"
+      "parent": "#7cw6cg"
     },
     {
-      "@id": "#nvqaxu",
+      "@id": "#9n2fi8",
       "name": "← Guides",
       "x": -230,
       "y": 83,

@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "git.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/git.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#83zuf9",
+      "name": "exports",
+      "x": 143,
+      "y": -174,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vrzefk",
+      "name": "isGitRequest()",
+      "x": -365,
+      "y": -291,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/git.js#L11",
+      "bgColor": "#daeeff",
+      "parent": "#83zuf9"
+    },
+    {
+      "@id": "#hvyxxr",
+      "name": "isGitWriteOperation()",
+      "x": 69,
+      "y": -498,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/git.js#L22",
+      "bgColor": "#daeeff",
+      "parent": "#83zuf9"
+    },
+    {
+      "@id": "#qahfae",
+      "name": "setGitCorsHeaders()",
+      "x": 455,
+      "y": -177,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/git.js#L181",
+      "bgColor": "#daeeff",
+      "parent": "#83zuf9"
+    },
+    {
+      "@id": "#tgdsut",
+      "name": "handleGit()",
+      "x": 527,
+      "y": 225,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/git.js#L192",
+      "bgColor": "#daeeff",
+      "parent": "#83zuf9"
+    },
+    {
+      "@id": "#ijf3kk",
+      "name": "397 lines",
+      "x": -32,
+      "y": 211,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/git.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#anp567",
+      "name": "← handlers",
+      "x": -222,
+      "y": 98,
+      "link": "./src-handlers.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

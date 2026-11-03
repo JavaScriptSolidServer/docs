@@ -1,0 +1,192 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "plugins.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#xtiknb",
+      "name": "exports 1/2",
+      "x": -12,
+      "y": -212,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cyduqq",
+      "name": "makePluginLog()",
+      "x": -446,
+      "y": -192,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L58",
+      "bgColor": "#daeeff",
+      "parent": "#xtiknb"
+    },
+    {
+      "@id": "#c4smut",
+      "name": "isParamPath()",
+      "x": -359,
+      "y": -398,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L80",
+      "bgColor": "#daeeff",
+      "parent": "#xtiknb"
+    },
+    {
+      "@id": "#2h67yt",
+      "name": "compilePathPattern()",
+      "x": -75,
+      "y": -420,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L84",
+      "bgColor": "#daeeff",
+      "parent": "#xtiknb"
+    },
+    {
+      "@id": "#xahf87",
+      "name": "compileSubtreePattern()",
+      "x": 254,
+      "y": -452,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L102",
+      "bgColor": "#daeeff",
+      "parent": "#xtiknb"
+    },
+    {
+      "@id": "#xknjsu",
+      "name": "reservationKey()",
+      "x": 420,
+      "y": -231,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L113",
+      "bgColor": "#daeeff",
+      "parent": "#xtiknb"
+    },
+    {
+      "@id": "#f8wqe4",
+      "name": "exports 2/2",
+      "x": 136,
+      "y": 178,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aviq5u",
+      "name": "normalizePrefix()",
+      "x": 473,
+      "y": 138,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L120",
+      "bgColor": "#fce3f3",
+      "parent": "#f8wqe4"
+    },
+    {
+      "@id": "#xc7efr",
+      "name": "fileStem()",
+      "x": 411,
+      "y": 360,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L140",
+      "bgColor": "#fce3f3",
+      "parent": "#f8wqe4"
+    },
+    {
+      "@id": "#3e3498",
+      "name": "pluginId()",
+      "x": 161,
+      "y": 402,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L162",
+      "bgColor": "#fce3f3",
+      "parent": "#f8wqe4"
+    },
+    {
+      "@id": "#vnbjwk",
+      "name": "loadPlugins()",
+      "x": -69,
+      "y": 498,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L189",
+      "bgColor": "#fce3f3",
+      "parent": "#f8wqe4"
+    },
+    {
+      "@id": "#ar4eav",
+      "name": "464 lines",
+      "x": -175,
+      "y": 151,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zuzczj",
+      "name": "← src",
+      "x": -241,
+      "y": 56,
+      "link": "./src-.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

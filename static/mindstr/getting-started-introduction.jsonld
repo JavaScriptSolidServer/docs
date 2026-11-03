@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#tpktj6",
+      "@id": "#u94rpy",
       "name": "What is Solid?",
       "x": -181,
       "y": -147,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#u94rpy",
+      "@id": "#7txfyn",
       "name": "Why JSS?",
       "x": 165,
       "y": -160,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7txfyn",
+      "@id": "#v5njcx",
       "name": "Key Features",
       "x": 195,
       "y": 133,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#v5njcx",
+      "@id": "#z8kicz",
       "name": "← Getting Started",
       "x": -165,
       "y": 160,

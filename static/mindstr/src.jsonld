@@ -1,0 +1,324 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "JavaScriptSolidServer source",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/tree/fix/post-any-content-type/src",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#wvr5de",
+      "name": "ap/ · 3 files, 28 exports",
+      "x": -294,
+      "y": -20,
+      "link": "./src-ap.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gbn8c4",
+      "name": "auth/ · 10 files, 37 exports",
+      "x": -230,
+      "y": -63,
+      "link": "./src-auth.jsonld",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sfmbqd",
+      "name": "cli/ · 1 files, 1 exports",
+      "x": -196,
+      "y": -107,
+      "link": "./src-cli.jsonld",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k6gbtk",
+      "name": "db/ · 2 files, 9 exports",
+      "x": -151,
+      "y": -152,
+      "link": "./src-db.jsonld",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bsvecc",
+      "name": "handlers/ · 5 files, 19 exports",
+      "x": -123,
+      "y": -196,
+      "link": "./src-handlers.jsonld",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nqwhp5",
+      "name": "idp/ · 13 files, 67 exports",
+      "x": -20,
+      "y": -288,
+      "link": "./src-idp.jsonld",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4ddtfz",
+      "name": "keys/ · 1 files, 9 exports",
+      "x": 48,
+      "y": -242,
+      "link": "./src-keys.jsonld",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kg5gyc",
+      "name": "ldp/ · 2 files, 8 exports",
+      "x": 127,
+      "y": -197,
+      "link": "./src-ldp.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wm3jqn",
+      "name": "mashlib/ · 1 files, 6 exports",
+      "x": 166,
+      "y": -153,
+      "link": "./src-mashlib.jsonld",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dk3qrv",
+      "name": "mcp/ · 4 files, 15 exports",
+      "x": 211,
+      "y": -109,
+      "link": "./src-mcp.jsonld",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#42e9f9",
+      "name": "nostr/ · 2 files, 8 exports",
+      "x": 239,
+      "y": -64,
+      "link": "./src-nostr.jsonld",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#67im5f",
+      "name": "notifications/ · 3 files, 9 exports",
+      "x": 333,
+      "y": 3,
+      "link": "./src-notifications.jsonld",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2s3p2q",
+      "name": "patch/ · 3 files, 11 exports",
+      "x": 237,
+      "y": 63,
+      "link": "./src-patch.jsonld",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3iptbx",
+      "name": "rdf/ · 2 files, 13 exports",
+      "x": 206,
+      "y": 105,
+      "link": "./src-rdf.jsonld",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t582wt",
+      "name": "storage/ · 2 files, 22 exports",
+      "x": 159,
+      "y": 151,
+      "link": "./src-storage.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8feax3",
+      "name": "terminal/ · 1 files, 2 exports",
+      "x": 132,
+      "y": 195,
+      "link": "./src-terminal.jsonld",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#86megc",
+      "name": "tunnel/ · 1 files, 2 exports",
+      "x": 24,
+      "y": 290,
+      "link": "./src-tunnel.jsonld",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jzaxer",
+      "name": "ui/ · 1 files, 3 exports",
+      "x": -42,
+      "y": 246,
+      "link": "./src-ui.jsonld",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9mz5yc",
+      "name": "utils/ · 5 files, 23 exports",
+      "x": -127,
+      "y": 202,
+      "link": "./src-utils.jsonld",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2vy2cx",
+      "name": "wac/ · 2 files, 13 exports",
+      "x": -163,
+      "y": 158,
+      "link": "./src-wac.jsonld",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vih7v4",
+      "name": "webid/ · 1 files, 5 exports",
+      "x": -208,
+      "y": 114,
+      "link": "./src-webid.jsonld",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wmzib5",
+      "name": "webrtc/ · 1 files, 2 exports",
+      "x": -238,
+      "y": 68,
+      "link": "./src-webrtc.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5ypcqw",
+      "name": "src/*.js · 8",
+      "x": -249,
+      "y": 24,
+      "link": "./src-.jsonld",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    }
+  ],
+  "selectedNode": 0
+}

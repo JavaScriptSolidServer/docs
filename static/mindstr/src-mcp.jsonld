@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "src/mcp/",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/tree/fix/post-any-content-type/src/mcp",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#mesfa4",
+      "name": "index.js",
+      "x": -203,
+      "y": -125,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/index.js",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ek2jcm",
+      "name": "mcpPlugin()",
+      "x": -405,
+      "y": -249,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/index.js#L159",
+      "bgColor": "#daeeff",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#uja84e",
+      "name": "protocol.js · 8",
+      "x": 78,
+      "y": -202,
+      "link": "./src-mcp-protocol-js.jsonld",
+      "bgColor": "#e9c1ef",
+      "parent": "#this"
+    },
+    {
+      "@id": "#78sngm",
+      "name": "skills.js · 3",
+      "x": 250,
+      "y": 2,
+      "link": "./src-mcp-skills-js.jsonld",
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#58pkgm",
+      "name": "tools.js · 3",
+      "x": 76,
+      "y": 203,
+      "link": "./src-mcp-tools-js.jsonld",
+      "bgColor": "#d7d59b",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7jxpjz",
+      "name": "← src/",
+      "x": -203,
+      "y": 125,
+      "link": "./src.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

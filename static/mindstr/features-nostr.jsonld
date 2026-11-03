@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#7cv7qa",
+      "@id": "#4evz5w",
       "name": "Quick Start",
       "x": -244,
       "y": -45,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4evz5w",
+      "@id": "#vh32g5",
       "name": "Configuration",
       "x": -200,
       "y": -128,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#vh32g5",
+      "@id": "#6ktxue",
       "name": "Supported NIPs",
       "x": -139,
       "y": -187,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#6ktxue",
+      "@id": "#qrakrq",
       "name": "Event Kinds",
       "x": -5,
       "y": -212,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#qrakrq",
+      "@id": "#ppuaac",
       "name": "Protocol",
       "x": 179,
       "y": -149,
@@ -64,34 +64,34 @@
       "parent": "#this"
     },
     {
-      "@id": "#ppuaac",
+      "@id": "#f77hg7",
       "name": "EVENT",
       "x": 211,
       "y": -385,
       "link": "https://jss.live/docs/features/nostr#event",
       "bgColor": "#f2ecd2",
-      "parent": "#qrakrq"
+      "parent": "#ppuaac"
     },
     {
-      "@id": "#f77hg7",
+      "@id": "#kpihvt",
       "name": "REQ",
       "x": 422,
       "y": -351,
       "link": "https://jss.live/docs/features/nostr#req",
       "bgColor": "#f2ecd2",
-      "parent": "#qrakrq"
+      "parent": "#ppuaac"
     },
     {
-      "@id": "#kpihvt",
+      "@id": "#k58b5b",
       "name": "CLOSE",
       "x": 458,
       "y": -171,
       "link": "https://jss.live/docs/features/nostr#close",
       "bgColor": "#f2ecd2",
-      "parent": "#qrakrq"
+      "parent": "#ppuaac"
     },
     {
-      "@id": "#k58b5b",
+      "@id": "#htircd",
       "name": "Relay Information",
       "x": 248,
       "y": 24,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#htircd",
+      "@id": "#sixamq",
       "name": "Rate Limiting",
       "x": 211,
       "y": 114,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#sixamq",
+      "@id": "#j99zi5",
       "name": "NIP-98 HTTP Authentication",
       "x": 148,
       "y": 178,
@@ -118,16 +118,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#j99zi5",
+      "@id": "#kwrapz",
       "name": "Browser Login",
       "x": 271,
       "y": 357,
       "link": "https://jss.live/docs/features/nostr#browser-login",
       "bgColor": "#daeeff",
-      "parent": "#sixamq"
+      "parent": "#j99zi5"
     },
     {
-      "@id": "#kwrapz",
+      "@id": "#n3epze",
       "name": "Identity Linking",
       "x": -51,
       "y": 209,
@@ -136,25 +136,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#n3epze",
+      "@id": "#42eis4",
       "name": "Nostr → ActivityPub",
       "x": 27,
       "y": 424,
       "link": "https://jss.live/docs/features/nostr#nostr-activitypub",
       "bgColor": "#efe6ff",
-      "parent": "#kwrapz"
+      "parent": "#n3epze"
     },
     {
-      "@id": "#42eis4",
+      "@id": "#f65d8e",
       "name": "did:nostr Resolution",
       "x": -227,
       "y": 463,
       "link": "https://jss.live/docs/features/nostr#didnostr-resolution",
       "bgColor": "#efe6ff",
-      "parent": "#kwrapz"
+      "parent": "#n3epze"
     },
     {
-      "@id": "#f65d8e",
+      "@id": "#ncsetq",
       "name": "Storage",
       "x": -200,
       "y": 128,
@@ -163,7 +163,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ncsetq",
+      "@id": "#b9nzdc",
       "name": "← Features",
       "x": -244,
       "y": 45,

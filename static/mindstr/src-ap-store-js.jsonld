@@ -1,0 +1,360 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "store.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#skzt29",
+      "name": "exports 1/3",
+      "x": -173,
+      "y": -219,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t4pwzt",
+      "name": "initStore()",
+      "x": -482,
+      "y": -112,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L64",
+      "bgColor": "#daeeff",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#jhaa84",
+      "name": "getStore()",
+      "x": -522,
+      "y": -234,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L107",
+      "bgColor": "#daeeff",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#wavvy9",
+      "name": "addFollower()",
+      "x": -381,
+      "y": -276,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L145",
+      "bgColor": "#daeeff",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#i9w3v4",
+      "name": "removeFollower()",
+      "x": -353,
+      "y": -403,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L152",
+      "bgColor": "#daeeff",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#e9sufn",
+      "name": "getFollowers()",
+      "x": -199,
+      "y": -390,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L156",
+      "bgColor": "#daeeff",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#g45zx9",
+      "name": "getFollowerCount()",
+      "x": -102,
+      "y": -494,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L160",
+      "bgColor": "#daeeff",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#vz8rhu",
+      "name": "getFollowerInboxes()",
+      "x": 47,
+      "y": -423,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L165",
+      "bgColor": "#daeeff",
+      "parent": "#skzt29"
+    },
+    {
+      "@id": "#35gtrs",
+      "name": "exports 2/3",
+      "x": 304,
+      "y": -54,
+      "bgColor": "#e9c1ef",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fiqrfa",
+      "name": "addFollowing()",
+      "x": 302,
+      "y": -337,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L172",
+      "bgColor": "#f7e4f9",
+      "parent": "#35gtrs"
+    },
+    {
+      "@id": "#fad69b",
+      "name": "acceptFollowing()",
+      "x": 460,
+      "y": -316,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L179",
+      "bgColor": "#f7e4f9",
+      "parent": "#35gtrs"
+    },
+    {
+      "@id": "#fnrzmm",
+      "name": "removeFollowing()",
+      "x": 453,
+      "y": -180,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L183",
+      "bgColor": "#f7e4f9",
+      "parent": "#35gtrs"
+    },
+    {
+      "@id": "#3y3s3p",
+      "name": "getFollowing()",
+      "x": 578,
+      "y": -102,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L187",
+      "bgColor": "#f7e4f9",
+      "parent": "#35gtrs"
+    },
+    {
+      "@id": "#ujs2ci",
+      "name": "getFollowingCount()",
+      "x": 500,
+      "y": 16,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L191",
+      "bgColor": "#f7e4f9",
+      "parent": "#35gtrs"
+    },
+    {
+      "@id": "#442pm7",
+      "name": "saveActivity()",
+      "x": 567,
+      "y": 140,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L198",
+      "bgColor": "#f7e4f9",
+      "parent": "#35gtrs"
+    },
+    {
+      "@id": "#imr4n9",
+      "name": "getActivities()",
+      "x": 438,
+      "y": 205,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L211",
+      "bgColor": "#f7e4f9",
+      "parent": "#35gtrs"
+    },
+    {
+      "@id": "#tpktj6",
+      "name": "exports 3/3",
+      "x": -38,
+      "y": 261,
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u94rpy",
+      "name": "savePost()",
+      "x": 258,
+      "y": 364,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L221",
+      "bgColor": "#ffe3dc",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#7txfyn",
+      "name": "getPosts()",
+      "x": 187,
+      "y": 476,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L228",
+      "bgColor": "#ffe3dc",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#v5njcx",
+      "name": "getPost()",
+      "x": 51,
+      "y": 423,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L232",
+      "bgColor": "#ffe3dc",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#z8kicz",
+      "name": "getPostCount()",
+      "x": -69,
+      "y": 498,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L236",
+      "bgColor": "#ffe3dc",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#7348h9",
+      "name": "cacheActor()",
+      "x": -165,
+      "y": 401,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L243",
+      "bgColor": "#ffe3dc",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#jtny2v",
+      "name": "getCachedActor()",
+      "x": -315,
+      "y": 424,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L250",
+      "bgColor": "#ffe3dc",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#zvvi4r",
+      "name": "default export",
+      "x": -355,
+      "y": 299,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js#L255",
+      "bgColor": "#ffe3dc",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#ezqtt6",
+      "name": "277 lines",
+      "x": -231,
+      "y": 81,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/store.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8edjsn",
+      "name": "← ap",
+      "x": -248,
+      "y": 28,
+      "link": "./src-ap.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 1,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 9,
+      "end": 15
+    },
+    {
+      "start": 9,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 17,
+      "end": 22
+    },
+    {
+      "start": 17,
+      "end": 23
+    },
+    {
+      "start": 17,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

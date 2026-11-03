@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "src/patch/",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/tree/fix/post-any-content-type/src/patch",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#rp2kdh",
+      "name": "n3-patch.js · 3",
+      "x": -208,
+      "y": -118,
+      "link": "./src-patch-n3-patch-js.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6c8mfm",
+      "name": "quads.js · 6",
+      "x": 44,
+      "y": -209,
+      "link": "./src-patch-quads-js.jsonld",
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uhqyuf",
+      "name": "sparql-update.js",
+      "x": 208,
+      "y": 118,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/sparql-update.js",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gkdxt6",
+      "name": "parseSparqlUpdate()",
+      "x": 500,
+      "y": -1,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/sparql-update.js#L22",
+      "bgColor": "#fbe8d3",
+      "parent": "#uhqyuf"
+    },
+    {
+      "@id": "#ujfctz",
+      "name": "applySparqlUpdate()",
+      "x": 227,
+      "y": 463,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/sparql-update.js#L242",
+      "bgColor": "#fbe8d3",
+      "parent": "#uhqyuf"
+    },
+    {
+      "@id": "#5if5dv",
+      "name": "← src/",
+      "x": -210,
+      "y": 116,
+      "link": "./src.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,167 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "conneg.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#7xg3ip",
+      "name": "exports",
+      "x": 256,
+      "y": -149,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y43huz",
+      "name": "RDF_TYPES()",
+      "x": -395,
+      "y": -260,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js#L13",
+      "bgColor": "#daeeff",
+      "parent": "#7xg3ip"
+    },
+    {
+      "@id": "#4j26c6",
+      "name": "selectContentType()",
+      "x": -204,
+      "y": -471,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js#L33",
+      "bgColor": "#daeeff",
+      "parent": "#7xg3ip"
+    },
+    {
+      "@id": "#uaafj4",
+      "name": "isRdfType()",
+      "x": 102,
+      "y": -416,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js#L89",
+      "bgColor": "#daeeff",
+      "parent": "#7xg3ip"
+    },
+    {
+      "@id": "#v8kw9g",
+      "name": "canAcceptInput()",
+      "x": 392,
+      "y": -375,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js#L100",
+      "bgColor": "#daeeff",
+      "parent": "#7xg3ip"
+    },
+    {
+      "@id": "#ah8myn",
+      "name": "toJsonLd()",
+      "x": 474,
+      "y": -135,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js#L135",
+      "bgColor": "#daeeff",
+      "parent": "#7xg3ip"
+    },
+    {
+      "@id": "#5z6jht",
+      "name": "fromJsonLd()",
+      "x": 580,
+      "y": 90,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js#L160",
+      "bgColor": "#daeeff",
+      "parent": "#7xg3ip"
+    },
+    {
+      "@id": "#wmw2zs",
+      "name": "getVaryHeader()",
+      "x": 386,
+      "y": 270,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js#L201",
+      "bgColor": "#daeeff",
+      "parent": "#7xg3ip"
+    },
+    {
+      "@id": "#vfmmq5",
+      "name": "getAcceptHeaders()",
+      "x": 192,
+      "y": 474,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js#L223",
+      "bgColor": "#daeeff",
+      "parent": "#7xg3ip"
+    },
+    {
+      "@id": "#pcr96u",
+      "name": "240 lines",
+      "x": -155,
+      "y": 167,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/rdf/conneg.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9b7nqt",
+      "name": "← rdf",
+      "x": -239,
+      "y": 63,
+      "link": "./src-rdf.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 1,
+      "end": 8
+    },
+    {
+      "start": 1,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "ssrf.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/ssrf.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#d6tkb9",
+      "name": "exports",
+      "x": 95,
+      "y": -197,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tefhrg",
+      "name": "isPrivateIP()",
+      "x": -345,
+      "y": -308,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/ssrf.js#L15",
+      "bgColor": "#daeeff",
+      "parent": "#d6tkb9"
+    },
+    {
+      "@id": "#qmxg97",
+      "name": "validateExternalUrl()",
+      "x": 224,
+      "y": -464,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/ssrf.js#L70",
+      "bgColor": "#daeeff",
+      "parent": "#d6tkb9"
+    },
+    {
+      "@id": "#g4d8c6",
+      "name": "safeFetch()",
+      "x": 500,
+      "y": -14,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/ssrf.js#L149",
+      "bgColor": "#daeeff",
+      "parent": "#d6tkb9"
+    },
+    {
+      "@id": "#yzue8k",
+      "name": "158 lines",
+      "x": 50,
+      "y": 208,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/utils/ssrf.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7jcj9y",
+      "name": "← utils",
+      "x": -208,
+      "y": 118,
+      "link": "./src-utils.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#9incsq",
+      "@id": "#gwp9qx",
       "name": "Path-based",
       "x": -218,
       "y": -104,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#gwp9qx",
+      "@id": "#7csjb6",
       "name": "Subdomain-based",
       "x": -6,
       "y": -212,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7csjb6",
+      "@id": "#cyfvb8",
       "name": "Comparison",
       "x": 211,
       "y": -113,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cyfvb8",
+      "@id": "#ngjuhg",
       "name": "DNS Configuration",
       "x": 217,
       "y": 106,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ngjuhg",
+      "@id": "#ad25k5",
       "name": "Pod URLs",
       "x": -9,
       "y": 212,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ad25k5",
+      "@id": "#6zhwac",
       "name": "← Features",
       "x": -218,
       "y": 104,

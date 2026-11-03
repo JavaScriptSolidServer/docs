@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "tools.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/tools.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#7ikicx",
+      "name": "exports",
+      "x": 84,
+      "y": -200,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ice2bk",
+      "name": "TOOLS()",
+      "x": -340,
+      "y": -311,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/tools.js#L607",
+      "bgColor": "#daeeff",
+      "parent": "#7ikicx"
+    },
+    {
+      "@id": "#scytyn",
+      "name": "listToolsForRpc()",
+      "x": 198,
+      "y": -472,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/tools.js#L783",
+      "bgColor": "#daeeff",
+      "parent": "#7ikicx"
+    },
+    {
+      "@id": "#jbhqgv",
+      "name": "callTool()",
+      "x": 495,
+      "y": -58,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/tools.js#L794",
+      "bgColor": "#daeeff",
+      "parent": "#7ikicx"
+    },
+    {
+      "@id": "#5seuyw",
+      "name": "805 lines",
+      "x": 67,
+      "y": 205,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/tools.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nm5hts",
+      "name": "← mcp",
+      "x": -204,
+      "y": 122,
+      "link": "./src-mcp.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

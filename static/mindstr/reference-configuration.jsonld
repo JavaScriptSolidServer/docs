@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#fuxupn",
+      "@id": "#5m2ws9",
       "name": "Priority",
       "x": -208,
       "y": -118,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#5m2ws9",
+      "@id": "#bbimsx",
       "name": "Environment Variables",
       "x": 95,
       "y": -197,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#bbimsx",
+      "@id": "#drrwuk",
       "name": "Config File",
       "x": 246,
       "y": 40,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#drrwuk",
+      "@id": "#nsm2yi",
       "name": "All Options",
       "x": 50,
       "y": 208,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#nsm2yi",
+      "@id": "#2xe78q",
       "name": "← Reference",
       "x": -208,
       "y": 118,

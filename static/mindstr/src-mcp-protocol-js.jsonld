@@ -1,0 +1,167 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "protocol.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#5h5cc9",
+      "name": "exports",
+      "x": 253,
+      "y": -153,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2682x9",
+      "name": "PROTOCOL_VERSION()",
+      "x": -380,
+      "y": -276,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L12",
+      "bgColor": "#daeeff",
+      "parent": "#5h5cc9"
+    },
+    {
+      "@id": "#dgxw48",
+      "name": "SERVER_INFO()",
+      "x": -175,
+      "y": -479,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L14",
+      "bgColor": "#daeeff",
+      "parent": "#5h5cc9"
+    },
+    {
+      "@id": "#3m2wcm",
+      "name": "RPC_ERRORS()",
+      "x": 108,
+      "y": -415,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L20",
+      "bgColor": "#daeeff",
+      "parent": "#5h5cc9"
+    },
+    {
+      "@id": "#4ad697",
+      "name": "rpcResult()",
+      "x": 396,
+      "y": -372,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L32",
+      "bgColor": "#daeeff",
+      "parent": "#5h5cc9"
+    },
+    {
+      "@id": "#z237xc",
+      "name": "rpcError()",
+      "x": 475,
+      "y": -132,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L36",
+      "bgColor": "#daeeff",
+      "parent": "#5h5cc9"
+    },
+    {
+      "@id": "#ern3ds",
+      "name": "toolText()",
+      "x": 578,
+      "y": 102,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L42",
+      "bgColor": "#daeeff",
+      "parent": "#5h5cc9"
+    },
+    {
+      "@id": "#cixa8i",
+      "name": "toolError()",
+      "x": 375,
+      "y": 281,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L46",
+      "bgColor": "#daeeff",
+      "parent": "#5h5cc9"
+    },
+    {
+      "@id": "#w8ga4c",
+      "name": "toolJson()",
+      "x": 190,
+      "y": 475,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L50",
+      "bgColor": "#daeeff",
+      "parent": "#5h5cc9"
+    },
+    {
+      "@id": "#eud4cc",
+      "name": "53 lines",
+      "x": -150,
+      "y": 170,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5mb355",
+      "name": "← mcp",
+      "x": -238,
+      "y": 65,
+      "link": "./src-mcp.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 1,
+      "end": 8
+    },
+    {
+      "start": 1,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#s9du6c",
+      "@id": "#tjeu4p",
       "name": "CDN Mode",
       "x": -217,
       "y": -106,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#tjeu4p",
+      "@id": "#x9rczq",
       "name": "Local Mode",
       "x": 0,
       "y": -212,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#x9rczq",
+      "@id": "#48j6uy",
       "name": "How it works",
       "x": 217,
       "y": -106,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#48j6uy",
+      "@id": "#9kbx2m",
       "name": "Requirements",
       "x": 217,
       "y": 106,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#9kbx2m",
+      "@id": "#9gbbfy",
       "name": "Profile Pages",
       "x": 0,
       "y": 213,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#9gbbfy",
+      "@id": "#kue24d",
       "name": "← Features",
       "x": -217,
       "y": 106,
