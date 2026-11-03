@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "micropub: an IndieWeb Micropub server over your own pod",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/micropub",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#f6qx4w",
+      "name": "A curl session",
+      "x": -247,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#a-curl-session",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#su9mmy",
+      "name": "What maps / what doesn't",
+      "x": -209,
+      "y": -116,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#what-maps-what-doesnt",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#puabcz",
+      "name": "Findings",
+      "x": 249,
+      "y": -64,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#findings",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pggewd",
+      "name": "The token bridge, fourth witness",
+      "x": -64,
+      "y": -422,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#1-the-token-bridge-fourth-witness-and-the-purest-one",
+      "bgColor": "#ffe2e6",
+      "parent": "#puabcz"
+    },
+    {
+      "@id": "#7cv7qa",
+      "name": "Media endpoint blocked on the streaming-body primitive",
+      "x": 309,
+      "y": -427,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#2-media-endpoint-blocked-on-the-streaming-body-primitive-583",
+      "bgColor": "#ffe2e6",
+      "parent": "#puabcz"
+    },
+    {
+      "@id": "#4evz5w",
+      "name": "Endpoint discovery needs headers on routes the plugin doesn't own",
+      "x": 497,
+      "y": -108,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#3-endpoint-discovery-needs-headers-on-routes-the-plugin-doesnt-own",
+      "bgColor": "#ffe2e6",
+      "parent": "#puabcz"
+    },
+    {
+      "@id": "#vh32g5",
+      "name": "Counter-witness: the one-prefix model fits Micropub exactly",
+      "x": 396,
+      "y": 372,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#4-counter-witness-the-one-prefix-model-fits-micropub-exactly",
+      "bgColor": "#ffe2e6",
+      "parent": "#puabcz"
+    },
+    {
+      "@id": "#6ktxue",
+      "name": "Small mercies that just worked",
+      "x": 18,
+      "y": 425,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#5-small-mercies-that-just-worked",
+      "bgColor": "#ffe2e6",
+      "parent": "#puabcz"
+    },
+    {
+      "@id": "#qrakrq",
+      "name": "plugin.js",
+      "x": -168,
+      "y": 158,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/plugin.js",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ppuaac",
+      "name": "activate()",
+      "x": -335,
+      "y": 315,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/plugin.js#L96",
+      "bgColor": "#fbe8d3",
+      "parent": "#qrakrq"
+    },
+    {
+      "@id": "#f77hg7",
+      "name": "test.js",
+      "x": -219,
+      "y": 109,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kpihvt",
+      "name": "← JSS plugins",
+      "x": -247,
+      "y": 65,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

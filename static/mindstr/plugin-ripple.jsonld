@@ -1,0 +1,298 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "ripple: Fugger-classic trustlines as a JSS plugin",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/ripple",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ice2bk",
+      "name": "The model",
+      "x": -247,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#the-model",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#scytyn",
+      "name": "Endpoints",
+      "x": -223,
+      "y": -109,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#endpoints",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jbhqgv",
+      "name": "Findings",
+      "x": -177,
+      "y": -153,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#findings",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5seuyw",
+      "name": "Flavours",
+      "x": -121,
+      "y": -197,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#flavours-the-sequence",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nm5hts",
+      "name": "Test",
+      "x": -36,
+      "y": -210,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#test",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mesfa4",
+      "name": "plugin.js",
+      "x": 276,
+      "y": 119,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ek2jcm",
+      "name": "toMicro()",
+      "x": 219,
+      "y": -382,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L75",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#uja84e",
+      "name": "fromMicro()",
+      "x": 388,
+      "y": -378,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L83",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#78sngm",
+      "name": "pair()",
+      "x": 415,
+      "y": -237,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L86",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#58pkgm",
+      "name": "pairKey()",
+      "x": 559,
+      "y": -162,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L87",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#7jxpjz",
+      "name": "lineKey()",
+      "x": 499,
+      "y": -28,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L88",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#qrspvr",
+      "name": "debtOf()",
+      "x": 578,
+      "y": 99,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L91",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#wfbk2v",
+      "name": "adjustDebt()",
+      "x": 448,
+      "y": 189,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L97",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#xetwaa",
+      "name": "capacityOf()",
+      "x": 442,
+      "y": 332,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L105",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#wtpnjp",
+      "name": "normalizeAgent()",
+      "x": 272,
+      "y": 357,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L122",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#7cw6cg",
+      "name": "findPath()",
+      "x": 176,
+      "y": 479,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L131",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#a54nev",
+      "name": "canonicalize()",
+      "x": 20,
+      "y": 425,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L168",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#qhb5iq",
+      "name": "entryHash()",
+      "x": -130,
+      "y": 489,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L189",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#nvqaxu",
+      "name": "activate()",
+      "x": -233,
+      "y": 376,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L196",
+      "bgColor": "#ddf2de",
+      "parent": "#mesfa4"
+    },
+    {
+      "@id": "#9n2fi8",
+      "name": "test.js",
+      "x": -223,
+      "y": 109,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#27czbt",
+      "name": "← JSS plugins",
+      "x": -247,
+      "y": 65,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 6,
+      "end": 12
+    },
+    {
+      "start": 6,
+      "end": 13
+    },
+    {
+      "start": 6,
+      "end": 14
+    },
+    {
+      "start": 6,
+      "end": 15
+    },
+    {
+      "start": 6,
+      "end": 16
+    },
+    {
+      "start": 6,
+      "end": 17
+    },
+    {
+      "start": 6,
+      "end": 18
+    },
+    {
+      "start": 6,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    }
+  ],
+  "selectedNode": 0
+}

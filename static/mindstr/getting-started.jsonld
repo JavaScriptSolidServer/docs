@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ujs2ci",
+      "@id": "#imr4n9",
       "name": "Installation",
       "x": -177,
       "y": -150,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#442pm7",
+      "@id": "#tpktj6",
       "name": "First Run",
       "x": 177,
       "y": -150,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#imr4n9",
+      "@id": "#u94rpy",
       "name": "Quick Start",
       "x": 177,
       "y": 150,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#tpktj6",
+      "@id": "#7txfyn",
       "name": "← JSS docs",
       "x": -177,
       "y": 150,

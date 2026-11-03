@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#cnh2fk",
+      "@id": "#5aggpq",
       "name": "Data",
       "x": -210,
       "y": -115,
@@ -27,43 +27,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#dk76uz",
+      "@id": "#eqmaaw",
       "name": "LDP CRUD Operations",
       "x": -488,
       "y": -92,
       "link": "./features-ldp-crud.jsonld",
       "bgColor": "#daeeff",
-      "parent": "#cnh2fk"
+      "parent": "#5aggpq"
     },
     {
-      "@id": "#5aggpq",
+      "@id": "#pjbq25",
       "name": "Patching Data",
       "x": -532,
       "y": -217,
       "link": "./features-patching.jsonld",
       "bgColor": "#daeeff",
-      "parent": "#cnh2fk"
+      "parent": "#5aggpq"
     },
     {
-      "@id": "#eqmaaw",
+      "@id": "#tz98k5",
       "name": "Live Reload",
       "x": -397,
       "y": -259,
       "link": "./features-live-reload.jsonld",
       "bgColor": "#daeeff",
-      "parent": "#cnh2fk"
+      "parent": "#5aggpq"
     },
     {
-      "@id": "#pjbq25",
+      "@id": "#437yyk",
       "name": "WebSocket Notifications",
       "x": -364,
       "y": -394,
       "link": "./features-websocket-notifications.jsonld",
       "bgColor": "#daeeff",
-      "parent": "#cnh2fk"
+      "parent": "#5aggpq"
     },
     {
-      "@id": "#tz98k5",
+      "@id": "#j3k2bu",
       "name": "Identity and access",
       "x": 175,
       "y": -217,
@@ -71,70 +71,70 @@
       "parent": "#this"
     },
     {
-      "@id": "#437yyk",
+      "@id": "#uhqx6j",
       "name": "Authentication",
       "x": -79,
       "y": -420,
       "link": "./features-authentication.jsonld",
       "bgColor": "#f7e4f9",
-      "parent": "#tz98k5"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#j3k2bu",
+      "@id": "#aurbbn",
       "name": "Access Control",
       "x": 28,
       "y": -501,
       "link": "./features-access-control.jsonld",
       "bgColor": "#f7e4f9",
-      "parent": "#tz98k5"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#uhqx6j",
+      "@id": "#fxz322",
       "name": "Account Management",
       "x": 113,
       "y": -409,
       "link": "./features-account-management.jsonld",
       "bgColor": "#f7e4f9",
-      "parent": "#tz98k5"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#aurbbn",
+      "@id": "#s77s87",
       "name": "LWS / Controlled Identifiers",
       "x": 327,
       "y": -423,
       "link": "./features-lws.jsonld",
       "bgColor": "#f7e4f9",
-      "parent": "#tz98k5"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#fxz322",
+      "@id": "#k73rni",
       "name": "Multi-User Pods",
       "x": 374,
       "y": -288,
       "link": "./features-multi-user-pods.jsonld",
       "bgColor": "#f7e4f9",
-      "parent": "#tz98k5"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#s77s87",
+      "@id": "#r8zm2z",
       "name": "Quotas & Invites",
       "x": 515,
       "y": -242,
       "link": "./features-quotas-and-invites.jsonld",
       "bgColor": "#f7e4f9",
-      "parent": "#tz98k5"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#k73rni",
+      "@id": "#wzv4c3",
       "name": "Inbox & Spam Mitigation",
       "x": 484,
       "y": -107,
       "link": "./features-inbox-and-spam-mitigation.jsonld",
       "bgColor": "#f7e4f9",
-      "parent": "#tz98k5"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#r8zm2z",
+      "@id": "#7fnz2s",
       "name": "Apps and agents",
       "x": 181,
       "y": 146,
@@ -142,52 +142,52 @@
       "parent": "#this"
     },
     {
-      "@id": "#wzv4c3",
+      "@id": "#p89exh",
       "name": "Installing Apps",
       "x": 481,
       "y": 115,
       "link": "./features-app-install.jsonld",
       "bgColor": "#ffe3dc",
-      "parent": "#r8zm2z"
+      "parent": "#7fnz2s"
     },
     {
-      "@id": "#7fnz2s",
+      "@id": "#urtpxv",
       "name": "Plugins & Application Mounts",
       "x": 502,
       "y": 263,
       "link": "./features-plugins.jsonld",
       "bgColor": "#ffe3dc",
-      "parent": "#r8zm2z"
+      "parent": "#7fnz2s"
     },
     {
-      "@id": "#p89exh",
+      "@id": "#4dg5c4",
       "name": "Mashlib UI",
       "x": 338,
       "y": 313,
       "link": "./features-mashlib-ui.jsonld",
       "bgColor": "#ffe3dc",
-      "parent": "#r8zm2z"
+      "parent": "#7fnz2s"
     },
     {
-      "@id": "#urtpxv",
+      "@id": "#kwm3he",
       "name": "MCP",
       "x": 300,
       "y": 432,
       "link": "./features-mcp.jsonld",
       "bgColor": "#ffe3dc",
-      "parent": "#r8zm2z"
+      "parent": "#7fnz2s"
     },
     {
-      "@id": "#4dg5c4",
+      "@id": "#qvd9cw",
       "name": "Charlie",
       "x": 161,
       "y": 403,
       "link": "./features-charlie.jsonld",
       "bgColor": "#ffe3dc",
-      "parent": "#r8zm2z"
+      "parent": "#7fnz2s"
     },
     {
-      "@id": "#kwm3he",
+      "@id": "#sf37xb",
       "name": "Networks",
       "x": -143,
       "y": 175,
@@ -195,52 +195,52 @@
       "parent": "#this"
     },
     {
-      "@id": "#qvd9cw",
+      "@id": "#fuhjpf",
       "name": "Git Integration",
       "x": -54,
       "y": 422,
       "link": "./features-git-integration.jsonld",
       "bgColor": "#eeedd3",
-      "parent": "#kwm3he"
+      "parent": "#sf37xb"
     },
     {
-      "@id": "#sf37xb",
+      "@id": "#dry8wx",
       "name": "ActivityPub Federation",
       "x": -206,
       "y": 470,
       "link": "./features-activitypub.jsonld",
       "bgColor": "#eeedd3",
-      "parent": "#kwm3he"
+      "parent": "#sf37xb"
     },
     {
-      "@id": "#fuhjpf",
+      "@id": "#rmckuv",
       "name": "Nostr Relay",
       "x": -281,
       "y": 350,
       "link": "./features-nostr.jsonld",
       "bgColor": "#eeedd3",
-      "parent": "#kwm3he"
+      "parent": "#sf37xb"
     },
     {
-      "@id": "#dry8wx",
+      "@id": "#6cicry",
       "name": "End-to-End Encryption",
       "x": -441,
       "y": 334,
       "link": "./features-e2ee.jsonld",
       "bgColor": "#eeedd3",
-      "parent": "#kwm3he"
+      "parent": "#sf37xb"
     },
     {
-      "@id": "#rmckuv",
+      "@id": "#7c28q6",
       "name": "HTTP 402 Payments",
       "x": -444,
       "y": 195,
       "link": "./features-payments.jsonld",
       "bgColor": "#eeedd3",
-      "parent": "#kwm3he"
+      "parent": "#sf37xb"
     },
     {
-      "@id": "#6cicry",
+      "@id": "#4qbh3e",
       "name": "← JSS docs",
       "x": -248,
       "y": 26,

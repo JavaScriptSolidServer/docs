@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "bluesky: an AT-Protocol (Bluesky) XRPC shim over your own p",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/bluesky",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#fxz322",
+      "name": "The vertical slice",
+      "x": -246,
+      "y": -64,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/README.md#the-vertical-slice",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s77s87",
+      "name": "XRPC endpoint coverage",
+      "x": -213,
+      "y": -111,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/README.md#xrpc-endpoint-coverage",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k73rni",
+      "name": "The createSession → pod-credentials bridge",
+      "x": -113,
+      "y": -176,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/README.md#the-createsession-pod-credentials-bridge",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8zm2z",
+      "name": "Object mapping",
+      "x": 7,
+      "y": -220,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/README.md#object-mapping-at-pod",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wzv4c3",
+      "name": "Findings",
+      "x": 240,
+      "y": 64,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/README.md#findings",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fnz2s",
+      "name": "SECOND independent confirmation of the reserved-path / multi-prefix seam",
+      "x": 400,
+      "y": -255,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/README.md#1-second-independent-confirmation-of-the-reserved-path-multi-prefix-seam",
+      "bgColor": "#f2ecd2",
+      "parent": "#wzv4c3"
+    },
+    {
+      "@id": "#p89exh",
+      "name": "The loopback → /idp/credentials token bridge generalizes cleanly",
+      "x": 569,
+      "y": 133,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/README.md#2-the-loopback-idpcredentials-token-bridge-generalizes-cleanly",
+      "bgColor": "#f2ecd2",
+      "parent": "#wzv4c3"
+    },
+    {
+      "@id": "#urtpxv",
+      "name": "LDP ↔ AT-record mapping is awkward, and DID derivation is the sharpest gap",
+      "x": 184,
+      "y": 395,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/README.md#3-ldp-at-record-mapping-is-awkward-and-did-derivation-is-the-sharpest-gap",
+      "bgColor": "#f2ecd2",
+      "parent": "#wzv4c3"
+    },
+    {
+      "@id": "#4dg5c4",
+      "name": "Tests",
+      "x": -127,
+      "y": 198,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/README.md#tests",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwm3he",
+      "name": "plugin.js",
+      "x": -184,
+      "y": 154,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/plugin.js",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qvd9cw",
+      "name": "activate()",
+      "x": -369,
+      "y": 287,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/plugin.js#L165",
+      "bgColor": "#d1f3f4",
+      "parent": "#kwm3he"
+    },
+    {
+      "@id": "#sf37xb",
+      "name": "test.js",
+      "x": -226,
+      "y": 108,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/bluesky/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fuhjpf",
+      "name": "← JSS plugins",
+      "x": -247,
+      "y": 64,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

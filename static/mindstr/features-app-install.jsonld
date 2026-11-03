@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#zv6fek",
+      "@id": "#kpttum",
       "name": "Quick start",
       "x": -243,
       "y": -51,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#y6p8te",
+      "@id": "#t62ib9",
       "name": "App specs",
       "x": -187,
       "y": -141,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#kpttum",
+      "@id": "#qcu5gk",
       "name": "Authentication",
       "x": -31,
       "y": -211,
@@ -46,25 +46,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#t62ib9",
+      "@id": "#za8che",
       "name": "Bearer token",
       "x": -161,
       "y": -402,
       "link": "https://jss.live/docs/features/app-install#bearer-token-default",
       "bgColor": "#ffe2ed",
-      "parent": "#kpttum"
+      "parent": "#qcu5gk"
     },
     {
-      "@id": "#qcu5gk",
+      "@id": "#rbwcef",
       "name": "Nostr",
       "x": 46,
       "y": -500,
       "link": "https://jss.live/docs/features/app-install#nostr-nip-98",
       "bgColor": "#ffe2ed",
-      "parent": "#kpttum"
+      "parent": "#qcu5gk"
     },
     {
-      "@id": "#za8che",
+      "@id": "#mvt9ib",
       "name": "Targeting a different pod",
       "x": 165,
       "y": -159,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#rbwcef",
+      "@id": "#4cdvsg",
       "name": "Bundles",
       "x": 206,
       "y": 120,
@@ -82,43 +82,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#mvt9ib",
+      "@id": "#ur7wv9",
       "name": "Source resolution",
       "x": 498,
       "y": -35,
       "link": "https://jss.live/docs/features/app-install#source-resolution",
       "bgColor": "#f2ecd2",
-      "parent": "#rbwcef"
+      "parent": "#4cdvsg"
     },
     {
-      "@id": "#4cdvsg",
+      "@id": "#j2eaqz",
       "name": "Bundle format",
       "x": 555,
       "y": 170,
       "link": "https://jss.live/docs/features/app-install#bundle-format",
       "bgColor": "#f2ecd2",
-      "parent": "#rbwcef"
+      "parent": "#4cdvsg"
     },
     {
-      "@id": "#ur7wv9",
+      "@id": "#vqbwbg",
       "name": "Curated bundles",
       "x": 364,
       "y": 291,
       "link": "https://jss.live/docs/features/app-install#curated-bundles",
       "bgColor": "#f2ecd2",
-      "parent": "#rbwcef"
+      "parent": "#4cdvsg"
     },
     {
-      "@id": "#j2eaqz",
+      "@id": "#y9jt3w",
       "name": "Sharing custom bundles",
       "x": 193,
       "y": 474,
       "link": "https://jss.live/docs/features/app-install#sharing-custom-bundles",
       "bgColor": "#f2ecd2",
-      "parent": "#rbwcef"
+      "parent": "#4cdvsg"
     },
     {
-      "@id": "#vqbwbg",
+      "@id": "#vxinpu",
       "name": "How it works",
       "x": -87,
       "y": 199,
@@ -127,7 +127,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#y9jt3w",
+      "@id": "#spatem",
       "name": "Troubleshooting",
       "x": -187,
       "y": 141,
@@ -136,7 +136,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#vxinpu",
+      "@id": "#twzhxn",
       "name": "← Features",
       "x": -243,
       "y": 51,

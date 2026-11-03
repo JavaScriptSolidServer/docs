@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "terminal: WebSocket shell plugin (GATED)",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/terminal",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#uaafj4",
+      "name": "Security model",
+      "x": -217,
+      "y": -106,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/terminal/README.md#security-model",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v8kw9g",
+      "name": "Findings",
+      "x": 0,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/terminal/README.md#findings",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ah8myn",
+      "name": "Tests",
+      "x": 217,
+      "y": -106,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/terminal/README.md#tests",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5z6jht",
+      "name": "plugin.js",
+      "x": 217,
+      "y": 106,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/terminal/plugin.js",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wmw2zs",
+      "name": "activate()",
+      "x": 433,
+      "y": 212,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/terminal/plugin.js#L34",
+      "bgColor": "#fbe8d3",
+      "parent": "#5z6jht"
+    },
+    {
+      "@id": "#vfmmq5",
+      "name": "test.js",
+      "x": 0,
+      "y": 213,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/terminal/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pcr96u",
+      "name": "← JSS plugins",
+      "x": -217,
+      "y": 106,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

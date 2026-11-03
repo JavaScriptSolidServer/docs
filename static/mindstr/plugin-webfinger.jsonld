@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "webfinger: WebFinger (RFC 7033) discovery plugin",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/webfinger",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#x5dcei",
+      "name": "The JRD it returns",
+      "x": -224,
+      "y": -95,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/README.md#the-jrd-it-returns",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uchvmk",
+      "name": "Fediverse & Solid integration",
+      "x": 10,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/README.md#fediverse-solid-integration",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#72kqt7",
+      "name": "Findings",
+      "x": 225,
+      "y": -93,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/README.md#findings",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vbasu4",
+      "name": "plugin.js",
+      "x": 183,
+      "y": 145,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/plugin.js",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8gars2",
+      "name": "parseResource()",
+      "x": 458,
+      "y": 171,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/plugin.js#L75",
+      "bgColor": "#fbe8d3",
+      "parent": "#vbasu4"
+    },
+    {
+      "@id": "#ttudn3",
+      "name": "activate()",
+      "x": 274,
+      "y": 444,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/plugin.js#L96",
+      "bgColor": "#fbe8d3",
+      "parent": "#vbasu4"
+    },
+    {
+      "@id": "#nm9jmm",
+      "name": "test.js",
+      "x": -92,
+      "y": 198,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fcu6nk",
+      "name": "← JSS plugins",
+      "x": -230,
+      "y": 82,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

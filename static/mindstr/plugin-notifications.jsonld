@@ -1,0 +1,90 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "notifications: solid-0.1 change notifications plugin",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/notifications",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ncsetq",
+      "name": "Findings",
+      "x": -177,
+      "y": -150,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/notifications/README.md#findings",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9nzdc",
+      "name": "plugin.js",
+      "x": 177,
+      "y": -150,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/notifications/plugin.js",
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k8wdpx",
+      "name": "activate()",
+      "x": 354,
+      "y": -301,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/notifications/plugin.js#L30",
+      "bgColor": "#fce3f3",
+      "parent": "#b9nzdc"
+    },
+    {
+      "@id": "#a9fnph",
+      "name": "test.js",
+      "x": 177,
+      "y": 150,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/notifications/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yyu7jz",
+      "name": "← JSS plugins",
+      "x": -177,
+      "y": 150,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "selectedNode": 0
+}

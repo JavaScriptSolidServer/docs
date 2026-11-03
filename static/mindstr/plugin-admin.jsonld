@@ -1,0 +1,142 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "admin: a wp-admin-style operator home, and the measure of",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/admin",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#vx2z65",
+      "name": "Usage",
+      "x": -218,
+      "y": -104,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/admin/README.md#usage",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xwei9g",
+      "name": "The page, in words",
+      "x": -436,
+      "y": -208,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/admin/README.md#the-page-in-words",
+      "bgColor": "#daeeff",
+      "parent": "#vx2z65"
+    },
+    {
+      "@id": "#6bzs4i",
+      "name": "Findings",
+      "x": -27,
+      "y": -211,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/admin/README.md#findings",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fkywkd",
+      "name": "Test",
+      "x": 174,
+      "y": -153,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/admin/README.md#test",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j8deiz",
+      "name": "plugin.js",
+      "x": 218,
+      "y": 104,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/admin/plugin.js",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aya9s9",
+      "name": "NOT_POSSIBLE()",
+      "x": 495,
+      "y": 61,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/admin/plugin.js#L91",
+      "bgColor": "#fbe8d3",
+      "parent": "#j8deiz"
+    },
+    {
+      "@id": "#vn2imx",
+      "name": "activate()",
+      "x": 376,
+      "y": 386,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/admin/plugin.js#L99",
+      "bgColor": "#fbe8d3",
+      "parent": "#j8deiz"
+    },
+    {
+      "@id": "#2tznvh",
+      "name": "test.js",
+      "x": -63,
+      "y": 206,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/admin/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cnh2fk",
+      "name": "← JSS plugins",
+      "x": -226,
+      "y": 90,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

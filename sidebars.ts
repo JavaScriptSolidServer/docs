@@ -63,6 +63,7 @@ const sidebars: SidebarsConfig = {
         'guides/git-push-nostr',
         'guides/jss-on-android',
         'guides/solid-apps',
+        'guides/mind-maps',
       ],
     },
     {

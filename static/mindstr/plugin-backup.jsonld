@@ -1,0 +1,142 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "backup: download a pod container as a .tar.gz",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/backup",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#dk76uz",
+      "name": "Routes",
+      "x": -234,
+      "y": -74,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/backup/README.md#routes",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5aggpq",
+      "name": "What's in the archive",
+      "x": -94,
+      "y": -197,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/backup/README.md#whats-in-the-archive",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eqmaaw",
+      "name": "Auth",
+      "x": 107,
+      "y": -192,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/backup/README.md#auth",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pjbq25",
+      "name": "What maps / what doesn't",
+      "x": 243,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/backup/README.md#what-maps-what-doesnt",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tz98k5",
+      "name": "Findings",
+      "x": 201,
+      "y": 127,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/backup/README.md#findings",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#437yyk",
+      "name": "plugin.js",
+      "x": 54,
+      "y": 207,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/backup/plugin.js",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3k2bu",
+      "name": "activate()",
+      "x": 108,
+      "y": 415,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/backup/plugin.js#L117",
+      "bgColor": "#ddf2de",
+      "parent": "#437yyk"
+    },
+    {
+      "@id": "#uhqx6j",
+      "name": "test.js",
+      "x": -119,
+      "y": 187,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/backup/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aurbbn",
+      "name": "← JSS plugins",
+      "x": -234,
+      "y": 74,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

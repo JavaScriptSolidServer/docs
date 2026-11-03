@@ -1,0 +1,142 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "metrics: healthz + Prometheus exporter",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/metrics",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#pehema",
+      "name": "Usage",
+      "x": -166,
+      "y": -159,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/metrics/README.md#usage",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#csimu2",
+      "name": "Endpoints",
+      "x": -442,
+      "y": -199,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/metrics/README.md#endpoints",
+      "bgColor": "#daeeff",
+      "parent": "#pehema"
+    },
+    {
+      "@id": "#y2vgqr",
+      "name": "Metrics exposed",
+      "x": -214,
+      "y": -467,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/metrics/README.md#metrics-exposed",
+      "bgColor": "#daeeff",
+      "parent": "#pehema"
+    },
+    {
+      "@id": "#nb2pv3",
+      "name": "What maps / what doesn't",
+      "x": 168,
+      "y": -157,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/metrics/README.md#what-maps-what-doesnt",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gb9vd3",
+      "name": "Findings",
+      "x": 280,
+      "y": 43,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/metrics/README.md#findings",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#85n9f9",
+      "name": "plugin.js",
+      "x": 126,
+      "y": 184,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/metrics/plugin.js",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59pd9r",
+      "name": "activate()",
+      "x": 252,
+      "y": 367,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/metrics/plugin.js#L43",
+      "bgColor": "#fbe8d3",
+      "parent": "#85n9f9"
+    },
+    {
+      "@id": "#2ec6a3",
+      "name": "test.js",
+      "x": -77,
+      "y": 202,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/metrics/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ta2q85",
+      "name": "← JSS plugins",
+      "x": -228,
+      "y": 87,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

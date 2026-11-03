@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#fertai",
+      "@id": "#5q2nc4",
       "name": "N3 Patch",
       "x": -108,
       "y": -192,
@@ -28,16 +28,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#9u36xp",
+      "@id": "#eegh3a",
       "name": "Insert and Delete",
       "x": -215,
       "y": -384,
       "link": "https://jss.live/docs/features/patching#insert-and-delete",
       "bgColor": "#daeeff",
-      "parent": "#fertai"
+      "parent": "#5q2nc4"
     },
     {
-      "@id": "#5q2nc4",
+      "@id": "#tmtdcb",
       "name": "SPARQL Update",
       "x": 248,
       "y": 25,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#eegh3a",
+      "@id": "#ziixui",
       "name": "← Features",
       "x": -133,
       "y": 180,

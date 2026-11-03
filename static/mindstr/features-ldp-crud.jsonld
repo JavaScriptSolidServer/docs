@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ius84b",
+      "@id": "#sbf4ee",
       "name": "GET",
       "x": -219,
       "y": -102,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#583aqh",
+      "@id": "#t6q67m",
       "name": "PUT",
       "x": -17,
       "y": -212,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#sbf4ee",
+      "@id": "#abq85r",
       "name": "POST",
       "x": 201,
       "y": -126,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#t6q67m",
+      "@id": "#sy2ncx",
       "name": "DELETE",
       "x": 233,
       "y": 76,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#abq85r",
+      "@id": "#fertai",
       "name": "Conditional Requests",
       "x": 17,
       "y": 212,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#sy2ncx",
+      "@id": "#9u36xp",
       "name": "← Features",
       "x": -219,
       "y": 102,

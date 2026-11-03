@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#jtyjdw",
+      "@id": "#u2s2vv",
       "name": "Design constraints",
       "x": -240,
       "y": -59,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#dtqx4z",
+      "@id": "#vx2z65",
       "name": "Content negotiation is a negotiation",
       "x": -122,
       "y": -170,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#u2s2vv",
+      "@id": "#xwei9g",
       "name": "A living position",
       "x": 64,
       "y": -214,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#vx2z65",
+      "@id": "#6bzs4i",
       "name": "Current behaviour",
       "x": 179,
       "y": -149,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#xwei9g",
+      "@id": "#fkywkd",
       "name": "Enabling conneg",
       "x": 242,
       "y": -55,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#6bzs4i",
+      "@id": "#j8deiz",
       "name": "Examples",
       "x": 244,
       "y": 47,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#fkywkd",
+      "@id": "#aya9s9",
       "name": "Why these choices",
       "x": 185,
       "y": 143,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#j8deiz",
+      "@id": "#vn2imx",
       "name": "Future-proofing posture",
       "x": 75,
       "y": 207,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#aya9s9",
+      "@id": "#2tznvh",
       "name": "How it works",
       "x": -98,
       "y": 199,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#vn2imx",
+      "@id": "#cnh2fk",
       "name": "Direction",
       "x": -186,
       "y": 142,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#2tznvh",
+      "@id": "#dk76uz",
       "name": "← Core Concepts",
       "x": -243,
       "y": 52,

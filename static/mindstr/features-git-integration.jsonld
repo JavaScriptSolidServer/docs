@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ezqvf7",
+      "@id": "#zpagjg",
       "name": "Enable Git support",
       "x": -217,
       "y": -106,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4c22a7",
+      "@id": "#sptvks",
       "name": "Clone a repository",
       "x": -3,
       "y": -212,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#zpagjg",
+      "@id": "#u6iz6f",
       "name": "Push changes",
       "x": 204,
       "y": -123,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#sptvks",
+      "@id": "#vb6nak",
       "name": "Auto-checkout",
       "x": 241,
       "y": 58,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#u6iz6f",
+      "@id": "#zv6fek",
       "name": "Git with Nostr Authentication",
       "x": 21,
       "y": 212,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#vb6nak",
+      "@id": "#y6p8te",
       "name": "← Features",
       "x": -226,
       "y": 92,

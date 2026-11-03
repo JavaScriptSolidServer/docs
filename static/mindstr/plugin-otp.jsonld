@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "otp: one-time-password auth plugin (#505)",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/otp",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#cvh8ee",
+      "name": "Usage",
+      "x": -241,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#usage",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3xd5xn",
+      "name": "The channel adapter",
+      "x": -160,
+      "y": -164,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#the-channel-adapter-the-integration-point",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jingvu",
+      "name": "Session token format",
+      "x": -3,
+      "y": -218,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#session-token-format-hmac-macaroon-lite-same-shape-as-capability",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u9rrt3",
+      "name": "Security model",
+      "x": 142,
+      "y": -172,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#security-model",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kgvapt",
+      "name": "Findings",
+      "x": 228,
+      "y": -86,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#findings",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6yp854",
+      "name": "plugin.js",
+      "x": 145,
+      "y": 173,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g8htk4",
+      "name": "signSession()",
+      "x": 483,
+      "y": 109,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js#L61",
+      "bgColor": "#ddf2de",
+      "parent": "#6yp854"
+    },
+    {
+      "@id": "#iq664j",
+      "name": "verifySession()",
+      "x": 443,
+      "y": 331,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js#L68",
+      "bgColor": "#ddf2de",
+      "parent": "#6yp854"
+    },
+    {
+      "@id": "#gz4cvb",
+      "name": "hashCode()",
+      "x": 188,
+      "y": 394,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js#L98",
+      "bgColor": "#ddf2de",
+      "parent": "#6yp854"
+    },
+    {
+      "@id": "#itdh4e",
+      "name": "activate()",
+      "x": -43,
+      "y": 500,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js#L145",
+      "bgColor": "#ddf2de",
+      "parent": "#6yp854"
+    },
+    {
+      "@id": "#wymkpw",
+      "name": "test.js",
+      "x": -171,
+      "y": 155,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhm56x",
+      "name": "← JSS plugins",
+      "x": -241,
+      "y": 66,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

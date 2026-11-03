@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#gb9vd3",
+      "@id": "#59pd9r",
       "name": "Quick Start",
       "x": -236,
       "y": -70,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#85n9f9",
+      "@id": "#2ec6a3",
       "name": "Configuration",
       "x": -134,
       "y": -180,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#59pd9r",
+      "@id": "#ta2q85",
       "name": "Endpoints",
       "x": 27,
       "y": -211,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#2ec6a3",
+      "@id": "#f6qx4w",
       "name": "Supported Activities",
       "x": 224,
       "y": -94,
@@ -55,25 +55,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#ta2q85",
+      "@id": "#su9mmy",
       "name": "Incoming",
       "x": 369,
       "y": -287,
       "link": "https://jss.live/docs/features/activitypub#incoming-inbox",
       "bgColor": "#ffe4d9",
-      "parent": "#2ec6a3"
+      "parent": "#f6qx4w"
     },
     {
-      "@id": "#f6qx4w",
+      "@id": "#puabcz",
       "name": "Outgoing",
       "x": 581,
       "y": -88,
       "link": "https://jss.live/docs/features/activitypub#outgoing-outbox",
       "bgColor": "#ffe4d9",
-      "parent": "#2ec6a3"
+      "parent": "#f6qx4w"
     },
     {
-      "@id": "#su9mmy",
+      "@id": "#pggewd",
       "name": "Security",
       "x": 213,
       "y": 111,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#puabcz",
+      "@id": "#7cv7qa",
       "name": "Nostr Identity Linking",
       "x": 57,
       "y": 207,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#pggewd",
+      "@id": "#4evz5w",
       "name": "NodeInfo",
       "x": -134,
       "y": 180,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7cv7qa",
+      "@id": "#vh32g5",
       "name": "← Features",
       "x": -236,
       "y": 70,

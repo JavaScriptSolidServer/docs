@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "globs: NEONGLOBS realtime match server",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/globs",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ezqvf7",
+      "name": "Why this game networks so well",
+      "x": -199,
+      "y": -129,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/globs/README.md#why-this-game-networks-so-well",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4c22a7",
+      "name": "Identity and ranking",
+      "x": 50,
+      "y": -208,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/globs/README.md#identity-and-ranking",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zpagjg",
+      "name": "Findings",
+      "x": 216,
+      "y": -107,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/globs/README.md#findings",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sptvks",
+      "name": "What maps / what doesn't",
+      "x": 232,
+      "y": 79,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/globs/README.md#what-maps-what-doesnt",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u6iz6f",
+      "name": "plugin.js",
+      "x": 68,
+      "y": 204,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/globs/plugin.js",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vb6nak",
+      "name": "activate()",
+      "x": 137,
+      "y": 409,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/globs/plugin.js#L60",
+      "bgColor": "#f2ecd2",
+      "parent": "#u6iz6f"
+    },
+    {
+      "@id": "#zv6fek",
+      "name": "test.js",
+      "x": -111,
+      "y": 190,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/globs/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6p8te",
+      "name": "← JSS plugins",
+      "x": -233,
+      "y": 77,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

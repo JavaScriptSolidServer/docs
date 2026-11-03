@@ -1,0 +1,233 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "gallery: a pod photo/media gallery (the first api.mountApp ",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/gallery",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#vbyvwg",
+      "name": "A curl session",
+      "x": -248,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#a-curl-session",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ahre4u",
+      "name": "What maps / what doesn't",
+      "x": -225,
+      "y": -109,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#what-maps-what-doesnt",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ibdfdz",
+      "name": "Findings",
+      "x": 387,
+      "y": -18,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#findings",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z7edqb",
+      "name": "api.mountApp delivers exactly what #583 promised",
+      "x": -126,
+      "y": -411,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#1-apimountapp-delivers-exactly-what-583-promised-first-consumer-verdict",
+      "bgColor": "#ffe2e6",
+      "parent": "#ibdfdz"
+    },
+    {
+      "@id": "#2qq2fn",
+      "name": "Streaming ends at core's front door",
+      "x": 147,
+      "y": -486,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#2-streaming-ends-at-cores-front-door-the-seams-other-half-is-still-open",
+      "bgColor": "#ffe2e6",
+      "parent": "#ibdfdz"
+    },
+    {
+      "@id": "#ri2pzw",
+      "name": "Core LDP GET honors Range natively",
+      "x": 316,
+      "y": -329,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#3-core-ldp-get-honors-range-natively-playback-needs-no-plugin-lane",
+      "bgColor": "#ffe2e6",
+      "parent": "#ibdfdz"
+    },
+    {
+      "@id": "#qbizrq",
+      "name": "Raw-body upload over multipart, deliberately",
+      "x": 542,
+      "y": -198,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#4-raw-body-upload-over-multipart-deliberately-micropubs-finding-stays-open",
+      "bgColor": "#ffe2e6",
+      "parent": "#ibdfdz"
+    },
+    {
+      "@id": "#yyfuzg",
+      "name": "A bare is the price of the stream",
+      "x": 499,
+      "y": 29,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#5-a-bare-req-res-is-the-price-of-the-stream",
+      "bgColor": "#ffe2e6",
+      "parent": "#ibdfdz"
+    },
+    {
+      "@id": "#xet7zf",
+      "name": "getAgent has an impedance mismatch in the raw lane",
+      "x": 495,
+      "y": 273,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#6-getagent-has-an-impedance-mismatch-in-the-raw-lane",
+      "bgColor": "#ffe2e6",
+      "parent": "#ibdfdz"
+    },
+    {
+      "@id": "#wjzwqw",
+      "name": "The dot-guard outranks appPaths",
+      "x": 239,
+      "y": 373,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#7-the-dot-guard-outranks-apppaths-even-inside-a-mounted-prefix",
+      "bgColor": "#ffe2e6",
+      "parent": "#ibdfdz"
+    },
+    {
+      "@id": "#cpmgtf",
+      "name": "Content-Type is extension-derived on GET",
+      "x": 33,
+      "y": 501,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#8-content-type-is-extension-derived-on-get-the-upload-header-is-cosmetic",
+      "bgColor": "#ffe2e6",
+      "parent": "#ibdfdz"
+    },
+    {
+      "@id": "#a85fzz",
+      "name": "Small mercies",
+      "x": -147,
+      "y": 406,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#9-small-mercies",
+      "bgColor": "#ffe2e6",
+      "parent": "#ibdfdz"
+    },
+    {
+      "@id": "#eitj67",
+      "name": "plugin.js",
+      "x": -200,
+      "y": 155,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/plugin.js",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bpmjzd",
+      "name": "activate()",
+      "x": -400,
+      "y": 256,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/plugin.js#L119",
+      "bgColor": "#fbe8d3",
+      "parent": "#eitj67"
+    },
+    {
+      "@id": "#r8aetn",
+      "name": "test.js",
+      "x": -232,
+      "y": 109,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3rh5f",
+      "name": "← JSS plugins",
+      "x": -248,
+      "y": 64,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 3,
+      "end": 9
+    },
+    {
+      "start": 3,
+      "end": 10
+    },
+    {
+      "start": 3,
+      "end": 11
+    },
+    {
+      "start": 3,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#7c28q6",
+      "@id": "#m3xps2",
       "name": "Quick Start",
       "x": -243,
       "y": -49,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4qbh3e",
+      "@id": "#yxjf84",
       "name": "Core Solid Protocol",
       "x": -184,
       "y": -144,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#m3xps2",
+      "@id": "#mrv4db",
       "name": "Authentication & Identity",
       "x": -78,
       "y": -209,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#yxjf84",
+      "@id": "#i6483q",
       "name": "Developer Tools",
       "x": 112,
       "y": -196,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mrv4db",
+      "@id": "#kmcrgd",
       "name": "Federation & Social",
       "x": 198,
       "y": -130,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#i6483q",
+      "@id": "#ktiw89",
       "name": "Security",
       "x": 247,
       "y": -30,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#kmcrgd",
+      "@id": "#c74y5q",
       "name": "Payments & Tokens",
       "x": 235,
       "y": 72,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ktiw89",
+      "@id": "#374kep",
       "name": "Integrations",
       "x": 167,
       "y": 158,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#c74y5q",
+      "@id": "#ba2cgp",
       "name": "HTTP Methods",
       "x": 78,
       "y": 205,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#374kep",
+      "@id": "#h7ym9k",
       "name": "CLI Commands",
       "x": -54,
       "y": 208,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ba2cgp",
+      "@id": "#ius84b",
       "name": "What's New Since v0.0.42",
       "x": -174,
       "y": 153,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#h7ym9k",
+      "@id": "#583aqh",
       "name": "← Features",
       "x": -243,
       "y": 49,

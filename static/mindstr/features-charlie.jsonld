@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#bvsynb",
+      "@id": "#yhbdjy",
       "name": "What Charlie is",
       "x": -244,
       "y": -65,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#xintwj",
+      "@id": "#hgctui",
       "name": "What's running today",
       "x": -188,
       "y": -140,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#yhbdjy",
+      "@id": "#vz6dbr",
       "name": "What it looks like in practice",
       "x": -74,
       "y": -203,
@@ -46,16 +46,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#hgctui",
+      "@id": "#ecv4rb",
       "name": "Watch the loop close",
       "x": -148,
       "y": -406,
       "link": "https://jss.live/docs/features/charlie#watch-the-loop-close",
       "bgColor": "#ffe2ed",
-      "parent": "#yhbdjy"
+      "parent": "#vz6dbr"
     },
     {
-      "@id": "#vz6dbr",
+      "@id": "#57jxgj",
       "name": "Why this matters",
       "x": 320,
       "y": -12,
@@ -64,43 +64,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#ecv4rb",
+      "@id": "#ttdvnf",
       "name": "Consent as language, not cage",
       "x": 255,
       "y": -366,
       "link": "https://jss.live/docs/features/charlie#consent-as-language-not-cage",
       "bgColor": "#ffe4d9",
-      "parent": "#vz6dbr"
+      "parent": "#57jxgj"
     },
     {
-      "@id": "#57jxgj",
+      "@id": "#pehema",
       "name": "Standards-grounded, open architecture",
       "x": 557,
       "y": -165,
       "link": "https://jss.live/docs/features/charlie#standards-grounded-open-architecture",
       "bgColor": "#ffe4d9",
-      "parent": "#vz6dbr"
+      "parent": "#57jxgj"
     },
     {
-      "@id": "#ttdvnf",
+      "@id": "#csimu2",
       "name": "Per-bot specialisation",
       "x": 477,
       "y": 126,
       "link": "https://jss.live/docs/features/charlie#per-bot-specialisation",
       "bgColor": "#ffe4d9",
-      "parent": "#vz6dbr"
+      "parent": "#57jxgj"
     },
     {
-      "@id": "#pehema",
+      "@id": "#y2vgqr",
       "name": "Self-bootstrapping documentation",
       "x": 370,
       "y": 391,
       "link": "https://jss.live/docs/features/charlie#self-bootstrapping-documentation",
       "bgColor": "#ffe4d9",
-      "parent": "#vz6dbr"
+      "parent": "#57jxgj"
     },
     {
-      "@id": "#csimu2",
+      "@id": "#nb2pv3",
       "name": "A starting SKILL.md for Charlie",
       "x": -75,
       "y": 203,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#y2vgqr",
+      "@id": "#gb9vd3",
       "name": "What's next",
       "x": -199,
       "y": 129,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#nb2pv3",
+      "@id": "#85n9f9",
       "name": "← Features",
       "x": -244,
       "y": 66,

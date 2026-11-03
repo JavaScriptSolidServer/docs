@@ -1,0 +1,168 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "markets: prediction markets with an LMSR market maker",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/markets",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#vqbwbg",
+      "name": "The economics, in six lines",
+      "x": -222,
+      "y": -97,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/README.md#the-economics-in-six-lines",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y9jt3w",
+      "name": "Trust model",
+      "x": -80,
+      "y": -201,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/README.md#trust-model",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vxinpu",
+      "name": "What this is not",
+      "x": 70,
+      "y": -204,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/README.md#what-this-is-not-deliberately",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#spatem",
+      "name": "Findings",
+      "x": 194,
+      "y": -134,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/README.md#findings",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#twzhxn",
+      "name": "Tests",
+      "x": 249,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/README.md#tests",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ir6eif",
+      "name": "plugin.js",
+      "x": 117,
+      "y": 188,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/plugin.js",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwj4g5",
+      "name": "randomId()",
+      "x": 416,
+      "y": 236,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/plugin.js#L104",
+      "bgColor": "#ddf2de",
+      "parent": "#ir6eif"
+    },
+    {
+      "@id": "#9fjvd8",
+      "name": "isAgentId()",
+      "x": 276,
+      "y": 443,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/plugin.js#L125",
+      "bgColor": "#ddf2de",
+      "parent": "#ir6eif"
+    },
+    {
+      "@id": "#6fwnzy",
+      "name": "activate()",
+      "x": -3,
+      "y": 425,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/plugin.js#L134",
+      "bgColor": "#ddf2de",
+      "parent": "#ir6eif"
+    },
+    {
+      "@id": "#rtnzsk",
+      "name": "test.js",
+      "x": -159,
+      "y": 164,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/markets/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v8phzs",
+      "name": "← JSS plugins",
+      "x": -239,
+      "y": 65,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

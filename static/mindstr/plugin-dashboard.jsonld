@@ -1,0 +1,155 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "dashboard: plugin status page with live liveness probes",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/dashboard",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#u8v9bw",
+      "name": "Usage",
+      "x": -175,
+      "y": -151,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/dashboard/README.md#usage",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j6zbf9",
+      "name": "Probe semantics",
+      "x": -453,
+      "y": -180,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/dashboard/README.md#probe-semantics",
+      "bgColor": "#daeeff",
+      "parent": "#u8v9bw"
+    },
+    {
+      "@id": "#2z3p7w",
+      "name": "The page, in words",
+      "x": -266,
+      "y": -448,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/dashboard/README.md#the-page-in-words",
+      "bgColor": "#daeeff",
+      "parent": "#u8v9bw"
+    },
+    {
+      "@id": "#pvzwd8",
+      "name": "What maps / what doesn't",
+      "x": 130,
+      "y": -181,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/dashboard/README.md#what-maps-what-doesnt",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#57iy7q",
+      "name": "Findings",
+      "x": 248,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/dashboard/README.md#findings",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qprvms",
+      "name": "Test",
+      "x": 206,
+      "y": 120,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/dashboard/README.md#test",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fucmt",
+      "name": "plugin.js",
+      "x": 61,
+      "y": 206,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/dashboard/plugin.js",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t922yq",
+      "name": "activate()",
+      "x": 121,
+      "y": 412,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/dashboard/plugin.js#L35",
+      "bgColor": "#f2ecd2",
+      "parent": "#7fucmt"
+    },
+    {
+      "@id": "#26rfi6",
+      "name": "test.js",
+      "x": -116,
+      "y": 188,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/dashboard/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u28rkq",
+      "name": "← JSS plugins",
+      "x": -234,
+      "y": 75,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

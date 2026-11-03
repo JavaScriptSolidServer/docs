@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#dm48gj",
+      "@id": "#pu9sy8",
       "name": "SSL/TLS",
       "x": -64,
       "y": -205,
@@ -28,25 +28,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#k6cm7k",
+      "@id": "#7ppwsy",
       "name": "Direct SSL",
       "x": -376,
       "y": -280,
       "link": "https://jss.live/docs/guides/deploy-production#direct-ssl",
       "bgColor": "#daeeff",
-      "parent": "#dm48gj"
+      "parent": "#pu9sy8"
     },
     {
-      "@id": "#djkutb",
+      "@id": "#c8rxju",
       "name": "With Let's Encrypt",
       "x": 147,
       "y": -486,
       "link": "https://jss.live/docs/guides/deploy-production#with-lets-encrypt",
       "bgColor": "#daeeff",
-      "parent": "#dm48gj"
+      "parent": "#pu9sy8"
     },
     {
-      "@id": "#pu9sy8",
+      "@id": "#jr3z4p",
       "name": "Reverse Proxy",
       "x": 249,
       "y": 19,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7ppwsy",
+      "@id": "#hmnpnc",
       "name": "Systemd Service",
       "x": 64,
       "y": 205,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#c8rxju",
+      "@id": "#tbf3y4",
       "name": "← Guides",
       "x": -205,
       "y": 121,

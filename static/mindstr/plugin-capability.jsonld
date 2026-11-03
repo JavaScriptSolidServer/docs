@@ -1,0 +1,155 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "capability: capability URIs plugin (#506)",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/capability",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ktiw89",
+      "name": "Usage",
+      "x": -236,
+      "y": -71,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/README.md#usage",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c74y5q",
+      "name": "Token format",
+      "x": -131,
+      "y": -181,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/README.md#token-format-macaroon-lite",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#374kep",
+      "name": "Security model",
+      "x": 33,
+      "y": -211,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/README.md#security-model",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ba2cgp",
+      "name": "Findings",
+      "x": 181,
+      "y": -146,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/README.md#findings",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h7ym9k",
+      "name": "plugin.js",
+      "x": 194,
+      "y": 134,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/plugin.js",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ius84b",
+      "name": "signCapability()",
+      "x": 499,
+      "y": 26,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/plugin.js#L80",
+      "bgColor": "#f2ecd2",
+      "parent": "#h7ym9k"
+    },
+    {
+      "@id": "#583aqh",
+      "name": "verifyCapability()",
+      "x": 451,
+      "y": 323,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/plugin.js#L87",
+      "bgColor": "#f2ecd2",
+      "parent": "#h7ym9k"
+    },
+    {
+      "@id": "#sbf4ee",
+      "name": "activate()",
+      "x": 125,
+      "y": 412,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/plugin.js#L111",
+      "bgColor": "#f2ecd2",
+      "parent": "#h7ym9k"
+    },
+    {
+      "@id": "#t6q67m",
+      "name": "test.js",
+      "x": -131,
+      "y": 181,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#abq85r",
+      "name": "← JSS plugins",
+      "x": -236,
+      "y": 71,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#28eue2",
+      "@id": "#krwt6e",
       "name": "Endpoint reference",
       "x": -231,
       "y": -82,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#f4n9qu",
+      "@id": "#emecna",
       "name": "Change your password",
       "x": -85,
       "y": -200,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#krwt6e",
+      "@id": "#u8v9bw",
       "name": "Back up / export your pod",
       "x": 141,
       "y": -175,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#emecna",
+      "@id": "#j6zbf9",
       "name": "Delete your account",
       "x": 197,
       "y": 131,
@@ -55,34 +55,34 @@
       "parent": "#this"
     },
     {
-      "@id": "#u8v9bw",
+      "@id": "#2z3p7w",
       "name": "Via the API",
       "x": 500,
       "y": 5,
       "link": "https://jss.live/docs/features/account-management#via-the-api",
       "bgColor": "#fbe8d3",
-      "parent": "#emecna"
+      "parent": "#j6zbf9"
     },
     {
-      "@id": "#j6zbf9",
+      "@id": "#pvzwd8",
       "name": "Via the browser",
       "x": 491,
       "y": 278,
       "link": "https://jss.live/docs/features/account-management#via-the-browser",
       "bgColor": "#fbe8d3",
-      "parent": "#emecna"
+      "parent": "#j6zbf9"
     },
     {
-      "@id": "#2z3p7w",
+      "@id": "#57iy7q",
       "name": "Via the operator CLI",
       "x": 162,
       "y": 402,
       "link": "https://jss.live/docs/features/account-management#via-the-operator-cli",
       "bgColor": "#fbe8d3",
-      "parent": "#emecna"
+      "parent": "#j6zbf9"
     },
     {
-      "@id": "#pvzwd8",
+      "@id": "#qprvms",
       "name": "Passkeys",
       "x": -131,
       "y": 181,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#57iy7q",
+      "@id": "#7fucmt",
       "name": "← Features",
       "x": -236,
       "y": 71,

@@ -1,0 +1,337 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "forge: a personal git forge (tier 1: hosting + browsing; ",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/forge",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#pj9sd5",
+      "name": "Using it",
+      "x": -248,
+      "y": -55,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#using-it",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9incsq",
+      "name": "Routes",
+      "x": -231,
+      "y": -89,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#routes",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gwp9qx",
+      "name": "JSON API",
+      "x": -200,
+      "y": -131,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#json-api-the-gitea-parity-surface",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7csjb6",
+      "name": "Issues: pods hold the words, pluginDir holds the spine",
+      "x": -128,
+      "y": -177,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#issues-tier-2-pods-hold-the-words-plugindir-holds-the-spine",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cyfvb8",
+      "name": "Issue JSON API",
+      "x": -298,
+      "y": -341,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#issue-json-api",
+      "bgColor": "#ffe4d9",
+      "parent": "#7csjb6"
+    },
+    {
+      "@id": "#ngjuhg",
+      "name": "The vanilla-JS client",
+      "x": -223,
+      "y": -464,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#the-vanilla-js-client-deliberately-tiny",
+      "bgColor": "#ffe4d9",
+      "parent": "#7csjb6"
+    },
+    {
+      "@id": "#ad25k5",
+      "name": "Forks & pull requests",
+      "x": -76,
+      "y": -221,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#forks-pull-requests-tier-3a",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6zhwac",
+      "name": "Labels",
+      "x": 66,
+      "y": -221,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#labels-polish",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sigj2h",
+      "name": "Search",
+      "x": 152,
+      "y": -190,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#search-polish",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2gvkzt",
+      "name": "Releases",
+      "x": 177,
+      "y": -146,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#releases-polish",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5gpqg5",
+      "name": "Web edit: commit one file over HTTP",
+      "x": 231,
+      "y": -81,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#web-edit-tier-37-commit-one-file-over-http",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wzta82",
+      "name": "Anchors: git-mark anchoring via Blocktrails",
+      "x": 247,
+      "y": 64,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#anchors-tier-35-git-mark-anchoring-via-blocktrails",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jw3kjf",
+      "name": "Repo-held trails",
+      "x": 505,
+      "y": 3,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#repo-held-trails-git-mark",
+      "bgColor": "#ffe2ed",
+      "parent": "#wzta82"
+    },
+    {
+      "@id": "#r76gtv",
+      "name": "Nostr discovery",
+      "x": 78,
+      "y": 202,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#nostr-discovery-nip-34",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qmk4u7",
+      "name": "The announce identity",
+      "x": 447,
+      "y": 191,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#the-announce-identity",
+      "bgColor": "#ffe4d9",
+      "parent": "#r76gtv"
+    },
+    {
+      "@id": "#ysvez3",
+      "name": "Opt-in, never always-on",
+      "x": 427,
+      "y": 337,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#opt-in-never-always-on",
+      "bgColor": "#ffe4d9",
+      "parent": "#r76gtv"
+    },
+    {
+      "@id": "#83zuf9",
+      "name": "The kind-30617 event shape",
+      "x": 233,
+      "y": 381,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#the-kind-30617-event-shape",
+      "bgColor": "#ffe4d9",
+      "parent": "#r76gtv"
+    },
+    {
+      "@id": "#vrzefk",
+      "name": "The kind-30618 event shape",
+      "x": 86,
+      "y": 496,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#the-kind-30618-event-shape-repo-state",
+      "bgColor": "#ffe4d9",
+      "parent": "#r76gtv"
+    },
+    {
+      "@id": "#hvyxxr",
+      "name": "Publishing + triggers",
+      "x": -67,
+      "y": 419,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#publishing-triggers",
+      "bgColor": "#ffe4d9",
+      "parent": "#r76gtv"
+    },
+    {
+      "@id": "#qahfae",
+      "name": "Mirroring on kind-30618",
+      "x": -272,
+      "y": 448,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/README.md#mirroring-on-kind-30618-opt-in",
+      "bgColor": "#ffe4d9",
+      "parent": "#r76gtv"
+    },
+    {
+      "@id": "#tgdsut",
+      "name": "plugin.js",
+      "x": -200,
+      "y": 155,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/plugin.js",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ijf3kk",
+      "name": "activate()",
+      "x": -399,
+      "y": 256,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/plugin.js#L613",
+      "bgColor": "#f2ecd2",
+      "parent": "#tgdsut"
+    },
+    {
+      "@id": "#anp567",
+      "name": "test.js",
+      "x": -231,
+      "y": 109,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/forge/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#svn3gp",
+      "name": "← JSS plugins",
+      "x": -248,
+      "y": 64,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 14,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

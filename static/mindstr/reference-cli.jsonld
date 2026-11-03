@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#45xtcc",
+      "@id": "#bbimsx",
       "name": "jss start",
       "x": -219,
       "y": -102,
@@ -28,16 +28,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#ybwvcb",
+      "@id": "#drrwuk",
       "name": "Options",
       "x": -438,
       "y": -204,
       "link": "https://jss.live/docs/reference/cli#options",
       "bgColor": "#daeeff",
-      "parent": "#45xtcc"
+      "parent": "#bbimsx"
     },
     {
-      "@id": "#i9qywf",
+      "@id": "#nsm2yi",
       "name": "jss init",
       "x": -17,
       "y": -212,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#iyzq7q",
+      "@id": "#2xe78q",
       "name": "jss --help",
       "x": 201,
       "y": -126,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#bke9zd",
+      "@id": "#jgw4tz",
       "name": "Live reference: every command and option",
       "x": 135,
       "y": 179,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#fuxupn",
+      "@id": "#bekswu",
       "name": "← Reference",
       "x": -219,
       "y": 102,

@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "webdav: mount a pod as a network drive",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/webdav",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#hgg764",
+      "name": "Mounting",
+      "x": -226,
+      "y": -91,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webdav/README.md#mounting",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pqcgpp",
+      "name": "What maps",
+      "x": -59,
+      "y": -207,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webdav/README.md#what-maps",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jhj67c",
+      "name": "What doesn't map",
+      "x": 158,
+      "y": -165,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webdav/README.md#what-doesnt-map",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mr58qm",
+      "name": "Findings",
+      "x": 280,
+      "y": 6,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webdav/README.md#findings",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hawxjn",
+      "name": "plugin.js",
+      "x": 152,
+      "y": 169,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webdav/plugin.js",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6wpy5",
+      "name": "activate()",
+      "x": 303,
+      "y": 338,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webdav/plugin.js#L86",
+      "bgColor": "#f2ecd2",
+      "parent": "#hawxjn"
+    },
+    {
+      "@id": "#4q7gbw",
+      "name": "test.js",
+      "x": -59,
+      "y": 207,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webdav/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#98geuv",
+      "name": "← JSS plugins",
+      "x": -226,
+      "y": 91,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

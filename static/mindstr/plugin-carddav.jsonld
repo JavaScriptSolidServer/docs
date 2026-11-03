@@ -1,0 +1,142 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "carddav: sync a pod addressbook to phones & desktops",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/carddav",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#sy2ncx",
+      "name": "Adding the account on a client",
+      "x": -206,
+      "y": -120,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/carddav/README.md#adding-the-account-on-a-client",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fertai",
+      "name": "The sync vertical slice",
+      "x": 28,
+      "y": -211,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/carddav/README.md#the-sync-vertical-slice",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9u36xp",
+      "name": "What maps",
+      "x": 201,
+      "y": -127,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/carddav/README.md#what-maps",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5q2nc4",
+      "name": "What doesn't map",
+      "x": 250,
+      "y": 65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/carddav/README.md#what-doesnt-map",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eegh3a",
+      "name": "Findings",
+      "x": 180,
+      "y": 147,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/carddav/README.md#findings",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tmtdcb",
+      "name": "plugin.js",
+      "x": 32,
+      "y": 211,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/carddav/plugin.js",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ziixui",
+      "name": "activate()",
+      "x": 64,
+      "y": 422,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/carddav/plugin.js#L97",
+      "bgColor": "#ddf2de",
+      "parent": "#tmtdcb"
+    },
+    {
+      "@id": "#qnf7j2",
+      "name": "test.js",
+      "x": -131,
+      "y": 181,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/carddav/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rx55k2",
+      "name": "← JSS plugins",
+      "x": -236,
+      "y": 71,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

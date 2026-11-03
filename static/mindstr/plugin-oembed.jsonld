@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "oembed: an oEmbed provider for pod resources",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/oembed",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#wkrebf",
+      "name": "A curl session",
+      "x": -246,
+      "y": -64,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#a-curl-session",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bu5bte",
+      "name": "What maps / what doesn't",
+      "x": -209,
+      "y": -117,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#what-maps-what-doesnt",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4hakzu",
+      "name": "Findings",
+      "x": 310,
+      "y": -19,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#findings",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yhcpjw",
+      "name": "Discovery needs content/header injection on core routes",
+      "x": 20,
+      "y": -425,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#1-discovery-needs-contentheader-injection-on-core-routes-seam-8-third-consumer",
+      "bgColor": "#ffe2e6",
+      "parent": "#4hakzu"
+    },
+    {
+      "@id": "#m7mgcv",
+      "name": "No rich type for pod HTML",
+      "x": 371,
+      "y": -390,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#2-no-rich-type-for-pod-html-a-deliberate-xss-refusal",
+      "bgColor": "#ffe2e6",
+      "parent": "#4hakzu"
+    },
+    {
+      "@id": "#gekznt",
+      "name": "config.baseUrl/loopbackUrl again",
+      "x": 458,
+      "y": -171,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#3-configbaseurlloopbackurl-again-the-apiserverinfo-finding-nth-consumer",
+      "bgColor": "#ffe2e6",
+      "parent": "#4hakzu"
+    },
+    {
+      "@id": "#beqq5j",
+      "name": "photo requires width/height, and nothing in the api provides them",
+      "x": 555,
+      "y": 170,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#4-photo-requires-widthheight-and-nothing-in-the-api-or-http-provides-them",
+      "bgColor": "#ffe2e6",
+      "parent": "#4hakzu"
+    },
+    {
+      "@id": "#6r28st",
+      "name": "Private→404 is the right collapse, and loopback makes it free",
+      "x": 129,
+      "y": 411,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#5-private404-is-the-right-collapse-and-loopback-makes-it-free",
+      "bgColor": "#ffe2e6",
+      "parent": "#4hakzu"
+    },
+    {
+      "@id": "#d5e2jv",
+      "name": "plugin.js",
+      "x": -167,
+      "y": 158,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/plugin.js",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3g77sx",
+      "name": "activate()",
+      "x": -334,
+      "y": 316,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/plugin.js#L173",
+      "bgColor": "#fbe8d3",
+      "parent": "#d5e2jv"
+    },
+    {
+      "@id": "#ucs9ug",
+      "name": "test.js",
+      "x": -219,
+      "y": 109,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tse2je",
+      "name": "← JSS plugins",
+      "x": -246,
+      "y": 65,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

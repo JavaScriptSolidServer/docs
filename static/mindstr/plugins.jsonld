@@ -1,0 +1,760 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "JSS plugins · 42",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ab9ysn",
+      "name": "Federation and identity · 9",
+      "x": -262,
+      "y": -141,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhtzie",
+      "name": "activitypub",
+      "x": -495,
+      "y": -61,
+      "link": "./plugin-activitypub.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#2sgmjt",
+      "name": "mastodon",
+      "x": -572,
+      "y": -124,
+      "link": "./plugin-mastodon.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#j9h6ge",
+      "name": "bluesky",
+      "x": -469,
+      "y": -147,
+      "link": "./plugin-bluesky.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#ejt2c7",
+      "name": "matrix",
+      "x": -529,
+      "y": -223,
+      "link": "./plugin-matrix.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#tvx8v7",
+      "name": "webfinger",
+      "x": -422,
+      "y": -228,
+      "link": "./plugin-webfinger.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#4bfmpa",
+      "name": "nip05",
+      "x": -462,
+      "y": -312,
+      "link": "./plugin-nip05.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#c2mpq8",
+      "name": "didweb",
+      "x": -357,
+      "y": -298,
+      "link": "./plugin-didweb.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#yykmee",
+      "name": "relay",
+      "x": -386,
+      "y": -387,
+      "link": "./plugin-relay.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#7kgwkb",
+      "name": "federation-demo",
+      "x": -269,
+      "y": -355,
+      "link": "./plugin-federation-demo.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#ab9ysn"
+    },
+    {
+      "@id": "#x7t4w7",
+      "name": "Calendars, contacts, feeds · 6",
+      "x": -15,
+      "y": -212,
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dsw684",
+      "name": "caldav",
+      "x": -160,
+      "y": -403,
+      "link": "./plugin-caldav.jsonld",
+      "bgColor": "#efe6ff",
+      "parent": "#x7t4w7"
+    },
+    {
+      "@id": "#v88t4a",
+      "name": "carddav",
+      "x": -128,
+      "y": -489,
+      "link": "./plugin-carddav.jsonld",
+      "bgColor": "#efe6ff",
+      "parent": "#x7t4w7"
+    },
+    {
+      "@id": "#skzt29",
+      "name": "jmap",
+      "x": -57,
+      "y": -422,
+      "link": "./plugin-jmap.jsonld",
+      "bgColor": "#efe6ff",
+      "parent": "#x7t4w7"
+    },
+    {
+      "@id": "#t4pwzt",
+      "name": "rss",
+      "x": -5,
+      "y": -501,
+      "link": "./plugin-rss.jsonld",
+      "bgColor": "#efe6ff",
+      "parent": "#x7t4w7"
+    },
+    {
+      "@id": "#jhaa84",
+      "name": "micropub",
+      "x": 48,
+      "y": -423,
+      "link": "./plugin-micropub.jsonld",
+      "bgColor": "#efe6ff",
+      "parent": "#x7t4w7"
+    },
+    {
+      "@id": "#wavvy9",
+      "name": "oembed",
+      "x": 119,
+      "y": -491,
+      "link": "./plugin-oembed.jsonld",
+      "bgColor": "#efe6ff",
+      "parent": "#x7t4w7"
+    },
+    {
+      "@id": "#i9w3v4",
+      "name": "Storage and data · 11",
+      "x": 262,
+      "y": -141,
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e9sufn",
+      "name": "backup",
+      "x": 230,
+      "y": -377,
+      "link": "./plugin-backup.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#g45zx9",
+      "name": "s3",
+      "x": 326,
+      "y": -418,
+      "link": "./plugin-s3.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#vz8rhu",
+      "name": "webdav",
+      "x": 318,
+      "y": -328,
+      "link": "./plugin-webdav.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#35gtrs",
+      "name": "data",
+      "x": 421,
+      "y": -351,
+      "link": "./plugin-data.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#fiqrfa",
+      "name": "remotestorage",
+      "x": 386,
+      "y": -264,
+      "link": "./plugin-remotestorage.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#fad69b",
+      "name": "gallery",
+      "x": 502,
+      "y": -268,
+      "link": "./plugin-gallery.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#fnrzmm",
+      "name": "globs",
+      "x": 448,
+      "y": -188,
+      "link": "./plugin-globs.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#3y3s3p",
+      "name": "search",
+      "x": 554,
+      "y": -173,
+      "link": "./plugin-search.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#ujs2ci",
+      "name": "sparql",
+      "x": 485,
+      "y": -104,
+      "link": "./plugin-sparql.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#442pm7",
+      "name": "shortlink",
+      "x": 584,
+      "y": -71,
+      "link": "./plugin-shortlink.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#imr4n9",
+      "name": "recordweb",
+      "x": 500,
+      "y": -16,
+      "link": "./plugin-recordweb.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#i9w3v4"
+    },
+    {
+      "@id": "#tpktj6",
+      "name": "Money · 4",
+      "x": 232,
+      "y": 78,
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u94rpy",
+      "name": "pay",
+      "x": 488,
+      "y": 93,
+      "link": "./plugin-pay.jsonld",
+      "bgColor": "#ffe4d9",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#7txfyn",
+      "name": "markets",
+      "x": 559,
+      "y": 160,
+      "link": "./plugin-markets.jsonld",
+      "bgColor": "#ffe4d9",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#v5njcx",
+      "name": "ripple",
+      "x": 454,
+      "y": 177,
+      "link": "./plugin-ripple.jsonld",
+      "bgColor": "#ffe4d9",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#z8kicz",
+      "name": "capability",
+      "x": 507,
+      "y": 256,
+      "link": "./plugin-capability.jsonld",
+      "bgColor": "#ffe4d9",
+      "parent": "#tpktj6"
+    },
+    {
+      "@id": "#7348h9",
+      "name": "Operations · 10",
+      "x": 96,
+      "y": 251,
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jtny2v",
+      "name": "admin",
+      "x": 355,
+      "y": 300,
+      "link": "./plugin-admin.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#zvvi4r",
+      "name": "dashboard",
+      "x": 374,
+      "y": 389,
+      "link": "./plugin-dashboard.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#ezqtt6",
+      "name": "metrics",
+      "x": 272,
+      "y": 354,
+      "link": "./plugin-metrics.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#8edjsn",
+      "name": "notifications",
+      "x": 268,
+      "y": 447,
+      "link": "./plugin-notifications.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#75s7ir",
+      "name": "corsproxy",
+      "x": 179,
+      "y": 398,
+      "link": "./plugin-corsproxy.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#7x3k79",
+      "name": "tunnel",
+      "x": 152,
+      "y": 485,
+      "link": "./plugin-tunnel.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#4af2dc",
+      "name": "turn",
+      "x": 77,
+      "y": 420,
+      "link": "./plugin-turn.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#7iui3z",
+      "name": "webrtc",
+      "x": 29,
+      "y": 501,
+      "link": "./plugin-webrtc.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#bq9ccn",
+      "name": "terminal",
+      "x": -28,
+      "y": 424,
+      "link": "./plugin-terminal.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#3yirdr",
+      "name": "otp",
+      "x": -95,
+      "y": 495,
+      "link": "./plugin-otp.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#7348h9"
+    },
+    {
+      "@id": "#ptf2jy",
+      "name": "Git · 2",
+      "x": -107,
+      "y": 192,
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4bfy6j",
+      "name": "forge",
+      "x": -189,
+      "y": 393,
+      "link": "./plugin-forge.jsonld",
+      "bgColor": "#ddf2de",
+      "parent": "#ptf2jy"
+    },
+    {
+      "@id": "#4wkdd9",
+      "name": "gitscratch",
+      "x": -279,
+      "y": 442,
+      "link": "./plugin-gitscratch.jsonld",
+      "bgColor": "#ddf2de",
+      "parent": "#ptf2jy"
+    },
+    {
+      "@id": "#yiscsp",
+      "name": "Guides",
+      "x": -262,
+      "y": 141,
+      "link": "https://github.com/JavaScriptSolidServer/plugins",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2fzfhg",
+      "name": "AGENT",
+      "x": -318,
+      "y": 328,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/AGENT.md",
+      "bgColor": "#ececec",
+      "parent": "#yiscsp"
+    },
+    {
+      "@id": "#6ab87r",
+      "name": "NEXT",
+      "x": -421,
+      "y": 351,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/NEXT.md",
+      "bgColor": "#ececec",
+      "parent": "#yiscsp"
+    },
+    {
+      "@id": "#uyfscv",
+      "name": "NOTES",
+      "x": -392,
+      "y": 264,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/NOTES.md",
+      "bgColor": "#ececec",
+      "parent": "#yiscsp"
+    },
+    {
+      "@id": "#z5cumb",
+      "name": "ISSUES",
+      "x": -498,
+      "y": 269,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ISSUES.md",
+      "bgColor": "#ececec",
+      "parent": "#yiscsp"
+    },
+    {
+      "@id": "#7iejm3",
+      "name": "STRATEGY",
+      "x": -448,
+      "y": 189,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/STRATEGY.md",
+      "bgColor": "#ececec",
+      "parent": "#yiscsp"
+    },
+    {
+      "@id": "#452y5w",
+      "name": "SECURITY",
+      "x": -553,
+      "y": 174,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/SECURITY.md",
+      "bgColor": "#ececec",
+      "parent": "#yiscsp"
+    },
+    {
+      "@id": "#yyjnxk",
+      "name": "REPORT",
+      "x": -485,
+      "y": 105,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/REPORT.md",
+      "bgColor": "#ececec",
+      "parent": "#yiscsp"
+    },
+    {
+      "@id": "#hrvxpy",
+      "name": "← JSS docs",
+      "x": -250,
+      "y": 13,
+      "link": "./index.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 1,
+      "end": 8
+    },
+    {
+      "start": 1,
+      "end": 9
+    },
+    {
+      "start": 1,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 11,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 18,
+      "end": 23
+    },
+    {
+      "start": 18,
+      "end": 24
+    },
+    {
+      "start": 18,
+      "end": 25
+    },
+    {
+      "start": 18,
+      "end": 26
+    },
+    {
+      "start": 18,
+      "end": 27
+    },
+    {
+      "start": 18,
+      "end": 28
+    },
+    {
+      "start": 18,
+      "end": 29
+    },
+    {
+      "start": 0,
+      "end": 30
+    },
+    {
+      "start": 30,
+      "end": 31
+    },
+    {
+      "start": 30,
+      "end": 32
+    },
+    {
+      "start": 30,
+      "end": 33
+    },
+    {
+      "start": 30,
+      "end": 34
+    },
+    {
+      "start": 0,
+      "end": 35
+    },
+    {
+      "start": 35,
+      "end": 36
+    },
+    {
+      "start": 35,
+      "end": 37
+    },
+    {
+      "start": 35,
+      "end": 38
+    },
+    {
+      "start": 35,
+      "end": 39
+    },
+    {
+      "start": 35,
+      "end": 40
+    },
+    {
+      "start": 35,
+      "end": 41
+    },
+    {
+      "start": 35,
+      "end": 42
+    },
+    {
+      "start": 35,
+      "end": 43
+    },
+    {
+      "start": 35,
+      "end": 44
+    },
+    {
+      "start": 35,
+      "end": 45
+    },
+    {
+      "start": 0,
+      "end": 46
+    },
+    {
+      "start": 46,
+      "end": 47
+    },
+    {
+      "start": 46,
+      "end": 48
+    },
+    {
+      "start": 0,
+      "end": 49
+    },
+    {
+      "start": 49,
+      "end": 50
+    },
+    {
+      "start": 49,
+      "end": 51
+    },
+    {
+      "start": 49,
+      "end": 52
+    },
+    {
+      "start": 49,
+      "end": 53
+    },
+    {
+      "start": 49,
+      "end": 54
+    },
+    {
+      "start": 49,
+      "end": 55
+    },
+    {
+      "start": 49,
+      "end": 56
+    },
+    {
+      "start": 0,
+      "end": 57
+    }
+  ],
+  "selectedNode": 0
+}

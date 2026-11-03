@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#gekznt",
+      "@id": "#6r28st",
       "name": "Quick Start",
       "x": -247,
       "y": -33,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#beqq5j",
+      "@id": "#d5e2jv",
       "name": "Configuration",
       "x": -217,
       "y": -106,
@@ -37,16 +37,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#6r28st",
+      "@id": "#3g77sx",
       "name": "Environment Variables",
       "x": -433,
       "y": -212,
       "link": "https://jss.live/docs/features/payments#environment-variables",
       "bgColor": "#efe6ff",
-      "parent": "#beqq5j"
+      "parent": "#d5e2jv"
     },
     {
-      "@id": "#d5e2jv",
+      "@id": "#ucs9ug",
       "name": "API Endpoints",
       "x": -125,
       "y": -184,
@@ -55,25 +55,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#3g77sx",
+      "@id": "#tse2je",
       "name": "Public",
       "x": -305,
       "y": -337,
       "link": "https://jss.live/docs/features/payments#public-no-auth",
       "bgColor": "#ffe2ed",
-      "parent": "#d5e2jv"
+      "parent": "#ucs9ug"
     },
     {
-      "@id": "#ucs9ug",
+      "@id": "#cvh8ee",
       "name": "Authenticated",
       "x": -225,
       "y": -463,
       "link": "https://jss.live/docs/features/payments#authenticated-nip-98",
       "bgColor": "#ffe2ed",
-      "parent": "#d5e2jv"
+      "parent": "#ucs9ug"
     },
     {
-      "@id": "#tse2je",
+      "@id": "#3xd5xn",
       "name": "How It Works",
       "x": 105,
       "y": -193,
@@ -82,43 +82,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#cvh8ee",
+      "@id": "#jingvu",
       "name": "Discover",
       "x": 13,
       "y": -425,
       "link": "https://jss.live/docs/features/payments#1-discover",
       "bgColor": "#ffe4d9",
-      "parent": "#tse2je"
+      "parent": "#3xd5xn"
     },
     {
-      "@id": "#3xd5xn",
+      "@id": "#u9rrt3",
       "name": "Authenticate",
       "x": 169,
       "y": -480,
       "link": "https://jss.live/docs/features/payments#2-authenticate",
       "bgColor": "#ffe4d9",
-      "parent": "#tse2je"
+      "parent": "#3xd5xn"
     },
     {
-      "@id": "#jingvu",
+      "@id": "#kgvapt",
       "name": "Deposit",
       "x": 264,
       "y": -361,
       "link": "https://jss.live/docs/features/payments#3-deposit",
       "bgColor": "#ffe4d9",
-      "parent": "#tse2je"
+      "parent": "#3xd5xn"
     },
     {
-      "@id": "#u9rrt3",
+      "@id": "#6yp854",
       "name": "Access Resources",
       "x": 435,
       "y": -338,
       "link": "https://jss.live/docs/features/payments#4-access-resources",
       "bgColor": "#ffe4d9",
-      "parent": "#tse2je"
+      "parent": "#3xd5xn"
     },
     {
-      "@id": "#kgvapt",
+      "@id": "#g8htk4",
       "name": "Token Economy",
       "x": 247,
       "y": 31,
@@ -127,43 +127,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#6yp854",
+      "@id": "#iq664j",
       "name": "Mint a Token",
       "x": 483,
       "y": -110,
       "link": "https://jss.live/docs/features/payments#mint-a-token-cli",
       "bgColor": "#f2ecd2",
-      "parent": "#kgvapt"
+      "parent": "#g8htk4"
     },
     {
-      "@id": "#g8htk4",
+      "@id": "#gz4cvb",
       "name": "Primary Market",
       "x": 590,
       "y": 2,
       "link": "https://jss.live/docs/features/payments#primary-market",
       "bgColor": "#f2ecd2",
-      "parent": "#kgvapt"
+      "parent": "#g8htk4"
     },
     {
-      "@id": "#iq664j",
+      "@id": "#itdh4e",
       "name": "Withdrawal",
       "x": 482,
       "y": 113,
       "link": "https://jss.live/docs/features/payments#withdrawal",
       "bgColor": "#f2ecd2",
-      "parent": "#kgvapt"
+      "parent": "#g8htk4"
     },
     {
-      "@id": "#gz4cvb",
+      "@id": "#wymkpw",
       "name": "Secondary Market",
       "x": 505,
       "y": 259,
       "link": "https://jss.live/docs/features/payments#secondary-market",
       "bgColor": "#f2ecd2",
-      "parent": "#kgvapt"
+      "parent": "#g8htk4"
     },
     {
-      "@id": "#itdh4e",
+      "@id": "#qhm56x",
       "name": "Multi-Chain AMM",
       "x": 64,
       "y": 205,
@@ -172,34 +172,34 @@
       "parent": "#this"
     },
     {
-      "@id": "#wymkpw",
+      "@id": "#gyahr4",
       "name": "Supported Chains",
       "x": 265,
       "y": 360,
       "link": "https://jss.live/docs/features/payments#supported-chains",
       "bgColor": "#ddf2de",
-      "parent": "#itdh4e"
+      "parent": "#qhm56x"
     },
     {
-      "@id": "#qhm56x",
+      "@id": "#wt6f72",
       "name": "Multi-Chain Deposits",
       "x": 146,
       "y": 486,
       "link": "https://jss.live/docs/features/payments#multi-chain-deposits",
       "bgColor": "#ddf2de",
-      "parent": "#itdh4e"
+      "parent": "#qhm56x"
     },
     {
-      "@id": "#gyahr4",
+      "@id": "#zy9np2",
       "name": "AMM Pool",
       "x": -25,
       "y": 424,
       "link": "https://jss.live/docs/features/payments#amm-pool",
       "bgColor": "#ddf2de",
-      "parent": "#itdh4e"
+      "parent": "#qhm56x"
     },
     {
-      "@id": "#wt6f72",
+      "@id": "#3jk3i5",
       "name": "Use Cases",
       "x": -103,
       "y": 197,
@@ -208,7 +208,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#zy9np2",
+      "@id": "#94asrn",
       "name": "Balance Tracking",
       "x": -171,
       "y": 153,
@@ -217,7 +217,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#3jk3i5",
+      "@id": "#kgrwxb",
       "name": "Token Management",
       "x": -221,
       "y": 99,
@@ -226,7 +226,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#94asrn",
+      "@id": "#aj9t28",
       "name": "← Features",
       "x": -247,
       "y": 33,

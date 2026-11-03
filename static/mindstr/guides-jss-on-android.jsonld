@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#7ikicx",
+      "@id": "#jbhqgv",
       "name": "Today",
       "x": 23,
       "y": -212,
@@ -28,61 +28,61 @@
       "parent": "#this"
     },
     {
-      "@id": "#ice2bk",
+      "@id": "#5seuyw",
       "name": "Resource footprint",
       "x": -437,
       "y": -207,
       "link": "https://jss.live/docs/guides/jss-on-android#resource-footprint",
       "bgColor": "#daeeff",
-      "parent": "#7ikicx"
+      "parent": "#jbhqgv"
     },
     {
-      "@id": "#scytyn",
+      "@id": "#nm5hts",
       "name": "Install",
       "x": -339,
       "y": -410,
       "link": "https://jss.live/docs/guides/jss-on-android#install",
       "bgColor": "#daeeff",
-      "parent": "#7ikicx"
+      "parent": "#jbhqgv"
     },
     {
-      "@id": "#jbhqgv",
+      "@id": "#mesfa4",
       "name": "Run",
       "x": -98,
       "y": -417,
       "link": "https://jss.live/docs/guides/jss-on-android#run",
       "bgColor": "#daeeff",
-      "parent": "#7ikicx"
+      "parent": "#jbhqgv"
     },
     {
-      "@id": "#5seuyw",
+      "@id": "#ek2jcm",
       "name": "Public access via --tunnel",
       "x": 194,
       "y": -474,
       "link": "https://jss.live/docs/guides/jss-on-android#public-access-via---tunnel",
       "bgColor": "#daeeff",
-      "parent": "#7ikicx"
+      "parent": "#jbhqgv"
     },
     {
-      "@id": "#nm5hts",
+      "@id": "#uja84e",
       "name": "Persistence",
       "x": 381,
       "y": -275,
       "link": "https://jss.live/docs/guides/jss-on-android#persistence",
       "bgColor": "#daeeff",
-      "parent": "#7ikicx"
+      "parent": "#jbhqgv"
     },
     {
-      "@id": "#mesfa4",
+      "@id": "#78sngm",
       "name": "Storage",
       "x": 566,
       "y": -143,
       "link": "https://jss.live/docs/guides/jss-on-android#storage",
       "bgColor": "#daeeff",
-      "parent": "#7ikicx"
+      "parent": "#jbhqgv"
     },
     {
-      "@id": "#ek2jcm",
+      "@id": "#58pkgm",
       "name": "Coming",
       "x": 184,
       "y": 144,
@@ -91,25 +91,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#uja84e",
+      "@id": "#7jxpjz",
       "name": "Architecture",
       "x": 443,
       "y": 197,
       "link": "https://jss.live/docs/guides/jss-on-android#architecture",
       "bgColor": "#f7e4f9",
-      "parent": "#ek2jcm"
+      "parent": "#58pkgm"
     },
     {
-      "@id": "#78sngm",
+      "@id": "#qrspvr",
       "name": "Why this is feasible",
       "x": 342,
       "y": 409,
       "link": "https://jss.live/docs/guides/jss-on-android#why-this-is-feasible",
       "bgColor": "#f7e4f9",
-      "parent": "#ek2jcm"
+      "parent": "#58pkgm"
     },
     {
-      "@id": "#58pkgm",
+      "@id": "#wfbk2v",
       "name": "Long arc",
       "x": 5,
       "y": 214,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7jxpjz",
+      "@id": "#xetwaa",
       "name": "Why \"runs on a phone\" matters",
       "x": -152,
       "y": 168,
@@ -127,7 +127,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#qrspvr",
+      "@id": "#wtpnjp",
       "name": "← Guides",
       "x": -242,
       "y": 52,

@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "matrix: a Matrix Client-Server API shim over your own pod",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/matrix",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#4pcagq",
+      "name": "Pointing a client at it",
+      "x": -245,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#pointing-a-client-at-it",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5b4mbz",
+      "name": "Endpoint coverage",
+      "x": -209,
+      "y": -116,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#endpoint-coverage",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6kbx7u",
+      "name": "The login → pod-credentials bridge",
+      "x": -128,
+      "y": -173,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#the-login-pod-credentials-bridge",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9bysfh",
+      "name": "Identity & object derivation",
+      "x": -2,
+      "y": -217,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#identity-object-derivation",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cyd9xx",
+      "name": "Findings",
+      "x": 237,
+      "y": 66,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#findings",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bvsynb",
+      "name": "Matrix's fixed /matrix root doesn't fit the one-prefix plugin model",
+      "x": 406,
+      "y": -248,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#1-matrixs-fixed-matrix-root-doesnt-fit-the-one-prefix-plugin-model-the-nth-confirmation-now-for-a-chat-protocol-closed-apireservepath-jss-00219",
+      "bgColor": "#f2ecd2",
+      "parent": "#cyd9xx"
+    },
+    {
+      "@id": "#xintwj",
+      "name": "The /idp/credentials token bridge generalizes to a 4th protocol",
+      "x": 573,
+      "y": 121,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#2-the-idpcredentials-token-bridge-generalizes-to-a-4th-protocol",
+      "bgColor": "#f2ecd2",
+      "parent": "#cyd9xx"
+    },
+    {
+      "@id": "#yhbdjy",
+      "name": "LDP ↔ Matrix-event mapping: timelines fit, the /sync since-token model does not",
+      "x": 188,
+      "y": 394,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#3-ldp-matrix-event-mapping-timelines-fit-the-sync-since-token-model-does-not",
+      "bgColor": "#f2ecd2",
+      "parent": "#cyd9xx"
+    },
+    {
+      "@id": "#hgctui",
+      "name": "Run",
+      "x": -129,
+      "y": 197,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#run",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vz6dbr",
+      "name": "plugin.js",
+      "x": -186,
+      "y": 153,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/plugin.js",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ecv4rb",
+      "name": "activate()",
+      "x": -371,
+      "y": 285,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/plugin.js#L102",
+      "bgColor": "#d1f3f4",
+      "parent": "#vz6dbr"
+    },
+    {
+      "@id": "#57jxgj",
+      "name": "test.js",
+      "x": -226,
+      "y": 109,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ttdvnf",
+      "name": "← JSS plugins",
+      "x": -247,
+      "y": 64,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

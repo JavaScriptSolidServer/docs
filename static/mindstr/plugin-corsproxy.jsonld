@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "corsproxy: CORS forward proxy as a plugin",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/corsproxy",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ux93wm",
+      "name": "Usage",
+      "x": -240,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#usage",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a464iu",
+      "name": "Config",
+      "x": -480,
+      "y": -119,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#config",
+      "bgColor": "#daeeff",
+      "parent": "#ux93wm"
+    },
+    {
+      "@id": "#simp87",
+      "name": "Security model",
+      "x": -165,
+      "y": -160,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#security-model",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tzmucf",
+      "name": "Tests",
+      "x": -38,
+      "y": -210,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#tests",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xmtzgz",
+      "name": "Findings",
+      "x": 240,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#findings",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9snuz",
+      "name": "The headline: per-pod ACL gating is impossible out here",
+      "x": 430,
+      "y": -218,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#the-headline-per-pod-acl-gating-is-impossible-out-here-exactly-what-382-says",
+      "bgColor": "#ffe4d9",
+      "parent": "#xmtzgz"
+    },
+    {
+      "@id": "#nxqgmq",
+      "name": "Smaller findings",
+      "x": 535,
+      "y": 211,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#smaller-findings",
+      "bgColor": "#ffe4d9",
+      "parent": "#xmtzgz"
+    },
+    {
+      "@id": "#dguykc",
+      "name": "License",
+      "x": 100,
+      "y": 195,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#license",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#28eue2",
+      "name": "plugin.js",
+      "x": -38,
+      "y": 210,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/plugin.js",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f4n9qu",
+      "name": "activate()",
+      "x": -76,
+      "y": 420,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/plugin.js#L223",
+      "bgColor": "#ddf2de",
+      "parent": "#28eue2"
+    },
+    {
+      "@id": "#krwt6e",
+      "name": "test.js",
+      "x": -165,
+      "y": 160,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#emecna",
+      "name": "← JSS plugins",
+      "x": -240,
+      "y": 64,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

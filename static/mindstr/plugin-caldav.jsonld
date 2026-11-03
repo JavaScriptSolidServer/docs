@@ -1,0 +1,155 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "caldav: sync a pod calendar to phones & desktops",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/caldav",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#dry8wx",
+      "name": "Adding the account on a client",
+      "x": -214,
+      "y": -110,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/caldav/README.md#adding-the-account-on-a-client",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmckuv",
+      "name": "The sync vertical slice",
+      "x": -13,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/caldav/README.md#the-sync-vertical-slice",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cicry",
+      "name": "What maps",
+      "x": 159,
+      "y": -164,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/caldav/README.md#what-maps",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7c28q6",
+      "name": "Free-busy",
+      "x": 241,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/caldav/README.md#free-busy",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qbh3e",
+      "name": "What doesn't map",
+      "x": 234,
+      "y": 75,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/caldav/README.md#what-doesnt-map",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m3xps2",
+      "name": "Findings",
+      "x": 136,
+      "y": 178,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/caldav/README.md#findings",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yxjf84",
+      "name": "plugin.js",
+      "x": -10,
+      "y": 212,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/caldav/plugin.js",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrv4db",
+      "name": "activate()",
+      "x": -19,
+      "y": 425,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/caldav/plugin.js#L267",
+      "bgColor": "#d1f3f4",
+      "parent": "#yxjf84"
+    },
+    {
+      "@id": "#i6483q",
+      "name": "test.js",
+      "x": -152,
+      "y": 169,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/caldav/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kmcrgd",
+      "name": "← JSS plugins",
+      "x": -238,
+      "y": 64,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

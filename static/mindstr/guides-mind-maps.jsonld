@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mind Maps",
+      "x": 0,
+      "y": 0,
+      "link": "https://jss.live/docs/guides/mind-maps",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#xzgaz8",
+      "name": "Where the maps live",
+      "x": -161,
+      "y": -163,
+      "link": "https://jss.live/docs/guides/mind-maps#where-the-maps-live",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#brfb5w",
+      "name": "What is in the set",
+      "x": 212,
+      "y": -113,
+      "link": "https://jss.live/docs/guides/mind-maps#what-is-in-the-set",
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#45xtcc",
+      "name": "For agents",
+      "x": 137,
+      "y": 178,
+      "link": "https://jss.live/docs/guides/mind-maps#for-agents",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ybwvcb",
+      "name": "← Guides",
+      "x": -188,
+      "y": 140,
+      "link": "./guides.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "selectedNode": 0
+}

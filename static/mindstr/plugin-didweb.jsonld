@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "didweb: did:web DID document resolver plugin",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/didweb",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ucttef",
+      "name": "The DID document",
+      "x": -222,
+      "y": -98,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/README.md#the-did-document",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vzipyd",
+      "name": "Verification-method derivation",
+      "x": -444,
+      "y": -196,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/README.md#verification-method-derivation-ties-to-nostr-ap-identity",
+      "bgColor": "#daeeff",
+      "parent": "#ucttef"
+    },
+    {
+      "@id": "#miy6ts",
+      "name": "Findings",
+      "x": -84,
+      "y": -200,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/README.md#findings",
+      "bgColor": "#e9c1ef",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ft3k8u",
+      "name": "plugin.js",
+      "x": 245,
+      "y": 65,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js",
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#it6792",
+      "name": "base58btcEncode()",
+      "x": 231,
+      "y": -377,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L80",
+      "bgColor": "#ffe3dc",
+      "parent": "#ft3k8u"
+    },
+    {
+      "@id": "#dnz3gb",
+      "name": "toMultikey()",
+      "x": 484,
+      "y": -287,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L103",
+      "bgColor": "#ffe3dc",
+      "parent": "#ft3k8u"
+    },
+    {
+      "@id": "#3ifse5",
+      "name": "compressedFromFForm()",
+      "x": 498,
+      "y": -34,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L136",
+      "bgColor": "#ffe3dc",
+      "parent": "#ft3k8u"
+    },
+    {
+      "@id": "#ju3xzh",
+      "name": "compressedFromJwk()",
+      "x": 519,
+      "y": 239,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L152",
+      "bgColor": "#ffe3dc",
+      "parent": "#ft3k8u"
+    },
+    {
+      "@id": "#p46jmx",
+      "name": "extractSecp256k1()",
+      "x": 253,
+      "y": 366,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L169",
+      "bgColor": "#ffe3dc",
+      "parent": "#ft3k8u"
+    },
+    {
+      "@id": "#bu7kuh",
+      "name": "activate()",
+      "x": 22,
+      "y": 501,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L206",
+      "bgColor": "#ffe3dc",
+      "parent": "#ft3k8u"
+    },
+    {
+      "@id": "#2iffkx",
+      "name": "test.js",
+      "x": -172,
+      "y": 154,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ssgz3q",
+      "name": "← JSS plugins",
+      "x": -241,
+      "y": 66,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 4,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

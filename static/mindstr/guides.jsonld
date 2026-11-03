@@ -19,55 +19,64 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#kgrwxb",
+      "@id": "#vx7khw",
       "name": "Deploy to Production",
-      "x": -207,
-      "y": -120,
+      "x": -217,
+      "y": -106,
       "link": "./guides-deploy-production.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#aj9t28",
+      "@id": "#34dvu3",
       "name": "Git on Solid",
-      "x": 25,
+      "x": -30,
       "y": -211,
       "link": "./guides-git-on-solid.jsonld",
-      "bgColor": "#e0c4f6",
-      "parent": "#this"
-    },
-    {
-      "@id": "#vx7khw",
-      "name": "Git Push with Nostr",
-      "x": 228,
-      "y": -88,
-      "link": "./guides-git-push-nostr.jsonld",
-      "bgColor": "#febdc6",
-      "parent": "#this"
-    },
-    {
-      "@id": "#34dvu3",
-      "name": "JSS on Android",
-      "x": 203,
-      "y": 124,
-      "link": "./guides-jss-on-android.jsonld",
-      "bgColor": "#f1c99c",
+      "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#v52rfv",
-      "name": "Connect Solid Apps",
-      "x": -19,
-      "y": 212,
-      "link": "./guides-solid-apps.jsonld",
-      "bgColor": "#c1dba8",
+      "name": "Git Push with Nostr",
+      "x": 178,
+      "y": -149,
+      "link": "./guides-git-push-nostr.jsonld",
+      "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
       "@id": "#gitnhm",
+      "name": "JSS on Android",
+      "x": 248,
+      "y": 28,
+      "link": "./guides-jss-on-android.jsonld",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hzes4u",
+      "name": "Connect Solid Apps",
+      "x": 131,
+      "y": 181,
+      "link": "./guides-solid-apps.jsonld",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mciseu",
+      "name": "Mind Maps",
+      "x": -83,
+      "y": 200,
+      "link": "./guides-mind-maps.jsonld",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dm48gj",
       "name": "← JSS docs",
-      "x": -223,
-      "y": 97,
+      "x": -229,
+      "y": 85,
       "link": "./index.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -97,6 +106,10 @@
     {
       "start": 0,
       "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
     }
   ],
   "selectedNode": 0

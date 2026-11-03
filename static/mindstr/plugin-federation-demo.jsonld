@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "federation-demo: two Solid servers federating over loopback, no clo",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/tree/main/federation-demo",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#gksydt",
+      "name": "What it walks",
+      "x": -218,
+      "y": -104,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/README.md#what-it-walks",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8su7v6",
+      "name": "Transcript excerpt",
+      "x": 11,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/README.md#transcript-excerpt",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2da7xj",
+      "name": "The files",
+      "x": 228,
+      "y": -88,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/README.md#the-files",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9e878e",
+      "name": "Findings",
+      "x": 207,
+      "y": 119,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/README.md#findings",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cp2str",
+      "name": "test.js",
+      "x": -11,
+      "y": 212,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/test.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#swzzzt",
+      "name": "← JSS plugins",
+      "x": -218,
+      "y": 104,
+      "link": "./plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}
