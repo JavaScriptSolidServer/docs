@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "docs",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/docs",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#uhqx6j",
+      "name": "Development",
+      "x": -232,
+      "y": -80,
+      "link": "https://github.com/JavaScriptSolidServer/docs#development",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aurbbn",
+      "name": "Build",
+      "x": -101,
+      "y": -195,
+      "link": "https://github.com/JavaScriptSolidServer/docs#build",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fxz322",
+      "name": "Deploy",
+      "x": 87,
+      "y": -199,
+      "link": "https://github.com/JavaScriptSolidServer/docs#deploy",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s77s87",
+      "name": "Documentation for JavaScript Solid Server.",
+      "x": 249,
+      "y": 18,
+      "link": "https://github.com/JavaScriptSolidServer/docs",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k73rni",
+      "name": "last commit 2026-11-03",
+      "x": 12,
+      "y": 212,
+      "link": "https://github.com/JavaScriptSolidServer/docs/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8zm2z",
+      "name": "← JavaScriptSolidServer",
+      "x": -214,
+      "y": 110,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

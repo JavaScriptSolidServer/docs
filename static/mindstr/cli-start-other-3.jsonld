@@ -1,0 +1,121 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "jss start: other 3 options",
+      "x": 0,
+      "y": 0,
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#7fnz2s",
+      "name": "--live-reload",
+      "x": -234,
+      "y": -74,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p89exh",
+      "name": "--[no-]mcp",
+      "x": -119,
+      "y": -187,
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#urtpxv",
+      "name": "--quiet",
+      "x": 54,
+      "y": -207,
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4dg5c4",
+      "name": "--plugin <module[@prefix]>",
+      "x": 227,
+      "y": -90,
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwm3he",
+      "name": "--log-level <level>",
+      "x": 212,
+      "y": 113,
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qvd9cw",
+      "name": "--print-config",
+      "x": 54,
+      "y": 207,
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sf37xb",
+      "name": "--help",
+      "x": -119,
+      "y": 187,
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fuhjpf",
+      "name": "← jss start",
+      "x": -234,
+      "y": 74,
+      "link": "./cli-start.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

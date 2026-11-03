@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-panes-jss",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/solid-panes-jss",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#drrwuk",
+      "name": "Goals",
+      "x": -240,
+      "y": -58,
+      "link": "https://github.com/JavaScriptSolidServer/solid-panes-jss#goals",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nsm2yi",
+      "name": "Documentation",
+      "x": -168,
+      "y": -157,
+      "link": "https://github.com/JavaScriptSolidServer/solid-panes-jss#documentation",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2xe78q",
+      "name": "Development",
+      "x": -48,
+      "y": -209,
+      "link": "https://github.com/JavaScriptSolidServer/solid-panes-jss#development",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jgw4tz",
+      "name": "Eg. some RDF CLasses",
+      "x": 110,
+      "y": -192,
+      "link": "https://github.com/JavaScriptSolidServer/solid-panes-jss#eg-some-rdf-classes",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bekswu",
+      "name": "Credits",
+      "x": 220,
+      "y": -101,
+      "link": "https://github.com/JavaScriptSolidServer/solid-panes-jss#credits",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pxrawa",
+      "name": "Solid-compatible Panes (JSS variant with minimal solid-oidc ",
+      "x": 193,
+      "y": 135,
+      "link": "https://github.com/JavaScriptSolidServer/solid-panes-jss",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gsrdqa",
+      "name": "last commit 2026-01-18",
+      "x": -98,
+      "y": 195,
+      "link": "https://github.com/JavaScriptSolidServer/solid-panes-jss/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ttvgv4",
+      "name": "← JavaScriptSolidServer",
+      "x": -231,
+      "y": 81,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

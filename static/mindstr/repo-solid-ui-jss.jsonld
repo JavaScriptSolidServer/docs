@@ -1,0 +1,220 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-ui-jss",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#uaafj4",
+      "name": "Getting started",
+      "x": -246,
+      "y": -36,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#getting-started",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v8kw9g",
+      "name": "Install via npm",
+      "x": -218,
+      "y": -105,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#install-via-npm",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ah8myn",
+      "name": "Use Directly in a Browser",
+      "x": 41,
+      "y": -210,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#use-directly-in-a-browser",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5z6jht",
+      "name": "Available Files",
+      "x": -271,
+      "y": -357,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#available-files",
+      "bgColor": "#ffe2ed",
+      "parent": "#ah8myn"
+    },
+    {
+      "@id": "#wmw2zs",
+      "name": "UMD Bundle",
+      "x": -166,
+      "y": -481,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#umd-bundle-global-variable",
+      "bgColor": "#ffe2ed",
+      "parent": "#ah8myn"
+    },
+    {
+      "@id": "#vfmmq5",
+      "name": "ESM Bundle",
+      "x": -1,
+      "y": -425,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#esm-bundle-import-as-module",
+      "bgColor": "#ffe2ed",
+      "parent": "#ah8myn"
+    },
+    {
+      "@id": "#pcr96u",
+      "name": "ESM Bundle with Import Maps",
+      "x": 213,
+      "y": -468,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#esm-bundle-with-import-maps",
+      "bgColor": "#ffe2ed",
+      "parent": "#ah8myn"
+    },
+    {
+      "@id": "#9b7nqt",
+      "name": "Development new components",
+      "x": 366,
+      "y": -290,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#development-new-components",
+      "bgColor": "#ffe2ed",
+      "parent": "#ah8myn"
+    },
+    {
+      "@id": "#tznyhy",
+      "name": "Adding Tests",
+      "x": 245,
+      "y": -40,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#adding-tests",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uwwb48",
+      "name": "GitHub Pages",
+      "x": 247,
+      "y": 31,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#github-pages",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bkdx9m",
+      "name": "Further documentation",
+      "x": 215,
+      "y": 109,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#further-documentation",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uyi44v",
+      "name": "Credits",
+      "x": 150,
+      "y": 168,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#credits",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pepean",
+      "name": "UI library for Solid applications (JSS variant with minimal ",
+      "x": -20,
+      "y": 213,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uxyq6b",
+      "name": "last commit 2026-01-18",
+      "x": -190,
+      "y": 138,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pms64g",
+      "name": "← JavaScriptSolidServer",
+      "x": -243,
+      "y": 50,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

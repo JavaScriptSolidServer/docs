@@ -1,0 +1,376 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-oidc",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#7ikicx",
+      "name": "Why solid-oidc?",
+      "x": -249,
+      "y": -18,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#why-solid-oidc",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ice2bk",
+      "name": "Features",
+      "x": -238,
+      "y": -62,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#features",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#scytyn",
+      "name": "Quick Start",
+      "x": -217,
+      "y": -108,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#quick-start",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jbhqgv",
+      "name": "Installation",
+      "x": -140,
+      "y": -176,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#installation",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5seuyw",
+      "name": "Option 1: CDN",
+      "x": -361,
+      "y": -294,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#option-1-cdn-recommended",
+      "bgColor": "#ffe4d9",
+      "parent": "#jbhqgv"
+    },
+    {
+      "@id": "#nm5hts",
+      "name": "Option 2: npm",
+      "x": -369,
+      "y": -405,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#option-2-npm",
+      "bgColor": "#ffe4d9",
+      "parent": "#jbhqgv"
+    },
+    {
+      "@id": "#mesfa4",
+      "name": "Option 3: Copy the file",
+      "x": -194,
+      "y": -388,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#option-3-copy-the-file",
+      "bgColor": "#ffe4d9",
+      "parent": "#jbhqgv"
+    },
+    {
+      "@id": "#ek2jcm",
+      "name": "API Reference",
+      "x": 219,
+      "y": -187,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#api-reference",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uja84e",
+      "name": "new Session",
+      "x": 4,
+      "y": -430,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#new-sessionoptions",
+      "bgColor": "#f2ecd2",
+      "parent": "#ek2jcm"
+    },
+    {
+      "@id": "#78sngm",
+      "name": "session.login",
+      "x": 106,
+      "y": -493,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionloginidp-redirecturi",
+      "bgColor": "#f2ecd2",
+      "parent": "#ek2jcm"
+    },
+    {
+      "@id": "#58pkgm",
+      "name": "session.handleRedirectFromLogin",
+      "x": 172,
+      "y": -384,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionhandleredirectfromlogin",
+      "bgColor": "#f2ecd2",
+      "parent": "#ek2jcm"
+    },
+    {
+      "@id": "#7jxpjz",
+      "name": "session.restore",
+      "x": 386,
+      "y": -393,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionrestore",
+      "bgColor": "#f2ecd2",
+      "parent": "#ek2jcm"
+    },
+    {
+      "@id": "#qrspvr",
+      "name": "session.logout",
+      "x": 356,
+      "y": -282,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionlogout",
+      "bgColor": "#f2ecd2",
+      "parent": "#ek2jcm"
+    },
+    {
+      "@id": "#wfbk2v",
+      "name": "session.authFetch",
+      "x": 514,
+      "y": -259,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionauthfetchurl-options",
+      "bgColor": "#f2ecd2",
+      "parent": "#ek2jcm"
+    },
+    {
+      "@id": "#xetwaa",
+      "name": "Properties",
+      "x": 468,
+      "y": -149,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#properties",
+      "bgColor": "#f2ecd2",
+      "parent": "#ek2jcm"
+    },
+    {
+      "@id": "#wtpnjp",
+      "name": "Methods",
+      "x": 580,
+      "y": -92,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#methods",
+      "bgColor": "#f2ecd2",
+      "parent": "#ek2jcm"
+    },
+    {
+      "@id": "#7cw6cg",
+      "name": "Events",
+      "x": 500,
+      "y": -5,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#events",
+      "bgColor": "#f2ecd2",
+      "parent": "#ek2jcm"
+    },
+    {
+      "@id": "#a54nev",
+      "name": "Advanced Usage",
+      "x": 165,
+      "y": 161,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#advanced-usage",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhb5iq",
+      "name": "Custom Session Database",
+      "x": 448,
+      "y": 189,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#custom-session-database",
+      "bgColor": "#ddf2de",
+      "parent": "#a54nev"
+    },
+    {
+      "@id": "#nvqaxu",
+      "name": "Pre-registered Client ID",
+      "x": 447,
+      "y": 314,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#pre-registered-client-id",
+      "bgColor": "#ddf2de",
+      "parent": "#a54nev"
+    },
+    {
+      "@id": "#9n2fi8",
+      "name": "Multiple Identity Providers",
+      "x": 279,
+      "y": 360,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#multiple-identity-providers",
+      "bgColor": "#ddf2de",
+      "parent": "#a54nev"
+    },
+    {
+      "@id": "#27czbt",
+      "name": "Handling Token Expiration",
+      "x": 186,
+      "y": 476,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#handling-token-expiration",
+      "bgColor": "#ddf2de",
+      "parent": "#a54nev"
+    },
+    {
+      "@id": "#eqxhbv",
+      "name": "Specifications",
+      "x": 41,
+      "y": 212,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#specifications",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m3zt7z",
+      "name": "Testing",
+      "x": -78,
+      "y": 210,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc#testing",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzgaz8",
+      "name": "Minimal, zero-build, zero-dependency Solid-OIDC client for b",
+      "x": -154,
+      "y": 166,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#brfb5w",
+      "name": "last commit 2026-10-04",
+      "x": -227,
+      "y": 89,
+      "link": "https://github.com/JavaScriptSolidServer/solid-oidc/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#45xtcc",
+      "name": "← JavaScriptSolidServer",
+      "x": -247,
+      "y": 31,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 8,
+      "end": 12
+    },
+    {
+      "start": 8,
+      "end": 13
+    },
+    {
+      "start": 8,
+      "end": 14
+    },
+    {
+      "start": 8,
+      "end": 15
+    },
+    {
+      "start": 8,
+      "end": 16
+    },
+    {
+      "start": 8,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

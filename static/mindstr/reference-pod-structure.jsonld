@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#j52mw6",
+      "@id": "#mukqya",
       "name": "WebID Profile",
       "x": -177,
       "y": -150,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#gu5n3w",
+      "@id": "#rdjmhy",
       "name": "Root ACL",
       "x": 177,
       "y": -150,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mukqya",
+      "@id": "#nbjpha",
       "name": "Inbox ACL",
       "x": 177,
       "y": 150,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#rdjmhy",
+      "@id": "#aypwsg",
       "name": "← Reference",
       "x": -177,
       "y": 150,

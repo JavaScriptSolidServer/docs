@@ -1,0 +1,85 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "jss start: cors options",
+      "x": 0,
+      "y": 0,
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#7348h9",
+      "name": "--[no-]cors-proxy",
+      "x": -220,
+      "y": -101,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jtny2v",
+      "name": "--cors-proxy-max-bytes <n>",
+      "x": 27,
+      "y": -211,
+      "bgColor": "#e9c1ef",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zvvi4r",
+      "name": "--cors-proxy-timeout-ms <ms>",
+      "x": 250,
+      "y": -8,
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ezqtt6",
+      "name": "--cors-proxy-max-redirects <n>",
+      "x": 23,
+      "y": 212,
+      "bgColor": "#d7d59b",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8edjsn",
+      "name": "← jss start",
+      "x": -226,
+      "y": 91,
+      "link": "./cli-start.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "selectedNode": 0
+}

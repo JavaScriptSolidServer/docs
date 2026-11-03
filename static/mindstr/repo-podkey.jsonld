@@ -1,0 +1,259 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "podkey",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/podkey",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#42eis4",
+      "name": "What it does",
+      "x": -247,
+      "y": -34,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#what-it-does",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f65d8e",
+      "name": "Security model",
+      "x": -222,
+      "y": -98,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#security-model",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ncsetq",
+      "name": "Install",
+      "x": -137,
+      "y": -178,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#install",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9nzdc",
+      "name": "Download the build",
+      "x": -328,
+      "y": -321,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#download-the-build",
+      "bgColor": "#ffe2ed",
+      "parent": "#ncsetq"
+    },
+    {
+      "@id": "#k8wdpx",
+      "name": "From source",
+      "x": -243,
+      "y": -457,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#from-source",
+      "bgColor": "#ffe2ed",
+      "parent": "#ncsetq"
+    },
+    {
+      "@id": "#a9fnph",
+      "name": "Usage",
+      "x": -34,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#usage",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yyu7jz",
+      "name": "API",
+      "x": -37,
+      "y": -424,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#api",
+      "bgColor": "#ffe4d9",
+      "parent": "#a9fnph"
+    },
+    {
+      "@id": "#wkrebf",
+      "name": "Architecture",
+      "x": 70,
+      "y": -215,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#architecture",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bu5bte",
+      "name": "did:nostr identity",
+      "x": 140,
+      "y": -171,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#didnostr-identity",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4hakzu",
+      "name": "Passkey identity",
+      "x": 204,
+      "y": -123,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#passkey-identity-advanced",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yhcpjw",
+      "name": "Where Podkey fits",
+      "x": 241,
+      "y": -56,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#where-podkey-fits",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m7mgcv",
+      "name": "Development",
+      "x": 249,
+      "y": 15,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#development",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gekznt",
+      "name": "Roadmap",
+      "x": 231,
+      "y": 81,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#roadmap",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#beqq5j",
+      "name": "Troubleshooting",
+      "x": 189,
+      "y": 128,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#troubleshooting",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6r28st",
+      "name": "Links",
+      "x": 127,
+      "y": 173,
+      "link": "https://github.com/JavaScriptSolidServer/podkey#links",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d5e2jv",
+      "name": "did:nostr and Solid authentication extension - NIP-07 provid",
+      "x": -38,
+      "y": 218,
+      "link": "https://github.com/JavaScriptSolidServer/podkey",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3g77sx",
+      "name": "last commit 2026-10-13",
+      "x": -195,
+      "y": 133,
+      "link": "https://github.com/JavaScriptSolidServer/podkey/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ucs9ug",
+      "name": "← JavaScriptSolidServer",
+      "x": -244,
+      "y": 48,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

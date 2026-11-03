@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ncsetq",
+      "@id": "#b9nzdc",
       "name": "Architecture",
       "x": -243,
       "y": -51,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#b9nzdc",
+      "@id": "#k8wdpx",
       "name": "Protocols",
       "x": -186,
       "y": -142,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#k8wdpx",
+      "@id": "#a9fnph",
       "name": "Recipe: encrypt-then-PUT",
       "x": -90,
       "y": -206,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#a9fnph",
+      "@id": "#yyu7jz",
       "name": "Recipe: GET-then-decrypt",
       "x": 130,
       "y": -189,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#yyu7jz",
+      "@id": "#wkrebf",
       "name": "Browser flow with a NIP-07 signer",
       "x": 241,
       "y": -58,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wkrebf",
+      "@id": "#bu5bte",
       "name": "Threat model",
       "x": 227,
       "y": 89,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#bu5bte",
+      "@id": "#4hakzu",
       "name": "Why reuse Nostr primitives instead of designing a Solid-native E2EE protocol",
       "x": -24,
       "y": 212,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4hakzu",
+      "@id": "#yhcpjw",
       "name": "← Features",
       "x": -243,
       "y": 51,

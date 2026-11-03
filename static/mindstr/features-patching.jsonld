@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#abq85r",
+      "@id": "#sy2ncx",
       "name": "N3 Patch",
       "x": -108,
       "y": -192,
@@ -28,16 +28,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#sy2ncx",
+      "@id": "#fertai",
       "name": "Insert and Delete",
       "x": -215,
       "y": -384,
       "link": "https://javascriptsolidserver.github.io/docs/features/patching#insert-and-delete",
       "bgColor": "#daeeff",
-      "parent": "#abq85r"
+      "parent": "#sy2ncx"
     },
     {
-      "@id": "#fertai",
+      "@id": "#9u36xp",
       "name": "SPARQL Update",
       "x": 248,
       "y": 25,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#9u36xp",
+      "@id": "#5q2nc4",
       "name": "← Features",
       "x": -133,
       "y": 180,

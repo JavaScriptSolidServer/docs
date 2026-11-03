@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "jss token",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/cli",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#simp87",
+      "name": "jss token mint",
+      "x": -182,
+      "y": -145,
+      "link": "./cli-token-mint.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tzmucf",
+      "name": "jss token transfer",
+      "x": 182,
+      "y": -145,
+      "link": "./cli-token-transfer.jsonld",
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xmtzgz",
+      "name": "jss token info",
+      "x": 159,
+      "y": 164,
+      "link": "./cli-token-info.jsonld",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9snuz",
+      "name": "← jss CLI",
+      "x": -182,
+      "y": 145,
+      "link": "./cli.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "selectedNode": 0
+}

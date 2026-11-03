@@ -1,0 +1,246 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "fastpod",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#qvd9cw",
+      "name": "🚀 Quick Start",
+      "x": -247,
+      "y": -35,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#quick-start",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sf37xb",
+      "name": "⚡ Performance",
+      "x": -220,
+      "y": -102,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#performance",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fuhjpf",
+      "name": "✨ Features",
+      "x": -168,
+      "y": -157,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#features",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dry8wx",
+      "name": "📦 Installation",
+      "x": -50,
+      "y": -208,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#installation",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmckuv",
+      "name": "No Installation",
+      "x": -181,
+      "y": -396,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#no-installation-recommended",
+      "bgColor": "#ffe4d9",
+      "parent": "#dry8wx"
+    },
+    {
+      "@id": "#6cicry",
+      "name": "Global Installation",
+      "x": -35,
+      "y": -501,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#global-installation",
+      "bgColor": "#ffe4d9",
+      "parent": "#dry8wx"
+    },
+    {
+      "@id": "#7c28q6",
+      "name": "🎮 Usage",
+      "x": 83,
+      "y": -207,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#usage",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qbh3e",
+      "name": "📖 How It Works",
+      "x": 156,
+      "y": -163,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#how-it-works",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m3xps2",
+      "name": "🌟 First Run",
+      "x": 211,
+      "y": -113,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#first-run",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yxjf84",
+      "name": "🎯 Why fastpod?",
+      "x": 244,
+      "y": -48,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#why-fastpod",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrv4db",
+      "name": "📚 Learn More",
+      "x": 249,
+      "y": 23,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#learn-more",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i6483q",
+      "name": "🤝 Contributing",
+      "x": 226,
+      "y": 87,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#contributing",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kmcrgd",
+      "name": "📄 License",
+      "x": 178,
+      "y": 131,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#license",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ktiw89",
+      "name": "🙏 Credits",
+      "x": 111,
+      "y": 177,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod#credits",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c74y5q",
+      "name": "Fast Solid Pod - The fastest way to run a Solid pod",
+      "x": -44,
+      "y": 221,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#374kep",
+      "name": "last commit 2026-01-16",
+      "x": -191,
+      "y": 137,
+      "link": "https://github.com/JavaScriptSolidServer/fastpod/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ba2cgp",
+      "name": "← JavaScriptSolidServer",
+      "x": -243,
+      "y": 50,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

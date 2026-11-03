@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#7jxpjz",
+      "@id": "#qrspvr",
       "name": "SolidOS / Mashlib",
       "x": -225,
       "y": -92,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#qrspvr",
+      "@id": "#wfbk2v",
       "name": "Solid-OIDC Apps",
       "x": -65,
       "y": -205,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wfbk2v",
+      "@id": "#xetwaa",
       "name": "Common Apps",
       "x": 130,
       "y": -182,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#xetwaa",
+      "@id": "#wtpnjp",
       "name": "Troubleshooting",
       "x": 164,
       "y": 161,
@@ -55,34 +55,34 @@
       "parent": "#this"
     },
     {
-      "@id": "#wtpnjp",
+      "@id": "#7cw6cg",
       "name": "App can't parse responses",
       "x": 496,
       "y": 53,
       "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#app-cant-parse-responses",
       "bgColor": "#eeedd3",
-      "parent": "#xetwaa"
+      "parent": "#wtpnjp"
     },
     {
-      "@id": "#7cw6cg",
+      "@id": "#a54nev",
       "name": "Login doesn't work",
       "x": 303,
       "y": 430,
       "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#login-doesnt-work",
       "bgColor": "#eeedd3",
-      "parent": "#xetwaa"
+      "parent": "#wtpnjp"
     },
     {
-      "@id": "#a54nev",
+      "@id": "#qhb5iq",
       "name": "CORS errors",
       "x": -96,
       "y": 417,
       "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#cors-errors",
       "bgColor": "#eeedd3",
-      "parent": "#xetwaa"
+      "parent": "#wtpnjp"
     },
     {
-      "@id": "#qhb5iq",
+      "@id": "#nvqaxu",
       "name": "← Guides",
       "x": -230,
       "y": 83,

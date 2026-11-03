@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-desktop",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/solid-desktop",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#hzes4u",
+      "name": "Quick Start",
+      "x": -238,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/solid-desktop#quick-start",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mciseu",
+      "name": "Install Globally",
+      "x": -145,
+      "y": -173,
+      "link": "https://github.com/JavaScriptSolidServer/solid-desktop#install-globally",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dm48gj",
+      "name": "Development",
+      "x": 6,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/solid-desktop#development",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k6cm7k",
+      "name": "Configure",
+      "x": 150,
+      "y": -170,
+      "link": "https://github.com/JavaScriptSolidServer/solid-desktop#configure",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#djkutb",
+      "name": "A minimal Solid desktop app - a thin Electron shell over jsp",
+      "x": 230,
+      "y": 82,
+      "link": "https://github.com/JavaScriptSolidServer/solid-desktop",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pu9sy8",
+      "name": "last commit 2026-05-23",
+      "x": -66,
+      "y": 205,
+      "link": "https://github.com/JavaScriptSolidServer/solid-desktop/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ppwsy",
+      "name": "← JavaScriptSolidServer",
+      "x": -226,
+      "y": 90,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

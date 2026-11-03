@@ -1,0 +1,142 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "architecture",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/architecture",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#rfby2g",
+      "name": "Key Objectives",
+      "x": -241,
+      "y": -57,
+      "link": "https://github.com/JavaScriptSolidServer/architecture#key-objectives",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#arxjt8",
+      "name": "Overview",
+      "x": 47,
+      "y": -209,
+      "link": "https://github.com/JavaScriptSolidServer/architecture#overview",
+      "bgColor": "#e9c1ef",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jtyjdw",
+      "name": "Components",
+      "x": -282,
+      "y": -351,
+      "link": "https://github.com/JavaScriptSolidServer/architecture#components",
+      "bgColor": "#f7e4f9",
+      "parent": "#arxjt8"
+    },
+    {
+      "@id": "#dtqx4z",
+      "name": "Deployment Model",
+      "x": -73,
+      "y": -498,
+      "link": "https://github.com/JavaScriptSolidServer/architecture#deployment-model",
+      "bgColor": "#f7e4f9",
+      "parent": "#arxjt8"
+    },
+    {
+      "@id": "#u2s2vv",
+      "name": "Separation of Concerns",
+      "x": 210,
+      "y": -386,
+      "link": "https://github.com/JavaScriptSolidServer/architecture#separation-of-concerns",
+      "bgColor": "#f7e4f9",
+      "parent": "#arxjt8"
+    },
+    {
+      "@id": "#vx2z65",
+      "name": "Compatibility",
+      "x": 489,
+      "y": -280,
+      "link": "https://github.com/JavaScriptSolidServer/architecture#compatibility",
+      "bgColor": "#f7e4f9",
+      "parent": "#arxjt8"
+    },
+    {
+      "@id": "#xwei9g",
+      "name": "The goal of this project is to create a hyper-modern, perfor",
+      "x": 187,
+      "y": 141,
+      "link": "https://github.com/JavaScriptSolidServer/architecture",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bzs4i",
+      "name": "last commit 2025-03-31",
+      "x": -102,
+      "y": 194,
+      "link": "https://github.com/JavaScriptSolidServer/architecture/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fkywkd",
+      "name": "← JavaScriptSolidServer",
+      "x": -231,
+      "y": 80,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 2,
+      "end": 4
+    },
+    {
+      "start": 2,
+      "end": 5
+    },
+    {
+      "start": 2,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

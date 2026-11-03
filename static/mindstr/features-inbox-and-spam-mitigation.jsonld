@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#tgdsut",
+      "@id": "#ijf3kk",
       "name": "Inbox Setup",
       "x": -243,
       "y": -51,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ijf3kk",
+      "@id": "#anp567",
       "name": "How It Works",
       "x": -187,
       "y": -142,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#anp567",
+      "@id": "#svn3gp",
       "name": "Spam Mitigation",
       "x": 112,
       "y": -190,
@@ -46,43 +46,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#svn3gp",
+      "@id": "#vbyvwg",
       "name": "Rate Limiting",
       "x": -111,
       "y": -414,
       "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#rate-limiting",
       "bgColor": "#ffe2ed",
-      "parent": "#anp567"
+      "parent": "#svn3gp"
     },
     {
-      "@id": "#vbyvwg",
+      "@id": "#ahre4u",
       "name": "WAC Enforcement",
       "x": 110,
       "y": -493,
       "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#wac-enforcement",
       "bgColor": "#ffe2ed",
-      "parent": "#anp567"
+      "parent": "#svn3gp"
     },
     {
-      "@id": "#ahre4u",
+      "@id": "#ibdfdz",
       "name": "Authentication",
       "x": 282,
       "y": -351,
       "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#authentication",
       "bgColor": "#ffe2ed",
-      "parent": "#anp567"
+      "parent": "#svn3gp"
     },
     {
-      "@id": "#ibdfdz",
+      "@id": "#z7edqb",
       "name": "Additional Protections",
       "x": 521,
       "y": -236,
       "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#additional-protections",
       "bgColor": "#ffe2ed",
-      "parent": "#anp567"
+      "parent": "#svn3gp"
     },
     {
-      "@id": "#z7edqb",
+      "@id": "#2qq2fn",
       "name": "Comparison with Email Anti-Spam Evolution",
       "x": 217,
       "y": 106,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#2qq2fn",
+      "@id": "#ri2pzw",
       "name": "Planned",
       "x": 62,
       "y": 206,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ri2pzw",
+      "@id": "#qbizrq",
       "name": "ActivityPub Inbox",
       "x": -68,
       "y": 205,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#qbizrq",
+      "@id": "#yyfuzg",
       "name": "Design Philosophy",
       "x": -182,
       "y": 146,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#yyfuzg",
+      "@id": "#xet7zf",
       "name": "← Features",
       "x": -243,
       "y": 51,

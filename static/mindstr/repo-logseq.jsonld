@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "logseq",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/logseq",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ahre4u",
+      "name": "Install",
+      "x": -238,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/logseq#install-unpacked",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ibdfdz",
+      "name": "Use",
+      "x": -148,
+      "y": -171,
+      "link": "https://github.com/JavaScriptSolidServer/logseq#use",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z7edqb",
+      "name": "Auth",
+      "x": -2,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/logseq#auth",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2qq2fn",
+      "name": "Status",
+      "x": 145,
+      "y": -173,
+      "link": "https://github.com/JavaScriptSolidServer/logseq#status",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ri2pzw",
+      "name": "Logseq plugin: push pages to a Solid pod with Nostr (NIP-98)",
+      "x": 232,
+      "y": 79,
+      "link": "https://github.com/JavaScriptSolidServer/logseq",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qbizrq",
+      "name": "last commit 2026-05-21",
+      "x": -64,
+      "y": 205,
+      "link": "https://github.com/JavaScriptSolidServer/logseq/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yyfuzg",
+      "name": "← JavaScriptSolidServer",
+      "x": -226,
+      "y": 91,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

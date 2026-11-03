@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#9bysfh",
+      "@id": "#cyd9xx",
       "name": "What Charlie is",
       "x": -244,
       "y": -47,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cyd9xx",
+      "@id": "#bvsynb",
       "name": "What's running today",
       "x": -188,
       "y": -140,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#bvsynb",
+      "@id": "#xintwj",
       "name": "What it looks like in practice",
       "x": -74,
       "y": -203,
@@ -46,16 +46,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#xintwj",
+      "@id": "#yhbdjy",
       "name": "Watch the loop close",
       "x": -148,
       "y": -406,
       "link": "https://javascriptsolidserver.github.io/docs/features/charlie#watch-the-loop-close",
       "bgColor": "#ffe2ed",
-      "parent": "#bvsynb"
+      "parent": "#xintwj"
     },
     {
-      "@id": "#yhbdjy",
+      "@id": "#hgctui",
       "name": "Why this matters",
       "x": 250,
       "y": -12,
@@ -64,43 +64,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#hgctui",
+      "@id": "#vz6dbr",
       "name": "Consent as language, not cage",
       "x": 255,
       "y": -366,
       "link": "https://javascriptsolidserver.github.io/docs/features/charlie#consent-as-language-not-cage",
       "bgColor": "#ffe4d9",
-      "parent": "#yhbdjy"
+      "parent": "#hgctui"
     },
     {
-      "@id": "#vz6dbr",
+      "@id": "#ecv4rb",
       "name": "Standards-grounded, open architecture",
       "x": 557,
       "y": -165,
       "link": "https://javascriptsolidserver.github.io/docs/features/charlie#standards-grounded-open-architecture",
       "bgColor": "#ffe4d9",
-      "parent": "#yhbdjy"
+      "parent": "#hgctui"
     },
     {
-      "@id": "#ecv4rb",
+      "@id": "#57jxgj",
       "name": "Per-bot specialisation",
       "x": 477,
       "y": 126,
       "link": "https://javascriptsolidserver.github.io/docs/features/charlie#per-bot-specialisation",
       "bgColor": "#ffe4d9",
-      "parent": "#yhbdjy"
+      "parent": "#hgctui"
     },
     {
-      "@id": "#57jxgj",
+      "@id": "#ttdvnf",
       "name": "Self-bootstrapping documentation",
       "x": 370,
       "y": 391,
       "link": "https://javascriptsolidserver.github.io/docs/features/charlie#self-bootstrapping-documentation",
       "bgColor": "#ffe4d9",
-      "parent": "#yhbdjy"
+      "parent": "#hgctui"
     },
     {
-      "@id": "#ttdvnf",
+      "@id": "#pehema",
       "name": "A starting SKILL.md for Charlie",
       "x": -75,
       "y": 203,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#pehema",
+      "@id": "#csimu2",
       "name": "What's next",
       "x": -199,
       "y": 129,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#csimu2",
+      "@id": "#y2vgqr",
       "name": "← Features",
       "x": -244,
       "y": 46,

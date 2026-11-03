@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#yhcpjw",
+      "@id": "#m7mgcv",
       "name": "Quick Start",
       "x": -247,
       "y": -33,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#m7mgcv",
+      "@id": "#gekznt",
       "name": "Configuration",
       "x": -217,
       "y": -106,
@@ -37,16 +37,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#gekznt",
+      "@id": "#beqq5j",
       "name": "Environment Variables",
       "x": -433,
       "y": -212,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#environment-variables",
       "bgColor": "#efe6ff",
-      "parent": "#m7mgcv"
+      "parent": "#gekznt"
     },
     {
-      "@id": "#beqq5j",
+      "@id": "#6r28st",
       "name": "API Endpoints",
       "x": -125,
       "y": -184,
@@ -55,25 +55,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#6r28st",
+      "@id": "#d5e2jv",
       "name": "Public",
       "x": -305,
       "y": -337,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#public-no-auth",
       "bgColor": "#ffe2ed",
-      "parent": "#beqq5j"
+      "parent": "#6r28st"
     },
     {
-      "@id": "#d5e2jv",
+      "@id": "#3g77sx",
       "name": "Authenticated",
       "x": -225,
       "y": -463,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#authenticated-nip-98",
       "bgColor": "#ffe2ed",
-      "parent": "#beqq5j"
+      "parent": "#6r28st"
     },
     {
-      "@id": "#3g77sx",
+      "@id": "#ucs9ug",
       "name": "How It Works",
       "x": 105,
       "y": -193,
@@ -82,43 +82,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#ucs9ug",
+      "@id": "#tse2je",
       "name": "Discover",
       "x": 13,
       "y": -425,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#1-discover",
       "bgColor": "#ffe4d9",
-      "parent": "#3g77sx"
+      "parent": "#ucs9ug"
     },
     {
-      "@id": "#tse2je",
+      "@id": "#cvh8ee",
       "name": "Authenticate",
       "x": 169,
       "y": -480,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#2-authenticate",
       "bgColor": "#ffe4d9",
-      "parent": "#3g77sx"
+      "parent": "#ucs9ug"
     },
     {
-      "@id": "#cvh8ee",
+      "@id": "#3xd5xn",
       "name": "Deposit",
       "x": 264,
       "y": -361,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#3-deposit",
       "bgColor": "#ffe4d9",
-      "parent": "#3g77sx"
+      "parent": "#ucs9ug"
     },
     {
-      "@id": "#3xd5xn",
+      "@id": "#jingvu",
       "name": "Access Resources",
       "x": 435,
       "y": -338,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#4-access-resources",
       "bgColor": "#ffe4d9",
-      "parent": "#3g77sx"
+      "parent": "#ucs9ug"
     },
     {
-      "@id": "#jingvu",
+      "@id": "#u9rrt3",
       "name": "Token Economy",
       "x": 247,
       "y": 31,
@@ -127,43 +127,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#u9rrt3",
+      "@id": "#kgvapt",
       "name": "Mint a Token",
       "x": 483,
       "y": -110,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#mint-a-token-cli",
       "bgColor": "#f2ecd2",
-      "parent": "#jingvu"
+      "parent": "#u9rrt3"
     },
     {
-      "@id": "#kgvapt",
+      "@id": "#6yp854",
       "name": "Primary Market",
       "x": 590,
       "y": 2,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#primary-market",
       "bgColor": "#f2ecd2",
-      "parent": "#jingvu"
+      "parent": "#u9rrt3"
     },
     {
-      "@id": "#6yp854",
+      "@id": "#g8htk4",
       "name": "Withdrawal",
       "x": 482,
       "y": 113,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#withdrawal",
       "bgColor": "#f2ecd2",
-      "parent": "#jingvu"
+      "parent": "#u9rrt3"
     },
     {
-      "@id": "#g8htk4",
+      "@id": "#iq664j",
       "name": "Secondary Market",
       "x": 505,
       "y": 259,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#secondary-market",
       "bgColor": "#f2ecd2",
-      "parent": "#jingvu"
+      "parent": "#u9rrt3"
     },
     {
-      "@id": "#iq664j",
+      "@id": "#gz4cvb",
       "name": "Multi-Chain AMM",
       "x": 64,
       "y": 205,
@@ -172,34 +172,34 @@
       "parent": "#this"
     },
     {
-      "@id": "#gz4cvb",
+      "@id": "#itdh4e",
       "name": "Supported Chains",
       "x": 265,
       "y": 360,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#supported-chains",
       "bgColor": "#ddf2de",
-      "parent": "#iq664j"
+      "parent": "#gz4cvb"
     },
     {
-      "@id": "#itdh4e",
+      "@id": "#wymkpw",
       "name": "Multi-Chain Deposits",
       "x": 146,
       "y": 486,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#multi-chain-deposits",
       "bgColor": "#ddf2de",
-      "parent": "#iq664j"
+      "parent": "#gz4cvb"
     },
     {
-      "@id": "#wymkpw",
+      "@id": "#qhm56x",
       "name": "AMM Pool",
       "x": -25,
       "y": 424,
       "link": "https://javascriptsolidserver.github.io/docs/features/payments#amm-pool",
       "bgColor": "#ddf2de",
-      "parent": "#iq664j"
+      "parent": "#gz4cvb"
     },
     {
-      "@id": "#qhm56x",
+      "@id": "#gyahr4",
       "name": "Use Cases",
       "x": -103,
       "y": 197,
@@ -208,7 +208,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#gyahr4",
+      "@id": "#wt6f72",
       "name": "Balance Tracking",
       "x": -171,
       "y": 153,
@@ -217,7 +217,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wt6f72",
+      "@id": "#zy9np2",
       "name": "Token Management",
       "x": -221,
       "y": 99,
@@ -226,7 +226,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#zy9np2",
+      "@id": "#3jk3i5",
       "name": "← Features",
       "x": -247,
       "y": 33,

@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "beacon",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/beacon",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#j8deiz",
+      "name": "Schema",
+      "x": -238,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/beacon#schema-matches-the-live-nostr-beacon",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aya9s9",
+      "name": "Run",
+      "x": -148,
+      "y": -171,
+      "link": "https://github.com/JavaScriptSolidServer/beacon#run",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vn2imx",
+      "name": "Read API",
+      "x": -2,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/beacon#read-api",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2tznvh",
+      "name": "Status",
+      "x": 145,
+      "y": -173,
+      "link": "https://github.com/JavaScriptSolidServer/beacon#status",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cnh2fk",
+      "name": "did:nostr social-graph indexer (profiles + follows + relay l",
+      "x": 232,
+      "y": 79,
+      "link": "https://github.com/JavaScriptSolidServer/beacon",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dk76uz",
+      "name": "last commit 2026-07-26",
+      "x": -64,
+      "y": 205,
+      "link": "https://github.com/JavaScriptSolidServer/beacon/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5aggpq",
+      "name": "← JavaScriptSolidServer",
+      "x": -226,
+      "y": 91,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

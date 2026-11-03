@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-shim",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#g5xqe3",
+      "name": "Features",
+      "x": -245,
+      "y": -43,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#features",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cvkstp",
+      "name": "Quick Start",
+      "x": -205,
+      "y": -122,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#quick-start",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jw6hux",
+      "name": "@view",
+      "x": -68,
+      "y": -204,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#view---self-describing-json-ld",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ueruwd",
+      "name": "renderView Options",
+      "x": -230,
+      "y": -377,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#renderview-options",
+      "bgColor": "#ffe2ed",
+      "parent": "#jw6hux"
+    },
+    {
+      "@id": "#j52mw6",
+      "name": "Pane Module Format",
+      "x": -46,
+      "y": -500,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#pane-module-format",
+      "bgColor": "#ffe2ed",
+      "parent": "#jw6hux"
+    },
+    {
+      "@id": "#gu5n3w",
+      "name": "Global Objects",
+      "x": 98,
+      "y": -195,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#global-objects",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mukqya",
+      "name": "Development",
+      "x": 181,
+      "y": -146,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#development",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rdjmhy",
+      "name": "Build",
+      "x": 235,
+      "y": -73,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#build",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nbjpha",
+      "name": "Architecture",
+      "x": 250,
+      "y": 12,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#architecture",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aypwsg",
+      "name": "Credits",
+      "x": 223,
+      "y": 96,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim#credits",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h94qk3",
+      "name": "Minimal Solid data browser using solid-panes-jss with solid-",
+      "x": 58,
+      "y": 207,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tupb65",
+      "name": "last commit 2026-02-26",
+      "x": -164,
+      "y": 161,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5xqpjs",
+      "name": "← JavaScriptSolidServer",
+      "x": -240,
+      "y": 61,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

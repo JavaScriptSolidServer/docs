@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#hzsqn4",
+      "@id": "#dttxwc",
       "name": "What is a Pod?",
       "x": -203,
       "y": -125,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#dttxwc",
+      "@id": "#p8ysyk",
       "name": "Pod Structure",
       "x": 76,
       "y": -203,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#p8ysyk",
+      "@id": "#9c2qhr",
       "name": "Resources",
       "x": 250,
       "y": -2,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#9c2qhr",
+      "@id": "#h59t8f",
       "name": "Containers",
       "x": 81,
       "y": 201,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#h59t8f",
+      "@id": "#rfby2g",
       "name": "← Core Concepts",
       "x": -201,
       "y": 126,

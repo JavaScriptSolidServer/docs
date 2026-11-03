@@ -1,0 +1,168 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "phonepod",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ta2q85",
+      "name": "Features",
+      "x": -244,
+      "y": -47,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod#features",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f6qx4w",
+      "name": "Quick Install",
+      "x": -196,
+      "y": -132,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod#quick-install-termux",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#su9mmy",
+      "name": "Usage",
+      "x": -133,
+      "y": -191,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod#usage",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#puabcz",
+      "name": "Public Access",
+      "x": -24,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod#public-access",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pggewd",
+      "name": "Boot Persistence",
+      "x": 126,
+      "y": -192,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod#boot-persistence",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7cv7qa",
+      "name": "Endpoints",
+      "x": 197,
+      "y": -131,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod#endpoints",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4evz5w",
+      "name": "Configuration",
+      "x": 244,
+      "y": -46,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod#configuration",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vh32g5",
+      "name": "Requirements",
+      "x": 244,
+      "y": 48,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod#requirements",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ktxue",
+      "name": "Solid pod on your phone - one command install for Android/Te",
+      "x": 96,
+      "y": 209,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qrakrq",
+      "name": "last commit 2026-01-05",
+      "x": -149,
+      "y": 164,
+      "link": "https://github.com/JavaScriptSolidServer/phonepod/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ppuaac",
+      "name": "← JavaScriptSolidServer",
+      "x": -238,
+      "y": 66,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

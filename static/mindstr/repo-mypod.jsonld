@@ -1,0 +1,220 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "mypod",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/mypod",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#x9rczq",
+      "name": "🚀 Quick Start",
+      "x": -246,
+      "y": -39,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#quick-start",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#48j6uy",
+      "name": "✨ What You Get",
+      "x": -212,
+      "y": -112,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#what-you-get",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9kbx2m",
+      "name": "📦 Installation",
+      "x": -101,
+      "y": -194,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#installation",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9gbbfy",
+      "name": "No Installation",
+      "x": -285,
+      "y": -349,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#no-installation-recommended",
+      "bgColor": "#ffe2ed",
+      "parent": "#9kbx2m"
+    },
+    {
+      "@id": "#kue24d",
+      "name": "Global Installation",
+      "x": -151,
+      "y": -485,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#global-installation",
+      "bgColor": "#ffe2ed",
+      "parent": "#9kbx2m"
+    },
+    {
+      "@id": "#ezqvf7",
+      "name": "🎮 Usage",
+      "x": 45,
+      "y": -219,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#usage",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4c22a7",
+      "name": "📖 How It Works",
+      "x": 132,
+      "y": -175,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#how-it-works",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zpagjg",
+      "name": "🌟 First Run",
+      "x": 200,
+      "y": -127,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#first-run",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sptvks",
+      "name": "📚 Learn More",
+      "x": 241,
+      "y": -57,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#learn-more",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u6iz6f",
+      "name": "🤝 Contributing",
+      "x": 249,
+      "y": 22,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#contributing",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vb6nak",
+      "name": "📄 License",
+      "x": 222,
+      "y": 97,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#license",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zv6fek",
+      "name": "🙏 Credits",
+      "x": 166,
+      "y": 159,
+      "link": "https://github.com/JavaScriptSolidServer/mypod#credits",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6p8te",
+      "name": "Solid Pod Server - The easiest way to run a Solid pod",
+      "x": 0,
+      "y": 213,
+      "link": "https://github.com/JavaScriptSolidServer/mypod",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kpttum",
+      "name": "last commit 2026-01-16",
+      "x": -178,
+      "y": 149,
+      "link": "https://github.com/JavaScriptSolidServer/mypod/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t62ib9",
+      "name": "← JavaScriptSolidServer",
+      "x": -241,
+      "y": 55,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

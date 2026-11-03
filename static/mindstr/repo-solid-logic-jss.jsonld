@@ -1,0 +1,168 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-logic-jss",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ern3ds",
+      "name": "Why This Fork?",
+      "x": -244,
+      "y": -47,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss#why-this-fork",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cixa8i",
+      "name": "Installation",
+      "x": -197,
+      "y": -131,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss#installation",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w8ga4c",
+      "name": "Usage",
+      "x": -134,
+      "y": -190,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss#usage",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eud4cc",
+      "name": "Browser Usage",
+      "x": -25,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss#browser-usage-esm",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5mb355",
+      "name": "API Compatibility",
+      "x": 128,
+      "y": -191,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss#api-compatibility",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mikqv6",
+      "name": "Common Exports",
+      "x": 199,
+      "y": -129,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss#common-exports",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7s8ycb",
+      "name": "Related",
+      "x": 245,
+      "y": -44,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss#related",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7jybab",
+      "name": "Credits",
+      "x": 243,
+      "y": 50,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss#credits",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7rqytw",
+      "name": "Core Solid logic with minimal solid-oidc authentication (JSS",
+      "x": 95,
+      "y": 210,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hir8hx",
+      "name": "last commit 2026-01-18",
+      "x": -149,
+      "y": 164,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic-jss/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ykkb9u",
+      "name": "← JavaScriptSolidServer",
+      "x": -238,
+      "y": 66,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#hir8hx",
+      "@id": "#ykkb9u",
       "name": "Today",
       "x": 23,
       "y": -212,
@@ -28,61 +28,61 @@
       "parent": "#this"
     },
     {
-      "@id": "#ykkb9u",
+      "@id": "#7ikicx",
       "name": "Resource footprint",
       "x": -437,
       "y": -207,
       "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#resource-footprint",
       "bgColor": "#daeeff",
-      "parent": "#hir8hx"
+      "parent": "#ykkb9u"
     },
     {
-      "@id": "#7ikicx",
+      "@id": "#ice2bk",
       "name": "Install",
       "x": -339,
       "y": -410,
       "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#install",
       "bgColor": "#daeeff",
-      "parent": "#hir8hx"
+      "parent": "#ykkb9u"
     },
     {
-      "@id": "#ice2bk",
+      "@id": "#scytyn",
       "name": "Run",
       "x": -98,
       "y": -417,
       "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#run",
       "bgColor": "#daeeff",
-      "parent": "#hir8hx"
+      "parent": "#ykkb9u"
     },
     {
-      "@id": "#scytyn",
+      "@id": "#jbhqgv",
       "name": "Public access via --tunnel",
       "x": 194,
       "y": -474,
       "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#public-access-via---tunnel",
       "bgColor": "#daeeff",
-      "parent": "#hir8hx"
+      "parent": "#ykkb9u"
     },
     {
-      "@id": "#jbhqgv",
+      "@id": "#5seuyw",
       "name": "Persistence",
       "x": 381,
       "y": -275,
       "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#persistence",
       "bgColor": "#daeeff",
-      "parent": "#hir8hx"
+      "parent": "#ykkb9u"
     },
     {
-      "@id": "#5seuyw",
+      "@id": "#nm5hts",
       "name": "Storage",
       "x": 566,
       "y": -143,
       "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#storage",
       "bgColor": "#daeeff",
-      "parent": "#hir8hx"
+      "parent": "#ykkb9u"
     },
     {
-      "@id": "#nm5hts",
+      "@id": "#mesfa4",
       "name": "Coming",
       "x": 184,
       "y": 144,
@@ -91,25 +91,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#mesfa4",
+      "@id": "#ek2jcm",
       "name": "Architecture",
       "x": 443,
       "y": 197,
       "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#architecture",
       "bgColor": "#f7e4f9",
-      "parent": "#nm5hts"
+      "parent": "#mesfa4"
     },
     {
-      "@id": "#ek2jcm",
+      "@id": "#uja84e",
       "name": "Why this is feasible",
       "x": 342,
       "y": 409,
       "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#why-this-is-feasible",
       "bgColor": "#f7e4f9",
-      "parent": "#nm5hts"
+      "parent": "#mesfa4"
     },
     {
-      "@id": "#uja84e",
+      "@id": "#78sngm",
       "name": "Long arc",
       "x": 5,
       "y": 214,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#78sngm",
+      "@id": "#58pkgm",
       "name": "Why \"runs on a phone\" matters",
       "x": -152,
       "y": 168,
@@ -127,7 +127,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#58pkgm",
+      "@id": "#7jxpjz",
       "name": "← Guides",
       "x": -242,
       "y": 52,

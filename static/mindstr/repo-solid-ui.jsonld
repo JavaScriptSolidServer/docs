@@ -1,0 +1,207 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-ui",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#k258qh",
+      "name": "Getting started",
+      "x": -245,
+      "y": -41,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#getting-started",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3nbxqz",
+      "name": "Install via npm",
+      "x": -208,
+      "y": -118,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#install-via-npm",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6qa3f3",
+      "name": "Use Directly in a Browser",
+      "x": 101,
+      "y": -195,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#use-directly-in-a-browser",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7yk22v",
+      "name": "Available Files",
+      "x": -207,
+      "y": -387,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#available-files",
+      "bgColor": "#ffe2ed",
+      "parent": "#6qa3f3"
+    },
+    {
+      "@id": "#mczqgg",
+      "name": "UMD Bundle",
+      "x": -59,
+      "y": -499,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#umd-bundle-global-variable",
+      "bgColor": "#ffe2ed",
+      "parent": "#6qa3f3"
+    },
+    {
+      "@id": "#rp2kdh",
+      "name": "ESM Bundle",
+      "x": 111,
+      "y": -414,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#esm-bundle-import-as-module",
+      "bgColor": "#ffe2ed",
+      "parent": "#6qa3f3"
+    },
+    {
+      "@id": "#6c8mfm",
+      "name": "ESM Bundle with Import Maps",
+      "x": 357,
+      "y": -399,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#esm-bundle-with-import-maps",
+      "bgColor": "#ffe2ed",
+      "parent": "#6qa3f3"
+    },
+    {
+      "@id": "#uhqyuf",
+      "name": "Development new components",
+      "x": 460,
+      "y": -167,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#development-new-components",
+      "bgColor": "#ffe2ed",
+      "parent": "#6qa3f3"
+    },
+    {
+      "@id": "#gkdxt6",
+      "name": "Adding Tests",
+      "x": 243,
+      "y": 50,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#adding-tests",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ujfctz",
+      "name": "GitHub Pages",
+      "x": 203,
+      "y": 124,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#github-pages",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5if5dv",
+      "name": "Further documentation",
+      "x": 120,
+      "y": 173,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui#further-documentation",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7xg3ip",
+      "name": "UI library for Solid applications",
+      "x": -31,
+      "y": 218,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y43huz",
+      "name": "last commit 2025-12-22",
+      "x": -172,
+      "y": 154,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4j26c6",
+      "name": "← JavaScriptSolidServer",
+      "x": -241,
+      "y": 57,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

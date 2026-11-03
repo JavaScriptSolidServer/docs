@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#xet7zf",
+      "@id": "#wjzwqw",
       "name": "Quick Start",
       "x": -237,
       "y": -69,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wjzwqw",
+      "@id": "#cpmgtf",
       "name": "How It Works",
       "x": -138,
       "y": -177,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cpmgtf",
+      "@id": "#a85fzz",
       "name": "Configuration",
       "x": 18,
       "y": -212,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#a85fzz",
+      "@id": "#eitj67",
       "name": "What Triggers a Reload",
       "x": 188,
       "y": -140,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#eitj67",
+      "@id": "#bpmjzd",
       "name": "Debouncing",
       "x": 250,
       "y": 13,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#bpmjzd",
+      "@id": "#r8aetn",
       "name": "Filtered Files",
       "x": 188,
       "y": 140,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#r8aetn",
+      "@id": "#j3rh5f",
       "name": "Example Workflow",
       "x": 43,
       "y": 209,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#j3rh5f",
+      "@id": "#mhgzj7",
       "name": "Technical Details",
       "x": -130,
       "y": 182,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mhgzj7",
+      "@id": "#67qhwk",
       "name": "← Features",
       "x": -237,
       "y": 69,

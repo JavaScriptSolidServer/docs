@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "plugins",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#f77hg7",
+      "name": "Why",
+      "x": -240,
+      "y": -60,
+      "link": "https://github.com/JavaScriptSolidServer/plugins#why",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kpihvt",
+      "name": "Building more",
+      "x": -164,
+      "y": -160,
+      "link": "https://github.com/JavaScriptSolidServer/plugins#building-more",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k58b5b",
+      "name": "The rule",
+      "x": -37,
+      "y": -210,
+      "link": "https://github.com/JavaScriptSolidServer/plugins#the-rule",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#htircd",
+      "name": "What's here",
+      "x": 102,
+      "y": -194,
+      "link": "https://github.com/JavaScriptSolidServer/plugins#whats-here",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sixamq",
+      "name": "Run",
+      "x": 209,
+      "y": -117,
+      "link": "https://github.com/JavaScriptSolidServer/plugins#run",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j99zi5",
+      "name": "Experimental out-of-tree ports of JSS bundled features as #2",
+      "x": 202,
+      "y": 125,
+      "link": "https://github.com/JavaScriptSolidServer/plugins",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwrapz",
+      "name": "last commit 2026-10-19",
+      "x": -92,
+      "y": 198,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n3epze",
+      "name": "← JavaScriptSolidServer",
+      "x": -230,
+      "y": 83,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

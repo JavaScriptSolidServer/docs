@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "nostr-git-client",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#qcu5gk",
+      "name": "Installation",
+      "x": -245,
+      "y": -43,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#installation",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#za8che",
+      "name": "Usage",
+      "x": -64,
+      "y": -205,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#usage",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rbwcef",
+      "name": "Basic Git Sync",
+      "x": -376,
+      "y": -280,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#basic-git-sync",
+      "bgColor": "#efe6ff",
+      "parent": "#za8che"
+    },
+    {
+      "@id": "#mvt9ib",
+      "name": "State Management with Bitcoin Anchoring",
+      "x": -177,
+      "y": -478,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#state-management-with-bitcoin-anchoring",
+      "bgColor": "#efe6ff",
+      "parent": "#za8che"
+    },
+    {
+      "@id": "#4cdvsg",
+      "name": "Self-Deploying Pages",
+      "x": 142,
+      "y": -408,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#self-deploying-pages",
+      "bgColor": "#efe6ff",
+      "parent": "#za8che"
+    },
+    {
+      "@id": "#ur7wv9",
+      "name": "API",
+      "x": 238,
+      "y": -66,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#api",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j2eaqz",
+      "name": "NostrGitClient",
+      "x": 396,
+      "y": -259,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#nostrgitclient",
+      "bgColor": "#ffe2ed",
+      "parent": "#ur7wv9"
+    },
+    {
+      "@id": "#vqbwbg",
+      "name": "StateManager",
+      "x": 561,
+      "y": -156,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#statemanager",
+      "bgColor": "#ffe2ed",
+      "parent": "#ur7wv9"
+    },
+    {
+      "@id": "#y9jt3w",
+      "name": "SelfDeploy",
+      "x": 500,
+      "y": 10,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#selfdeploy",
+      "bgColor": "#ffe2ed",
+      "parent": "#ur7wv9"
+    },
+    {
+      "@id": "#vxinpu",
+      "name": "Dependencies",
+      "x": 220,
+      "y": 100,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#dependencies",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#spatem",
+      "name": "Browser-based git sync via Nostr with optional Bitcoin ancho",
+      "x": 54,
+      "y": 208,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#twzhxn",
+      "name": "last commit 2026-01-02",
+      "x": -165,
+      "y": 160,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ir6eif",
+      "name": "← JavaScriptSolidServer",
+      "x": -240,
+      "y": 60,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 2,
+      "end": 4
+    },
+    {
+      "start": 2,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

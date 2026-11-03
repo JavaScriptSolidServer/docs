@@ -1,0 +1,61 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "jss start: ssl options",
+      "x": 0,
+      "y": 0,
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#fad69b",
+      "name": "--ssl-key <path>",
+      "x": -124,
+      "y": -185,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fnrzmm",
+      "name": "--ssl-cert <path>",
+      "x": 249,
+      "y": 14,
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3y3s3p",
+      "name": "← jss start",
+      "x": -138,
+      "y": 177,
+      "link": "./cli-start.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "jspod",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/jspod",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#varvfj",
+      "name": "Try in 60 seconds",
+      "x": -243,
+      "y": -49,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#try-in-60-seconds",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ucttef",
+      "name": "CLI options",
+      "x": -196,
+      "y": -132,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#cli-options",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vzipyd",
+      "name": "Install Solid apps",
+      "x": -161,
+      "y": -190,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#install-solid-apps",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#miy6ts",
+      "name": "Available bundles",
+      "x": -222,
+      "y": -381,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#available-bundles",
+      "bgColor": "#ffe2ed",
+      "parent": "#vzipyd"
+    },
+    {
+      "@id": "#ft3k8u",
+      "name": "Run agents",
+      "x": -16,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#run-agents",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#it6792",
+      "name": "The auth ladder",
+      "x": 118,
+      "y": -196,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#the-auth-ladder",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnz3gb",
+      "name": "Configuration",
+      "x": 182,
+      "y": -146,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#configuration",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ifse5",
+      "name": "The data browser",
+      "x": 237,
+      "y": -68,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#the-data-browser",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ju3xzh",
+      "name": "When to use jspod",
+      "x": 248,
+      "y": 27,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#when-to-use-jspod",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p46jmx",
+      "name": "Links",
+      "x": 211,
+      "y": 114,
+      "link": "https://github.com/JavaScriptSolidServer/jspod#links",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bu7kuh",
+      "name": "JavaScript Solid Pod - Just works, batteries included",
+      "x": 47,
+      "y": 209,
+      "link": "https://github.com/JavaScriptSolidServer/jspod",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2iffkx",
+      "name": "last commit 2026-07-11",
+      "x": -161,
+      "y": 163,
+      "link": "https://github.com/JavaScriptSolidServer/jspod/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ssgz3q",
+      "name": "← JavaScriptSolidServer",
+      "x": -239,
+      "y": 62,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

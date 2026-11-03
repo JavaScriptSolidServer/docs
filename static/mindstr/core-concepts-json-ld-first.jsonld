@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#452y5w",
+      "@id": "#yyjnxk",
       "name": "Why JSON-LD?",
       "x": -176,
       "y": -151,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#yyjnxk",
+      "@id": "#hrvxpy",
       "name": "When to enable content negotiation",
       "x": 250,
       "y": -3,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#hrvxpy",
+      "@id": "#hzsqn4",
       "name": "← Core Concepts",
       "x": -174,
       "y": 153,

@@ -19,46 +19,55 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#xzgaz8",
+      "@id": "#brfb5w",
       "name": "jss start",
-      "x": -177,
-      "y": -150,
+      "x": -219,
+      "y": -102,
       "link": "https://javascriptsolidserver.github.io/docs/reference/cli#jss-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#brfb5w",
+      "@id": "#45xtcc",
       "name": "Options",
-      "x": -354,
-      "y": -301,
+      "x": -438,
+      "y": -204,
       "link": "https://javascriptsolidserver.github.io/docs/reference/cli#options",
       "bgColor": "#daeeff",
-      "parent": "#xzgaz8"
-    },
-    {
-      "@id": "#45xtcc",
-      "name": "jss init",
-      "x": 177,
-      "y": -150,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/cli#jss-init",
-      "bgColor": "#f3bee1",
-      "parent": "#this"
+      "parent": "#brfb5w"
     },
     {
       "@id": "#ybwvcb",
-      "name": "jss --help",
-      "x": 177,
-      "y": 150,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/cli#jss---help",
-      "bgColor": "#f1c99c",
+      "name": "jss init",
+      "x": -17,
+      "y": -212,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/cli#jss-init",
+      "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
       "@id": "#i9qywf",
+      "name": "jss --help",
+      "x": 201,
+      "y": -126,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/cli#jss---help",
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iyzq7q",
+      "name": "Live reference: every command and option",
+      "x": 135,
+      "y": 179,
+      "link": "./cli.jsonld",
+      "bgColor": "#d7d59b",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bke9zd",
       "name": "← Reference",
-      "x": -177,
-      "y": 150,
+      "x": -219,
+      "y": 102,
       "link": "./reference.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -84,6 +93,10 @@
     {
       "start": 0,
       "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
     }
   ],
   "selectedNode": 0

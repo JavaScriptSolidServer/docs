@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#3jk3i5",
+      "@id": "#94asrn",
       "name": "Deploy to Production",
       "x": -207,
       "y": -120,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#94asrn",
+      "@id": "#kgrwxb",
       "name": "Git on Solid",
       "x": 25,
       "y": -211,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#kgrwxb",
+      "@id": "#aj9t28",
       "name": "Git Push with Nostr",
       "x": 228,
       "y": -88,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#aj9t28",
+      "@id": "#vx7khw",
       "name": "JSS on Android",
       "x": 203,
       "y": 124,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#vx7khw",
+      "@id": "#34dvu3",
       "name": "Connect Solid Apps",
       "x": -19,
       "y": 212,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#34dvu3",
+      "@id": "#v52rfv",
       "name": "← JSS docs",
       "x": -223,
       "y": 97,

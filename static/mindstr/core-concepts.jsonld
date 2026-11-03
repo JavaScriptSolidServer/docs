@@ -18,7 +18,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#6ab87r",
+      "@id": "#uyfscv",
       "name": "JSON-LD First",
       "x": -188,
       "y": -140,
@@ -27,7 +27,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#uyfscv",
+      "@id": "#z5cumb",
       "name": "Pods and Resources",
       "x": 161,
       "y": -163,
@@ -36,7 +36,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#z5cumb",
+      "@id": "#7iejm3",
       "name": "Content Negotiation",
       "x": 168,
       "y": 158,
@@ -45,7 +45,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7iejm3",
+      "@id": "#452y5w",
       "name": "← JSS docs",
       "x": -188,
       "y": 140,

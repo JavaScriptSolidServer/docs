@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#rx55k2",
+      "@id": "#ux93wm",
       "name": "Simple Tokens",
       "x": -221,
       "y": -99,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ux93wm",
+      "@id": "#a464iu",
       "name": "Solid-OIDC",
       "x": 201,
       "y": -126,
@@ -37,25 +37,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#a464iu",
+      "@id": "#simp87",
       "name": "Built-in Identity Provider",
       "x": 137,
       "y": -409,
       "link": "https://javascriptsolidserver.github.io/docs/features/authentication#built-in-identity-provider",
       "bgColor": "#fce3f3",
-      "parent": "#ux93wm"
+      "parent": "#a464iu"
     },
     {
-      "@id": "#simp87",
+      "@id": "#tzmucf",
       "name": "External Identity Providers",
       "x": 590,
       "y": 0,
       "link": "https://javascriptsolidserver.github.io/docs/features/authentication#external-identity-providers",
       "bgColor": "#fce3f3",
-      "parent": "#ux93wm"
+      "parent": "#a464iu"
     },
     {
-      "@id": "#tzmucf",
+      "@id": "#xmtzgz",
       "name": "Nostr Authentication",
       "x": 8,
       "y": 212,
@@ -64,16 +64,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#xmtzgz",
+      "@id": "#b9snuz",
       "name": "End-to-end encryption",
       "x": 16,
       "y": 425,
       "link": "https://javascriptsolidserver.github.io/docs/features/authentication#end-to-end-encryption",
       "bgColor": "#fbe8d3",
-      "parent": "#tzmucf"
+      "parent": "#xmtzgz"
     },
     {
-      "@id": "#b9snuz",
+      "@id": "#nxqgmq",
       "name": "← Features",
       "x": -221,
       "y": 99,

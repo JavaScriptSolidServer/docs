@@ -1,0 +1,98 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "jss token transfer",
+      "x": 0,
+      "y": 0,
+      "link": "https://javascriptsolidserver.github.io/docs/reference/cli",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#2z3p7w",
+      "name": "--ticker <ticker>",
+      "x": -213,
+      "y": -112,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pvzwd8",
+      "name": "--to <address>",
+      "x": 8,
+      "y": -212,
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#57iy7q",
+      "name": "--amount <n>",
+      "x": 214,
+      "y": -110,
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qprvms",
+      "name": "--root <path>",
+      "x": 225,
+      "y": 92,
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fucmt",
+      "name": "--mempool-url <url>",
+      "x": 6,
+      "y": 212,
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t922yq",
+      "name": "← jss token",
+      "x": -220,
+      "y": 101,
+      "link": "./cli-token.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

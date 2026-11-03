@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#rmckuv",
+      "@id": "#6cicry",
       "name": "Quick Start",
       "x": -243,
       "y": -49,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#6cicry",
+      "@id": "#7c28q6",
       "name": "Core Solid Protocol",
       "x": -184,
       "y": -144,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7c28q6",
+      "@id": "#4qbh3e",
       "name": "Authentication & Identity",
       "x": -78,
       "y": -209,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4qbh3e",
+      "@id": "#m3xps2",
       "name": "Developer Tools",
       "x": 112,
       "y": -196,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#m3xps2",
+      "@id": "#yxjf84",
       "name": "Federation & Social",
       "x": 198,
       "y": -130,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#yxjf84",
+      "@id": "#mrv4db",
       "name": "Security",
       "x": 247,
       "y": -30,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mrv4db",
+      "@id": "#i6483q",
       "name": "Payments & Tokens",
       "x": 235,
       "y": 72,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#i6483q",
+      "@id": "#kmcrgd",
       "name": "Integrations",
       "x": 167,
       "y": 158,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#kmcrgd",
+      "@id": "#ktiw89",
       "name": "HTTP Methods",
       "x": 78,
       "y": 205,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ktiw89",
+      "@id": "#c74y5q",
       "name": "CLI Commands",
       "x": -54,
       "y": 208,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#c74y5q",
+      "@id": "#374kep",
       "name": "What's New Since v0.0.42",
       "x": -174,
       "y": 153,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#374kep",
+      "@id": "#ba2cgp",
       "name": "← Features",
       "x": -243,
       "y": 49,

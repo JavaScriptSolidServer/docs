@@ -1,0 +1,168 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-logic",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#c8rxju",
+      "name": "📦 Install via npm",
+      "x": -234,
+      "y": -75,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic#install-via-npm",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jr3z4p",
+      "name": "Import in your project",
+      "x": -468,
+      "y": -151,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic#import-in-your-project-esmtypescript",
+      "bgColor": "#daeeff",
+      "parent": "#c8rxju"
+    },
+    {
+      "@id": "#hmnpnc",
+      "name": "🌐 Use directly in a browser",
+      "x": -98,
+      "y": -195,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic#use-directly-in-a-browser",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tbf3y4",
+      "name": "Available Files",
+      "x": 196,
+      "y": -131,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic#available-files",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z9ubg8",
+      "name": "UMD Bundle",
+      "x": 194,
+      "y": -392,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic#umd-bundle-script-tags",
+      "bgColor": "#ffe2ed",
+      "parent": "#tbf3y4"
+    },
+    {
+      "@id": "#5h5cc9",
+      "name": "ESM Bundle",
+      "x": 441,
+      "y": -333,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic#esm-bundle-native-modules",
+      "bgColor": "#ffe2ed",
+      "parent": "#tbf3y4"
+    },
+    {
+      "@id": "#2682x9",
+      "name": "ESM with Import Maps",
+      "x": 488,
+      "y": -93,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic#esm-with-import-maps-recommended",
+      "bgColor": "#ffe2ed",
+      "parent": "#tbf3y4"
+    },
+    {
+      "@id": "#dgxw48",
+      "name": "Common Exports",
+      "x": 224,
+      "y": 95,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic#common-exports",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3m2wcm",
+      "name": "Core business logic of SolidOS",
+      "x": 114,
+      "y": 198,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4ad697",
+      "name": "last commit 2025-12-22",
+      "x": -123,
+      "y": 191,
+      "link": "https://github.com/JavaScriptSolidServer/solid-logic/commits",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z237xc",
+      "name": "← JavaScriptSolidServer",
+      "x": -233,
+      "y": 78,
+      "link": "./org.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}
