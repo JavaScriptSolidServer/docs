@@ -15,7 +15,7 @@
       "name": "Account Management",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/account-management",
+      "link": "https://jss.live/docs/features/account-management",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Endpoint reference",
       "x": -231,
       "y": -82,
-      "link": "https://javascriptsolidserver.github.io/docs/features/account-management#endpoint-reference",
+      "link": "https://jss.live/docs/features/account-management#endpoint-reference",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Change your password",
       "x": -85,
       "y": -200,
-      "link": "https://javascriptsolidserver.github.io/docs/features/account-management#change-your-password",
+      "link": "https://jss.live/docs/features/account-management#change-your-password",
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Back up / export your pod",
       "x": 141,
       "y": -175,
-      "link": "https://javascriptsolidserver.github.io/docs/features/account-management#back-up-export-your-pod",
+      "link": "https://jss.live/docs/features/account-management#back-up-export-your-pod",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Delete your account",
       "x": 197,
       "y": 131,
-      "link": "https://javascriptsolidserver.github.io/docs/features/account-management#delete-your-account",
+      "link": "https://jss.live/docs/features/account-management#delete-your-account",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Via the API",
       "x": 500,
       "y": 5,
-      "link": "https://javascriptsolidserver.github.io/docs/features/account-management#via-the-api",
+      "link": "https://jss.live/docs/features/account-management#via-the-api",
       "bgColor": "#fbe8d3",
       "parent": "#krwt6e"
     },
@@ -68,7 +68,7 @@
       "name": "Via the browser",
       "x": 491,
       "y": 278,
-      "link": "https://javascriptsolidserver.github.io/docs/features/account-management#via-the-browser",
+      "link": "https://jss.live/docs/features/account-management#via-the-browser",
       "bgColor": "#fbe8d3",
       "parent": "#krwt6e"
     },
@@ -77,7 +77,7 @@
       "name": "Via the operator CLI",
       "x": 162,
       "y": 402,
-      "link": "https://javascriptsolidserver.github.io/docs/features/account-management#via-the-operator-cli",
+      "link": "https://jss.live/docs/features/account-management#via-the-operator-cli",
       "bgColor": "#fbe8d3",
       "parent": "#krwt6e"
     },
@@ -86,7 +86,7 @@
       "name": "Passkeys",
       "x": -131,
       "y": 181,
-      "link": "https://javascriptsolidserver.github.io/docs/features/account-management#passkeys-webauthn",
+      "link": "https://jss.live/docs/features/account-management#passkeys-webauthn",
       "bgColor": "#c1dba8",
       "parent": "#this"
     },

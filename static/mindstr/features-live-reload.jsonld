@@ -15,7 +15,7 @@
       "name": "Live Reload",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/live-reload",
+      "link": "https://jss.live/docs/features/live-reload",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Quick Start",
       "x": -237,
       "y": -69,
-      "link": "https://javascriptsolidserver.github.io/docs/features/live-reload#quick-start",
+      "link": "https://jss.live/docs/features/live-reload#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "How It Works",
       "x": -138,
       "y": -177,
-      "link": "https://javascriptsolidserver.github.io/docs/features/live-reload#how-it-works",
+      "link": "https://jss.live/docs/features/live-reload#how-it-works",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Configuration",
       "x": 18,
       "y": -212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/live-reload#configuration",
+      "link": "https://jss.live/docs/features/live-reload#configuration",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "What Triggers a Reload",
       "x": 188,
       "y": -140,
-      "link": "https://javascriptsolidserver.github.io/docs/features/live-reload#what-triggers-a-reload",
+      "link": "https://jss.live/docs/features/live-reload#what-triggers-a-reload",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Debouncing",
       "x": 250,
       "y": 13,
-      "link": "https://javascriptsolidserver.github.io/docs/features/live-reload#debouncing",
+      "link": "https://jss.live/docs/features/live-reload#debouncing",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -68,7 +68,7 @@
       "name": "Filtered Files",
       "x": 188,
       "y": 140,
-      "link": "https://javascriptsolidserver.github.io/docs/features/live-reload#filtered-files",
+      "link": "https://jss.live/docs/features/live-reload#filtered-files",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
@@ -77,7 +77,7 @@
       "name": "Example Workflow",
       "x": 43,
       "y": 209,
-      "link": "https://javascriptsolidserver.github.io/docs/features/live-reload#example-workflow",
+      "link": "https://jss.live/docs/features/live-reload#example-workflow",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
@@ -86,7 +86,7 @@
       "name": "Technical Details",
       "x": -130,
       "y": 182,
-      "link": "https://javascriptsolidserver.github.io/docs/features/live-reload#technical-details",
+      "link": "https://jss.live/docs/features/live-reload#technical-details",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },

@@ -15,7 +15,7 @@
       "name": "Deploy to Production",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/deploy-production",
+      "link": "https://jss.live/docs/guides/deploy-production",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "SSL/TLS",
       "x": -64,
       "y": -205,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/deploy-production#ssltls",
+      "link": "https://jss.live/docs/guides/deploy-production#ssltls",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Direct SSL",
       "x": -376,
       "y": -280,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/deploy-production#direct-ssl",
+      "link": "https://jss.live/docs/guides/deploy-production#direct-ssl",
       "bgColor": "#daeeff",
       "parent": "#mciseu"
     },
@@ -41,7 +41,7 @@
       "name": "With Let's Encrypt",
       "x": 147,
       "y": -486,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/deploy-production#with-lets-encrypt",
+      "link": "https://jss.live/docs/guides/deploy-production#with-lets-encrypt",
       "bgColor": "#daeeff",
       "parent": "#mciseu"
     },
@@ -50,7 +50,7 @@
       "name": "Reverse Proxy",
       "x": 249,
       "y": 19,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/deploy-production#reverse-proxy-nginx",
+      "link": "https://jss.live/docs/guides/deploy-production#reverse-proxy-nginx",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Systemd Service",
       "x": 64,
       "y": 205,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/deploy-production#systemd-service",
+      "link": "https://jss.live/docs/guides/deploy-production#systemd-service",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },

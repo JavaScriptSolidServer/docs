@@ -15,7 +15,7 @@
       "name": "Quick Start",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start",
+      "link": "https://jss.live/docs/getting-started/quick-start",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Start the server",
       "x": -200,
       "y": -128,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start#start-the-server",
+      "link": "https://jss.live/docs/getting-started/quick-start#start-the-server",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Create a pod",
       "x": 81,
       "y": -201,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start#create-a-pod",
+      "link": "https://jss.live/docs/getting-started/quick-start#create-a-pod",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Write data",
       "x": 250,
       "y": -6,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start#write-data",
+      "link": "https://jss.live/docs/getting-started/quick-start#write-data",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Read data",
       "x": 95,
       "y": 197,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/quick-start#read-data",
+      "link": "https://jss.live/docs/getting-started/quick-start#read-data",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },

@@ -15,7 +15,7 @@
       "name": "Git Integration",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/git-integration",
+      "link": "https://jss.live/docs/features/git-integration",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Enable Git support",
       "x": -217,
       "y": -106,
-      "link": "https://javascriptsolidserver.github.io/docs/features/git-integration#enable-git-support",
+      "link": "https://jss.live/docs/features/git-integration#enable-git-support",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Clone a repository",
       "x": -3,
       "y": -212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/git-integration#clone-a-repository",
+      "link": "https://jss.live/docs/features/git-integration#clone-a-repository",
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Push changes",
       "x": 204,
       "y": -123,
-      "link": "https://javascriptsolidserver.github.io/docs/features/git-integration#push-changes",
+      "link": "https://jss.live/docs/features/git-integration#push-changes",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Auto-checkout",
       "x": 241,
       "y": 58,
-      "link": "https://javascriptsolidserver.github.io/docs/features/git-integration#auto-checkout",
+      "link": "https://jss.live/docs/features/git-integration#auto-checkout",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Git with Nostr Authentication",
       "x": 21,
       "y": 212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/git-integration#git-with-nostr-authentication",
+      "link": "https://jss.live/docs/features/git-integration#git-with-nostr-authentication",
       "bgColor": "#c1dba8",
       "parent": "#this"
     },

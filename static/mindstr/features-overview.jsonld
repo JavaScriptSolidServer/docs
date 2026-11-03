@@ -15,7 +15,7 @@
       "name": "Features Overview",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview",
+      "link": "https://jss.live/docs/features/overview",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Quick Start",
       "x": -243,
       "y": -49,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#quick-start",
+      "link": "https://jss.live/docs/features/overview#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Core Solid Protocol",
       "x": -184,
       "y": -144,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#core-solid-protocol",
+      "link": "https://jss.live/docs/features/overview#core-solid-protocol",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Authentication & Identity",
       "x": -78,
       "y": -209,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#authentication-identity",
+      "link": "https://jss.live/docs/features/overview#authentication-identity",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Developer Tools",
       "x": 112,
       "y": -196,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#developer-tools",
+      "link": "https://jss.live/docs/features/overview#developer-tools",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Federation & Social",
       "x": 198,
       "y": -130,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#federation-social",
+      "link": "https://jss.live/docs/features/overview#federation-social",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -68,7 +68,7 @@
       "name": "Security",
       "x": 247,
       "y": -30,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#security",
+      "link": "https://jss.live/docs/features/overview#security",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
@@ -77,7 +77,7 @@
       "name": "Payments & Tokens",
       "x": 235,
       "y": 72,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#payments-tokens",
+      "link": "https://jss.live/docs/features/overview#payments-tokens",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
@@ -86,7 +86,7 @@
       "name": "Integrations",
       "x": 167,
       "y": 158,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#integrations",
+      "link": "https://jss.live/docs/features/overview#integrations",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -95,7 +95,7 @@
       "name": "HTTP Methods",
       "x": 78,
       "y": 205,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#http-methods",
+      "link": "https://jss.live/docs/features/overview#http-methods",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -104,7 +104,7 @@
       "name": "CLI Commands",
       "x": -54,
       "y": 208,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#cli-commands",
+      "link": "https://jss.live/docs/features/overview#cli-commands",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -113,7 +113,7 @@
       "name": "What's New Since v0.0.42",
       "x": -174,
       "y": 153,
-      "link": "https://javascriptsolidserver.github.io/docs/features/overview#whats-new-since-v0042",
+      "link": "https://jss.live/docs/features/overview#whats-new-since-v0042",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },

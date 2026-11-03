@@ -15,7 +15,7 @@
       "name": "Git on Solid",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid",
+      "link": "https://jss.live/docs/guides/git-on-solid",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "The architectural question",
       "x": -234,
       "y": -76,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#the-architectural-question",
+      "link": "https://jss.live/docs/guides/git-on-solid#the-architectural-question",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Pattern A",
       "x": -155,
       "y": -174,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#pattern-a-url-flattening",
+      "link": "https://jss.live/docs/guides/git-on-solid#pattern-a-url-flattening",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Pattern B",
       "x": -46,
       "y": -210,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#pattern-b-protocol-gateway-jsss-approach",
+      "link": "https://jss.live/docs/guides/git-on-solid#pattern-b-protocol-gateway-jsss-approach",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Why this matters",
       "x": 89,
       "y": -201,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#why-this-matters",
+      "link": "https://jss.live/docs/guides/git-on-solid#why-this-matters",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Security comparison",
       "x": 216,
       "y": -107,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#security-comparison",
+      "link": "https://jss.live/docs/guides/git-on-solid#security-comparison",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -68,7 +68,7 @@
       "name": "Pattern A",
       "x": 376,
       "y": -281,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#pattern-a-what-is-exposed",
+      "link": "https://jss.live/docs/guides/git-on-solid#pattern-a-what-is-exposed",
       "bgColor": "#f2ecd2",
       "parent": "#z9ubg8"
     },
@@ -77,7 +77,7 @@
       "name": "Pattern B",
       "x": 558,
       "y": -163,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#pattern-b-what-is-mitigated",
+      "link": "https://jss.live/docs/guides/git-on-solid#pattern-b-what-is-mitigated",
       "bgColor": "#f2ecd2",
       "parent": "#z9ubg8"
     },
@@ -86,7 +86,7 @@
       "name": "JSS reference pattern",
       "x": 243,
       "y": 51,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#jss-reference-pattern",
+      "link": "https://jss.live/docs/guides/git-on-solid#jss-reference-pattern",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
@@ -95,7 +95,7 @@
       "name": "Browser viewer",
       "x": 177,
       "y": 150,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#browser-viewer",
+      "link": "https://jss.live/docs/guides/git-on-solid#browser-viewer",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
@@ -104,7 +104,7 @@
       "name": "Server-side dotfile policy",
       "x": 78,
       "y": 209,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#server-side-dotfile-policy",
+      "link": "https://jss.live/docs/guides/git-on-solid#server-side-dotfile-policy",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -113,7 +113,7 @@
       "name": "Further reading",
       "x": -116,
       "y": 195,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#further-reading",
+      "link": "https://jss.live/docs/guides/git-on-solid#further-reading",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -122,7 +122,7 @@
       "name": "Philosophy",
       "x": -192,
       "y": 136,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-on-solid#philosophy",
+      "link": "https://jss.live/docs/guides/git-on-solid#philosophy",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },

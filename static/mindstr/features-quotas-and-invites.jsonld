@@ -15,7 +15,7 @@
       "name": "Quotas & Invites",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites",
+      "link": "https://jss.live/docs/features/quotas-and-invites",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Storage Quotas",
       "x": -72,
       "y": -204,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#storage-quotas",
+      "link": "https://jss.live/docs/features/quotas-and-invites#storage-quotas",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Setting Quotas",
       "x": -457,
       "y": -173,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#setting-quotas",
+      "link": "https://jss.live/docs/features/quotas-and-invites#setting-quotas",
       "bgColor": "#daeeff",
       "parent": "#6zhwac"
     },
@@ -41,7 +41,7 @@
       "name": "How Quotas Work",
       "x": -389,
       "y": -377,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#how-quotas-work",
+      "link": "https://jss.live/docs/features/quotas-and-invites#how-quotas-work",
       "bgColor": "#daeeff",
       "parent": "#6zhwac"
     },
@@ -50,7 +50,7 @@
       "name": "Default Quota",
       "x": -142,
       "y": -408,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#default-quota",
+      "link": "https://jss.live/docs/features/quotas-and-invites#default-quota",
       "bgColor": "#daeeff",
       "parent": "#6zhwac"
     },
@@ -59,7 +59,7 @@
       "name": "Size Formats",
       "x": 83,
       "y": -497,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#size-formats",
+      "link": "https://jss.live/docs/features/quotas-and-invites#size-formats",
       "bgColor": "#daeeff",
       "parent": "#6zhwac"
     },
@@ -68,7 +68,7 @@
       "name": "Reconciliation",
       "x": 270,
       "y": -358,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#reconciliation",
+      "link": "https://jss.live/docs/features/quotas-and-invites#reconciliation",
       "bgColor": "#daeeff",
       "parent": "#6zhwac"
     },
@@ -77,7 +77,7 @@
       "name": "Invite Codes",
       "x": 180,
       "y": 148,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#invite-codes",
+      "link": "https://jss.live/docs/features/quotas-and-invites#invite-codes",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
@@ -86,7 +86,7 @@
       "name": "Quick Start",
       "x": 494,
       "y": -64,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#quick-start",
+      "link": "https://jss.live/docs/features/quotas-and-invites#quick-start",
       "bgColor": "#fce3f3",
       "parent": "#r76gtv"
     },
@@ -95,7 +95,7 @@
       "name": "Managing Invites",
       "x": 565,
       "y": 144,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#managing-invites",
+      "link": "https://jss.live/docs/features/quotas-and-invites#managing-invites",
       "bgColor": "#fce3f3",
       "parent": "#r76gtv"
     },
@@ -104,7 +104,7 @@
       "name": "Configuration",
       "x": 371,
       "y": 285,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#configuration",
+      "link": "https://jss.live/docs/features/quotas-and-invites#configuration",
       "bgColor": "#fce3f3",
       "parent": "#r76gtv"
     },
@@ -113,7 +113,7 @@
       "name": "How Invites Work",
       "x": 227,
       "y": 463,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#how-invites-work",
+      "link": "https://jss.live/docs/features/quotas-and-invites#how-invites-work",
       "bgColor": "#fce3f3",
       "parent": "#r76gtv"
     },
@@ -122,7 +122,7 @@
       "name": "Registration Modes",
       "x": -42,
       "y": 423,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#registration-modes",
+      "link": "https://jss.live/docs/features/quotas-and-invites#registration-modes",
       "bgColor": "#fce3f3",
       "parent": "#r76gtv"
     },
@@ -131,7 +131,7 @@
       "name": "Rate Limits",
       "x": -180,
       "y": 147,
-      "link": "https://javascriptsolidserver.github.io/docs/features/quotas-and-invites#rate-limits",
+      "link": "https://jss.live/docs/features/quotas-and-invites#rate-limits",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },

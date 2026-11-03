@@ -15,7 +15,7 @@
       "name": "Connect Solid Apps",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps",
+      "link": "https://jss.live/docs/guides/solid-apps",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "SolidOS / Mashlib",
       "x": -225,
       "y": -92,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#solidos-mashlib",
+      "link": "https://jss.live/docs/guides/solid-apps#solidos-mashlib",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Solid-OIDC Apps",
       "x": -65,
       "y": -205,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#solid-oidc-apps",
+      "link": "https://jss.live/docs/guides/solid-apps#solid-oidc-apps",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Common Apps",
       "x": 130,
       "y": -182,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#common-apps",
+      "link": "https://jss.live/docs/guides/solid-apps#common-apps",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Troubleshooting",
       "x": 164,
       "y": 161,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#troubleshooting",
+      "link": "https://jss.live/docs/guides/solid-apps#troubleshooting",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "App can't parse responses",
       "x": 496,
       "y": 53,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#app-cant-parse-responses",
+      "link": "https://jss.live/docs/guides/solid-apps#app-cant-parse-responses",
       "bgColor": "#eeedd3",
       "parent": "#wtpnjp"
     },
@@ -68,7 +68,7 @@
       "name": "Login doesn't work",
       "x": 303,
       "y": 430,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#login-doesnt-work",
+      "link": "https://jss.live/docs/guides/solid-apps#login-doesnt-work",
       "bgColor": "#eeedd3",
       "parent": "#wtpnjp"
     },
@@ -77,7 +77,7 @@
       "name": "CORS errors",
       "x": -96,
       "y": 417,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/solid-apps#cors-errors",
+      "link": "https://jss.live/docs/guides/solid-apps#cors-errors",
       "bgColor": "#eeedd3",
       "parent": "#wtpnjp"
     },

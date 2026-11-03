@@ -15,7 +15,7 @@
       "name": "Pod Structure",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/pod-structure",
+      "link": "https://jss.live/docs/reference/pod-structure",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "WebID Profile",
       "x": -177,
       "y": -150,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/pod-structure#webid-profile",
+      "link": "https://jss.live/docs/reference/pod-structure#webid-profile",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Root ACL",
       "x": 177,
       "y": -150,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/pod-structure#root-acl",
+      "link": "https://jss.live/docs/reference/pod-structure#root-acl",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Inbox ACL",
       "x": 177,
       "y": 150,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/pod-structure#inbox-acl",
+      "link": "https://jss.live/docs/reference/pod-structure#inbox-acl",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },

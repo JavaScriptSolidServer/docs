@@ -15,7 +15,7 @@
       "name": "Introduction",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/introduction",
+      "link": "https://jss.live/docs/getting-started/introduction",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "What is Solid?",
       "x": -181,
       "y": -147,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/introduction#what-is-solid",
+      "link": "https://jss.live/docs/getting-started/introduction#what-is-solid",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Why JSS?",
       "x": 165,
       "y": -160,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/introduction#why-jss",
+      "link": "https://jss.live/docs/getting-started/introduction#why-jss",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Key Features",
       "x": 195,
       "y": 133,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/introduction#key-features",
+      "link": "https://jss.live/docs/getting-started/introduction#key-features",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },

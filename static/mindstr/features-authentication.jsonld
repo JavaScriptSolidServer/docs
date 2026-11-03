@@ -15,7 +15,7 @@
       "name": "Authentication",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/authentication",
+      "link": "https://jss.live/docs/features/authentication",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Simple Tokens",
       "x": -221,
       "y": -99,
-      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#simple-tokens-development",
+      "link": "https://jss.live/docs/features/authentication#simple-tokens-development",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Solid-OIDC",
       "x": 201,
       "y": -126,
-      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#solid-oidc",
+      "link": "https://jss.live/docs/features/authentication#solid-oidc",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Built-in Identity Provider",
       "x": 137,
       "y": -409,
-      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#built-in-identity-provider",
+      "link": "https://jss.live/docs/features/authentication#built-in-identity-provider",
       "bgColor": "#fce3f3",
       "parent": "#a464iu"
     },
@@ -50,7 +50,7 @@
       "name": "External Identity Providers",
       "x": 590,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#external-identity-providers",
+      "link": "https://jss.live/docs/features/authentication#external-identity-providers",
       "bgColor": "#fce3f3",
       "parent": "#a464iu"
     },
@@ -59,7 +59,7 @@
       "name": "Nostr Authentication",
       "x": 8,
       "y": 212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#nostr-authentication-nip-98",
+      "link": "https://jss.live/docs/features/authentication#nostr-authentication-nip-98",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
@@ -68,7 +68,7 @@
       "name": "End-to-end encryption",
       "x": 16,
       "y": 425,
-      "link": "https://javascriptsolidserver.github.io/docs/features/authentication#end-to-end-encryption",
+      "link": "https://jss.live/docs/features/authentication#end-to-end-encryption",
       "bgColor": "#fbe8d3",
       "parent": "#xmtzgz"
     },

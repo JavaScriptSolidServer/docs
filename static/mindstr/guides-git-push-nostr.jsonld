@@ -15,7 +15,7 @@
       "name": "Git Push with Nostr",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-push-nostr",
+      "link": "https://jss.live/docs/guides/git-push-nostr",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Prerequisites",
       "x": -235,
       "y": -73,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-push-nostr#prerequisites",
+      "link": "https://jss.live/docs/guides/git-push-nostr#prerequisites",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Install credential helper",
       "x": -81,
       "y": -201,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-push-nostr#install-credential-helper",
+      "link": "https://jss.live/docs/guides/git-push-nostr#install-credential-helper",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Generate keypair",
       "x": 138,
       "y": -177,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-push-nostr#generate-keypair",
+      "link": "https://jss.live/docs/guides/git-push-nostr#generate-keypair",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Configure git",
       "x": 242,
       "y": -54,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-push-nostr#configure-git",
+      "link": "https://jss.live/docs/guides/git-push-nostr#configure-git",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Create repository ACL",
       "x": 212,
       "y": 113,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-push-nostr#create-repository-acl",
+      "link": "https://jss.live/docs/guides/git-push-nostr#create-repository-acl",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -68,7 +68,7 @@
       "name": "Push",
       "x": 48,
       "y": 209,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-push-nostr#push",
+      "link": "https://jss.live/docs/guides/git-push-nostr#push",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
@@ -77,7 +77,7 @@
       "name": "How it works",
       "x": -122,
       "y": 185,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/git-push-nostr#how-it-works",
+      "link": "https://jss.live/docs/guides/git-push-nostr#how-it-works",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },

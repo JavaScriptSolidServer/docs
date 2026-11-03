@@ -15,7 +15,7 @@
       "name": "Guides Overview",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/overview",
+      "link": "https://jss.live/docs/guides/overview",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Available Guides",
       "x": 13,
       "y": -212,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/overview#available-guides",
+      "link": "https://jss.live/docs/guides/overview#available-guides",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },

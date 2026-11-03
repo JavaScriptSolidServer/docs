@@ -15,7 +15,7 @@
       "name": "Multi-User Pods",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods",
+      "link": "https://jss.live/docs/features/multi-user-pods",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Path-based",
       "x": -218,
       "y": -104,
-      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#path-based-default",
+      "link": "https://jss.live/docs/features/multi-user-pods#path-based-default",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Subdomain-based",
       "x": -6,
       "y": -212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#subdomain-based",
+      "link": "https://jss.live/docs/features/multi-user-pods#subdomain-based",
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Comparison",
       "x": 211,
       "y": -113,
-      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#comparison",
+      "link": "https://jss.live/docs/features/multi-user-pods#comparison",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "DNS Configuration",
       "x": 217,
       "y": 106,
-      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#dns-configuration",
+      "link": "https://jss.live/docs/features/multi-user-pods#dns-configuration",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Pod URLs",
       "x": -9,
       "y": 212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/multi-user-pods#pod-urls",
+      "link": "https://jss.live/docs/features/multi-user-pods#pod-urls",
       "bgColor": "#c1dba8",
       "parent": "#this"
     },

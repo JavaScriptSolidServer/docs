@@ -15,7 +15,7 @@
       "name": "Access Control (WAC)",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/access-control",
+      "link": "https://jss.live/docs/features/access-control",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "How it works",
       "x": -202,
       "y": -125,
-      "link": "https://javascriptsolidserver.github.io/docs/features/access-control#how-it-works",
+      "link": "https://jss.live/docs/features/access-control#how-it-works",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "ACL Structure",
       "x": 77,
       "y": -202,
-      "link": "https://javascriptsolidserver.github.io/docs/features/access-control#acl-structure",
+      "link": "https://jss.live/docs/features/access-control#acl-structure",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Access Modes",
       "x": 250,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/access-control#access-modes",
+      "link": "https://jss.live/docs/features/access-control#access-modes",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Agent Types",
       "x": 77,
       "y": 202,
-      "link": "https://javascriptsolidserver.github.io/docs/features/access-control#agent-types",
+      "link": "https://jss.live/docs/features/access-control#agent-types",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },

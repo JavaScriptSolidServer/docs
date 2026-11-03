@@ -15,7 +15,7 @@
       "name": "Mashlib UI",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/mashlib-ui",
+      "link": "https://jss.live/docs/features/mashlib-ui",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "CDN Mode",
       "x": -217,
       "y": -106,
-      "link": "https://javascriptsolidserver.github.io/docs/features/mashlib-ui#cdn-mode-recommended-for-getting-started",
+      "link": "https://jss.live/docs/features/mashlib-ui#cdn-mode-recommended-for-getting-started",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Local Mode",
       "x": 0,
       "y": -212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/mashlib-ui#local-mode-productionoffline",
+      "link": "https://jss.live/docs/features/mashlib-ui#local-mode-productionoffline",
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "How it works",
       "x": 217,
       "y": -106,
-      "link": "https://javascriptsolidserver.github.io/docs/features/mashlib-ui#how-it-works",
+      "link": "https://jss.live/docs/features/mashlib-ui#how-it-works",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Requirements",
       "x": 217,
       "y": 106,
-      "link": "https://javascriptsolidserver.github.io/docs/features/mashlib-ui#requirements",
+      "link": "https://jss.live/docs/features/mashlib-ui#requirements",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Profile Pages",
       "x": 0,
       "y": 213,
-      "link": "https://javascriptsolidserver.github.io/docs/features/mashlib-ui#profile-pages",
+      "link": "https://jss.live/docs/features/mashlib-ui#profile-pages",
       "bgColor": "#c1dba8",
       "parent": "#this"
     },

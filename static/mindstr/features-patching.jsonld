@@ -15,7 +15,7 @@
       "name": "Patching Data",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/patching",
+      "link": "https://jss.live/docs/features/patching",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "N3 Patch",
       "x": -108,
       "y": -192,
-      "link": "https://javascriptsolidserver.github.io/docs/features/patching#n3-patch",
+      "link": "https://jss.live/docs/features/patching#n3-patch",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Insert and Delete",
       "x": -215,
       "y": -384,
-      "link": "https://javascriptsolidserver.github.io/docs/features/patching#insert-and-delete",
+      "link": "https://jss.live/docs/features/patching#insert-and-delete",
       "bgColor": "#daeeff",
       "parent": "#sy2ncx"
     },
@@ -41,7 +41,7 @@
       "name": "SPARQL Update",
       "x": 248,
       "y": 25,
-      "link": "https://javascriptsolidserver.github.io/docs/features/patching#sparql-update",
+      "link": "https://jss.live/docs/features/patching#sparql-update",
       "bgColor": "#febdc6",
       "parent": "#this"
     },

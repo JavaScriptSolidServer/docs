@@ -15,7 +15,7 @@
       "name": "Charlie — The Personal Assistant Pattern",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie",
+      "link": "https://jss.live/docs/features/charlie",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "What Charlie is",
       "x": -244,
       "y": -47,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#what-charlie-is",
+      "link": "https://jss.live/docs/features/charlie#what-charlie-is",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "What's running today",
       "x": -188,
       "y": -140,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#whats-running-today",
+      "link": "https://jss.live/docs/features/charlie#whats-running-today",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "What it looks like in practice",
       "x": -74,
       "y": -203,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#what-it-looks-like-in-practice",
+      "link": "https://jss.live/docs/features/charlie#what-it-looks-like-in-practice",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Watch the loop close",
       "x": -148,
       "y": -406,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#watch-the-loop-close",
+      "link": "https://jss.live/docs/features/charlie#watch-the-loop-close",
       "bgColor": "#ffe2ed",
       "parent": "#xintwj"
     },
@@ -59,7 +59,7 @@
       "name": "Why this matters",
       "x": 250,
       "y": -12,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#why-this-matters",
+      "link": "https://jss.live/docs/features/charlie#why-this-matters",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -68,7 +68,7 @@
       "name": "Consent as language, not cage",
       "x": 255,
       "y": -366,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#consent-as-language-not-cage",
+      "link": "https://jss.live/docs/features/charlie#consent-as-language-not-cage",
       "bgColor": "#ffe4d9",
       "parent": "#hgctui"
     },
@@ -77,7 +77,7 @@
       "name": "Standards-grounded, open architecture",
       "x": 557,
       "y": -165,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#standards-grounded-open-architecture",
+      "link": "https://jss.live/docs/features/charlie#standards-grounded-open-architecture",
       "bgColor": "#ffe4d9",
       "parent": "#hgctui"
     },
@@ -86,7 +86,7 @@
       "name": "Per-bot specialisation",
       "x": 477,
       "y": 126,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#per-bot-specialisation",
+      "link": "https://jss.live/docs/features/charlie#per-bot-specialisation",
       "bgColor": "#ffe4d9",
       "parent": "#hgctui"
     },
@@ -95,7 +95,7 @@
       "name": "Self-bootstrapping documentation",
       "x": 370,
       "y": 391,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#self-bootstrapping-documentation",
+      "link": "https://jss.live/docs/features/charlie#self-bootstrapping-documentation",
       "bgColor": "#ffe4d9",
       "parent": "#hgctui"
     },
@@ -104,7 +104,7 @@
       "name": "A starting SKILL.md for Charlie",
       "x": -75,
       "y": 203,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#a-starting-skillmd-for-charlie",
+      "link": "https://jss.live/docs/features/charlie#a-starting-skillmd-for-charlie",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -113,7 +113,7 @@
       "name": "What's next",
       "x": -199,
       "y": 129,
-      "link": "https://javascriptsolidserver.github.io/docs/features/charlie#whats-next",
+      "link": "https://jss.live/docs/features/charlie#whats-next",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },

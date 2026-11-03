@@ -15,7 +15,7 @@
       "name": "Installation",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/installation",
+      "link": "https://jss.live/docs/getting-started/installation",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Prerequisites",
       "x": -212,
       "y": -113,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/installation#prerequisites",
+      "link": "https://jss.live/docs/getting-started/installation#prerequisites",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Install from npm",
       "x": 36,
       "y": -210,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/installation#install-from-npm",
+      "link": "https://jss.live/docs/getting-started/installation#install-from-npm",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Install from source",
       "x": 247,
       "y": -32,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/installation#install-from-source",
+      "link": "https://jss.live/docs/getting-started/installation#install-from-source",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Verify installation",
       "x": 88,
       "y": 199,
-      "link": "https://javascriptsolidserver.github.io/docs/getting-started/installation#verify-installation",
+      "link": "https://jss.live/docs/getting-started/installation#verify-installation",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },

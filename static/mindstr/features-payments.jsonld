@@ -15,7 +15,7 @@
       "name": "HTTP 402 Payments",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments",
+      "link": "https://jss.live/docs/features/payments",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Quick Start",
       "x": -247,
       "y": -33,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#quick-start",
+      "link": "https://jss.live/docs/features/payments#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Configuration",
       "x": -217,
       "y": -106,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#configuration",
+      "link": "https://jss.live/docs/features/payments#configuration",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Environment Variables",
       "x": -433,
       "y": -212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#environment-variables",
+      "link": "https://jss.live/docs/features/payments#environment-variables",
       "bgColor": "#efe6ff",
       "parent": "#gekznt"
     },
@@ -50,7 +50,7 @@
       "name": "API Endpoints",
       "x": -125,
       "y": -184,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#api-endpoints",
+      "link": "https://jss.live/docs/features/payments#api-endpoints",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Public",
       "x": -305,
       "y": -337,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#public-no-auth",
+      "link": "https://jss.live/docs/features/payments#public-no-auth",
       "bgColor": "#ffe2ed",
       "parent": "#6r28st"
     },
@@ -68,7 +68,7 @@
       "name": "Authenticated",
       "x": -225,
       "y": -463,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#authenticated-nip-98",
+      "link": "https://jss.live/docs/features/payments#authenticated-nip-98",
       "bgColor": "#ffe2ed",
       "parent": "#6r28st"
     },
@@ -77,7 +77,7 @@
       "name": "How It Works",
       "x": 105,
       "y": -193,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#how-it-works",
+      "link": "https://jss.live/docs/features/payments#how-it-works",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -86,7 +86,7 @@
       "name": "Discover",
       "x": 13,
       "y": -425,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#1-discover",
+      "link": "https://jss.live/docs/features/payments#1-discover",
       "bgColor": "#ffe4d9",
       "parent": "#ucs9ug"
     },
@@ -95,7 +95,7 @@
       "name": "Authenticate",
       "x": 169,
       "y": -480,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#2-authenticate",
+      "link": "https://jss.live/docs/features/payments#2-authenticate",
       "bgColor": "#ffe4d9",
       "parent": "#ucs9ug"
     },
@@ -104,7 +104,7 @@
       "name": "Deposit",
       "x": 264,
       "y": -361,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#3-deposit",
+      "link": "https://jss.live/docs/features/payments#3-deposit",
       "bgColor": "#ffe4d9",
       "parent": "#ucs9ug"
     },
@@ -113,7 +113,7 @@
       "name": "Access Resources",
       "x": 435,
       "y": -338,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#4-access-resources",
+      "link": "https://jss.live/docs/features/payments#4-access-resources",
       "bgColor": "#ffe4d9",
       "parent": "#ucs9ug"
     },
@@ -122,7 +122,7 @@
       "name": "Token Economy",
       "x": 247,
       "y": 31,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#token-economy",
+      "link": "https://jss.live/docs/features/payments#token-economy",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -131,7 +131,7 @@
       "name": "Mint a Token",
       "x": 483,
       "y": -110,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#mint-a-token-cli",
+      "link": "https://jss.live/docs/features/payments#mint-a-token-cli",
       "bgColor": "#f2ecd2",
       "parent": "#u9rrt3"
     },
@@ -140,7 +140,7 @@
       "name": "Primary Market",
       "x": 590,
       "y": 2,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#primary-market",
+      "link": "https://jss.live/docs/features/payments#primary-market",
       "bgColor": "#f2ecd2",
       "parent": "#u9rrt3"
     },
@@ -149,7 +149,7 @@
       "name": "Withdrawal",
       "x": 482,
       "y": 113,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#withdrawal",
+      "link": "https://jss.live/docs/features/payments#withdrawal",
       "bgColor": "#f2ecd2",
       "parent": "#u9rrt3"
     },
@@ -158,7 +158,7 @@
       "name": "Secondary Market",
       "x": 505,
       "y": 259,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#secondary-market",
+      "link": "https://jss.live/docs/features/payments#secondary-market",
       "bgColor": "#f2ecd2",
       "parent": "#u9rrt3"
     },
@@ -167,7 +167,7 @@
       "name": "Multi-Chain AMM",
       "x": 64,
       "y": 205,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#multi-chain-amm",
+      "link": "https://jss.live/docs/features/payments#multi-chain-amm",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
@@ -176,7 +176,7 @@
       "name": "Supported Chains",
       "x": 265,
       "y": 360,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#supported-chains",
+      "link": "https://jss.live/docs/features/payments#supported-chains",
       "bgColor": "#ddf2de",
       "parent": "#gz4cvb"
     },
@@ -185,7 +185,7 @@
       "name": "Multi-Chain Deposits",
       "x": 146,
       "y": 486,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#multi-chain-deposits",
+      "link": "https://jss.live/docs/features/payments#multi-chain-deposits",
       "bgColor": "#ddf2de",
       "parent": "#gz4cvb"
     },
@@ -194,7 +194,7 @@
       "name": "AMM Pool",
       "x": -25,
       "y": 424,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#amm-pool",
+      "link": "https://jss.live/docs/features/payments#amm-pool",
       "bgColor": "#ddf2de",
       "parent": "#gz4cvb"
     },
@@ -203,7 +203,7 @@
       "name": "Use Cases",
       "x": -103,
       "y": 197,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#use-cases",
+      "link": "https://jss.live/docs/features/payments#use-cases",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
@@ -212,7 +212,7 @@
       "name": "Balance Tracking",
       "x": -171,
       "y": 153,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#balance-tracking",
+      "link": "https://jss.live/docs/features/payments#balance-tracking",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -221,7 +221,7 @@
       "name": "Token Management",
       "x": -221,
       "y": 99,
-      "link": "https://javascriptsolidserver.github.io/docs/features/payments#token-management-cli",
+      "link": "https://jss.live/docs/features/payments#token-management-cli",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },

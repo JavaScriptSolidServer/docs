@@ -15,7 +15,7 @@
       "name": "CLI Commands",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/cli",
+      "link": "https://jss.live/docs/reference/cli",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "jss start",
       "x": -219,
       "y": -102,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/cli#jss-start",
+      "link": "https://jss.live/docs/reference/cli#jss-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Options",
       "x": -438,
       "y": -204,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/cli#options",
+      "link": "https://jss.live/docs/reference/cli#options",
       "bgColor": "#daeeff",
       "parent": "#brfb5w"
     },
@@ -41,7 +41,7 @@
       "name": "jss init",
       "x": -17,
       "y": -212,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/cli#jss-init",
+      "link": "https://jss.live/docs/reference/cli#jss-init",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "jss --help",
       "x": 201,
       "y": -126,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/cli#jss---help",
+      "link": "https://jss.live/docs/reference/cli#jss---help",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },

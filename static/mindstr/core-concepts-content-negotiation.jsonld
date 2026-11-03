@@ -15,7 +15,7 @@
       "name": "Content Negotiation",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Design constraints",
       "x": -240,
       "y": -59,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#design-constraints",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#design-constraints",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Content negotiation is a negotiation",
       "x": -122,
       "y": -170,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#content-negotiation-is-a-negotiation",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#content-negotiation-is-a-negotiation",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "A living position",
       "x": 64,
       "y": -214,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#a-living-position",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#a-living-position",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Current behaviour",
       "x": 179,
       "y": -149,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#current-behaviour",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#current-behaviour",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Enabling conneg",
       "x": 242,
       "y": -55,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#enabling-conneg",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#enabling-conneg",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -68,7 +68,7 @@
       "name": "Examples",
       "x": 244,
       "y": 47,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#examples",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#examples",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
@@ -77,7 +77,7 @@
       "name": "Why these choices",
       "x": 185,
       "y": 143,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#why-these-choices",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#why-these-choices",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
@@ -86,7 +86,7 @@
       "name": "Future-proofing posture",
       "x": 75,
       "y": 207,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#future-proofing-posture",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#future-proofing-posture",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -95,7 +95,7 @@
       "name": "How it works",
       "x": -98,
       "y": 199,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#how-it-works",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#how-it-works",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -104,7 +104,7 @@
       "name": "Direction",
       "x": -186,
       "y": 142,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/content-negotiation#direction",
+      "link": "https://jss.live/docs/core-concepts/content-negotiation#direction",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },

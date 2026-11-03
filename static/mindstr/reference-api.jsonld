@@ -15,7 +15,7 @@
       "name": "HTTP API",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api",
+      "link": "https://jss.live/docs/reference/api",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Pod Management",
       "x": -235,
       "y": -72,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#pod-management",
+      "link": "https://jss.live/docs/reference/api#pod-management",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Create Pod",
       "x": -470,
       "y": -144,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#create-pod",
+      "link": "https://jss.live/docs/reference/api#create-pod",
       "bgColor": "#daeeff",
       "parent": "#2xe78q"
     },
@@ -41,7 +41,7 @@
       "name": "Resource Operations",
       "x": 188,
       "y": -140,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#resource-operations",
+      "link": "https://jss.live/docs/reference/api#resource-operations",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "GET",
       "x": -153,
       "y": -405,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#get",
+      "link": "https://jss.live/docs/reference/api#get",
       "bgColor": "#fce3f3",
       "parent": "#bekswu"
     },
@@ -59,7 +59,7 @@
       "name": "PUT",
       "x": 157,
       "y": -483,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#put",
+      "link": "https://jss.live/docs/reference/api#put",
       "bgColor": "#fce3f3",
       "parent": "#bekswu"
     },
@@ -68,7 +68,7 @@
       "name": "POST",
       "x": 376,
       "y": -280,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#post",
+      "link": "https://jss.live/docs/reference/api#post",
       "bgColor": "#fce3f3",
       "parent": "#bekswu"
     },
@@ -77,7 +77,7 @@
       "name": "DELETE",
       "x": 584,
       "y": -70,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#delete",
+      "link": "https://jss.live/docs/reference/api#delete",
       "bgColor": "#fce3f3",
       "parent": "#bekswu"
     },
@@ -86,7 +86,7 @@
       "name": "PATCH",
       "x": 452,
       "y": 182,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#patch",
+      "link": "https://jss.live/docs/reference/api#patch",
       "bgColor": "#fce3f3",
       "parent": "#bekswu"
     },
@@ -95,7 +95,7 @@
       "name": "Headers",
       "x": -39,
       "y": 210,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#headers",
+      "link": "https://jss.live/docs/reference/api#headers",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
@@ -104,7 +104,7 @@
       "name": "Request Headers",
       "x": 75,
       "y": 420,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#request-headers",
+      "link": "https://jss.live/docs/reference/api#request-headers",
       "bgColor": "#fbe8d3",
       "parent": "#jw6hux"
     },
@@ -113,7 +113,7 @@
       "name": "Response Headers",
       "x": -259,
       "y": 451,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/api#response-headers",
+      "link": "https://jss.live/docs/reference/api#response-headers",
       "bgColor": "#fbe8d3",
       "parent": "#jw6hux"
     },

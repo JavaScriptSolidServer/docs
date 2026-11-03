@@ -15,7 +15,7 @@
       "name": "LDP CRUD Operations",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/ldp-crud",
+      "link": "https://jss.live/docs/features/ldp-crud",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "GET",
       "x": -219,
       "y": -102,
-      "link": "https://javascriptsolidserver.github.io/docs/features/ldp-crud#get---read-resources",
+      "link": "https://jss.live/docs/features/ldp-crud#get---read-resources",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "PUT",
       "x": -17,
       "y": -212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/ldp-crud#put---create-or-update",
+      "link": "https://jss.live/docs/features/ldp-crud#put---create-or-update",
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "POST",
       "x": 201,
       "y": -126,
-      "link": "https://javascriptsolidserver.github.io/docs/features/ldp-crud#post---create-in-container",
+      "link": "https://jss.live/docs/features/ldp-crud#post---create-in-container",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "DELETE",
       "x": 233,
       "y": 76,
-      "link": "https://javascriptsolidserver.github.io/docs/features/ldp-crud#delete---remove-resources",
+      "link": "https://jss.live/docs/features/ldp-crud#delete---remove-resources",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Conditional Requests",
       "x": 17,
       "y": 212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/ldp-crud#conditional-requests",
+      "link": "https://jss.live/docs/features/ldp-crud#conditional-requests",
       "bgColor": "#c1dba8",
       "parent": "#this"
     },

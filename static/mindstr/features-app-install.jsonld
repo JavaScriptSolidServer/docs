@@ -15,7 +15,7 @@
       "name": "Installing Apps",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install",
+      "link": "https://jss.live/docs/features/app-install",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Quick start",
       "x": -243,
       "y": -51,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#quick-start",
+      "link": "https://jss.live/docs/features/app-install#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "App specs",
       "x": -187,
       "y": -141,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#app-specs",
+      "link": "https://jss.live/docs/features/app-install#app-specs",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Authentication",
       "x": -31,
       "y": -211,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#authentication",
+      "link": "https://jss.live/docs/features/app-install#authentication",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Bearer token",
       "x": -161,
       "y": -402,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#bearer-token-default",
+      "link": "https://jss.live/docs/features/app-install#bearer-token-default",
       "bgColor": "#ffe2ed",
       "parent": "#y6p8te"
     },
@@ -59,7 +59,7 @@
       "name": "Nostr",
       "x": 46,
       "y": -500,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#nostr-nip-98",
+      "link": "https://jss.live/docs/features/app-install#nostr-nip-98",
       "bgColor": "#ffe2ed",
       "parent": "#y6p8te"
     },
@@ -68,7 +68,7 @@
       "name": "Targeting a different pod",
       "x": 165,
       "y": -159,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#targeting-a-different-pod",
+      "link": "https://jss.live/docs/features/app-install#targeting-a-different-pod",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -77,7 +77,7 @@
       "name": "Bundles",
       "x": 206,
       "y": 120,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#bundles",
+      "link": "https://jss.live/docs/features/app-install#bundles",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -86,7 +86,7 @@
       "name": "Source resolution",
       "x": 498,
       "y": -35,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#source-resolution",
+      "link": "https://jss.live/docs/features/app-install#source-resolution",
       "bgColor": "#f2ecd2",
       "parent": "#za8che"
     },
@@ -95,7 +95,7 @@
       "name": "Bundle format",
       "x": 555,
       "y": 170,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#bundle-format",
+      "link": "https://jss.live/docs/features/app-install#bundle-format",
       "bgColor": "#f2ecd2",
       "parent": "#za8che"
     },
@@ -104,7 +104,7 @@
       "name": "Curated bundles",
       "x": 364,
       "y": 291,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#curated-bundles",
+      "link": "https://jss.live/docs/features/app-install#curated-bundles",
       "bgColor": "#f2ecd2",
       "parent": "#za8che"
     },
@@ -113,7 +113,7 @@
       "name": "Sharing custom bundles",
       "x": 193,
       "y": 474,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#sharing-custom-bundles",
+      "link": "https://jss.live/docs/features/app-install#sharing-custom-bundles",
       "bgColor": "#f2ecd2",
       "parent": "#za8che"
     },
@@ -122,7 +122,7 @@
       "name": "How it works",
       "x": -87,
       "y": 199,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#how-it-works",
+      "link": "https://jss.live/docs/features/app-install#how-it-works",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
@@ -131,7 +131,7 @@
       "name": "Troubleshooting",
       "x": -187,
       "y": 141,
-      "link": "https://javascriptsolidserver.github.io/docs/features/app-install#troubleshooting",
+      "link": "https://jss.live/docs/features/app-install#troubleshooting",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },

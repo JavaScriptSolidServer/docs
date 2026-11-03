@@ -15,7 +15,7 @@
       "name": "Inbox & Spam Mitigation",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Inbox Setup",
       "x": -243,
       "y": -51,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#inbox-setup",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#inbox-setup",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "How It Works",
       "x": -187,
       "y": -142,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#how-it-works",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#how-it-works",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Spam Mitigation",
       "x": 112,
       "y": -190,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#spam-mitigation",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#spam-mitigation",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Rate Limiting",
       "x": -111,
       "y": -414,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#rate-limiting",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#rate-limiting",
       "bgColor": "#ffe2ed",
       "parent": "#svn3gp"
     },
@@ -59,7 +59,7 @@
       "name": "WAC Enforcement",
       "x": 110,
       "y": -493,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#wac-enforcement",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#wac-enforcement",
       "bgColor": "#ffe2ed",
       "parent": "#svn3gp"
     },
@@ -68,7 +68,7 @@
       "name": "Authentication",
       "x": 282,
       "y": -351,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#authentication",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#authentication",
       "bgColor": "#ffe2ed",
       "parent": "#svn3gp"
     },
@@ -77,7 +77,7 @@
       "name": "Additional Protections",
       "x": 521,
       "y": -236,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#additional-protections",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#additional-protections",
       "bgColor": "#ffe2ed",
       "parent": "#svn3gp"
     },
@@ -86,7 +86,7 @@
       "name": "Comparison with Email Anti-Spam Evolution",
       "x": 217,
       "y": 106,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#comparison-with-email-anti-spam-evolution",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#comparison-with-email-anti-spam-evolution",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -95,7 +95,7 @@
       "name": "Planned",
       "x": 62,
       "y": 206,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#planned",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#planned",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -104,7 +104,7 @@
       "name": "ActivityPub Inbox",
       "x": -68,
       "y": 205,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#activitypub-inbox",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#activitypub-inbox",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
@@ -113,7 +113,7 @@
       "name": "Design Philosophy",
       "x": -182,
       "y": 146,
-      "link": "https://javascriptsolidserver.github.io/docs/features/inbox-and-spam-mitigation#design-philosophy",
+      "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#design-philosophy",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },

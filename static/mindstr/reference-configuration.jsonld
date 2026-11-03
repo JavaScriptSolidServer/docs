@@ -15,7 +15,7 @@
       "name": "Configuration",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/configuration",
+      "link": "https://jss.live/docs/reference/configuration",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Priority",
       "x": -208,
       "y": -118,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/configuration#priority",
+      "link": "https://jss.live/docs/reference/configuration#priority",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Environment Variables",
       "x": 95,
       "y": -197,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/configuration#environment-variables",
+      "link": "https://jss.live/docs/reference/configuration#environment-variables",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Config File",
       "x": 246,
       "y": 40,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/configuration#config-file",
+      "link": "https://jss.live/docs/reference/configuration#config-file",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "All Options",
       "x": 50,
       "y": 208,
-      "link": "https://javascriptsolidserver.github.io/docs/reference/configuration#all-options",
+      "link": "https://jss.live/docs/reference/configuration#all-options",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },

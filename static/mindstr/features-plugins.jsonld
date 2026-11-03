@@ -15,7 +15,7 @@
       "name": "Plugins & Application Mounts",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/features/plugins",
+      "link": "https://jss.live/docs/features/plugins",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Status at a glance",
       "x": -239,
       "y": -61,
-      "link": "https://javascriptsolidserver.github.io/docs/features/plugins#status-at-a-glance",
+      "link": "https://jss.live/docs/features/plugins#status-at-a-glance",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Using the loader",
       "x": -164,
       "y": -160,
-      "link": "https://javascriptsolidserver.github.io/docs/features/plugins#using-the-loader",
+      "link": "https://jss.live/docs/features/plugins#using-the-loader",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Why plugins?",
       "x": -64,
       "y": -208,
-      "link": "https://javascriptsolidserver.github.io/docs/features/plugins#why-plugins",
+      "link": "https://jss.live/docs/features/plugins#why-plugins",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "What shipped: appPaths",
       "x": 105,
       "y": -196,
-      "link": "https://javascriptsolidserver.github.io/docs/features/plugins#what-shipped-apppaths",
+      "link": "https://jss.live/docs/features/plugins#what-shipped-apppaths",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
@@ -59,7 +59,7 @@
       "name": "Pod identity as the app's login",
       "x": 233,
       "y": -77,
-      "link": "https://javascriptsolidserver.github.io/docs/features/plugins#pod-identity-as-the-apps-login",
+      "link": "https://jss.live/docs/features/plugins#pod-identity-as-the-apps-login",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
@@ -68,7 +68,7 @@
       "name": "Wrapping an existing app",
       "x": 225,
       "y": 93,
-      "link": "https://javascriptsolidserver.github.io/docs/features/plugins#wrapping-an-existing-app-apimountapp",
+      "link": "https://jss.live/docs/features/plugins#wrapping-an-existing-app-apimountapp",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
@@ -77,7 +77,7 @@
       "name": "Case studies: the plugins that built the system",
       "x": 23,
       "y": 212,
-      "link": "https://javascriptsolidserver.github.io/docs/features/plugins#case-studies-the-plugins-that-built-the-system",
+      "link": "https://jss.live/docs/features/plugins#case-studies-the-plugins-that-built-the-system",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
@@ -86,7 +86,7 @@
       "name": "The road ahead",
       "x": -182,
       "y": 145,
-      "link": "https://javascriptsolidserver.github.io/docs/features/plugins#the-road-ahead",
+      "link": "https://jss.live/docs/features/plugins#the-road-ahead",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },

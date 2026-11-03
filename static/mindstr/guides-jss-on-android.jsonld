@@ -15,7 +15,7 @@
       "name": "JSS on Android",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android",
+      "link": "https://jss.live/docs/guides/jss-on-android",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Today",
       "x": 23,
       "y": -212,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#today-proof-of-concept-via-termux",
+      "link": "https://jss.live/docs/guides/jss-on-android#today-proof-of-concept-via-termux",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Resource footprint",
       "x": -437,
       "y": -207,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#resource-footprint",
+      "link": "https://jss.live/docs/guides/jss-on-android#resource-footprint",
       "bgColor": "#daeeff",
       "parent": "#ykkb9u"
     },
@@ -41,7 +41,7 @@
       "name": "Install",
       "x": -339,
       "y": -410,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#install",
+      "link": "https://jss.live/docs/guides/jss-on-android#install",
       "bgColor": "#daeeff",
       "parent": "#ykkb9u"
     },
@@ -50,7 +50,7 @@
       "name": "Run",
       "x": -98,
       "y": -417,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#run",
+      "link": "https://jss.live/docs/guides/jss-on-android#run",
       "bgColor": "#daeeff",
       "parent": "#ykkb9u"
     },
@@ -59,7 +59,7 @@
       "name": "Public access via --tunnel",
       "x": 194,
       "y": -474,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#public-access-via---tunnel",
+      "link": "https://jss.live/docs/guides/jss-on-android#public-access-via---tunnel",
       "bgColor": "#daeeff",
       "parent": "#ykkb9u"
     },
@@ -68,7 +68,7 @@
       "name": "Persistence",
       "x": 381,
       "y": -275,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#persistence",
+      "link": "https://jss.live/docs/guides/jss-on-android#persistence",
       "bgColor": "#daeeff",
       "parent": "#ykkb9u"
     },
@@ -77,7 +77,7 @@
       "name": "Storage",
       "x": 566,
       "y": -143,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#storage",
+      "link": "https://jss.live/docs/guides/jss-on-android#storage",
       "bgColor": "#daeeff",
       "parent": "#ykkb9u"
     },
@@ -86,7 +86,7 @@
       "name": "Coming",
       "x": 184,
       "y": 144,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#coming-native-apk",
+      "link": "https://jss.live/docs/guides/jss-on-android#coming-native-apk",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
@@ -95,7 +95,7 @@
       "name": "Architecture",
       "x": 443,
       "y": 197,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#architecture",
+      "link": "https://jss.live/docs/guides/jss-on-android#architecture",
       "bgColor": "#f7e4f9",
       "parent": "#mesfa4"
     },
@@ -104,7 +104,7 @@
       "name": "Why this is feasible",
       "x": 342,
       "y": 409,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#why-this-is-feasible",
+      "link": "https://jss.live/docs/guides/jss-on-android#why-this-is-feasible",
       "bgColor": "#f7e4f9",
       "parent": "#mesfa4"
     },
@@ -113,7 +113,7 @@
       "name": "Long arc",
       "x": 5,
       "y": 214,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#long-arc-full-os-via-postmarketos",
+      "link": "https://jss.live/docs/guides/jss-on-android#long-arc-full-os-via-postmarketos",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
@@ -122,7 +122,7 @@
       "name": "Why \"runs on a phone\" matters",
       "x": -152,
       "y": 168,
-      "link": "https://javascriptsolidserver.github.io/docs/guides/jss-on-android#why-runs-on-a-phone-matters",
+      "link": "https://jss.live/docs/guides/jss-on-android#why-runs-on-a-phone-matters",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },

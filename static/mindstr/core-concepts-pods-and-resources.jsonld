@@ -15,7 +15,7 @@
       "name": "Pods and Resources",
       "x": 0,
       "y": 0,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/pods-and-resources",
+      "link": "https://jss.live/docs/core-concepts/pods-and-resources",
       "bgColor": "#ebc573"
     },
     {
@@ -23,7 +23,7 @@
       "name": "What is a Pod?",
       "x": -203,
       "y": -125,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/pods-and-resources#what-is-a-pod",
+      "link": "https://jss.live/docs/core-concepts/pods-and-resources#what-is-a-pod",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
@@ -32,7 +32,7 @@
       "name": "Pod Structure",
       "x": 76,
       "y": -203,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/pods-and-resources#pod-structure",
+      "link": "https://jss.live/docs/core-concepts/pods-and-resources#pod-structure",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
@@ -41,7 +41,7 @@
       "name": "Resources",
       "x": 250,
       "y": -2,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/pods-and-resources#resources",
+      "link": "https://jss.live/docs/core-concepts/pods-and-resources#resources",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
@@ -50,7 +50,7 @@
       "name": "Containers",
       "x": 81,
       "y": 201,
-      "link": "https://javascriptsolidserver.github.io/docs/core-concepts/pods-and-resources#containers",
+      "link": "https://jss.live/docs/core-concepts/pods-and-resources#containers",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },
