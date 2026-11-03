@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#gksydt",
+      "@id": "#jw6hux",
       "name": "Architecture",
       "x": -244,
       "y": -46,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#8su7v6",
+      "@id": "#ueruwd",
       "name": "Why this is feasible",
       "x": -188,
       "y": -140,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#2da7xj",
+      "@id": "#j52mw6",
       "name": "v1 scope",
       "x": -98,
       "y": -199,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#9e878e",
+      "@id": "#gu5n3w",
       "name": "v1 caveats",
       "x": 10,
       "y": -212,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cp2str",
+      "@id": "#mukqya",
       "name": "Out of scope",
       "x": 133,
       "y": -184,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#swzzzt",
+      "@id": "#rdjmhy",
       "name": "Quick start",
       "x": 205,
       "y": -122,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#pj9sd5",
+      "@id": "#nbjpha",
       "name": "Repo layout",
       "x": 246,
       "y": -36,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#9incsq",
+      "@id": "#aypwsg",
       "name": "Refs",
       "x": 241,
       "y": 56,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#gwp9qx",
+      "@id": "#h94qk3",
       "name": "Native Android app (Kotlin) that bundles JavaScript Solid Se",
       "x": 90,
       "y": 209,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7csjb6",
+      "@id": "#tupb65",
       "name": "last commit 2026-05-08",
       "x": -151,
       "y": 163,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cyfvb8",
+      "@id": "#5xqpjs",
       "name": "← JavaScriptSolidServer",
       "x": -238,
       "y": 65,

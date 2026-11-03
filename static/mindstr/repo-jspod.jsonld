@@ -19,118 +19,127 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#varvfj",
+      "@id": "#bke9zd",
       "name": "Try in 60 seconds",
-      "x": -243,
-      "y": -49,
+      "x": -244,
+      "y": -46,
       "link": "https://github.com/JavaScriptSolidServer/jspod#try-in-60-seconds",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ucttef",
+      "@id": "#fuxupn",
       "name": "CLI options",
-      "x": -196,
-      "y": -132,
+      "x": -202,
+      "y": -125,
       "link": "https://github.com/JavaScriptSolidServer/jspod#cli-options",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#vzipyd",
+      "@id": "#5m2ws9",
       "name": "Install Solid apps",
-      "x": -161,
-      "y": -190,
+      "x": -126,
+      "y": -171,
       "link": "https://github.com/JavaScriptSolidServer/jspod#install-solid-apps",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#miy6ts",
+      "@id": "#bbimsx",
       "name": "Available bundles",
-      "x": -222,
-      "y": -381,
+      "x": -253,
+      "y": -367,
       "link": "https://github.com/JavaScriptSolidServer/jspod#available-bundles",
       "bgColor": "#ffe2ed",
-      "parent": "#vzipyd"
+      "parent": "#5m2ws9"
     },
     {
-      "@id": "#ft3k8u",
+      "@id": "#drrwuk",
       "name": "Run agents",
-      "x": -16,
-      "y": -212,
+      "x": -54,
+      "y": -217,
       "link": "https://github.com/JavaScriptSolidServer/jspod#run-agents",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#it6792",
+      "@id": "#nsm2yi",
       "name": "The auth ladder",
-      "x": 118,
-      "y": -196,
+      "x": 81,
+      "y": -210,
       "link": "https://github.com/JavaScriptSolidServer/jspod#the-auth-ladder",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#dnz3gb",
+      "@id": "#2xe78q",
       "name": "Configuration",
-      "x": 182,
-      "y": -146,
+      "x": 155,
+      "y": -164,
       "link": "https://github.com/JavaScriptSolidServer/jspod#configuration",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#3ifse5",
+      "@id": "#jgw4tz",
       "name": "The data browser",
-      "x": 237,
-      "y": -68,
+      "x": 219,
+      "y": -102,
       "link": "https://github.com/JavaScriptSolidServer/jspod#the-data-browser",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#ju3xzh",
+      "@id": "#bekswu",
       "name": "When to use jspod",
-      "x": 248,
-      "y": 27,
+      "x": 249,
+      "y": -17,
       "link": "https://github.com/JavaScriptSolidServer/jspod#when-to-use-jspod",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#p46jmx",
+      "@id": "#pxrawa",
       "name": "Links",
-      "x": 211,
-      "y": 114,
+      "x": 236,
+      "y": 70,
       "link": "https://github.com/JavaScriptSolidServer/jspod#links",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#bu7kuh",
+      "@id": "#gsrdqa",
+      "name": "Open issues · 9",
+      "x": 187,
+      "y": 141,
+      "link": "./issues-jspod.jsonld",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ttvgv4",
       "name": "JavaScript Solid Pod - Just works, batteries included",
-      "x": 47,
-      "y": 209,
+      "x": 20,
+      "y": 212,
       "link": "https://github.com/JavaScriptSolidServer/jspod",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#2iffkx",
+      "@id": "#g5xqe3",
       "name": "last commit 2026-07-11",
-      "x": -161,
-      "y": 163,
+      "x": -171,
+      "y": 155,
       "link": "https://github.com/JavaScriptSolidServer/jspod/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#ssgz3q",
+      "@id": "#cvkstp",
       "name": "← JavaScriptSolidServer",
-      "x": -239,
-      "y": 62,
+      "x": -241,
+      "y": 58,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -188,6 +197,10 @@
     {
       "start": 0,
       "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
     }
   ],
   "selectedNode": 0

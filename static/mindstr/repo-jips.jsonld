@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#emecna",
+      "@id": "#nm5hts",
       "name": "List of JIPs",
       "x": -244,
       "y": -48,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#u8v9bw",
+      "@id": "#mesfa4",
       "name": "Process",
       "x": -6,
       "y": -212,
@@ -37,43 +37,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#j6zbf9",
+      "@id": "#ek2jcm",
       "name": "Proposing a JIP",
       "x": -341,
       "y": -311,
       "link": "https://github.com/JavaScriptSolidServer/jips#proposing-a-jip",
       "bgColor": "#efe6ff",
-      "parent": "#u8v9bw"
+      "parent": "#mesfa4"
     },
     {
-      "@id": "#2z3p7w",
+      "@id": "#uja84e",
       "name": "Statuses",
       "x": -212,
       "y": -468,
       "link": "https://github.com/JavaScriptSolidServer/jips#statuses",
       "bgColor": "#efe6ff",
-      "parent": "#u8v9bw"
+      "parent": "#mesfa4"
     },
     {
-      "@id": "#pvzwd8",
+      "@id": "#78sngm",
       "name": "What belongs in a JIP?",
       "x": 41,
       "y": -424,
       "link": "https://github.com/JavaScriptSolidServer/jips#what-belongs-in-a-jip",
       "bgColor": "#efe6ff",
-      "parent": "#u8v9bw"
+      "parent": "#mesfa4"
     },
     {
-      "@id": "#57iy7q",
+      "@id": "#58pkgm",
       "name": "What doesn't need a JIP?",
       "x": 343,
       "y": -408,
       "link": "https://github.com/JavaScriptSolidServer/jips#what-doesnt-need-a-jip",
       "bgColor": "#efe6ff",
-      "parent": "#u8v9bw"
+      "parent": "#mesfa4"
     },
     {
-      "@id": "#qprvms",
+      "@id": "#7jxpjz",
       "name": "Philosophy",
       "x": 241,
       "y": -57,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7fucmt",
+      "@id": "#qrspvr",
       "name": "History",
       "x": 246,
       "y": 38,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#t922yq",
+      "@id": "#wfbk2v",
       "name": "JIPs are proposals for improving the JavaScript Solid Server",
       "x": 103,
       "y": 209,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#26rfi6",
+      "@id": "#xetwaa",
       "name": "last commit 2025-12-27",
       "x": -146,
       "y": 165,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#u28rkq",
+      "@id": "#wtpnjp",
       "name": "← JavaScriptSolidServer",
       "x": -237,
       "y": 67,

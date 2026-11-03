@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "docs: unlabelled · 1",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/docs/issues?q=is:open",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#m7mgcv",
+      "name": "#31 mashlib url",
+      "x": 3,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/docs/issues/31",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gekznt",
+      "name": "← docs issues",
+      "x": -3,
+      "y": 212,
+      "link": "./issues-docs.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    }
+  ],
+  "selectedNode": 0
+}

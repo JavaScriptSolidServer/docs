@@ -19,91 +19,100 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#h7ym9k",
+      "@id": "#c8rxju",
       "name": "Try it",
-      "x": -241,
-      "y": -55,
+      "x": -243,
+      "y": -51,
       "link": "https://github.com/JavaScriptSolidServer/git#try-it",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ius84b",
+      "@id": "#jr3z4p",
       "name": "Features",
-      "x": -176,
-      "y": -151,
+      "x": -187,
+      "y": -141,
       "link": "https://github.com/JavaScriptSolidServer/git#features",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#583aqh",
+      "@id": "#hmnpnc",
       "name": "Architecture",
-      "x": -64,
-      "y": -205,
+      "x": -88,
+      "y": -199,
       "link": "https://github.com/JavaScriptSolidServer/git#architecture",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#sbf4ee",
+      "@id": "#tbf3y4",
       "name": "Stack",
-      "x": 66,
-      "y": -205,
+      "x": 31,
+      "y": -211,
       "link": "https://github.com/JavaScriptSolidServer/git#stack",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#t6q67m",
+      "@id": "#z9ubg8",
       "name": "Develop",
-      "x": 178,
-      "y": -149,
+      "x": 143,
+      "y": -175,
       "link": "https://github.com/JavaScriptSolidServer/git#develop",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#abq85r",
+      "@id": "#5h5cc9",
       "name": "CORS requirements",
-      "x": 244,
-      "y": -47,
+      "x": 225,
+      "y": -93,
       "link": "https://github.com/JavaScriptSolidServer/git#cors-requirements",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#sy2ncx",
+      "@id": "#2682x9",
       "name": "Roadmap",
-      "x": 236,
-      "y": 69,
+      "x": 250,
+      "y": 13,
       "link": "https://github.com/JavaScriptSolidServer/git#roadmap",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#fertai",
+      "@id": "#dgxw48",
+      "name": "Open issues · 1",
+      "x": 213,
+      "y": 111,
+      "link": "./issues-git.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3m2wcm",
       "name": "Web-based git browser for Solid pods",
-      "x": 131,
-      "y": 193,
+      "x": 68,
+      "y": 218,
       "link": "https://github.com/JavaScriptSolidServer/git",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#9u36xp",
+      "@id": "#4ad697",
       "name": "last commit 2026-05-08",
-      "x": -128,
-      "y": 190,
+      "x": -132,
+      "y": 174,
       "link": "https://github.com/JavaScriptSolidServer/git/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#5q2nc4",
+      "@id": "#z237xc",
       "name": "← JavaScriptSolidServer",
-      "x": -233,
-      "y": 77,
+      "x": -235,
+      "y": 71,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -149,6 +158,10 @@
     {
       "start": 0,
       "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
     }
   ],
   "selectedNode": 0

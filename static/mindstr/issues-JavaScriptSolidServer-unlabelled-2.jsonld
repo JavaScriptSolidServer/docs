@@ -1,0 +1,305 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "JavaScriptSolidServer: unlabelled, older 16",
+      "x": 0,
+      "y": 0,
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#437yyk",
+      "name": "Apr 2026 · 4",
+      "x": -176,
+      "y": -151,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3k2bu",
+      "name": "#338 Track healthcare and IRB-controlled…",
+      "x": -478,
+      "y": -123,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/338",
+      "bgColor": "#daeeff",
+      "parent": "#437yyk"
+    },
+    {
+      "@id": "#uhqx6j",
+      "name": "#332 Treat directories like Apache/nginx…",
+      "x": -476,
+      "y": -296,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/332",
+      "bgColor": "#daeeff",
+      "parent": "#437yyk"
+    },
+    {
+      "@id": "#aurbbn",
+      "name": "#328 --conneg what is ACL/META contentTy…",
+      "x": -284,
+      "y": -350,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/328",
+      "bgColor": "#daeeff",
+      "parent": "#437yyk"
+    },
+    {
+      "@id": "#fxz322",
+      "name": "#276 Default index.html for server root",
+      "x": -160,
+      "y": -483,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/276",
+      "bgColor": "#daeeff",
+      "parent": "#437yyk"
+    },
+    {
+      "@id": "#s77s87",
+      "name": "Mar 2026 · 2",
+      "x": 100,
+      "y": -195,
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k73rni",
+      "name": "#230 Auto-provision pod with profile ind…",
+      "x": 121,
+      "y": -387,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/230",
+      "bgColor": "#f2e5fd",
+      "parent": "#s77s87"
+    },
+    {
+      "@id": "#r8zm2z",
+      "name": "#217 refactor: reduce codebase size — la…",
+      "x": 324,
+      "y": -433,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/217",
+      "bgColor": "#f2e5fd",
+      "parent": "#s77s87"
+    },
+    {
+      "@id": "#wzv4c3",
+      "name": "Feb 2026 · 2",
+      "x": 224,
+      "y": -94,
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fnz2s",
+      "name": "#132 Federation interop: profile card sh…",
+      "x": 428,
+      "y": -219,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/132",
+      "bgColor": "#ffe2e6",
+      "parent": "#wzv4c3"
+    },
+    {
+      "@id": "#p89exh",
+      "name": "#124 use fatsify@5",
+      "x": 565,
+      "y": -143,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/124",
+      "bgColor": "#ffe2e6",
+      "parent": "#wzv4c3"
+    },
+    {
+      "@id": "#urtpxv",
+      "name": "Jan 2026 · 6",
+      "x": 135,
+      "y": 179,
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4dg5c4",
+      "name": "#100 Roadmap: Production Readiness for v…",
+      "x": 490,
+      "y": 83,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/100",
+      "bgColor": "#fbe8d3",
+      "parent": "#urtpxv"
+    },
+    {
+      "@id": "#kwm3he",
+      "name": "#83 Evaluate FedCM patterns for potenti…",
+      "x": 509,
+      "y": 253,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/83",
+      "bgColor": "#fbe8d3",
+      "parent": "#urtpxv"
+    },
+    {
+      "@id": "#qvd9cw",
+      "name": "#84 Evaluate Digital Credentials API fo…",
+      "x": 327,
+      "y": 321,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/84",
+      "bgColor": "#fbe8d3",
+      "parent": "#urtpxv"
+    },
+    {
+      "@id": "#sf37xb",
+      "name": "#85 Evaluate SD-JWT for selective discl…",
+      "x": 221,
+      "y": 467,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/85",
+      "bgColor": "#fbe8d3",
+      "parent": "#urtpxv"
+    },
+    {
+      "@id": "#fuhjpf",
+      "name": "#46 Vision: Solid Pod on Every Phone",
+      "x": 35,
+      "y": 423,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/46",
+      "bgColor": "#fbe8d3",
+      "parent": "#urtpxv"
+    },
+    {
+      "@id": "#dry8wx",
+      "name": "#32 Security: Default WAC mode changed…",
+      "x": -141,
+      "y": 487,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/32",
+      "bgColor": "#fbe8d3",
+      "parent": "#urtpxv"
+    },
+    {
+      "@id": "#rmckuv",
+      "name": "Dec 2025 · 2",
+      "x": -207,
+      "y": 120,
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cicry",
+      "name": "#12 Return mashlib HTML for 401/403 res…",
+      "x": -363,
+      "y": 292,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/12",
+      "bgColor": "#e3f0d8",
+      "parent": "#rmckuv"
+    },
+    {
+      "@id": "#7c28q6",
+      "name": "#20 Research: Cookie usage and session…",
+      "x": -536,
+      "y": 210,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/20",
+      "bgColor": "#e3f0d8",
+      "parent": "#rmckuv"
+    },
+    {
+      "@id": "#4qbh3e",
+      "name": "← unlabelled issues",
+      "x": -249,
+      "y": 66,
+      "link": "./issues-JavaScriptSolidServer-unlabelled.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 12,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    }
+  ],
+  "selectedNode": 0
+}

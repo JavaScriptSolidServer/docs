@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "nostr-git-sync: unlabelled · 1",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync/issues?q=is:open",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#2y862s",
+      "name": "#1 Future: Extend to general orchestra…",
+      "x": 85,
+      "y": -200,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync/issues/1",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8x5xg4",
+      "name": "← nostr-git-sync issues",
+      "x": -85,
+      "y": 200,
+      "link": "./issues-nostr-git-sync.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    }
+  ],
+  "selectedNode": 0
+}

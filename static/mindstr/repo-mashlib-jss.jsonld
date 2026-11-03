@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#xet7zf",
+      "@id": "#pnzi2z",
       "name": "What is this?",
       "x": -244,
       "y": -46,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wjzwqw",
+      "@id": "#2yz4j8",
       "name": "Key optimizations",
       "x": -195,
       "y": -133,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cpmgtf",
+      "@id": "#xgkrrw",
       "name": "Bundle composition",
       "x": -97,
       "y": -196,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#a85fzz",
+      "@id": "#2yqrnt",
       "name": "Usage",
       "x": 75,
       "y": -203,
@@ -55,25 +55,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#eitj67",
+      "@id": "#igep64",
       "name": "As a script tag",
       "x": 55,
       "y": -422,
       "link": "https://github.com/JavaScriptSolidServer/mashlib-jss#as-a-script-tag",
       "bgColor": "#ffe4d9",
-      "parent": "#a85fzz"
+      "parent": "#2yqrnt"
     },
     {
-      "@id": "#bpmjzd",
+      "@id": "#hgg764",
       "name": "Global variables",
       "x": 278,
       "y": -442,
       "link": "https://github.com/JavaScriptSolidServer/mashlib-jss#global-variables",
       "bgColor": "#ffe4d9",
-      "parent": "#a85fzz"
+      "parent": "#2yqrnt"
     },
     {
-      "@id": "#r8aetn",
+      "@id": "#pqcgpp",
       "name": "Development",
       "x": 207,
       "y": -119,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#j3rh5f",
+      "@id": "#jhj67c",
       "name": "Test pages",
       "x": 247,
       "y": -34,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mhgzj7",
+      "@id": "#mr58qm",
       "name": "Related packages",
       "x": 240,
       "y": 60,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#67qhwk",
+      "@id": "#hawxjn",
       "name": "Optimized Solid data browser library using JSS packages (1.4",
       "x": 85,
       "y": 208,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#s9du6c",
+      "@id": "#y6wpy5",
       "name": "last commit 2026-01-18",
       "x": -153,
       "y": 164,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#tjeu4p",
+      "@id": "#4q7gbw",
       "name": "← JavaScriptSolidServer",
       "x": -238,
       "y": 64,

@@ -1,0 +1,385 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "JavaScriptSolidServer: bug · 23",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues?q=is:open+label:bug",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ucttef",
+      "name": "Jul 2026 · 4",
+      "x": -215,
+      "y": -108,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vzipyd",
+      "name": "#597 Plugin loader: dotted prefixes (/.f…",
+      "x": -490,
+      "y": -83,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/597",
+      "bgColor": "#daeeff",
+      "parent": "#ucttef"
+    },
+    {
+      "@id": "#miy6ts",
+      "name": "#598 logger: false silently disables eve…",
+      "x": -539,
+      "y": -205,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/598",
+      "bgColor": "#daeeff",
+      "parent": "#ucttef"
+    },
+    {
+      "@id": "#ft3k8u",
+      "name": "#599 Plugin loader: activate() failure w…",
+      "x": -400,
+      "y": -255,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/599",
+      "bgColor": "#daeeff",
+      "parent": "#ucttef"
+    },
+    {
+      "@id": "#it6792",
+      "name": "#600 LDP write path: If-Match conditiona…",
+      "x": -382,
+      "y": -332,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/600",
+      "bgColor": "#daeeff",
+      "parent": "#ucttef"
+    },
+    {
+      "@id": "#dnz3gb",
+      "name": "Jun 2026 · 7",
+      "x": 125,
+      "y": -241,
+      "bgColor": "#e9c1ef",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ifse5",
+      "name": "#381 ssrf: validateExternalUrl fails ope…",
+      "x": -123,
+      "y": -378,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/381",
+      "bgColor": "#f7e4f9",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#ju3xzh",
+      "name": "#523 OIDC IdP 500s on Node <20: @koa/rou…",
+      "x": -15,
+      "y": -511,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/523",
+      "bgColor": "#f7e4f9",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#p46jmx",
+      "name": "#526 IdP errors with SessionNotFound on…",
+      "x": 97,
+      "y": -423,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/526",
+      "bgColor": "#f7e4f9",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#bu7kuh",
+      "name": "#70 WebID-TLS: Fix Accept header and JS…",
+      "x": 238,
+      "y": -467,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/70",
+      "bgColor": "#f7e4f9",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#2iffkx",
+      "name": "#327 Conneg .acl rendered without content",
+      "x": 297,
+      "y": -362,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/327",
+      "bgColor": "#f7e4f9",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#ssgz3q",
+      "name": "#389 rdf/turtle: JSON-LD @context array…",
+      "x": 446,
+      "y": -318,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/389",
+      "bgColor": "#f7e4f9",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#gksydt",
+      "name": "#390 rdf/turtle: emit @type:'@json' lite…",
+      "x": 440,
+      "y": -201,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/390",
+      "bgColor": "#f7e4f9",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#8su7v6",
+      "name": "May 2026 · 1–6 of 12",
+      "x": 212,
+      "y": 112,
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2da7xj",
+      "name": "#521 TOKEN_SECRET default path uses os.h…",
+      "x": 500,
+      "y": 2,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/521",
+      "bgColor": "#ffe3dc",
+      "parent": "#8su7v6"
+    },
+    {
+      "@id": "#9e878e",
+      "name": "#317 Container-via-index.html: If-None-M…",
+      "x": 575,
+      "y": 113,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/317",
+      "bgColor": "#ffe3dc",
+      "parent": "#8su7v6"
+    },
+    {
+      "@id": "#cp2str",
+      "name": "#318 Container listing ETag stale: direc…",
+      "x": 450,
+      "y": 185,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/318",
+      "bgColor": "#ffe3dc",
+      "parent": "#8su7v6"
+    },
+    {
+      "@id": "#swzzzt",
+      "name": "#359 Container ETags computed from unfil…",
+      "x": 461,
+      "y": 297,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/359",
+      "bgColor": "#ffe3dc",
+      "parent": "#8su7v6"
+    },
+    {
+      "@id": "#pj9sd5",
+      "name": "#16 Profile documents stored as HTML ca…",
+      "x": 313,
+      "y": 341,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/16",
+      "bgColor": "#ffe3dc",
+      "parent": "#8su7v6"
+    },
+    {
+      "@id": "#9incsq",
+      "name": "#33 Login 'Allow Access' button doesn't…",
+      "x": 261,
+      "y": 464,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/33",
+      "bgColor": "#ffe3dc",
+      "parent": "#8su7v6"
+    },
+    {
+      "@id": "#gwp9qx",
+      "name": "May 2026 · 7–12 of 12",
+      "x": -136,
+      "y": 179,
+      "bgColor": "#d7d59b",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7csjb6",
+      "name": "#105 Security: Update @fastify/middie to…",
+      "x": -9,
+      "y": 420,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/105",
+      "bgColor": "#eeedd3",
+      "parent": "#gwp9qx"
+    },
+    {
+      "@id": "#cyfvb8",
+      "name": "#311 calculateDirSize: quota temp-file p…",
+      "x": -141,
+      "y": 487,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/311",
+      "bgColor": "#eeedd3",
+      "parent": "#gwp9qx"
+    },
+    {
+      "@id": "#ngjuhg",
+      "name": "#334 PATCH Append fails with 403 on inse…",
+      "x": -224,
+      "y": 355,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/334",
+      "bgColor": "#eeedd3",
+      "parent": "#gwp9qx"
+    },
+    {
+      "@id": "#ad25k5",
+      "name": "#336 mashlib 2.2.0 is not rendered corre…",
+      "x": -374,
+      "y": 401,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/336",
+      "bgColor": "#eeedd3",
+      "parent": "#gwp9qx"
+    },
+    {
+      "@id": "#6zhwac",
+      "name": "#356 Rate-limit keyGenerator uses reques…",
+      "x": -395,
+      "y": 261,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/356",
+      "bgColor": "#eeedd3",
+      "parent": "#gwp9qx"
+    },
+    {
+      "@id": "#sigj2h",
+      "name": "#380 cors-proxy: enforce timeout during…",
+      "x": -534,
+      "y": 213,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/380",
+      "bgColor": "#eeedd3",
+      "parent": "#gwp9qx"
+    },
+    {
+      "@id": "#2gvkzt",
+      "name": "← JavaScriptSolidServer issues",
+      "x": -329,
+      "y": 22,
+      "link": "./issues-JavaScriptSolidServer.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 6,
+      "end": 12
+    },
+    {
+      "start": 6,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 14,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 21,
+      "end": 26
+    },
+    {
+      "start": 21,
+      "end": 27
+    },
+    {
+      "start": 0,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

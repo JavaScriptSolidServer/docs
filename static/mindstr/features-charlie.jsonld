@@ -22,7 +22,7 @@
       "@id": "#cyd9xx",
       "name": "What Charlie is",
       "x": -244,
-      "y": -47,
+      "y": -65,
       "link": "https://jss.live/docs/features/charlie#what-charlie-is",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -57,7 +57,7 @@
     {
       "@id": "#hgctui",
       "name": "Why this matters",
-      "x": 250,
+      "x": 320,
       "y": -12,
       "link": "https://jss.live/docs/features/charlie#why-this-matters",
       "bgColor": "#fcc2a9",
@@ -121,7 +121,7 @@
       "@id": "#y2vgqr",
       "name": "← Features",
       "x": -244,
-      "y": 46,
+      "y": 66,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

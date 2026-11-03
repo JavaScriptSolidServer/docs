@@ -1,0 +1,154 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "sso: unlabelled · 8",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues?q=is:open",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#ee3shg",
+      "name": "May 2026 · 8",
+      "x": 306,
+      "y": -45,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmz6un",
+      "name": "#1 0.0.1 — one-button SSO end-to-end a…",
+      "x": -351,
+      "y": -302,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/1",
+      "bgColor": "#daeeff",
+      "parent": "#ee3shg"
+    },
+    {
+      "@id": "#8dsc8w",
+      "name": "#2 0.0.2 — step-by-step coaching UI (c…",
+      "x": -86,
+      "y": -496,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/2",
+      "bgColor": "#daeeff",
+      "parent": "#ee3shg"
+    },
+    {
+      "@id": "#esbs6z",
+      "name": "#3 0.0.3 — multi-resolver fallback",
+      "x": 218,
+      "y": -382,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/3",
+      "bgColor": "#daeeff",
+      "parent": "#ee3shg"
+    },
+    {
+      "@id": "#suwi6b",
+      "name": "#4 0.0.5 — remember the user's success…",
+      "x": 511,
+      "y": -250,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/4",
+      "bgColor": "#daeeff",
+      "parent": "#ee3shg"
+    },
+    {
+      "@id": "#94tsvd",
+      "name": "#5 0.0.6 — authenticated session (NIP-…",
+      "x": 497,
+      "y": 47,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/5",
+      "bgColor": "#daeeff",
+      "parent": "#ee3shg"
+    },
+    {
+      "@id": "#ggsydb",
+      "name": "#6 0.0.4 — direct Nostr-relay resoluti…",
+      "x": 434,
+      "y": 340,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/6",
+      "bgColor": "#daeeff",
+      "parent": "#ee3shg"
+    },
+    {
+      "@id": "#yhtpzc",
+      "name": "#7 Multi-user support: switch identiti…",
+      "x": 96,
+      "y": 417,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/7",
+      "bgColor": "#daeeff",
+      "parent": "#ee3shg"
+    },
+    {
+      "@id": "#f7kevu",
+      "name": "#8 Cross-origin SSO→pod handoff (phase…",
+      "x": -251,
+      "y": 454,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/8",
+      "bgColor": "#daeeff",
+      "parent": "#ee3shg"
+    },
+    {
+      "@id": "#vtafiv",
+      "name": "← sso issues",
+      "x": -246,
+      "y": 36,
+      "link": "./issues-sso.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 1,
+      "end": 8
+    },
+    {
+      "start": 1,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

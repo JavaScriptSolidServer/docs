@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "jspod: unlabelled · 6",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/jspod/issues?q=is:open",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#7cw6cg",
+      "name": "#79 Document the NIP-98 agent-write pat…",
+      "x": -220,
+      "y": -100,
+      "link": "https://github.com/JavaScriptSolidServer/jspod/issues/79",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a54nev",
+      "name": "#65 Onboarding sign-in crashes on old W…",
+      "x": -24,
+      "y": -211,
+      "link": "https://github.com/JavaScriptSolidServer/jspod/issues/65",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhb5iq",
+      "name": "#77 Upstreaming audit: the path to 'a n…",
+      "x": 193,
+      "y": -135,
+      "link": "https://github.com/JavaScriptSolidServer/jspod/issues/77",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nvqaxu",
+      "name": "#1 Friction removal: make first-run ze…",
+      "x": 240,
+      "y": 64,
+      "link": "https://github.com/JavaScriptSolidServer/jspod/issues/1",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9n2fi8",
+      "name": "#6 Positioning: jspod is an authentica…",
+      "x": 80,
+      "y": 210,
+      "link": "https://github.com/JavaScriptSolidServer/jspod/issues/6",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#27czbt",
+      "name": "#24 Generalize \"installing apps\" into a…",
+      "x": -151,
+      "y": 166,
+      "link": "https://github.com/JavaScriptSolidServer/jspod/issues/24",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eqxhbv",
+      "name": "← jspod issues",
+      "x": -244,
+      "y": 46,
+      "link": "./issues-jspod.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

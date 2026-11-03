@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "git: 1 open issues",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/git/issues",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#pu9sy8",
+      "name": "unlabelled · 1",
+      "x": 0,
+      "y": -212,
+      "link": "./issues-git-unlabelled.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ppwsy",
+      "name": "← git",
+      "x": 0,
+      "y": 213,
+      "link": "./repo-git.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    }
+  ],
+  "selectedNode": 0
+}

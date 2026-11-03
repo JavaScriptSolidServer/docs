@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#94asrn",
+      "@id": "#cmc5g4",
       "name": "Quick Start",
       "x": -237,
       "y": -67,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#kgrwxb",
+      "@id": "#h64kxg",
       "name": "Install Globally",
       "x": -140,
       "y": -176,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#aj9t28",
+      "@id": "#3mw9e8",
       "name": "Development",
       "x": 16,
       "y": -212,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#vx7khw",
+      "@id": "#3yvsbg",
       "name": "Configure",
       "x": 161,
       "y": -162,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#34dvu3",
+      "@id": "#ijvikk",
       "name": "A minimal Solid browser app - JSS + mashlib in Electron",
       "x": 229,
       "y": 84,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#v52rfv",
+      "@id": "#4dijv5",
       "name": "last commit 2026-01-28",
       "x": -58,
       "y": 207,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#gitnhm",
+      "@id": "#ievj7v",
       "name": "← JavaScriptSolidServer",
       "x": -225,
       "y": 93,

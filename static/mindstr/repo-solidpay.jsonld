@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#hawxjn",
+      "@id": "#nkrjkg",
       "name": "Quickstart",
       "x": -238,
       "y": -65,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#y6wpy5",
+      "@id": "#b7k6ur",
       "name": "How it works",
       "x": -148,
       "y": -171,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4q7gbw",
+      "@id": "#bcmvix",
       "name": "Repo",
       "x": -2,
       "y": -212,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#98geuv",
+      "@id": "#ffcp4d",
       "name": "Lineage",
       "x": 145,
       "y": -173,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#x5dcei",
+      "@id": "#g8z5p2",
       "name": "SolidPay — Ryan Fugger's original Ripple with Solid ideas: e",
       "x": 232,
       "y": 79,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#uchvmk",
+      "@id": "#xqipyb",
       "name": "last commit 2026-07-29",
       "x": -64,
       "y": 205,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#72kqt7",
+      "@id": "#aa3kv2",
       "name": "← JavaScriptSolidServer",
       "x": -226,
       "y": 91,

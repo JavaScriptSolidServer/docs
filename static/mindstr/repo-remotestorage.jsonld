@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#iq664j",
+      "@id": "#vy3tsq",
       "name": "Apps",
       "x": -105,
       "y": -193,
@@ -28,43 +28,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#gz4cvb",
+      "@id": "#pibigc",
       "name": "notes/",
       "x": -456,
       "y": -174,
       "link": "https://github.com/JavaScriptSolidServer/remotestorage#notes",
       "bgColor": "#daeeff",
-      "parent": "#iq664j"
+      "parent": "#vy3tsq"
     },
     {
-      "@id": "#itdh4e",
+      "@id": "#gh56tu",
       "name": "bookmarks/",
       "x": -367,
       "y": -392,
       "link": "https://github.com/JavaScriptSolidServer/remotestorage#bookmarks",
       "bgColor": "#daeeff",
-      "parent": "#iq664j"
+      "parent": "#vy3tsq"
     },
     {
-      "@id": "#wymkpw",
+      "@id": "#8vbc5u",
       "name": "grouptabs/",
       "x": -97,
       "y": -417,
       "link": "https://github.com/JavaScriptSolidServer/remotestorage#grouptabs",
       "bgColor": "#daeeff",
-      "parent": "#iq664j"
+      "parent": "#vy3tsq"
     },
     {
-      "@id": "#qhm56x",
+      "@id": "#qtqg2a",
       "name": "editor/",
       "x": 165,
       "y": -482,
       "link": "https://github.com/JavaScriptSolidServer/remotestorage#editor",
       "bgColor": "#daeeff",
-      "parent": "#iq664j"
+      "parent": "#vy3tsq"
     },
     {
-      "@id": "#gyahr4",
+      "@id": "#5xddae",
       "name": "Usage",
       "x": 209,
       "y": -117,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#wt6f72",
+      "@id": "#g56v86",
       "name": "Simple apps that sync via the remoteStorage protocol. Works ",
       "x": 202,
       "y": 125,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#zy9np2",
+      "@id": "#7ptw38",
       "name": "last commit 2026-03-10",
       "x": -92,
       "y": 198,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#3jk3i5",
+      "@id": "#hkakqp",
       "name": "← JavaScriptSolidServer",
       "x": -230,
       "y": 83,

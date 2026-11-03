@@ -58,7 +58,7 @@
       "@id": "#wkrebf",
       "name": "Browser flow with a NIP-07 signer",
       "x": 241,
-      "y": -58,
+      "y": -65,
       "link": "https://jss.live/docs/features/e2ee#browser-flow-with-a-nip-07-signer",
       "bgColor": "#e0d199",
       "parent": "#this"

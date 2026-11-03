@@ -19,64 +19,73 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#hzes4u",
+      "@id": "#ixkv7h",
       "name": "Quick Start",
-      "x": -238,
-      "y": -65,
+      "x": -240,
+      "y": -59,
       "link": "https://github.com/JavaScriptSolidServer/solid-desktop#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#mciseu",
+      "@id": "#yq8nzx",
       "name": "Install Globally",
-      "x": -145,
-      "y": -173,
+      "x": -162,
+      "y": -162,
       "link": "https://github.com/JavaScriptSolidServer/solid-desktop#install-globally",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#dm48gj",
+      "@id": "#rh653j",
       "name": "Development",
-      "x": 6,
-      "y": -212,
+      "x": -30,
+      "y": -211,
       "link": "https://github.com/JavaScriptSolidServer/solid-desktop#development",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#k6cm7k",
+      "@id": "#9h4kpt",
       "name": "Configure",
-      "x": 150,
-      "y": -170,
+      "x": 107,
+      "y": -192,
       "link": "https://github.com/JavaScriptSolidServer/solid-desktop#configure",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#djkutb",
+      "@id": "#7vtshd",
+      "name": "Open issues · 1",
+      "x": 212,
+      "y": -113,
+      "link": "./issues-solid-desktop.jsonld",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zp376s",
       "name": "A minimal Solid desktop app - a thin Electron shell over jsp",
-      "x": 230,
-      "y": 82,
+      "x": 199,
+      "y": 128,
       "link": "https://github.com/JavaScriptSolidServer/solid-desktop",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#pu9sy8",
+      "@id": "#fttzmy",
       "name": "last commit 2026-05-23",
-      "x": -66,
-      "y": 205,
+      "x": -94,
+      "y": 197,
       "link": "https://github.com/JavaScriptSolidServer/solid-desktop/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#7ppwsy",
+      "@id": "#xdbbqx",
       "name": "← JavaScriptSolidServer",
-      "x": -226,
-      "y": 90,
+      "x": -230,
+      "y": 83,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -110,6 +119,10 @@
     {
       "start": 0,
       "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
     }
   ],
   "selectedNode": 0

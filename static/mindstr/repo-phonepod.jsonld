@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ta2q85",
+      "@id": "#xftmry",
       "name": "Features",
       "x": -244,
       "y": -47,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#f6qx4w",
+      "@id": "#yykvgk",
       "name": "Quick Install",
       "x": -196,
       "y": -132,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#su9mmy",
+      "@id": "#iuspsm",
       "name": "Usage",
       "x": -133,
       "y": -191,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#puabcz",
+      "@id": "#ncvdiq",
       "name": "Public Access",
       "x": -24,
       "y": -212,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#pggewd",
+      "@id": "#95c6bh",
       "name": "Boot Persistence",
       "x": 126,
       "y": -192,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7cv7qa",
+      "@id": "#jdqw4m",
       "name": "Endpoints",
       "x": 197,
       "y": -131,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4evz5w",
+      "@id": "#ci6a2d",
       "name": "Configuration",
       "x": 244,
       "y": -46,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#vh32g5",
+      "@id": "#e9ev2h",
       "name": "Requirements",
       "x": 244,
       "y": 48,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#6ktxue",
+      "@id": "#qg3m9n",
       "name": "Solid pod on your phone - one command install for Android/Te",
       "x": 96,
       "y": 209,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#qrakrq",
+      "@id": "#hd3dbi",
       "name": "last commit 2026-01-05",
       "x": -149,
       "y": 164,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ppuaac",
+      "@id": "#pkx9gj",
       "name": "← JavaScriptSolidServer",
       "x": -238,
       "y": 66,

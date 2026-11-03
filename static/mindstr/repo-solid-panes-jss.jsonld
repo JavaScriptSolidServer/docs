@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#drrwuk",
+      "@id": "#usfxdj",
       "name": "Goals",
       "x": -240,
       "y": -58,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#nsm2yi",
+      "@id": "#n5vva4",
       "name": "Documentation",
       "x": -168,
       "y": -157,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#2xe78q",
+      "@id": "#wqsd8m",
       "name": "Development",
       "x": -48,
       "y": -209,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#jgw4tz",
+      "@id": "#gnqrvb",
       "name": "Eg. some RDF CLasses",
       "x": 110,
       "y": -192,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#bekswu",
+      "@id": "#dp9pk4",
       "name": "Credits",
       "x": 220,
       "y": -101,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#pxrawa",
+      "@id": "#ax49iv",
       "name": "Solid-compatible Panes (JSS variant with minimal solid-oidc ",
       "x": 193,
       "y": 135,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#gsrdqa",
+      "@id": "#vw9ms9",
       "name": "last commit 2026-01-18",
       "x": -98,
       "y": 195,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ttvgv4",
+      "@id": "#j3bkxt",
       "name": "← JavaScriptSolidServer",
       "x": -231,
       "y": 81,

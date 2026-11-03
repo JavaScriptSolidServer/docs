@@ -30,7 +30,7 @@
     {
       "@id": "#hrvxpy",
       "name": "When to enable content negotiation",
-      "x": 250,
+      "x": 253,
       "y": -3,
       "link": "https://jss.live/docs/core-concepts/json-ld-first#when-to-enable-content-negotiation",
       "bgColor": "#febdc6",

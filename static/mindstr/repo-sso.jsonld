@@ -19,100 +19,109 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#vbasu4",
+      "@id": "#wunehi",
       "name": "What it is",
-      "x": -244,
-      "y": -46,
+      "x": -245,
+      "y": -43,
       "link": "https://github.com/JavaScriptSolidServer/sso#what-it-is",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#8gars2",
+      "@id": "#zr8yui",
       "name": "What it does",
-      "x": -198,
-      "y": -130,
+      "x": -204,
+      "y": -123,
       "link": "https://github.com/JavaScriptSolidServer/sso#what-it-does",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#ttudn3",
+      "@id": "#dvsh9t",
       "name": "Run it locally",
-      "x": -150,
-      "y": -189,
+      "x": -130,
+      "y": -171,
       "link": "https://github.com/JavaScriptSolidServer/sso#run-it-locally",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#nm9jmm",
+      "@id": "#jq2vs3",
       "name": "Configuration",
-      "x": -8,
-      "y": -212,
+      "x": -46,
+      "y": -217,
       "link": "https://github.com/JavaScriptSolidServer/sso#configuration",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#fcu6nk",
+      "@id": "#auzx23",
       "name": "Hosting",
-      "x": 108,
-      "y": -195,
+      "x": 69,
+      "y": -205,
       "link": "https://github.com/JavaScriptSolidServer/sso#hosting",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#im3caa",
+      "@id": "#u57q53",
       "name": "Status",
-      "x": 187,
-      "y": -141,
+      "x": 160,
+      "y": -165,
       "link": "https://github.com/JavaScriptSolidServer/sso#status",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#up5tww",
+      "@id": "#fjdbrf",
       "name": "Roadmap",
-      "x": 240,
-      "y": -61,
+      "x": 222,
+      "y": -98,
       "link": "https://github.com/JavaScriptSolidServer/sso#roadmap",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#w7nqyt",
+      "@id": "#ug2k68",
       "name": "Why a separate repo?",
-      "x": 245,
-      "y": 44,
+      "x": 250,
+      "y": -3,
       "link": "https://github.com/JavaScriptSolidServer/sso#why-a-separate-repo",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#csuere",
+      "@id": "#qtfx3g",
+      "name": "Open issues · 8",
+      "x": 225,
+      "y": 93,
+      "link": "./issues-sso.jsonld",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pycadp",
       "name": "Universal one-click sign-in for Solid pods. One screen, one ",
-      "x": 90,
-      "y": 209,
+      "x": 59,
+      "y": 206,
       "link": "https://github.com/JavaScriptSolidServer/sso",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#vb2ctp",
+      "@id": "#2b2cdb",
       "name": "last commit 2026-07-09",
-      "x": -151,
-      "y": 163,
+      "x": -163,
+      "y": 161,
       "link": "https://github.com/JavaScriptSolidServer/sso/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#gfdcab",
+      "@id": "#5qr52t",
       "name": "← JavaScriptSolidServer",
-      "x": -238,
-      "y": 65,
+      "x": -240,
+      "y": 61,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -162,6 +171,10 @@
     {
       "start": 0,
       "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
     }
   ],
   "selectedNode": 0

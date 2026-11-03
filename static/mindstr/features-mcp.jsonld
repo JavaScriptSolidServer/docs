@@ -21,7 +21,7 @@
     {
       "@id": "#vxinpu",
       "name": "Why this matters",
-      "x": -247,
+      "x": -256,
       "y": -32,
       "link": "https://jss.live/docs/features/mcp#why-this-matters",
       "bgColor": "#acd5ff",
@@ -129,7 +129,7 @@
     {
       "@id": "#f356md",
       "name": "Wiring up Claude Desktop",
-      "x": 250,
+      "x": 285,
       "y": -3,
       "link": "https://jss.live/docs/features/mcp#wiring-up-claude-desktop",
       "bgColor": "#e0d199",

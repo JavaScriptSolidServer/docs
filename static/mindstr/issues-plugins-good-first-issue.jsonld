@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "plugins: good first issue · 1",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/issues?q=is:open+label:good%20first%20issue",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#x4i3m8",
+      "name": "#9 Plugin idea: feed-ingest — subscrib…",
+      "x": 131,
+      "y": -181,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/issues/9",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2dm2gz",
+      "name": "← plugins issues",
+      "x": -131,
+      "y": 181,
+      "link": "./issues-plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    }
+  ],
+  "selectedNode": 0
+}

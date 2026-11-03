@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "JavaScriptSolidServer: enhancement · 35",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues?q=is:open+label:enhancement",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#m3xps2",
+      "name": "newest 25",
+      "x": -183,
+      "y": -145,
+      "link": "./issues-JavaScriptSolidServer-enhancement-1.jsonld",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yxjf84",
+      "name": "older 10, to 2026-05-12",
+      "x": 210,
+      "y": -116,
+      "link": "./issues-JavaScriptSolidServer-enhancement-2.jsonld",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrv4db",
+      "name": "← JavaScriptSolidServer issues",
+      "x": -60,
+      "y": 206,
+      "link": "./issues-JavaScriptSolidServer.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    }
+  ],
+  "selectedNode": 0
+}

@@ -19,64 +19,73 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#j8deiz",
+      "@id": "#kwrapz",
       "name": "Schema",
-      "x": -238,
-      "y": -65,
+      "x": -240,
+      "y": -60,
       "link": "https://github.com/JavaScriptSolidServer/beacon#schema-matches-the-live-nostr-beacon",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#aya9s9",
+      "@id": "#n3epze",
       "name": "Run",
-      "x": -148,
-      "y": -171,
+      "x": -165,
+      "y": -160,
       "link": "https://github.com/JavaScriptSolidServer/beacon#run",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#vn2imx",
+      "@id": "#42eis4",
       "name": "Read API",
-      "x": -2,
-      "y": -212,
+      "x": -38,
+      "y": -210,
       "link": "https://github.com/JavaScriptSolidServer/beacon#read-api",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#2tznvh",
+      "@id": "#f65d8e",
       "name": "Status",
-      "x": 145,
-      "y": -173,
+      "x": 101,
+      "y": -194,
       "link": "https://github.com/JavaScriptSolidServer/beacon#status",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#cnh2fk",
+      "@id": "#ncsetq",
+      "name": "Open issues · 4",
+      "x": 209,
+      "y": -117,
+      "link": "./issues-beacon.jsonld",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9nzdc",
       "name": "did:nostr social-graph indexer (profiles + follows + relay l",
-      "x": 232,
-      "y": 79,
+      "x": 201,
+      "y": 126,
       "link": "https://github.com/JavaScriptSolidServer/beacon",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#dk76uz",
+      "@id": "#k8wdpx",
       "name": "last commit 2026-07-26",
-      "x": -64,
-      "y": 205,
+      "x": -92,
+      "y": 197,
       "link": "https://github.com/JavaScriptSolidServer/beacon/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#5aggpq",
+      "@id": "#a9fnph",
       "name": "← JavaScriptSolidServer",
-      "x": -226,
-      "y": 91,
+      "x": -230,
+      "y": 83,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -110,6 +119,10 @@
     {
       "start": 0,
       "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
     }
   ],
   "selectedNode": 0

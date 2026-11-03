@@ -19,136 +19,145 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#bwj4g5",
+      "@id": "#a22mzd",
       "name": "Overview",
       "x": -246,
-      "y": -37,
+      "y": -35,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#overview",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#9fjvd8",
+      "@id": "#duad9x",
       "name": "Key Features",
-      "x": -216,
-      "y": -108,
+      "x": -219,
+      "y": -102,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#key-features",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#6fwnzy",
+      "@id": "#m37qt3",
       "name": "Install",
-      "x": -158,
-      "y": -165,
+      "x": -167,
+      "y": -158,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#install",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#rtnzsk",
+      "@id": "#k5nh46",
       "name": "Usage",
-      "x": -38,
-      "y": -210,
+      "x": -57,
+      "y": -207,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#usage",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#v8phzs",
+      "@id": "#rqeata",
       "name": "Subscriber",
-      "x": -149,
-      "y": -406,
+      "x": -181,
+      "y": -396,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#subscriber-daemon",
       "bgColor": "#ffe4d9",
-      "parent": "#rtnzsk"
+      "parent": "#k5nh46"
     },
     {
-      "@id": "#izxsmt",
+      "@id": "#hk4piu",
       "name": "Publisher",
-      "x": -3,
-      "y": -501,
+      "x": -53,
+      "y": -499,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#publisher-after-git-push",
       "bgColor": "#ffe4d9",
-      "parent": "#rtnzsk"
+      "parent": "#k5nh46"
     },
     {
-      "@id": "#er3xwg",
+      "@id": "#k8arpb",
       "name": "Configuration",
-      "x": 92,
-      "y": -198,
+      "x": 67,
+      "y": -205,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#configuration",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#3p4wn2",
+      "@id": "#jqh9fh",
       "name": "NIP-34 Event Structure",
-      "x": 234,
-      "y": -75,
+      "x": 218,
+      "y": -104,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#nip-34-event-structure",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#f356md",
+      "@id": "#t4du3j",
       "name": "Kind 30617: Repository Announcement",
-      "x": 409,
-      "y": -244,
+      "x": 366,
+      "y": -289,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#kind-30617-repository-announcement-simple",
       "bgColor": "#ddf2de",
-      "parent": "#3p4wn2"
+      "parent": "#jqh9fh"
     },
     {
-      "@id": "#c9pfmk",
+      "@id": "#dxtxsr",
       "name": "Kind 30618: Repository State",
-      "x": 589,
-      "y": -32,
+      "x": 574,
+      "y": -114,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#kind-30618-repository-state-detailed",
       "bgColor": "#ddf2de",
-      "parent": "#3p4wn2"
+      "parent": "#jqh9fh"
     },
     {
-      "@id": "#metvfr",
+      "@id": "#nmjv76",
       "name": "Identity Model",
-      "x": 223,
-      "y": 96,
+      "x": 241,
+      "y": 57,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#identity-model",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#rnyi3y",
+      "@id": "#mjdvee",
       "name": "Roadmap",
-      "x": 170,
-      "y": 155,
+      "x": 205,
+      "y": 121,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync#roadmap",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ph8a5e",
+      "@id": "#d6tkb9",
+      "name": "Open issues · 1",
+      "x": 147,
+      "y": 169,
+      "link": "./issues-nostr-git-sync.jsonld",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tefhrg",
       "name": "Decentralized git sync daemon using Nostr (NIP-34) with opti",
-      "x": -1,
-      "y": 212,
+      "x": -23,
+      "y": 213,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#uncmtp",
+      "@id": "#qmxg97",
       "name": "last commit 2026-02-01",
-      "x": -184,
-      "y": 144,
+      "x": -191,
+      "y": 137,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#3vjzm2",
+      "@id": "#g4d8c6",
       "name": "← JavaScriptSolidServer",
-      "x": -242,
-      "y": 53,
+      "x": -243,
+      "y": 50,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -214,6 +223,10 @@
     {
       "start": 0,
       "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
     }
   ],
   "selectedNode": 0

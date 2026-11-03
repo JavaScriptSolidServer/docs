@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "podkey: unlabelled · 6",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/podkey/issues?q=is:open",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#qy3bub",
+      "name": "#4 Per-site disable should fully stop…",
+      "x": -222,
+      "y": -98,
+      "link": "https://github.com/JavaScriptSolidServer/podkey/issues/4",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p3akty",
+      "name": "#5 Don't overwrite existing Authorizat…",
+      "x": -32,
+      "y": -211,
+      "link": "https://github.com/JavaScriptSolidServer/podkey/issues/5",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vvkdar",
+      "name": "#7 Bundle shared helpers into injected…",
+      "x": 187,
+      "y": -141,
+      "link": "https://github.com/JavaScriptSolidServer/podkey/issues/7",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#853ejw",
+      "name": "#8 Cross-realm detection of Headers/Re…",
+      "x": 242,
+      "y": 65,
+      "link": "https://github.com/JavaScriptSolidServer/podkey/issues/8",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dug4dv",
+      "name": "#9 401 retry fails for fetch(new Reque…",
+      "x": 84,
+      "y": 211,
+      "link": "https://github.com/JavaScriptSolidServer/podkey/issues/9",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6debha",
+      "name": "#3 Markdown Editor Injection for Solid…",
+      "x": -148,
+      "y": 165,
+      "link": "https://github.com/JavaScriptSolidServer/podkey/issues/3",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yhmzsm",
+      "name": "← podkey issues",
+      "x": -244,
+      "y": 47,
+      "link": "./issues-podkey.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

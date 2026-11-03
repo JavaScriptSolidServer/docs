@@ -36,7 +36,7 @@
     {
       "@id": "#zvvi4r",
       "name": "--cors-proxy-timeout-ms <ms>",
-      "x": 250,
+      "x": 280,
       "y": -8,
       "bgColor": "#fec0b1",
       "parent": "#this"

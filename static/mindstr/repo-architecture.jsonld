@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#rfby2g",
+      "@id": "#f6qx4w",
       "name": "Key Objectives",
       "x": -241,
       "y": -57,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#arxjt8",
+      "@id": "#su9mmy",
       "name": "Overview",
       "x": 47,
       "y": -209,
@@ -37,43 +37,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#jtyjdw",
+      "@id": "#puabcz",
       "name": "Components",
       "x": -282,
       "y": -351,
       "link": "https://github.com/JavaScriptSolidServer/architecture#components",
       "bgColor": "#f7e4f9",
-      "parent": "#arxjt8"
+      "parent": "#su9mmy"
     },
     {
-      "@id": "#dtqx4z",
+      "@id": "#pggewd",
       "name": "Deployment Model",
       "x": -73,
       "y": -498,
       "link": "https://github.com/JavaScriptSolidServer/architecture#deployment-model",
       "bgColor": "#f7e4f9",
-      "parent": "#arxjt8"
+      "parent": "#su9mmy"
     },
     {
-      "@id": "#u2s2vv",
+      "@id": "#7cv7qa",
       "name": "Separation of Concerns",
       "x": 210,
       "y": -386,
       "link": "https://github.com/JavaScriptSolidServer/architecture#separation-of-concerns",
       "bgColor": "#f7e4f9",
-      "parent": "#arxjt8"
+      "parent": "#su9mmy"
     },
     {
-      "@id": "#vx2z65",
+      "@id": "#4evz5w",
       "name": "Compatibility",
       "x": 489,
       "y": -280,
       "link": "https://github.com/JavaScriptSolidServer/architecture#compatibility",
       "bgColor": "#f7e4f9",
-      "parent": "#arxjt8"
+      "parent": "#su9mmy"
     },
     {
-      "@id": "#xwei9g",
+      "@id": "#vh32g5",
       "name": "The goal of this project is to create a hyper-modern, perfor",
       "x": 187,
       "y": 141,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#6bzs4i",
+      "@id": "#6ktxue",
       "name": "last commit 2025-03-31",
       "x": -102,
       "y": 194,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#fkywkd",
+      "@id": "#qrakrq",
       "name": "← JavaScriptSolidServer",
       "x": -231,
       "y": 80,

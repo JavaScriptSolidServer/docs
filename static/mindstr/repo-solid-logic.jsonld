@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#c8rxju",
+      "@id": "#bdpfdm",
       "name": "📦 Install via npm",
       "x": -234,
       "y": -75,
@@ -28,16 +28,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#jr3z4p",
+      "@id": "#jxrv7z",
       "name": "Import in your project",
       "x": -468,
       "y": -151,
       "link": "https://github.com/JavaScriptSolidServer/solid-logic#import-in-your-project-esmtypescript",
       "bgColor": "#daeeff",
-      "parent": "#c8rxju"
+      "parent": "#bdpfdm"
     },
     {
-      "@id": "#hmnpnc",
+      "@id": "#eg4hex",
       "name": "🌐 Use directly in a browser",
       "x": -98,
       "y": -195,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#tbf3y4",
+      "@id": "#i9n2qa",
       "name": "Available Files",
       "x": 196,
       "y": -131,
@@ -55,34 +55,34 @@
       "parent": "#this"
     },
     {
-      "@id": "#z9ubg8",
+      "@id": "#wvr5de",
       "name": "UMD Bundle",
       "x": 194,
       "y": -392,
       "link": "https://github.com/JavaScriptSolidServer/solid-logic#umd-bundle-script-tags",
       "bgColor": "#ffe2ed",
-      "parent": "#tbf3y4"
+      "parent": "#i9n2qa"
     },
     {
-      "@id": "#5h5cc9",
+      "@id": "#gbn8c4",
       "name": "ESM Bundle",
       "x": 441,
       "y": -333,
       "link": "https://github.com/JavaScriptSolidServer/solid-logic#esm-bundle-native-modules",
       "bgColor": "#ffe2ed",
-      "parent": "#tbf3y4"
+      "parent": "#i9n2qa"
     },
     {
-      "@id": "#2682x9",
+      "@id": "#sfmbqd",
       "name": "ESM with Import Maps",
       "x": 488,
       "y": -93,
       "link": "https://github.com/JavaScriptSolidServer/solid-logic#esm-with-import-maps-recommended",
       "bgColor": "#ffe2ed",
-      "parent": "#tbf3y4"
+      "parent": "#i9n2qa"
     },
     {
-      "@id": "#dgxw48",
+      "@id": "#k6gbtk",
       "name": "Common Exports",
       "x": 224,
       "y": 95,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#3m2wcm",
+      "@id": "#bsvecc",
       "name": "Core business logic of SolidOS",
       "x": 114,
       "y": 198,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4ad697",
+      "@id": "#nqwhp5",
       "name": "last commit 2025-12-22",
       "x": -123,
       "y": 191,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#z237xc",
+      "@id": "#4ddtfz",
       "name": "← JavaScriptSolidServer",
       "x": -233,
       "y": 78,

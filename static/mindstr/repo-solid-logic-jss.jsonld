@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ern3ds",
+      "@id": "#kg5gyc",
       "name": "Why This Fork?",
       "x": -244,
       "y": -47,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cixa8i",
+      "@id": "#wm3jqn",
       "name": "Installation",
       "x": -197,
       "y": -131,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#w8ga4c",
+      "@id": "#dk3qrv",
       "name": "Usage",
       "x": -134,
       "y": -190,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#eud4cc",
+      "@id": "#42e9f9",
       "name": "Browser Usage",
       "x": -25,
       "y": -212,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#5mb355",
+      "@id": "#67im5f",
       "name": "API Compatibility",
       "x": 128,
       "y": -191,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mikqv6",
+      "@id": "#2s3p2q",
       "name": "Common Exports",
       "x": 199,
       "y": -129,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7s8ycb",
+      "@id": "#3iptbx",
       "name": "Related",
       "x": 245,
       "y": -44,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7jybab",
+      "@id": "#t582wt",
       "name": "Credits",
       "x": 243,
       "y": 50,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7rqytw",
+      "@id": "#8feax3",
       "name": "Core Solid logic with minimal solid-oidc authentication (JSS",
       "x": 95,
       "y": 210,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#hir8hx",
+      "@id": "#86megc",
       "name": "last commit 2026-01-18",
       "x": -149,
       "y": 164,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ykkb9u",
+      "@id": "#jzaxer",
       "name": "← JavaScriptSolidServer",
       "x": -238,
       "y": 66,

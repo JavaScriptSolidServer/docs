@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ahre4u",
+      "@id": "#uyi44v",
       "name": "Install",
       "x": -238,
       "y": -65,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ibdfdz",
+      "@id": "#pepean",
       "name": "Use",
       "x": -148,
       "y": -171,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#z7edqb",
+      "@id": "#uxyq6b",
       "name": "Auth",
       "x": -2,
       "y": -212,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#2qq2fn",
+      "@id": "#pms64g",
       "name": "Status",
       "x": 145,
       "y": -173,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ri2pzw",
+      "@id": "#cywvmh",
       "name": "Logseq plugin: push pages to a Solid pod with Nostr (NIP-98)",
       "x": 232,
       "y": 79,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#qbizrq",
+      "@id": "#mmmrka",
       "name": "last commit 2026-05-21",
       "x": -64,
       "y": 205,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#yyfuzg",
+      "@id": "#u2r43v",
       "name": "← JavaScriptSolidServer",
       "x": -226,
       "y": 91,

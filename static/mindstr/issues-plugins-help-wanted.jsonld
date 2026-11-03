@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "plugins: help wanted · 2",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/issues?q=is:open+label:help%20wanted",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#we24ey",
+      "name": "#7 Plugin idea: webhooks — change-noti…",
+      "x": -72,
+      "y": -203,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/issues/7",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9e76te",
+      "name": "#8 Plugin idea: webmention — IndieWeb…",
+      "x": 197,
+      "y": 131,
+      "link": "https://github.com/JavaScriptSolidServer/plugins/issues/8",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z9jayy",
+      "name": "← plugins issues",
+      "x": -204,
+      "y": 123,
+      "link": "./issues-plugins.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    }
+  ],
+  "selectedNode": 0
+}

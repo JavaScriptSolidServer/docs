@@ -19,244 +19,253 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#7ikicx",
+      "@id": "#7vxdhv",
       "name": "Why solid-oidc?",
       "x": -249,
-      "y": -18,
+      "y": -16,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#why-solid-oidc",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ice2bk",
+      "@id": "#3kphhf",
       "name": "Features",
-      "x": -238,
-      "y": -62,
+      "x": -239,
+      "y": -61,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#features",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#scytyn",
+      "@id": "#cxccaf",
       "name": "Quick Start",
-      "x": -217,
-      "y": -108,
+      "x": -219,
+      "y": -105,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#quick-start",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#jbhqgv",
+      "@id": "#nwjmka",
       "name": "Installation",
-      "x": -140,
-      "y": -176,
+      "x": -147,
+      "y": -172,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#installation",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#5seuyw",
+      "@id": "#i383qk",
       "name": "Option 1: CDN",
-      "x": -361,
-      "y": -294,
+      "x": -369,
+      "y": -287,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#option-1-cdn-recommended",
       "bgColor": "#ffe4d9",
-      "parent": "#jbhqgv"
+      "parent": "#nwjmka"
     },
     {
-      "@id": "#nm5hts",
+      "@id": "#rq99fb",
       "name": "Option 2: npm",
-      "x": -369,
-      "y": -405,
+      "x": -386,
+      "y": -395,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#option-2-npm",
       "bgColor": "#ffe4d9",
-      "parent": "#jbhqgv"
+      "parent": "#nwjmka"
     },
     {
-      "@id": "#mesfa4",
+      "@id": "#5t4u6w",
       "name": "Option 3: Copy the file",
-      "x": -194,
-      "y": -388,
+      "x": -209,
+      "y": -381,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#option-3-copy-the-file",
       "bgColor": "#ffe4d9",
-      "parent": "#jbhqgv"
+      "parent": "#nwjmka"
     },
     {
-      "@id": "#ek2jcm",
+      "@id": "#i94kqv",
       "name": "API Reference",
-      "x": 219,
-      "y": -187,
+      "x": 201,
+      "y": -200,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#api-reference",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#uja84e",
+      "@id": "#iqbs7a",
       "name": "new Session",
-      "x": 4,
-      "y": -430,
+      "x": -22,
+      "y": -425,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#new-sessionoptions",
       "bgColor": "#f2ecd2",
-      "parent": "#ek2jcm"
+      "parent": "#i94kqv"
     },
     {
-      "@id": "#78sngm",
+      "@id": "#ibtdgn",
       "name": "session.login",
-      "x": 106,
-      "y": -493,
+      "x": 73,
+      "y": -498,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionloginidp-redirecturi",
       "bgColor": "#f2ecd2",
-      "parent": "#ek2jcm"
+      "parent": "#i94kqv"
     },
     {
-      "@id": "#58pkgm",
+      "@id": "#pe4tpj",
       "name": "session.handleRedirectFromLogin",
-      "x": 172,
-      "y": -384,
+      "x": 176,
+      "y": -380,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionhandleredirectfromlogin",
       "bgColor": "#f2ecd2",
-      "parent": "#ek2jcm"
+      "parent": "#i94kqv"
     },
     {
-      "@id": "#7jxpjz",
+      "@id": "#chzsp9",
       "name": "session.restore",
-      "x": 386,
-      "y": -393,
+      "x": 332,
+      "y": -424,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionrestore",
       "bgColor": "#f2ecd2",
-      "parent": "#ek2jcm"
+      "parent": "#i94kqv"
     },
     {
-      "@id": "#qrspvr",
+      "@id": "#wmcqvp",
       "name": "session.logout",
-      "x": 356,
-      "y": -282,
+      "x": 329,
+      "y": -306,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionlogout",
       "bgColor": "#f2ecd2",
-      "parent": "#ek2jcm"
+      "parent": "#i94kqv"
     },
     {
-      "@id": "#wfbk2v",
+      "@id": "#jpct34",
       "name": "session.authFetch",
-      "x": 514,
-      "y": -259,
+      "x": 487,
+      "y": -294,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#sessionauthfetchurl-options",
       "bgColor": "#f2ecd2",
-      "parent": "#ek2jcm"
+      "parent": "#i94kqv"
     },
     {
-      "@id": "#xetwaa",
+      "@id": "#gq6hzf",
       "name": "Properties",
-      "x": 468,
-      "y": -149,
+      "x": 451,
+      "y": -184,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#properties",
       "bgColor": "#f2ecd2",
-      "parent": "#ek2jcm"
+      "parent": "#i94kqv"
     },
     {
-      "@id": "#wtpnjp",
+      "@id": "#2fe9pv",
       "name": "Methods",
-      "x": 580,
-      "y": -92,
+      "x": 567,
+      "y": -139,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#methods",
       "bgColor": "#f2ecd2",
-      "parent": "#ek2jcm"
+      "parent": "#i94kqv"
     },
     {
-      "@id": "#7cw6cg",
+      "@id": "#uwa423",
       "name": "Events",
-      "x": 500,
-      "y": -5,
+      "x": 497,
+      "y": -48,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#events",
       "bgColor": "#f2ecd2",
-      "parent": "#ek2jcm"
+      "parent": "#i94kqv"
     },
     {
-      "@id": "#a54nev",
+      "@id": "#7jkxag",
       "name": "Advanced Usage",
-      "x": 165,
-      "y": 161,
+      "x": 186,
+      "y": 142,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#advanced-usage",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#qhb5iq",
+      "@id": "#yf7z4h",
       "name": "Custom Session Database",
-      "x": 448,
-      "y": 189,
+      "x": 471,
+      "y": 144,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#custom-session-database",
       "bgColor": "#ddf2de",
-      "parent": "#a54nev"
+      "parent": "#7jkxag"
     },
     {
-      "@id": "#nvqaxu",
+      "@id": "#a9ezza",
       "name": "Pre-registered Client ID",
-      "x": 447,
-      "y": 314,
+      "x": 491,
+      "y": 275,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#pre-registered-client-id",
       "bgColor": "#ddf2de",
-      "parent": "#a54nev"
+      "parent": "#7jkxag"
     },
     {
-      "@id": "#9n2fi8",
+      "@id": "#jfpzbe",
       "name": "Multiple Identity Providers",
-      "x": 279,
-      "y": 360,
+      "x": 332,
+      "y": 319,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#multiple-identity-providers",
       "bgColor": "#ddf2de",
-      "parent": "#a54nev"
+      "parent": "#7jkxag"
     },
     {
-      "@id": "#27czbt",
+      "@id": "#z4xres",
       "name": "Handling Token Expiration",
-      "x": 186,
-      "y": 476,
+      "x": 263,
+      "y": 449,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#handling-token-expiration",
       "bgColor": "#ddf2de",
-      "parent": "#a54nev"
+      "parent": "#7jkxag"
     },
     {
-      "@id": "#eqxhbv",
+      "@id": "#4sr5g7",
       "name": "Specifications",
-      "x": 41,
-      "y": 212,
+      "x": 84,
+      "y": 210,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#specifications",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#m3zt7z",
+      "@id": "#gr784p",
       "name": "Testing",
-      "x": -78,
-      "y": 210,
+      "x": -36,
+      "y": 245,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc#testing",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#xzgaz8",
+      "@id": "#ubm3ht",
+      "name": "Open issues · 3",
+      "x": -71,
+      "y": 201,
+      "link": "./issues-solid-oidc.jsonld",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#trq2cy",
       "name": "Minimal, zero-build, zero-dependency Solid-OIDC client for b",
-      "x": -154,
-      "y": 166,
+      "x": -159,
+      "y": 157,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#brfb5w",
+      "@id": "#nx83ha",
       "name": "last commit 2026-10-04",
-      "x": -227,
-      "y": 89,
+      "x": -228,
+      "y": 87,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#45xtcc",
+      "@id": "#dypqks",
       "name": "← JavaScriptSolidServer",
-      "x": -247,
-      "y": 31,
+      "x": -248,
+      "y": 30,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -370,6 +379,10 @@
     {
       "start": 0,
       "end": 27
+    },
+    {
+      "start": 0,
+      "end": 28
     }
   ],
   "selectedNode": 0

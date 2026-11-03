@@ -19,118 +19,127 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#g5xqe3",
+      "@id": "#hnkmaq",
       "name": "Features",
       "x": -245,
-      "y": -43,
+      "y": -40,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#features",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#cvkstp",
+      "@id": "#jsu8k6",
       "name": "Quick Start",
-      "x": -205,
-      "y": -122,
+      "x": -210,
+      "y": -116,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#quick-start",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#jw6hux",
+      "@id": "#4um8px",
       "name": "@view",
-      "x": -68,
-      "y": -204,
+      "x": -88,
+      "y": -199,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#view---self-describing-json-ld",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#ueruwd",
+      "@id": "#gd73b7",
       "name": "renderView Options",
-      "x": -230,
-      "y": -377,
+      "x": -259,
+      "y": -363,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#renderview-options",
       "bgColor": "#ffe2ed",
-      "parent": "#jw6hux"
+      "parent": "#4um8px"
     },
     {
-      "@id": "#j52mw6",
+      "@id": "#yn33b8",
       "name": "Pane Module Format",
-      "x": -46,
-      "y": -500,
+      "x": -100,
+      "y": -494,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#pane-module-format",
       "bgColor": "#ffe2ed",
-      "parent": "#jw6hux"
+      "parent": "#4um8px"
     },
     {
-      "@id": "#gu5n3w",
+      "@id": "#tsfy3q",
       "name": "Global Objects",
-      "x": 98,
-      "y": -195,
+      "x": 69,
+      "y": -210,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#global-objects",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#mukqya",
+      "@id": "#hrjit4",
       "name": "Development",
-      "x": 181,
-      "y": -146,
+      "x": 154,
+      "y": -164,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#development",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#rdjmhy",
+      "@id": "#i4zz58",
       "name": "Build",
-      "x": 235,
-      "y": -73,
+      "x": 217,
+      "y": -106,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#build",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#nbjpha",
+      "@id": "#zatcmm",
       "name": "Architecture",
-      "x": 250,
-      "y": 12,
+      "x": 248,
+      "y": -30,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#architecture",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#aypwsg",
+      "@id": "#9cssmz",
       "name": "Credits",
-      "x": 223,
-      "y": 96,
+      "x": 243,
+      "y": 51,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim#credits",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#h94qk3",
+      "@id": "#ndns5v",
+      "name": "Open issues · 5",
+      "x": 202,
+      "y": 125,
+      "link": "./issues-solid-shim.jsonld",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gjn6ec",
       "name": "Minimal Solid data browser using solid-panes-jss with solid-",
-      "x": 58,
-      "y": 207,
+      "x": 30,
+      "y": 211,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#tupb65",
+      "@id": "#n4grmd",
       "name": "last commit 2026-02-26",
-      "x": -164,
-      "y": 161,
+      "x": -173,
+      "y": 153,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#5xqpjs",
+      "@id": "#2fazp6",
       "name": "← JavaScriptSolidServer",
-      "x": -240,
-      "y": 61,
+      "x": -241,
+      "y": 57,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -188,6 +197,10 @@
     {
       "start": 0,
       "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
     }
   ],
   "selectedNode": 0

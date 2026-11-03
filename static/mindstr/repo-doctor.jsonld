@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#wzv4c3",
+      "@id": "#u9rrt3",
       "name": "What it does",
       "x": -235,
       "y": -72,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#7fnz2s",
+      "@id": "#kgvapt",
       "name": "Stack",
       "x": -126,
       "y": -183,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#p89exh",
+      "@id": "#6yp854",
       "name": "Refs",
       "x": 41,
       "y": -210,
@@ -46,16 +46,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#urtpxv",
+      "@id": "#g8htk4",
       "name": "Connect your Nostr key to your Solid pod. Live: https://jss.",
-      "x": 249,
+      "x": 315,
       "y": 16,
       "link": "https://github.com/JavaScriptSolidServer/doctor",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#4dg5c4",
+      "@id": "#iq664j",
       "name": "last commit 2026-10-22",
       "x": -28,
       "y": 211,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#kwm3he",
+      "@id": "#gz4cvb",
       "name": "← JavaScriptSolidServer",
       "x": -220,
       "y": 100,

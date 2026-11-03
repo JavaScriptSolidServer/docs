@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#tse2je",
+      "@id": "#7x5wee",
       "name": "Documentation",
       "x": -240,
       "y": -59,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#cvh8ee",
+      "@id": "#fjarhy",
       "name": "Install",
       "x": -165,
       "y": -159,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#3xd5xn",
+      "@id": "#9ydn44",
       "name": "Serializer flags",
       "x": -35,
       "y": -210,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#jingvu",
+      "@id": "#pfi5zk",
       "name": "Contribute",
       "x": 108,
       "y": -192,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#u9rrt3",
+      "@id": "#3rasaj",
       "name": "Thanks",
       "x": 212,
       "y": -113,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#kgvapt",
+      "@id": "#7inapr",
       "name": "an RDF library for node.js. Suitable for client and server s",
       "x": 200,
       "y": 128,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#6yp854",
+      "@id": "#iamqvg",
       "name": "last commit 2026-01-18",
       "x": -94,
       "y": 197,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#g8htk4",
+      "@id": "#vhdgu3",
       "name": "← JavaScriptSolidServer",
       "x": -230,
       "y": 83,

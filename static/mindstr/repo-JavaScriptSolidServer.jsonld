@@ -19,136 +19,145 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#4wkdd9",
+      "@id": "#xintwj",
       "name": "Architecture",
-      "x": -245,
-      "y": -43,
+      "x": -246,
+      "y": -40,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#architecture",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#yiscsp",
+      "@id": "#yhbdjy",
       "name": "Features",
-      "x": -205,
-      "y": -122,
+      "x": -211,
+      "y": -114,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#features",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#2fzfhg",
+      "@id": "#hgctui",
       "name": "Quick Start",
-      "x": -37,
-      "y": -210,
+      "x": -60,
+      "y": -206,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#quick-start",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#6ab87r",
+      "@id": "#vz6dbr",
       "name": "Creating a Pod",
-      "x": -235,
-      "y": -375,
+      "x": -266,
+      "y": -360,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#creating-a-pod",
       "bgColor": "#ffe2ed",
-      "parent": "#2fzfhg"
+      "parent": "#hgctui"
     },
     {
-      "@id": "#uyfscv",
+      "@id": "#ecv4rb",
       "name": "Using the Pod",
-      "x": -87,
-      "y": -496,
+      "x": -142,
+      "y": -487,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#using-the-pod",
       "bgColor": "#ffe2ed",
-      "parent": "#2fzfhg"
+      "parent": "#hgctui"
     },
     {
-      "@id": "#z5cumb",
+      "@id": "#57jxgj",
       "name": "Android/Termux",
-      "x": 96,
-      "y": -417,
+      "x": 38,
+      "y": -424,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#androidtermux",
       "bgColor": "#ffe2ed",
-      "parent": "#2fzfhg"
+      "parent": "#hgctui"
     },
     {
-      "@id": "#7iejm3",
+      "@id": "#ttdvnf",
       "name": "CLI Reference",
-      "x": 154,
-      "y": -167,
+      "x": 123,
+      "y": -185,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#cli-reference",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#452y5w",
+      "@id": "#pehema",
       "name": "Documentation",
-      "x": 220,
-      "y": -102,
+      "x": 195,
+      "y": -133,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#documentation",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#yyjnxk",
+      "@id": "#csimu2",
       "name": "Comparison",
-      "x": 249,
-      "y": -19,
+      "x": 239,
+      "y": -62,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#comparison",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#hrvxpy",
+      "@id": "#y2vgqr",
       "name": "Performance",
-      "x": 238,
-      "y": 66,
+      "x": 249,
+      "y": 17,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#performance",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#hzsqn4",
+      "@id": "#nb2pv3",
       "name": "Running Tests",
-      "x": 188,
-      "y": 132,
+      "x": 224,
+      "y": 91,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#running-tests",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#dttxwc",
+      "@id": "#gb9vd3",
       "name": "Maintainers",
-      "x": 107,
-      "y": 177,
+      "x": 167,
+      "y": 135,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer#maintainers",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#p8ysyk",
+      "@id": "#85n9f9",
+      "name": "Open issues · 162",
+      "x": 81,
+      "y": 181,
+      "link": "./issues-JavaScriptSolidServer.jsonld",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59pd9r",
       "name": "A minimal, fast Solid server",
-      "x": -25,
-      "y": 222,
+      "x": -49,
+      "y": 226,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#9c2qhr",
+      "@id": "#2ec6a3",
       "name": "last commit 2026-10-22",
-      "x": -164,
-      "y": 160,
+      "x": -175,
+      "y": 152,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#h59t8f",
+      "@id": "#ta2q85",
       "name": "← JavaScriptSolidServer",
-      "x": -240,
-      "y": 60,
+      "x": -252,
+      "y": 56,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -214,6 +223,10 @@
     {
       "start": 0,
       "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
     }
   ],
   "selectedNode": 0

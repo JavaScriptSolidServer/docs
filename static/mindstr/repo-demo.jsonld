@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#eqmaaw",
+      "@id": "#yyu7jz",
       "name": "Articles",
       "x": -232,
       "y": -80,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#pjbq25",
+      "@id": "#wkrebf",
       "name": "Adding an article",
       "x": -91,
       "y": -198,
@@ -37,16 +37,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#tz98k5",
+      "@id": "#bu5bte",
       "name": "Articles, essays, and demonstrations of JavaScript Solid Ser",
       "x": 242,
-      "y": -54,
+      "y": -64,
       "link": "https://github.com/JavaScriptSolidServer/demo",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#437yyk",
+      "@id": "#4hakzu",
       "name": "last commit 2026-05-18",
       "x": 11,
       "y": 212,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#j3k2bu",
+      "@id": "#yhcpjw",
       "name": "← JavaScriptSolidServer",
       "x": -214,
       "y": 110,

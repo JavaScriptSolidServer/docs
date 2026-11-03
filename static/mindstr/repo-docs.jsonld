@@ -19,55 +19,64 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#uhqx6j",
+      "@id": "#d5e2jv",
       "name": "Development",
-      "x": -232,
-      "y": -80,
+      "x": -235,
+      "y": -71,
       "link": "https://github.com/JavaScriptSolidServer/docs#development",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#aurbbn",
+      "@id": "#3g77sx",
       "name": "Build",
-      "x": -101,
-      "y": -195,
+      "x": -129,
+      "y": -182,
       "link": "https://github.com/JavaScriptSolidServer/docs#build",
-      "bgColor": "#e0c4f6",
+      "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#fxz322",
+      "@id": "#ucs9ug",
       "name": "Deploy",
-      "x": 87,
-      "y": -199,
+      "x": 36,
+      "y": -210,
       "link": "https://github.com/JavaScriptSolidServer/docs#deploy",
-      "bgColor": "#febdc6",
+      "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#s77s87",
+      "@id": "#tse2je",
+      "name": "Open issues · 1",
+      "x": 185,
+      "y": -143,
+      "link": "./issues-docs.jsonld",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cvh8ee",
       "name": "Documentation for JavaScript Solid Server.",
-      "x": 249,
-      "y": 18,
+      "x": 228,
+      "y": 87,
       "link": "https://github.com/JavaScriptSolidServer/docs",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#k73rni",
+      "@id": "#3xd5xn",
       "name": "last commit 2026-11-03",
-      "x": 12,
-      "y": 212,
+      "x": -33,
+      "y": 211,
       "link": "https://github.com/JavaScriptSolidServer/docs/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#r8zm2z",
+      "@id": "#jingvu",
       "name": "← JavaScriptSolidServer",
-      "x": -214,
-      "y": 110,
+      "x": -221,
+      "y": 99,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -97,6 +106,10 @@
     {
       "start": 0,
       "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
     }
   ],
   "selectedNode": 0

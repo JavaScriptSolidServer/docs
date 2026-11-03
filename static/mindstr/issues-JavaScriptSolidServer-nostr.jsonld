@@ -1,0 +1,358 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "JavaScriptSolidServer: nostr · 20",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues?q=is:open+label:nostr",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#cpmgtf",
+      "name": "Oct 2026 · 1",
+      "x": -270,
+      "y": -32,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a85fzz",
+      "name": "#319 Align JSS auth modules with LWS 1.0…",
+      "x": -509,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/319",
+      "bgColor": "#daeeff",
+      "parent": "#cpmgtf"
+    },
+    {
+      "@id": "#eitj67",
+      "name": "Jun 2026 · 1–5 of 10",
+      "x": -121,
+      "y": -186,
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bpmjzd",
+      "name": "#18 Auto-provisioned pods for Nostr key…",
+      "x": -425,
+      "y": -224,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/18",
+      "bgColor": "#f2e5fd",
+      "parent": "#eitj67"
+    },
+    {
+      "@id": "#r8aetn",
+      "name": "#66 Add ACL support for Nostr relay (pr…",
+      "x": -409,
+      "y": -338,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/66",
+      "bgColor": "#f2e5fd",
+      "parent": "#eitj67"
+    },
+    {
+      "@id": "#j3rh5f",
+      "name": "#183 Skill provenance via blocktrails an…",
+      "x": -244,
+      "y": -384,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/183",
+      "bgColor": "#f2e5fd",
+      "parent": "#eitj67"
+    },
+    {
+      "@id": "#mhgzj7",
+      "name": "#184 Pane store: discover and install pr…",
+      "x": -148,
+      "y": -486,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/184",
+      "bgColor": "#f2e5fd",
+      "parent": "#eitj67"
+    },
+    {
+      "@id": "#67qhwk",
+      "name": "#194 House of Panes: a store for free an…",
+      "x": 2,
+      "y": -439,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/194",
+      "bgColor": "#f2e5fd",
+      "parent": "#eitj67"
+    },
+    {
+      "@id": "#s9du6c",
+      "name": "Jun 2026 · 6–10 of 10",
+      "x": 213,
+      "y": -112,
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tjeu4p",
+      "name": "#198 OpenClaw integration — personal AI…",
+      "x": 241,
+      "y": -394,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/198",
+      "bgColor": "#ffe2e6",
+      "parent": "#s9du6c"
+    },
+    {
+      "@id": "#x9rczq",
+      "name": "#199 jsclaw integration — agent containe…",
+      "x": 405,
+      "y": -349,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/199",
+      "bgColor": "#ffe2e6",
+      "parent": "#s9du6c"
+    },
+    {
+      "@id": "#48j6uy",
+      "name": "#200 marketplace.v1 — P2P exchange contr…",
+      "x": 425,
+      "y": -224,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/200",
+      "bgColor": "#ffe2e6",
+      "parent": "#s9du6c"
+    },
+    {
+      "@id": "#9kbx2m",
+      "name": "#271 Auto git-mark on push: anchor commi…",
+      "x": 564,
+      "y": -148,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/271",
+      "bgColor": "#ffe2e6",
+      "parent": "#s9du6c"
+    },
+    {
+      "@id": "#9gbbfy",
+      "name": "#277 MongoDB-backed Nostr relay when bot…",
+      "x": 500,
+      "y": -18,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/277",
+      "bgColor": "#ffe2e6",
+      "parent": "#s9du6c"
+    },
+    {
+      "@id": "#kue24d",
+      "name": "May 2026 · 1–5 of 9",
+      "x": 144,
+      "y": 174,
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ezqvf7",
+      "name": "#414 Resolve did:nostr globally via Nost…",
+      "x": 449,
+      "y": 188,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/414",
+      "bgColor": "#fbe8d3",
+      "parent": "#kue24d"
+    },
+    {
+      "@id": "#4c22a7",
+      "name": "#4 Add did:nostr SSO and Schnorr (NIP-…",
+      "x": 448,
+      "y": 311,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/4",
+      "bgColor": "#fbe8d3",
+      "parent": "#kue24d"
+    },
+    {
+      "@id": "#zpagjg",
+      "name": "#6 Phase 2: Link did:nostr to WebID pr…",
+      "x": 289,
+      "y": 355,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/6",
+      "bgColor": "#fbe8d3",
+      "parent": "#kue24d"
+    },
+    {
+      "@id": "#sptvks",
+      "name": "#40 Browser extension for Solid authent…",
+      "x": 211,
+      "y": 473,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/40",
+      "bgColor": "#fbe8d3",
+      "parent": "#kue24d"
+    },
+    {
+      "@id": "#u6iz6f",
+      "name": "#41 Unified login component (OIDC + Nos…",
+      "x": 57,
+      "y": 429,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/41",
+      "bgColor": "#fbe8d3",
+      "parent": "#kue24d"
+    },
+    {
+      "@id": "#vb6nak",
+      "name": "May 2026 · 6–9 of 9",
+      "x": -167,
+      "y": 158,
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zv6fek",
+      "name": "#50 SAND Stack Phase 2: Federation, Bri…",
+      "x": -173,
+      "y": 377,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/50",
+      "bgColor": "#e3f0d8",
+      "parent": "#vb6nak"
+    },
+    {
+      "@id": "#y6p8te",
+      "name": "#56 Browser extension for Nostr-based S…",
+      "x": -336,
+      "y": 421,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/56",
+      "bgColor": "#e3f0d8",
+      "parent": "#vb6nak"
+    },
+    {
+      "@id": "#kpttum",
+      "name": "#306 Auth middleware: prefer OIDC/DPoP o…",
+      "x": -379,
+      "y": 277,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/306",
+      "bgColor": "#e3f0d8",
+      "parent": "#vb6nak"
+    },
+    {
+      "@id": "#t62ib9",
+      "name": "#365 E2EE for pod content via did:nostr…",
+      "x": -530,
+      "y": 221,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/365",
+      "bgColor": "#e3f0d8",
+      "parent": "#vb6nak"
+    },
+    {
+      "@id": "#qcu5gk",
+      "name": "← JavaScriptSolidServer issues",
+      "x": -248,
+      "y": 66,
+      "link": "./issues-JavaScriptSolidServer.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

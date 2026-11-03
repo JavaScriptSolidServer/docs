@@ -52,7 +52,7 @@
     {
       "@id": "#aurbbn",
       "name": "--[no-]activitypub",
-      "x": 246,
+      "x": 258,
       "y": -38,
       "bgColor": "#e0d199",
       "parent": "#this"

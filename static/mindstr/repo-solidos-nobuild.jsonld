@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#cywvmh",
+      "@id": "#8qyphq",
       "name": "Tests",
       "x": -245,
       "y": -41,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mmmrka",
+      "@id": "#awt4ph",
       "name": "Using it",
       "x": -209,
       "y": -117,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#u2r43v",
+      "@id": "#j3ffm5",
       "name": "How the build steps were replaced",
       "x": -102,
       "y": -173,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#pnzi2z",
+      "@id": "#s2vv4u",
       "name": "Deviations from upstream",
       "x": 59,
       "y": -217,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#2yz4j8",
+      "@id": "#8gx4pf",
       "name": "Legacy code",
       "x": 165,
       "y": -160,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#xgkrrw",
+      "@id": "#knn5ve",
       "name": "Panes",
       "x": 234,
       "y": -75,
@@ -73,16 +73,16 @@
       "parent": "#this"
     },
     {
-      "@id": "#2yqrnt",
+      "@id": "#hgjzm6",
       "name": "Published builds, for A/B",
       "x": 468,
       "y": -150,
       "link": "https://github.com/JavaScriptSolidServer/solidos-nobuild#published-builds-for-ab",
       "bgColor": "#ddf2de",
-      "parent": "#xgkrrw"
+      "parent": "#knn5ve"
     },
     {
-      "@id": "#igep64",
+      "@id": "#hxgis3",
       "name": "Running on a pod",
       "x": 247,
       "y": 30,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#hgg764",
+      "@id": "#jqxvqz",
       "name": "Upstream findings",
       "x": 211,
       "y": 114,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#pqcgpp",
+      "@id": "#3b8m9c",
       "name": "All of SolidOS — solid-ui 5.0.1, mashlib 3.0.0, solid-panes ",
       "x": 37,
       "y": 210,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#jhj67c",
+      "@id": "#4wrpia",
       "name": "last commit 2026-10-21",
       "x": -171,
       "y": 155,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mr58qm",
+      "@id": "#v2ex7g",
       "name": "← JavaScriptSolidServer",
       "x": -241,
       "y": 58,

@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#x9rczq",
+      "@id": "#98geuv",
       "name": "🚀 Quick Start",
       "x": -246,
       "y": -39,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#48j6uy",
+      "@id": "#x5dcei",
       "name": "✨ What You Get",
       "x": -212,
       "y": -112,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#9kbx2m",
+      "@id": "#uchvmk",
       "name": "📦 Installation",
       "x": -101,
       "y": -194,
@@ -46,25 +46,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#9gbbfy",
+      "@id": "#72kqt7",
       "name": "No Installation",
       "x": -285,
       "y": -349,
       "link": "https://github.com/JavaScriptSolidServer/mypod#no-installation-recommended",
       "bgColor": "#ffe2ed",
-      "parent": "#9kbx2m"
+      "parent": "#uchvmk"
     },
     {
-      "@id": "#kue24d",
+      "@id": "#vbasu4",
       "name": "Global Installation",
       "x": -151,
       "y": -485,
       "link": "https://github.com/JavaScriptSolidServer/mypod#global-installation",
       "bgColor": "#ffe2ed",
-      "parent": "#9kbx2m"
+      "parent": "#uchvmk"
     },
     {
-      "@id": "#ezqvf7",
+      "@id": "#8gars2",
       "name": "🎮 Usage",
       "x": 45,
       "y": -219,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4c22a7",
+      "@id": "#ttudn3",
       "name": "📖 How It Works",
       "x": 132,
       "y": -175,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#zpagjg",
+      "@id": "#nm9jmm",
       "name": "🌟 First Run",
       "x": 200,
       "y": -127,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#sptvks",
+      "@id": "#fcu6nk",
       "name": "📚 Learn More",
       "x": 241,
       "y": -57,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#u6iz6f",
+      "@id": "#im3caa",
       "name": "🤝 Contributing",
       "x": 249,
       "y": 22,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#vb6nak",
+      "@id": "#up5tww",
       "name": "📄 License",
       "x": 222,
       "y": 97,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#zv6fek",
+      "@id": "#w7nqyt",
       "name": "🙏 Credits",
       "x": 166,
       "y": 159,
@@ -127,7 +127,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#y6p8te",
+      "@id": "#csuere",
       "name": "Solid Pod Server - The easiest way to run a Solid pod",
       "x": 0,
       "y": 213,
@@ -136,7 +136,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#kpttum",
+      "@id": "#vb2ctp",
       "name": "last commit 2026-01-16",
       "x": -178,
       "y": 149,
@@ -145,7 +145,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#t62ib9",
+      "@id": "#gfdcab",
       "name": "← JavaScriptSolidServer",
       "x": -241,
       "y": 55,

@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "solid-shim: unlabelled · 5",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues?q=is:open",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#9qucge",
+      "name": "#1 Bug: @type array causes TypeError i…",
+      "x": -211,
+      "y": -114,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/1",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#48sh62",
+      "name": "#2 Enhancement: Use rdflib's JSON-LD p…",
+      "x": 32,
+      "y": -211,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/2",
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7p9b7p",
+      "name": "#3 Bug: Uses http://schema.org/ instea…",
+      "x": 238,
+      "y": -65,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/3",
+      "bgColor": "#febdc6",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qg6nvb",
+      "name": "#4 Support both @view sugar AND explic…",
+      "x": 170,
+      "y": 154,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/4",
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w94kzu",
+      "name": "#5 Support JSON-LD data islands in HTM…",
+      "x": -93,
+      "y": 198,
+      "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/5",
+      "bgColor": "#c1dba8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hhm2db",
+      "name": "← solid-shim issues",
+      "x": -238,
+      "y": 65,
+      "link": "./issues-solid-shim.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

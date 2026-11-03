@@ -103,7 +103,7 @@
       "@id": "#2iffkx",
       "name": "Implementation limits",
       "x": 240,
-      "y": -59,
+      "y": -65,
       "link": "https://jss.live/docs/features/websocket-notifications#implementation-limits",
       "bgColor": "#95e1e3",
       "parent": "#this"

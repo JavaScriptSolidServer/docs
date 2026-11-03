@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#qvd9cw",
+      "@id": "#itdh4e",
       "name": "🚀 Quick Start",
       "x": -247,
       "y": -35,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#sf37xb",
+      "@id": "#wymkpw",
       "name": "⚡ Performance",
       "x": -220,
       "y": -102,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#fuhjpf",
+      "@id": "#qhm56x",
       "name": "✨ Features",
       "x": -168,
       "y": -157,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#dry8wx",
+      "@id": "#gyahr4",
       "name": "📦 Installation",
       "x": -50,
       "y": -208,
@@ -55,25 +55,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#rmckuv",
+      "@id": "#wt6f72",
       "name": "No Installation",
       "x": -181,
       "y": -396,
       "link": "https://github.com/JavaScriptSolidServer/fastpod#no-installation-recommended",
       "bgColor": "#ffe4d9",
-      "parent": "#dry8wx"
+      "parent": "#gyahr4"
     },
     {
-      "@id": "#6cicry",
+      "@id": "#zy9np2",
       "name": "Global Installation",
       "x": -35,
       "y": -501,
       "link": "https://github.com/JavaScriptSolidServer/fastpod#global-installation",
       "bgColor": "#ffe4d9",
-      "parent": "#dry8wx"
+      "parent": "#gyahr4"
     },
     {
-      "@id": "#7c28q6",
+      "@id": "#3jk3i5",
       "name": "🎮 Usage",
       "x": 83,
       "y": -207,
@@ -82,7 +82,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#4qbh3e",
+      "@id": "#94asrn",
       "name": "📖 How It Works",
       "x": 156,
       "y": -163,
@@ -91,7 +91,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#m3xps2",
+      "@id": "#kgrwxb",
       "name": "🌟 First Run",
       "x": 211,
       "y": -113,
@@ -100,7 +100,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#yxjf84",
+      "@id": "#aj9t28",
       "name": "🎯 Why fastpod?",
       "x": 244,
       "y": -48,
@@ -109,7 +109,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#mrv4db",
+      "@id": "#vx7khw",
       "name": "📚 Learn More",
       "x": 249,
       "y": 23,
@@ -118,7 +118,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#i6483q",
+      "@id": "#34dvu3",
       "name": "🤝 Contributing",
       "x": 226,
       "y": 87,
@@ -127,7 +127,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#kmcrgd",
+      "@id": "#v52rfv",
       "name": "📄 License",
       "x": 178,
       "y": 131,
@@ -136,7 +136,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ktiw89",
+      "@id": "#gitnhm",
       "name": "🙏 Credits",
       "x": 111,
       "y": 177,
@@ -145,7 +145,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#c74y5q",
+      "@id": "#hzes4u",
       "name": "Fast Solid Pod - The fastest way to run a Solid pod",
       "x": -44,
       "y": 221,
@@ -154,7 +154,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#374kep",
+      "@id": "#mciseu",
       "name": "last commit 2026-01-16",
       "x": -191,
       "y": 137,
@@ -163,7 +163,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#ba2cgp",
+      "@id": "#dm48gj",
       "name": "← JavaScriptSolidServer",
       "x": -243,
       "y": 50,

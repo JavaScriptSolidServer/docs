@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ybwvcb",
+      "@id": "#g2rdss",
       "name": "Goals",
       "x": -238,
       "y": -64,
@@ -28,7 +28,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#i9qywf",
+      "@id": "#zmaea6",
       "name": "Documentation",
       "x": -153,
       "y": -168,
@@ -37,7 +37,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#iyzq7q",
+      "@id": "#wt67sz",
       "name": "Development",
       "x": -12,
       "y": -212,
@@ -46,7 +46,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#bke9zd",
+      "@id": "#hcmcqd",
       "name": "Eg. some RDF CLasses",
       "x": 150,
       "y": -170,
@@ -55,7 +55,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#fuxupn",
+      "@id": "#e5zdis",
       "name": "Solid-compatible Panes: applets and views for the mashlib an",
       "x": 225,
       "y": 93,
@@ -64,7 +64,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#5m2ws9",
+      "@id": "#np6sjd",
       "name": "last commit 2025-12-22",
       "x": -72,
       "y": 204,
@@ -73,7 +73,7 @@
       "parent": "#this"
     },
     {
-      "@id": "#bbimsx",
+      "@id": "#6mwz3t",
       "name": "← JavaScriptSolidServer",
       "x": -227,
       "y": 89,
