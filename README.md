@@ -1,5 +1,7 @@
 # JSS Documentation
 
+[![Mind map](https://mindstr.org/badge.svg)](https://mindstr.org/?uri=https://jss.live/docs/mindstr/index.jsonld)
+
 Documentation for [JavaScript Solid Server](https://github.com/JavaScriptSolidServer/JavaScriptSolidServer).
 
 Built with [Docusaurus](https://docusaurus.io/).

@@ -30,7 +30,12 @@ Any map can be opened directly: `https://mindstr.org/?uri=<map url>`. Maps link 
 other with relative links, so the folder can be copied or mirrored intact.
 
 The same convention works for any site or repo: put `index.jsonld` and `outline.md` under
-`/mindstr/` and anyone can open it the same way. An org gets a `mindstr` repo (its map links
+`/mindstr/` and anyone can open it the same way. Add the `mindstr` topic on GitHub so the repo
+shows at [github.com/topics/mindstr](https://github.com/topics/mindstr), and a badge in the README:
+
+```markdown
+[![Mind map](https://mindstr.org/badge.svg)](https://mindstr.org/?uri=https://example.org/mindstr/index.jsonld)
+``` An org gets a `mindstr` repo (its map links
 to each repo); a repo gets a `mindstr/` folder.
 
 ## What is in the set
