@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ak9asq",
+      "@id": "#wsjdx6",
       "name": "#5 Default pod root to an OS-specific…",
-      "x": 87,
-      "y": -199,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/solid-desktop/issues/5",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#8vzryr",
+      "@id": "#ukqvr4",
       "name": "← solid-desktop issues",
-      "x": -87,
-      "y": 199,
+      "x": -217,
+      "y": -106,
       "link": "./issues-solid-desktop.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

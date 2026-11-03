@@ -19,37 +19,37 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#m3zt7z",
+      "@id": "#brfb5w",
       "name": "#75 Bump to 0.0.48: ship pane features,…",
-      "x": -152,
-      "y": -169,
+      "x": 241,
+      "y": -64,
       "link": "https://github.com/JavaScriptSolidServer/jspod/issues/75",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#xzgaz8",
+      "@id": "#45xtcc",
       "name": "#58 Embeddable in-process start (no spa…",
-      "x": 232,
-      "y": -80,
+      "x": 65,
+      "y": 205,
       "link": "https://github.com/JavaScriptSolidServer/jspod/issues/58",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
-      "@id": "#brfb5w",
+      "@id": "#ybwvcb",
       "name": "#60 Git-less install path so embedders…",
-      "x": 35,
-      "y": 210,
+      "x": -241,
+      "y": 65,
       "link": "https://github.com/JavaScriptSolidServer/jspod/issues/60",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
-      "@id": "#45xtcc",
+      "@id": "#i9qywf",
       "name": "← jspod issues",
-      "x": -230,
-      "y": 84,
+      "x": -65,
+      "y": -205,
       "link": "./issues-jspod.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

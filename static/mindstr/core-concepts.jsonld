@@ -19,27 +19,27 @@
     },
     {
       "@id": "#452y5w",
-      "name": "JSON-LD First",
-      "x": -188,
-      "y": -140,
+      "name": "JSON-LD First ›",
+      "x": 241,
+      "y": -55,
       "link": "./core-concepts-json-ld-first.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#yyjnxk",
-      "name": "Pods and Resources",
-      "x": 161,
-      "y": -163,
+      "name": "Pods and Resources ›",
+      "x": 65,
+      "y": 205,
       "link": "./core-concepts-pods-and-resources.jsonld",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#hrvxpy",
-      "name": "Content Negotiation",
-      "x": 168,
-      "y": 158,
+      "name": "Content Negotiation ›",
+      "x": -241,
+      "y": 55,
       "link": "./core-concepts-content-negotiation.jsonld",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -47,8 +47,8 @@
     {
       "@id": "#hzsqn4",
       "name": "← JSS docs",
-      "x": -188,
-      "y": 140,
+      "x": -65,
+      "y": -205,
       "link": "./index.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

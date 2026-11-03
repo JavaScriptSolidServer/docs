@@ -21,8 +21,8 @@
     {
       "@id": "#izxsmt",
       "name": "Pointing a client at it",
-      "x": -247,
-      "y": -63,
+      "x": 170,
+      "y": -156,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#pointing-a-client-at-it",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#er3xwg",
       "name": "Endpoint coverage",
-      "x": -228,
-      "y": -106,
+      "x": 233,
+      "y": -77,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#endpoint-coverage",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#3p4wn2",
       "name": "The OAuth → pod-credentials mapping",
-      "x": -181,
-      "y": -152,
+      "x": 249,
+      "y": 64,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#the-oauth-pod-credentials-mapping",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#f356md",
       "name": "Object mapping",
-      "x": -117,
-      "y": -197,
+      "x": 215,
+      "y": 110,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#object-mapping",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#c9pfmk",
       "name": "Findings",
-      "x": 298,
-      "y": 71,
+      "x": -211,
+      "y": 193,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#findings",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#metvfr",
       "name": "Mastodon's fixed absolute API paths don't fit the one-prefix plugin model",
-      "x": 162,
-      "y": -402,
+      "x": 154,
+      "y": 418,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#1-mastodons-fixed-absolute-api-paths-dont-fit-the-one-prefix-plugin-model",
       "bgColor": "#f2ecd2",
       "parent": "#c9pfmk"
@@ -75,8 +75,8 @@
     {
       "@id": "#rnyi3y",
       "name": "The loopback-to-/idp/credentials token bridge",
-      "x": 466,
-      "y": -308,
+      "x": -55,
+      "y": 499,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#2-the-loopback-to-idpcredentials-token-bridge",
       "bgColor": "#f2ecd2",
       "parent": "#c9pfmk"
@@ -84,8 +84,8 @@
     {
       "@id": "#ph8a5e",
       "name": "base64url-of-URL ids collide with find-my-way's maxParamLength",
-      "x": 496,
-      "y": -64,
+      "x": -225,
+      "y": 373,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#3-base64url-of-url-ids-collide-with-find-my-ways-maxparamlength",
       "bgColor": "#f2ecd2",
       "parent": "#c9pfmk"
@@ -93,8 +93,8 @@
     {
       "@id": "#uncmtp",
       "name": "Pod discovery for the local public timeline needs config.podsRoot",
-      "x": 521,
-      "y": 236,
+      "x": -463,
+      "y": 311,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#4-pod-discovery-for-the-local-public-timeline-needs-configpodsroot",
       "bgColor": "#f2ecd2",
       "parent": "#c9pfmk"
@@ -102,8 +102,8 @@
     {
       "@id": "#3vjzm2",
       "name": "Notifications = a read-time projection of the AP inbox",
-      "x": 238,
-      "y": 365,
+      "x": -483,
+      "y": 109,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#5-notifications-a-read-time-projection-of-the-ap-inbox",
       "bgColor": "#f2ecd2",
       "parent": "#c9pfmk"
@@ -111,8 +111,8 @@
     {
       "@id": "#6wz95i",
       "name": "Honestly stubbed / Wave B",
-      "x": 54,
-      "y": 499,
+      "x": -590,
+      "y": -12,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#6-honestly-stubbed-wave-b",
       "bgColor": "#f2ecd2",
       "parent": "#c9pfmk"
@@ -120,8 +120,8 @@
     {
       "@id": "#mkijzp",
       "name": "Mapping LDP containers ↔ Mastodon objects stays lossy",
-      "x": -152,
-      "y": 409,
+      "x": -477,
+      "y": -128,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/README.md#7-mapping-ldp-containers-mastodon-objects-stays-lossy",
       "bgColor": "#f2ecd2",
       "parent": "#c9pfmk"
@@ -129,8 +129,8 @@
     {
       "@id": "#wm3fr8",
       "name": "plugin.js",
-      "x": -215,
-      "y": 154,
+      "x": -142,
+      "y": -175,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/plugin.js",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -138,8 +138,8 @@
     {
       "@id": "#xx6ai9",
       "name": "activate()",
-      "x": -430,
-      "y": 217,
+      "x": -285,
+      "y": -349,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/plugin.js#L236",
       "bgColor": "#ddf2de",
       "parent": "#wm3fr8"
@@ -147,8 +147,8 @@
     {
       "@id": "#t5gcp9",
       "name": "test.js",
-      "x": -237,
-      "y": 109,
+      "x": -41,
+      "y": -210,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/mastodon/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -156,8 +156,8 @@
     {
       "@id": "#wdgxta",
       "name": "← JSS plugins",
-      "x": -249,
-      "y": 64,
+      "x": 74,
+      "y": -203,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

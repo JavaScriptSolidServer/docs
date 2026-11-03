@@ -21,8 +21,8 @@
     {
       "@id": "#bke9zd",
       "name": "The mapping",
-      "x": -236,
-      "y": -69,
+      "x": 198,
+      "y": -129,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/README.md#the-mapping",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#fuxupn",
       "name": "Authentication",
-      "x": -60,
-      "y": -206,
+      "x": 248,
+      "y": 66,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/README.md#authentication-bearer-passthrough-and-sigv4",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#5m2ws9",
       "name": "aws-cli",
-      "x": -249,
-      "y": -368,
+      "x": 500,
+      "y": -14,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/README.md#aws-cli",
       "bgColor": "#efe6ff",
       "parent": "#fuxupn"
@@ -48,8 +48,8 @@
     {
       "@id": "#bbimsx",
       "name": "rclone",
-      "x": 21,
-      "y": -501,
+      "x": 564,
+      "y": 146,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/README.md#rclone",
       "bgColor": "#efe6ff",
       "parent": "#fuxupn"
@@ -57,8 +57,8 @@
     {
       "@id": "#drrwuk",
       "name": "What maps / what doesn't",
-      "x": 197,
-      "y": -131,
+      "x": 152,
+      "y": 169,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/README.md#what-maps-what-doesnt",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#nsm2yi",
       "name": "Findings",
-      "x": 247,
-      "y": 64,
+      "x": -33,
+      "y": 211,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/README.md#findings",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#2xe78q",
       "name": "Run",
-      "x": 171,
-      "y": 155,
+      "x": -198,
+      "y": 129,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/README.md#run",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#jgw4tz",
       "name": "plugin.js",
-      "x": 22,
-      "y": 212,
+      "x": -248,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/plugin.js",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#bekswu",
       "name": "activate()",
-      "x": 44,
-      "y": 423,
+      "x": -496,
+      "y": -55,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/plugin.js#L283",
       "bgColor": "#ddf2de",
       "parent": "#jgw4tz"
@@ -102,8 +102,8 @@
     {
       "@id": "#pxrawa",
       "name": "test.js",
-      "x": -136,
-      "y": 178,
+      "x": -152,
+      "y": -169,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/s3/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -111,8 +111,8 @@
     {
       "@id": "#gsrdqa",
       "name": "← JSS plugins",
-      "x": -236,
-      "y": 69,
+      "x": 33,
+      "y": -211,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

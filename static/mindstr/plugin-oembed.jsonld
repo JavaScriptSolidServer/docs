@@ -21,8 +21,8 @@
     {
       "@id": "#wkrebf",
       "name": "A curl session",
-      "x": -246,
-      "y": -64,
+      "x": 189,
+      "y": -139,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#a-curl-session",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#bu5bte",
       "name": "What maps / what doesn't",
-      "x": -209,
-      "y": -117,
+      "x": 250,
+      "y": -64,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#what-maps-what-doesnt",
       "bgColor": "#e0c4f6",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#4hakzu",
       "name": "Findings",
-      "x": 310,
-      "y": -19,
+      "x": -47,
+      "y": 209,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#findings",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#yhcpjw",
       "name": "Discovery needs content/header injection on core routes",
-      "x": 20,
-      "y": -425,
+      "x": 346,
+      "y": 307,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#1-discovery-needs-contentheader-injection-on-core-routes-seam-8-third-consumer",
       "bgColor": "#ffe2e6",
       "parent": "#4hakzu"
@@ -57,8 +57,8 @@
     {
       "@id": "#m7mgcv",
       "name": "No rich type for pod HTML",
-      "x": 371,
-      "y": -390,
+      "x": 198,
+      "y": 473,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#2-no-rich-type-for-pod-html-a-deliberate-xss-refusal",
       "bgColor": "#ffe2e6",
       "parent": "#4hakzu"
@@ -66,8 +66,8 @@
     {
       "@id": "#gekznt",
       "name": "config.baseUrl/loopbackUrl again",
-      "x": 458,
-      "y": -171,
+      "x": 13,
+      "y": 409,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#3-configbaseurlloopbackurl-again-the-apiserverinfo-finding-nth-consumer",
       "bgColor": "#ffe2e6",
       "parent": "#4hakzu"
@@ -75,8 +75,8 @@
     {
       "@id": "#beqq5j",
       "name": "photo requires width/height, and nothing in the api provides them",
-      "x": 555,
-      "y": 170,
+      "x": -271,
+      "y": 453,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#4-photo-requires-widthheight-and-nothing-in-the-api-or-http-provides-them",
       "bgColor": "#ffe2e6",
       "parent": "#4hakzu"
@@ -84,8 +84,8 @@
     {
       "@id": "#6r28st",
       "name": "Private→404 is the right collapse, and loopback makes it free",
-      "x": 129,
-      "y": 411,
+      "x": -449,
+      "y": 186,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/README.md#5-private404-is-the-right-collapse-and-loopback-makes-it-free",
       "bgColor": "#ffe2e6",
       "parent": "#4hakzu"
@@ -93,8 +93,8 @@
     {
       "@id": "#d5e2jv",
       "name": "plugin.js",
-      "x": -167,
-      "y": 158,
+      "x": -228,
+      "y": -88,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/plugin.js",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#3g77sx",
       "name": "activate()",
-      "x": -334,
-      "y": 316,
+      "x": -455,
+      "y": -175,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/plugin.js#L173",
       "bgColor": "#fbe8d3",
       "parent": "#d5e2jv"
@@ -111,8 +111,8 @@
     {
       "@id": "#ucs9ug",
       "name": "test.js",
-      "x": -219,
-      "y": 109,
+      "x": -115,
+      "y": -189,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/oembed/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#tse2je",
       "name": "← JSS plugins",
-      "x": -246,
-      "y": 65,
+      "x": 47,
+      "y": -209,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

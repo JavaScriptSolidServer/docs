@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#rfrezv",
+      "@id": "#8f9s7w",
       "name": "#11 Roadmap: state of the repo, and whe…",
-      "x": 134,
-      "y": -179,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/11",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#wjrmez",
+      "@id": "#xdptk7",
       "name": "← plugins issues",
-      "x": -134,
-      "y": 179,
+      "x": -217,
+      "y": -106,
       "link": "./issues-plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

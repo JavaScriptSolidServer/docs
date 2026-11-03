@@ -21,8 +21,8 @@
     {
       "@id": "#qnf7j2",
       "name": "How it works",
-      "x": -202,
-      "y": -125,
+      "x": 228,
+      "y": -86,
       "link": "https://jss.live/docs/features/access-control#how-it-works",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#rx55k2",
       "name": "ACL Structure",
-      "x": 77,
-      "y": -202,
+      "x": 167,
+      "y": 158,
       "link": "https://jss.live/docs/features/access-control#acl-structure",
       "bgColor": "#e9c1ef",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#ux93wm",
       "name": "Access Modes",
-      "x": 250,
-      "y": 0,
+      "x": -125,
+      "y": 184,
       "link": "https://jss.live/docs/features/access-control#access-modes",
       "bgColor": "#fec0b1",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#a464iu",
       "name": "Agent Types",
-      "x": 77,
-      "y": 202,
+      "x": -245,
+      "y": -44,
       "link": "https://jss.live/docs/features/access-control#agent-types",
       "bgColor": "#d7d59b",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#simp87",
       "name": "← Features",
-      "x": -202,
-      "y": 125,
+      "x": -26,
+      "y": -211,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

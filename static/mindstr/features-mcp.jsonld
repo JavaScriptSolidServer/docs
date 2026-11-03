@@ -21,8 +21,8 @@
     {
       "@id": "#ir6eif",
       "name": "Why this matters",
-      "x": -256,
-      "y": -32,
+      "x": 178,
+      "y": -149,
       "link": "https://jss.live/docs/features/mcp#why-this-matters",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#bwj4g5",
       "name": "Quick start",
-      "x": -222,
-      "y": -98,
+      "x": 243,
+      "y": -50,
       "link": "https://jss.live/docs/features/mcp#quick-start",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#9fjvd8",
       "name": "Smoke test with curl",
-      "x": -443,
-      "y": -196,
+      "x": 486,
+      "y": -100,
       "link": "https://jss.live/docs/features/mcp#smoke-test-with-curl",
       "bgColor": "#efe6ff",
       "parent": "#bwj4g5"
@@ -48,8 +48,8 @@
     {
       "@id": "#6fwnzy",
       "name": "Auth",
-      "x": -174,
-      "y": -152,
+      "x": 239,
+      "y": 63,
       "link": "https://jss.live/docs/features/mcp#auth",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#rtnzsk",
       "name": "Tools",
-      "x": 110,
-      "y": -246,
+      "x": 111,
+      "y": 246,
       "link": "https://jss.live/docs/features/mcp#tools",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#v8phzs",
       "name": "Resource CRUD",
-      "x": -173,
-      "y": -399,
+      "x": 366,
+      "y": 289,
       "link": "https://jss.live/docs/features/mcp#resource-crud",
       "bgColor": "#ffe4d9",
       "parent": "#rtnzsk"
@@ -75,8 +75,8 @@
     {
       "@id": "#izxsmt",
       "name": "Skill discovery",
-      "x": -67,
-      "y": -498,
+      "x": 366,
+      "y": 393,
       "link": "https://jss.live/docs/features/mcp#skill-discovery",
       "bgColor": "#ffe4d9",
       "parent": "#rtnzsk"
@@ -84,8 +84,8 @@
     {
       "@id": "#er3xwg",
       "name": "Docs",
-      "x": 63,
-      "y": -422,
+      "x": 248,
+      "y": 369,
       "link": "https://jss.live/docs/features/mcp#docs",
       "bgColor": "#ffe4d9",
       "parent": "#rtnzsk"
@@ -93,8 +93,8 @@
     {
       "@id": "#3p4wn2",
       "name": "ACL editing",
-      "x": 210,
-      "y": -469,
+      "x": 212,
+      "y": 468,
       "link": "https://jss.live/docs/features/mcp#acl-editing",
       "bgColor": "#ffe4d9",
       "parent": "#rtnzsk"
@@ -102,8 +102,8 @@
     {
       "@id": "#f356md",
       "name": "Subscribe",
-      "x": 282,
-      "y": -351,
+      "x": 107,
+      "y": 415,
       "link": "https://jss.live/docs/features/mcp#subscribe-live-change-notifications",
       "bgColor": "#ffe4d9",
       "parent": "#rtnzsk"
@@ -111,8 +111,8 @@
     {
       "@id": "#c9pfmk",
       "name": "Federation",
-      "x": 438,
-      "y": -336,
+      "x": 38,
+      "y": 500,
       "link": "https://jss.live/docs/features/mcp#federation-bot-to-bot",
       "bgColor": "#ffe4d9",
       "parent": "#rtnzsk"
@@ -120,8 +120,8 @@
     {
       "@id": "#metvfr",
       "name": "Introspection",
-      "x": 440,
-      "y": -202,
+      "x": -44,
+      "y": 423,
       "link": "https://jss.live/docs/features/mcp#introspection",
       "bgColor": "#ffe4d9",
       "parent": "#rtnzsk"
@@ -129,8 +129,8 @@
     {
       "@id": "#rnyi3y",
       "name": "Wiring up Claude Desktop",
-      "x": 285,
-      "y": -3,
+      "x": -127,
+      "y": 183,
       "link": "https://jss.live/docs/features/mcp#wiring-up-claude-desktop",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -138,8 +138,8 @@
     {
       "@id": "#ph8a5e",
       "name": "How Charlie works",
-      "x": 235,
-      "y": 73,
+      "x": -220,
+      "y": 101,
       "link": "https://jss.live/docs/features/mcp#how-charlie-works",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -147,8 +147,8 @@
     {
       "@id": "#uncmtp",
       "name": "Footguns",
-      "x": 21,
-      "y": 212,
+      "x": -231,
+      "y": -82,
       "link": "https://jss.live/docs/features/mcp#footguns",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -156,8 +156,8 @@
     {
       "@id": "#3vjzm2",
       "name": "Use absolute WebIDs in writeacl agents",
-      "x": 302,
-      "y": 339,
+      "x": -500,
+      "y": -15,
       "link": "https://jss.live/docs/features/mcp#use-absolute-webids-in-writeacl-agents",
       "bgColor": "#d1f3f4",
       "parent": "#uncmtp"
@@ -165,8 +165,8 @@
     {
       "@id": "#6wz95i",
       "name": "writeacl will refuse if you'd lock yourself out",
-      "x": 47,
-      "y": 500,
+      "x": -544,
+      "y": -194,
       "link": "https://jss.live/docs/features/mcp#writeacl-will-refuse-if-youd-lock-yourself-out",
       "bgColor": "#d1f3f4",
       "parent": "#uncmtp"
@@ -174,8 +174,8 @@
     {
       "@id": "#mkijzp",
       "name": "Subscribe needs an SSE-capable client",
-      "x": -232,
-      "y": 377,
+      "x": -364,
+      "y": -291,
       "link": "https://jss.live/docs/features/mcp#subscribe-needs-an-sse-capable-client",
       "bgColor": "#d1f3f4",
       "parent": "#uncmtp"
@@ -183,8 +183,8 @@
     {
       "@id": "#wm3fr8",
       "name": "What's not yet included",
-      "x": -221,
-      "y": 99,
+      "x": -90,
+      "y": -204,
       "link": "https://jss.live/docs/features/mcp#whats-not-yet-included",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -192,8 +192,8 @@
     {
       "@id": "#xx6ai9",
       "name": "← Features",
-      "x": -248,
-      "y": 30,
+      "x": 74,
+      "y": -206,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

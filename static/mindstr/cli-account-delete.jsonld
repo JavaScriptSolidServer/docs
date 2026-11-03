@@ -21,32 +21,32 @@
     {
       "@id": "#dnz3gb",
       "name": "--root <path>",
-      "x": -177,
-      "y": -150,
+      "x": 241,
+      "y": -55,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#3ifse5",
       "name": "--yes",
-      "x": 177,
-      "y": -150,
+      "x": 65,
+      "y": 205,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#ju3xzh",
       "name": "--purge",
-      "x": 177,
-      "y": 150,
+      "x": -241,
+      "y": 55,
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
       "@id": "#p46jmx",
       "name": "← jss account",
-      "x": -177,
-      "y": 150,
+      "x": -65,
+      "y": -205,
       "link": "./cli-account.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

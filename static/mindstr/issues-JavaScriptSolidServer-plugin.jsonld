@@ -21,16 +21,16 @@
     {
       "@id": "#5gpqg5",
       "name": "Jul 2026 · 4",
-      "x": -205,
-      "y": -121,
+      "x": 224,
+      "y": -94,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#wzta82",
       "name": "#614 Plugin id derivation defeats the po…",
-      "x": -487,
-      "y": -95,
+      "x": 338,
+      "y": -318,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/614",
       "bgColor": "#daeeff",
       "parent": "#5gpqg5"
@@ -38,8 +38,8 @@
     {
       "@id": "#jw3kjf",
       "name": "#615 Plugin metadata: let plugins declar…",
-      "x": -524,
-      "y": -231,
+      "x": 493,
+      "y": -272,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/615",
       "bgColor": "#daeeff",
       "parent": "#5gpqg5"
@@ -47,8 +47,8 @@
     {
       "@id": "#r76gtv",
       "name": "#582 appPaths: WAC-hook exemption for ap…",
-      "x": -371,
-      "y": -285,
+      "x": 473,
+      "y": -138,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/582",
       "bgColor": "#daeeff",
       "parent": "#5gpqg5"
@@ -56,177 +56,185 @@
     {
       "@id": "#qmk4u7",
       "name": "#587 idp: token refresh for the programm…",
-      "x": -350,
-      "y": -419,
+      "x": 588,
+      "y": -42,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/587",
       "bgColor": "#daeeff",
       "parent": "#5gpqg5"
     },
     {
       "@id": "#ysvez3",
-      "name": "Jun 2026 · 1–8 of 16",
-      "x": 233,
-      "y": -174,
-      "bgColor": "#f3bee1",
+      "name": "Jun 2026 · 1–6 of 16",
+      "x": 131,
+      "y": 181,
+      "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
       "@id": "#83zuf9",
       "name": "#17 Hybrid storage backend: MongoDB for…",
-      "x": -5,
-      "y": -447,
+      "x": 461,
+      "y": 165,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/17",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f7e4f9",
       "parent": "#ysvez3"
     },
     {
       "@id": "#vrzefk",
       "name": "#133 Explore web-standards OIDC from paa…",
-      "x": 124,
-      "y": -491,
+      "x": 472,
+      "y": 292,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/133",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f7e4f9",
       "parent": "#ysvez3"
     },
     {
       "@id": "#hvyxxr",
       "name": "#134 Unify WebID and ActivityPub actor U…",
-      "x": 225,
-      "y": -401,
+      "x": 314,
+      "y": 336,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/134",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f7e4f9",
       "parent": "#ysvez3"
     },
     {
       "@id": "#qahfae",
       "name": "#154 db: add SQLite backend for mobile/e…",
-      "x": 390,
-      "y": -357,
+      "x": 246,
+      "y": 459,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/154",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f7e4f9",
       "parent": "#ysvez3"
     },
     {
       "@id": "#tgdsut",
       "name": "#163 remoteStorage: deferred improvement…",
-      "x": 414,
-      "y": -238,
+      "x": 90,
+      "y": 413,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/163",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f7e4f9",
       "parent": "#ysvez3"
     },
     {
       "@id": "#ijf3kk",
       "name": "#185 Token-based storage quota: hold tok…",
-      "x": 556,
-      "y": -167,
+      "x": -39,
+      "y": 503,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/185",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f7e4f9",
       "parent": "#ysvez3"
     },
     {
       "@id": "#anp567",
-      "name": "#322 Git scratchpads — instant, ephemera…",
-      "x": 498,
-      "y": -36,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/322",
-      "bgColor": "#fce3f3",
-      "parent": "#ysvez3"
+      "name": "Jun 2026 · 7–12 of 16",
+      "x": -235,
+      "y": 73,
+      "bgColor": "#fec0b1",
+      "parent": "#this"
     },
     {
       "@id": "#svn3gp",
-      "name": "#445 feat: NIP-05 mapping at /.well-know…",
-      "x": 581,
-      "y": 85,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/445",
-      "bgColor": "#fce3f3",
-      "parent": "#ysvez3"
+      "name": "#322 Git scratchpads — instant, ephemera…",
+      "x": -282,
+      "y": 367,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/322",
+      "bgColor": "#ffe3dc",
+      "parent": "#anp567"
     },
     {
       "@id": "#vbyvwg",
-      "name": "Jun 2026 · 9–16 of 16",
-      "x": -40,
-      "y": 261,
-      "bgColor": "#f1c99c",
-      "parent": "#this"
+      "name": "#445 feat: NIP-05 mapping at /.well-know…",
+      "x": -442,
+      "y": 323,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/445",
+      "bgColor": "#ffe3dc",
+      "parent": "#anp567"
     },
     {
       "@id": "#ahre4u",
       "name": "#476 Git auto-init: optional `X-Git-Remo…",
-      "x": 344,
-      "y": 308,
+      "x": -444,
+      "y": 195,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/476",
-      "bgColor": "#fbe8d3",
-      "parent": "#vbyvwg"
+      "bgColor": "#ffe3dc",
+      "parent": "#anp567"
     },
     {
       "@id": "#ibdfdz",
       "name": "#505 One-time passwords (OTP) for low-fr…",
-      "x": 285,
-      "y": 446,
+      "x": -575,
+      "y": 113,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/505",
-      "bgColor": "#fbe8d3",
-      "parent": "#vbyvwg"
+      "bgColor": "#ffe3dc",
+      "parent": "#anp567"
     },
     {
       "@id": "#z7edqb",
       "name": "#506 Capability URIs: scoped, time-bound…",
-      "x": 123,
-      "y": 363,
+      "x": -500,
+      "y": -9,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/506",
-      "bgColor": "#fbe8d3",
-      "parent": "#vbyvwg"
+      "bgColor": "#ffe3dc",
+      "parent": "#anp567"
     },
     {
       "@id": "#2qq2fn",
       "name": "#507 Solid → WebDAV bridge — mount any p…",
-      "x": -3,
-      "y": 501,
+      "x": -569,
+      "y": -133,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/507",
-      "bgColor": "#fbe8d3",
-      "parent": "#vbyvwg"
+      "bgColor": "#ffe3dc",
+      "parent": "#anp567"
     },
     {
       "@id": "#ri2pzw",
-      "name": "#509 SPARQL endpoint + write-time index…",
-      "x": -127,
-      "y": 408,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/509",
-      "bgColor": "#fbe8d3",
-      "parent": "#vbyvwg"
+      "name": "Jun 2026 · 13–16 of 16",
+      "x": -138,
+      "y": -192,
+      "bgColor": "#d7d59b",
+      "parent": "#this"
     },
     {
       "@id": "#qbizrq",
-      "name": "#515 Feature: Mastodon-API shim — make J…",
-      "x": -288,
-      "y": 453,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/515",
-      "bgColor": "#fbe8d3",
-      "parent": "#vbyvwg"
+      "name": "#509 SPARQL endpoint + write-time index…",
+      "x": -366,
+      "y": -290,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/509",
+      "bgColor": "#eeedd3",
+      "parent": "#ri2pzw"
     },
     {
       "@id": "#yyfuzg",
-      "name": "#516 Feature: Soapbox client compatibili…",
-      "x": -346,
-      "y": 307,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/516",
-      "bgColor": "#fbe8d3",
-      "parent": "#vbyvwg"
+      "name": "#515 Feature: Mastodon-API shim — make J…",
+      "x": -320,
+      "y": -438,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/515",
+      "bgColor": "#eeedd3",
+      "parent": "#ri2pzw"
     },
     {
       "@id": "#xet7zf",
-      "name": "#564 Migrate optional features to the pl…",
-      "x": -502,
-      "y": 263,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564",
-      "bgColor": "#fbe8d3",
-      "parent": "#vbyvwg"
+      "name": "#516 Feature: Soapbox client compatibili…",
+      "x": -160,
+      "y": -394,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/516",
+      "bgColor": "#eeedd3",
+      "parent": "#ri2pzw"
     },
     {
       "@id": "#wjzwqw",
+      "name": "#564 Migrate optional features to the pl…",
+      "x": -46,
+      "y": -500,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/564",
+      "bgColor": "#eeedd3",
+      "parent": "#ri2pzw"
+    },
+    {
+      "@id": "#cpmgtf",
       "name": "← JavaScriptSolidServer issues",
-      "x": -248,
-      "y": 66,
+      "x": 98,
+      "y": -201,
       "link": "./issues-JavaScriptSolidServer.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -282,52 +290,56 @@
       "end": 12
     },
     {
-      "start": 6,
+      "start": 0,
       "end": 13
     },
     {
-      "start": 6,
+      "start": 13,
       "end": 14
     },
     {
-      "start": 0,
+      "start": 13,
       "end": 15
     },
     {
-      "start": 15,
+      "start": 13,
       "end": 16
     },
     {
-      "start": 15,
+      "start": 13,
       "end": 17
     },
     {
-      "start": 15,
+      "start": 13,
       "end": 18
     },
     {
-      "start": 15,
+      "start": 13,
       "end": 19
     },
     {
-      "start": 15,
+      "start": 0,
       "end": 20
     },
     {
-      "start": 15,
+      "start": 20,
       "end": 21
     },
     {
-      "start": 15,
+      "start": 20,
       "end": 22
     },
     {
-      "start": 15,
+      "start": 20,
       "end": 23
     },
     {
-      "start": 0,
+      "start": 20,
       "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
     }
   ],
   "selectedNode": 0

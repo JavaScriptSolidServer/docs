@@ -21,16 +21,16 @@
     {
       "@id": "#75s7ir",
       "name": "exports",
-      "x": 185,
-      "y": -143,
+      "x": 208,
+      "y": 118,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#7x3k79",
       "name": "createAppsHandler()",
-      "x": -362,
-      "y": -293,
+      "x": 428,
+      "y": -220,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/mastodon.js#L37",
       "bgColor": "#daeeff",
       "parent": "#75s7ir"
@@ -38,8 +38,8 @@
     {
       "@id": "#4af2dc",
       "name": "createVerifyCredentialsHandler()",
-      "x": 87,
-      "y": -496,
+      "x": 589,
+      "y": 35,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/mastodon.js#L69",
       "bgColor": "#daeeff",
       "parent": "#75s7ir"
@@ -47,8 +47,8 @@
     {
       "@id": "#7iui3z",
       "name": "createInstanceHandler()",
-      "x": 460,
-      "y": -167,
+      "x": 375,
+      "y": 281,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/mastodon.js#L107",
       "bgColor": "#daeeff",
       "parent": "#75s7ir"
@@ -56,8 +56,8 @@
     {
       "@id": "#bq9ccn",
       "name": "getClient()",
-      "x": 555,
-      "y": 171,
+      "x": 190,
+      "y": 475,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/mastodon.js#L141",
       "bgColor": "#daeeff",
       "parent": "#75s7ir"
@@ -65,8 +65,8 @@
     {
       "@id": "#3yirdr",
       "name": "default export",
-      "x": 283,
-      "y": 350,
+      "x": -74,
+      "y": 420,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/mastodon.js#L149",
       "bgColor": "#daeeff",
       "parent": "#75s7ir"
@@ -74,8 +74,8 @@
     {
       "@id": "#ptf2jy",
       "name": "155 lines",
-      "x": -111,
-      "y": 190,
+      "x": -246,
+      "y": 35,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/mastodon.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -83,8 +83,8 @@
     {
       "@id": "#4bfy6j",
       "name": "← routes",
-      "x": -233,
-      "y": 77,
+      "x": -57,
+      "y": -207,
       "link": "./src-ap-routes.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

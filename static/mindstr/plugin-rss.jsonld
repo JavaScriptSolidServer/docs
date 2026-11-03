@@ -21,8 +21,8 @@
     {
       "@id": "#eqxhbv",
       "name": "Endpoints",
-      "x": -226,
-      "y": -91,
+      "x": 207,
+      "y": -120,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/rss/README.md#endpoints",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#m3zt7z",
       "name": "Subscribe",
-      "x": -59,
-      "y": -207,
+      "x": 239,
+      "y": 66,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/rss/README.md#subscribe",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#xzgaz8",
       "name": "Property mapping",
-      "x": 158,
-      "y": -165,
+      "x": 91,
+      "y": 198,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/rss/README.md#property-mapping",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#brfb5w",
       "name": "Findings",
-      "x": 292,
-      "y": 6,
+      "x": -125,
+      "y": 184,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/rss/README.md#findings",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#45xtcc",
       "name": "plugin.js",
-      "x": 152,
-      "y": 169,
+      "x": -294,
+      "y": 32,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/rss/plugin.js",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#ybwvcb",
       "name": "activate()",
-      "x": 303,
-      "y": 338,
+      "x": -494,
+      "y": 63,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/rss/plugin.js#L224",
       "bgColor": "#f2ecd2",
       "parent": "#45xtcc"
@@ -75,8 +75,8 @@
     {
       "@id": "#i9qywf",
       "name": "test.js",
-      "x": -59,
-      "y": 207,
+      "x": -183,
+      "y": -145,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/rss/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#iyzq7q",
       "name": "← JSS plugins",
-      "x": -226,
-      "y": 91,
+      "x": 19,
+      "y": -212,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -19,28 +19,28 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#f4wxnt",
-      "name": "filesystem.js · 11",
-      "x": -100,
-      "y": -195,
+      "@id": "#qmxg97",
+      "name": "filesystem.js · 11 ›",
+      "x": 250,
+      "y": 0,
       "link": "./src-storage-filesystem-js.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#izya3w",
-      "name": "quota.js · 11",
-      "x": 247,
-      "y": 35,
+      "@id": "#g4d8c6",
+      "name": "quota.js · 11 ›",
+      "x": -125,
+      "y": 184,
       "link": "./src-storage-quota-js.jsonld",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#wpzfj8",
+      "@id": "#yzue8k",
       "name": "← src/",
-      "x": -137,
-      "y": 178,
+      "x": -125,
+      "y": -184,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -19,109 +19,124 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#2z3p7w",
-      "name": "cid-doc-fetch.js",
-      "x": -238,
-      "y": -65,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/cid-doc-fetch.js",
-      "bgColor": "#acd5ff",
-      "parent": "#this"
-    },
-    {
-      "@id": "#pvzwd8",
-      "name": "fetchCidDocument()",
-      "x": -476,
-      "y": -129,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/cid-doc-fetch.js#L79",
-      "bgColor": "#daeeff",
-      "parent": "#2z3p7w"
-    },
-    {
-      "@id": "#57iy7q",
-      "name": "did-nostr.js · 3",
-      "x": -155,
-      "y": -166,
-      "link": "./src-auth-did-nostr-js.jsonld",
-      "bgColor": "#d9c6fb",
-      "parent": "#this"
-    },
-    {
-      "@id": "#qprvms",
-      "name": "lws-cid.js · 3",
-      "x": -45,
-      "y": -211,
-      "link": "./src-auth-lws-cid-js.jsonld",
-      "bgColor": "#f9bdd5",
-      "parent": "#this"
-    },
-    {
       "@id": "#7fucmt",
-      "name": "middleware.js · 3",
-      "x": 113,
-      "y": -193,
-      "link": "./src-auth-middleware-js.jsonld",
-      "bgColor": "#fcc2a9",
+      "name": "around token.js · 6",
+      "x": 240,
+      "y": 61,
+      "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#t922yq",
-      "name": "nostr-keys.js · 4",
-      "x": 214,
-      "y": -110,
-      "link": "./src-auth-nostr-keys-js.jsonld",
-      "bgColor": "#e0d199",
-      "parent": "#this"
+      "name": "token.js · 5 ›",
+      "x": 399,
+      "y": -256,
+      "link": "./src-auth-token-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#7fucmt"
     },
     {
       "@id": "#26rfi6",
-      "name": "nostr.js · 6",
-      "x": 250,
-      "y": 4,
-      "link": "./src-auth-nostr-js.jsonld",
-      "bgColor": "#b1dfb5",
-      "parent": "#this"
+      "name": "middleware.js · 3 ›",
+      "x": 568,
+      "y": -135,
+      "link": "./src-auth-middleware-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#7fucmt"
     },
     {
       "@id": "#u28rkq",
-      "name": "solid-oidc.js · 4",
-      "x": 209,
-      "y": 116,
+      "name": "solid-oidc.js · 4 ›",
+      "x": 497,
+      "y": 45,
       "link": "./src-auth-solid-oidc-js.jsonld",
-      "bgColor": "#95e1e3",
-      "parent": "#this"
+      "bgColor": "#daeeff",
+      "parent": "#7fucmt"
     },
     {
       "@id": "#varvfj",
-      "name": "token-secret.js · 3",
-      "x": 100,
-      "y": 198,
-      "link": "./src-auth-token-secret-js.jsonld",
-      "bgColor": "#acd5ff",
-      "parent": "#this"
+      "name": "lws-cid.js · 3 ›",
+      "x": 523,
+      "y": 232,
+      "link": "./src-auth-lws-cid-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#7fucmt"
     },
     {
       "@id": "#ucttef",
-      "name": "token.js · 5",
-      "x": -58,
-      "y": 208,
-      "link": "./src-auth-token-js.jsonld",
-      "bgColor": "#d9c6fb",
-      "parent": "#this"
+      "name": "nostr.js · 6 ›",
+      "x": 329,
+      "y": 320,
+      "link": "./src-auth-nostr-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#7fucmt"
     },
     {
       "@id": "#vzipyd",
-      "name": "webid-tls.js · 5",
-      "x": -172,
-      "y": 154,
+      "name": "webid-tls.js · 5 ›",
+      "x": 199,
+      "y": 472,
       "link": "./src-auth-webid-tls-js.jsonld",
-      "bgColor": "#f9bdd5",
-      "parent": "#this"
+      "bgColor": "#daeeff",
+      "parent": "#7fucmt"
     },
     {
       "@id": "#miy6ts",
+      "name": "around did-nostr.js · 2",
+      "x": -153,
+      "y": 168,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ft3k8u",
+      "name": "did-nostr.js · 3 ›",
+      "x": -196,
+      "y": 391,
+      "link": "./src-auth-did-nostr-js.jsonld",
+      "bgColor": "#fce3f3",
+      "parent": "#miy6ts"
+    },
+    {
+      "@id": "#it6792",
+      "name": "nostr-keys.js · 4 ›",
+      "x": -465,
+      "y": 309,
+      "link": "./src-auth-nostr-keys-js.jsonld",
+      "bgColor": "#fce3f3",
+      "parent": "#miy6ts"
+    },
+    {
+      "@id": "#dnz3gb",
+      "name": "other · 2",
+      "x": -240,
+      "y": -61,
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ifse5",
+      "name": "cid-doc-fetch.js · 1 ›",
+      "x": -500,
+      "y": -18,
+      "link": "./src-auth-cid-doc-fetch-js.jsonld",
+      "bgColor": "#fbe8d3",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#ju3xzh",
+      "name": "token-secret.js · 3 ›",
+      "x": -504,
+      "y": -261,
+      "link": "./src-auth-token-secret-js.jsonld",
+      "bgColor": "#fbe8d3",
+      "parent": "#dnz3gb"
+    },
+    {
+      "@id": "#p46jmx",
       "name": "← src/",
-      "x": -241,
-      "y": 56,
+      "x": -19,
+      "y": -212,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -137,23 +152,23 @@
       "end": 2
     },
     {
-      "start": 0,
+      "start": 1,
       "end": 3
     },
     {
-      "start": 0,
+      "start": 1,
       "end": 4
     },
     {
-      "start": 0,
+      "start": 1,
       "end": 5
     },
     {
-      "start": 0,
+      "start": 1,
       "end": 6
     },
     {
-      "start": 0,
+      "start": 1,
       "end": 7
     },
     {
@@ -161,11 +176,11 @@
       "end": 8
     },
     {
-      "start": 0,
+      "start": 8,
       "end": 9
     },
     {
-      "start": 0,
+      "start": 8,
       "end": 10
     },
     {
@@ -173,8 +188,16 @@
       "end": 11
     },
     {
-      "start": 0,
+      "start": 11,
       "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
     }
   ],
   "selectedNode": 0

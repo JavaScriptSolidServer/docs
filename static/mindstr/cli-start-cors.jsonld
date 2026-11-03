@@ -20,40 +20,40 @@
     {
       "@id": "#7348h9",
       "name": "--[no-]cors-proxy",
-      "x": -220,
-      "y": -101,
+      "x": 228,
+      "y": -86,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#jtny2v",
       "name": "--cors-proxy-max-bytes <n>",
-      "x": 27,
-      "y": -211,
+      "x": 167,
+      "y": 158,
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
       "@id": "#zvvi4r",
       "name": "--cors-proxy-timeout-ms <ms>",
-      "x": 280,
-      "y": -8,
+      "x": -125,
+      "y": 184,
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
       "@id": "#ezqtt6",
       "name": "--cors-proxy-max-redirects <n>",
-      "x": 23,
-      "y": 212,
+      "x": -245,
+      "y": -65,
       "bgColor": "#d7d59b",
       "parent": "#this"
     },
     {
       "@id": "#8edjsn",
       "name": "← jss start",
-      "x": -226,
-      "y": 91,
+      "x": -26,
+      "y": -211,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

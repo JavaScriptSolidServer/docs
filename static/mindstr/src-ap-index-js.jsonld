@@ -21,16 +21,16 @@
     {
       "@id": "#ab9ysn",
       "name": "exports",
-      "x": 96,
-      "y": -196,
+      "x": 249,
+      "y": 16,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#qhtzie",
       "name": "getActorHandler()",
-      "x": -324,
-      "y": -324,
+      "x": 425,
+      "y": -224,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/index.js#L18",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -38,8 +38,8 @@
     {
       "@id": "#2sgmjt",
       "name": "activityPubPlugin()",
-      "x": 257,
-      "y": -451,
+      "x": 588,
+      "y": 37,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/index.js#L29",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -47,8 +47,8 @@
     {
       "@id": "#j9h6ge",
       "name": "default export",
-      "x": 500,
-      "y": -10,
+      "x": 381,
+      "y": 275,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/index.js#L217",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -56,8 +56,8 @@
     {
       "@id": "#ejt2c7",
       "name": "218 lines",
-      "x": 49,
-      "y": 208,
+      "x": -148,
+      "y": 171,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/index.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -65,8 +65,8 @@
     {
       "@id": "#tvx8v7",
       "name": "← ap",
-      "x": -208,
-      "y": 118,
+      "x": -117,
+      "y": -188,
       "link": "./src-ap.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

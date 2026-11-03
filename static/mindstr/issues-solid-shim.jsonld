@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#gdy6vg",
-      "name": "unlabelled · 5",
-      "x": 0,
-      "y": -212,
+      "@id": "#hnkmaq",
+      "name": "unlabelled · 5 ›",
+      "x": 217,
+      "y": 106,
       "link": "./issues-solid-shim-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#tuysn4",
+      "@id": "#jsu8k6",
       "name": "← solid-shim",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./repo-solid-shim.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

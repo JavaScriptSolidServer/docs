@@ -21,8 +21,8 @@
     {
       "@id": "#v5njcx",
       "name": "What is Solid?",
-      "x": -181,
-      "y": -147,
+      "x": 241,
+      "y": -55,
       "link": "https://jss.live/docs/getting-started/introduction#what-is-solid",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#z8kicz",
       "name": "Why JSS?",
-      "x": 165,
-      "y": -160,
+      "x": 65,
+      "y": 205,
       "link": "https://jss.live/docs/getting-started/introduction#why-jss",
       "bgColor": "#f3bee1",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#7348h9",
       "name": "Key Features",
-      "x": 195,
-      "y": 133,
+      "x": -241,
+      "y": 55,
       "link": "https://jss.live/docs/getting-started/introduction#key-features",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#jtny2v",
       "name": "← Getting Started",
-      "x": -165,
-      "y": 160,
+      "x": -65,
+      "y": -205,
       "link": "./getting-started.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

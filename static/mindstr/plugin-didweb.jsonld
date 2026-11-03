@@ -21,8 +21,8 @@
     {
       "@id": "#ucttef",
       "name": "The DID document",
-      "x": -222,
-      "y": -98,
+      "x": 214,
+      "y": -110,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/README.md#the-did-document",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#vzipyd",
       "name": "Verification-method derivation",
-      "x": -444,
-      "y": -196,
+      "x": 427,
+      "y": -221,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/README.md#verification-method-derivation-ties-to-nostr-ap-identity",
       "bgColor": "#daeeff",
       "parent": "#ucttef"
@@ -39,8 +39,8 @@
     {
       "@id": "#miy6ts",
       "name": "Findings",
-      "x": -84,
-      "y": -200,
+      "x": 225,
+      "y": 93,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/README.md#findings",
       "bgColor": "#e9c1ef",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#ft3k8u",
       "name": "plugin.js",
-      "x": 245,
-      "y": 65,
+      "x": -125,
+      "y": 184,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js",
       "bgColor": "#fec0b1",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#it6792",
       "name": "base58btcEncode()",
-      "x": 231,
-      "y": -377,
+      "x": 136,
+      "y": 409,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L80",
       "bgColor": "#ffe3dc",
       "parent": "#ft3k8u"
@@ -66,8 +66,8 @@
     {
       "@id": "#dnz3gb",
       "name": "toMultikey()",
-      "x": 484,
-      "y": -287,
+      "x": -22,
+      "y": 501,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L103",
       "bgColor": "#ffe3dc",
       "parent": "#ft3k8u"
@@ -75,8 +75,8 @@
     {
       "@id": "#3ifse5",
       "name": "compressedFromFForm()",
-      "x": 498,
-      "y": -34,
+      "x": -178,
+      "y": 397,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L136",
       "bgColor": "#ffe3dc",
       "parent": "#ft3k8u"
@@ -84,8 +84,8 @@
     {
       "@id": "#ju3xzh",
       "name": "compressedFromJwk()",
-      "x": 519,
-      "y": 239,
+      "x": -378,
+      "y": 385,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L152",
       "bgColor": "#ffe3dc",
       "parent": "#ft3k8u"
@@ -93,8 +93,8 @@
     {
       "@id": "#p46jmx",
       "name": "extractSecp256k1()",
-      "x": 253,
-      "y": 366,
+      "x": -423,
+      "y": 226,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L169",
       "bgColor": "#ffe3dc",
       "parent": "#ft3k8u"
@@ -102,8 +102,8 @@
     {
       "@id": "#bu7kuh",
       "name": "activate()",
-      "x": 22,
-      "y": 501,
+      "x": -572,
+      "y": 123,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/plugin.js#L206",
       "bgColor": "#ffe3dc",
       "parent": "#ft3k8u"
@@ -111,8 +111,8 @@
     {
       "@id": "#2iffkx",
       "name": "test.js",
-      "x": -172,
-      "y": 154,
+      "x": -207,
+      "y": -119,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/didweb/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#ssgz3q",
       "name": "← JSS plugins",
-      "x": -241,
-      "y": 66,
+      "x": 6,
+      "y": -212,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

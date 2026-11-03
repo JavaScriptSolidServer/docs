@@ -21,8 +21,8 @@
     {
       "@id": "#eitj67",
       "name": "Quick Start",
-      "x": -237,
-      "y": -69,
+      "x": 192,
+      "y": -137,
       "link": "https://jss.live/docs/features/live-reload#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#bpmjzd",
       "name": "How It Works",
-      "x": -138,
-      "y": -177,
+      "x": 250,
+      "y": 0,
       "link": "https://jss.live/docs/features/live-reload#how-it-works",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#r8aetn",
       "name": "Configuration",
-      "x": 18,
-      "y": -212,
+      "x": 192,
+      "y": 137,
       "link": "https://jss.live/docs/features/live-reload#configuration",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#j3rh5f",
       "name": "What Triggers a Reload",
-      "x": 188,
-      "y": -140,
+      "x": 43,
+      "y": 209,
       "link": "https://jss.live/docs/features/live-reload#what-triggers-a-reload",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#mhgzj7",
       "name": "Debouncing",
-      "x": 250,
-      "y": 13,
+      "x": -125,
+      "y": 184,
       "link": "https://jss.live/docs/features/live-reload#debouncing",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#67qhwk",
       "name": "Filtered Files",
-      "x": 188,
-      "y": 140,
+      "x": -235,
+      "y": 73,
       "link": "https://jss.live/docs/features/live-reload#filtered-files",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#s9du6c",
       "name": "Example Workflow",
-      "x": 43,
-      "y": 209,
+      "x": -235,
+      "y": -73,
       "link": "https://jss.live/docs/features/live-reload#example-workflow",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#tjeu4p",
       "name": "Technical Details",
-      "x": -130,
-      "y": 182,
+      "x": -125,
+      "y": -184,
       "link": "https://jss.live/docs/features/live-reload#technical-details",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#x9rczq",
       "name": "← Features",
-      "x": -237,
-      "y": 69,
+      "x": 43,
+      "y": -209,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -20,24 +20,24 @@
     {
       "@id": "#ujs2ci",
       "name": "--[no-]idp",
-      "x": -137,
-      "y": -178,
+      "x": 250,
+      "y": 0,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#442pm7",
       "name": "--idp-issuer <url>",
-      "x": 250,
-      "y": 0,
+      "x": -125,
+      "y": 184,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#imr4n9",
       "name": "← jss start",
-      "x": -137,
-      "y": 178,
+      "x": -125,
+      "y": -184,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

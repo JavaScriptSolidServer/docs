@@ -19,244 +19,244 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#yzue8k",
+      "@id": "#a69dfq",
       "name": "Features",
-      "x": -248,
-      "y": -25,
+      "x": 172,
+      "y": -152,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#features",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#7jcj9y",
+      "@id": "#sfg4qv",
       "name": "How It Works",
-      "x": -209,
-      "y": -116,
+      "x": 236,
+      "y": -71,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#how-it-works",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#a69dfq",
+      "@id": "#xww8q9",
       "name": "Traditional Solid-OIDC Flow",
-      "x": -450,
-      "y": -185,
+      "x": 455,
+      "y": -177,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#traditional-solid-oidc-flow",
       "bgColor": "#efe6ff",
-      "parent": "#7jcj9y"
+      "parent": "#sfg4qv"
     },
     {
-      "@id": "#sfg4qv",
+      "@id": "#yv5i54",
       "name": "With Nostr-Solid Auth",
-      "x": -436,
-      "y": -338,
+      "x": 574,
+      "y": -115,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#with-nostr-solid-auth",
       "bgColor": "#efe6ff",
-      "parent": "#7jcj9y"
+      "parent": "#sfg4qv"
     },
     {
-      "@id": "#xww8q9",
+      "@id": "#cfextr",
       "name": "Prerequisites",
-      "x": -126,
-      "y": -171,
+      "x": 248,
+      "y": 28,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#prerequisites",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#yv5i54",
+      "@id": "#n4bn2e",
       "name": "Installation",
-      "x": -41,
-      "y": -217,
+      "x": 206,
+      "y": 120,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#installation",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#cfextr",
+      "@id": "#eud79w",
       "name": "Chrome/Edge/Brave",
-      "x": -130,
-      "y": -410,
+      "x": 438,
+      "y": 205,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#chromeedgebrave",
       "bgColor": "#ffe4d9",
-      "parent": "#yv5i54"
+      "parent": "#n4bn2e"
     },
     {
-      "@id": "#n4bn2e",
+      "@id": "#wn4gws",
       "name": "Firefox",
-      "x": -32,
-      "y": -501,
+      "x": 451,
+      "y": 323,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#firefox",
       "bgColor": "#ffe4d9",
-      "parent": "#yv5i54"
+      "parent": "#n4bn2e"
     },
     {
-      "@id": "#eud79w",
+      "@id": "#7urzyg",
       "name": "Usage",
-      "x": 90,
-      "y": -198,
+      "x": 119,
+      "y": 187,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#usage",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#wn4gws",
+      "@id": "#fcdibk",
       "name": "First Time Setup",
-      "x": 116,
-      "y": -406,
+      "x": 284,
+      "y": 350,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#first-time-setup",
       "bgColor": "#f2ecd2",
-      "parent": "#eud79w"
+      "parent": "#7urzyg"
     },
     {
-      "@id": "#7urzyg",
+      "@id": "#tmtxc2",
       "name": "Managing Trusted Sites",
-      "x": 270,
-      "y": -450,
+      "x": 233,
+      "y": 464,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#managing-trusted-sites",
       "bgColor": "#f2ecd2",
-      "parent": "#eud79w"
+      "parent": "#7urzyg"
     },
     {
-      "@id": "#fcdibk",
+      "@id": "#f5mzxc",
       "name": "Technical Details",
-      "x": 221,
-      "y": -100,
+      "x": -6,
+      "y": 221,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#technical-details",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#tmtxc2",
+      "@id": "#assz83",
       "name": "NIP-98 HTTP Authentication",
-      "x": 385,
-      "y": -271,
+      "x": 70,
+      "y": 420,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#nip-98-http-authentication",
       "bgColor": "#ddf2de",
-      "parent": "#fcdibk"
-    },
-    {
-      "@id": "#f5mzxc",
-      "name": "DID:Nostr Format",
-      "x": 536,
-      "y": -211,
-      "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#didnostr-format",
-      "bgColor": "#ddf2de",
-      "parent": "#fcdibk"
-    },
-    {
-      "@id": "#assz83",
-      "name": "Security",
-      "x": 487,
-      "y": -97,
-      "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#security",
-      "bgColor": "#ddf2de",
-      "parent": "#fcdibk"
+      "parent": "#f5mzxc"
     },
     {
       "@id": "#ef2zi4",
+      "name": "DID:Nostr Format",
+      "x": -26,
+      "y": 501,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#didnostr-format",
+      "bgColor": "#ddf2de",
+      "parent": "#f5mzxc"
+    },
+    {
+      "@id": "#mmiwv8",
+      "name": "Security",
+      "x": -99,
+      "y": 417,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#security",
+      "bgColor": "#ddf2de",
+      "parent": "#f5mzxc"
+    },
+    {
+      "@id": "#nac2qv",
       "name": "Server-Side Support",
-      "x": 249,
-      "y": 17,
+      "x": -129,
+      "y": 177,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#server-side-support",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#mmiwv8",
+      "@id": "#jgxjap",
       "name": "Architecture",
-      "x": 236,
-      "y": 71,
+      "x": -212,
+      "y": 112,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#architecture",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#nac2qv",
+      "@id": "#a2eq5j",
       "name": "Development",
-      "x": 177,
-      "y": 156,
+      "x": -249,
+      "y": 16,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#development",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#jgxjap",
+      "@id": "#wgv26u",
       "name": "Project Structure",
-      "x": 405,
-      "y": 249,
+      "x": -489,
+      "y": 90,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#project-structure",
       "bgColor": "#efe6ff",
-      "parent": "#nac2qv"
-    },
-    {
-      "@id": "#a2eq5j",
-      "name": "Testing",
-      "x": 396,
-      "y": 372,
-      "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#testing",
-      "bgColor": "#efe6ff",
-      "parent": "#nac2qv"
-    },
-    {
-      "@id": "#wgv26u",
-      "name": "Key Validation",
-      "x": 256,
-      "y": 365,
-      "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#key-validation",
-      "bgColor": "#efe6ff",
-      "parent": "#nac2qv"
+      "parent": "#a2eq5j"
     },
     {
       "@id": "#35akk8",
+      "name": "Testing",
+      "x": -588,
+      "y": 38,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#testing",
+      "bgColor": "#efe6ff",
+      "parent": "#a2eq5j"
+    },
+    {
+      "@id": "#hm3hwr",
+      "name": "Key Validation",
+      "x": -499,
+      "y": -26,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#key-validation",
+      "bgColor": "#efe6ff",
+      "parent": "#a2eq5j"
+    },
+    {
+      "@id": "#3i5a36",
       "name": "Roadmap",
-      "x": 29,
-      "y": 223,
+      "x": -230,
+      "y": -84,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#roadmap",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#hm3hwr",
+      "@id": "#vvg4pd",
       "name": "Phase 1: MVP ✅",
-      "x": 119,
-      "y": 413,
+      "x": -477,
+      "y": -127,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#phase-1-mvp",
       "bgColor": "#ffe2ed",
-      "parent": "#35akk8"
+      "parent": "#3i5a36"
     },
     {
-      "@id": "#3i5a36",
+      "@id": "#auchct",
       "name": "Phase 2: Enhanced UX",
-      "x": 10,
-      "y": 501,
+      "x": -518,
+      "y": -240,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth#phase-2-enhanced-ux",
       "bgColor": "#ffe2ed",
-      "parent": "#35akk8"
+      "parent": "#3i5a36"
     },
     {
-      "@id": "#vvg4pd",
+      "@id": "#jc8bp2",
       "name": "A browser extension that enables zero-redirect authenticatio",
-      "x": -131,
-      "y": 177,
+      "x": -156,
+      "y": -152,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#auchct",
+      "@id": "#xftmry",
       "name": "last commit 2026-01-05",
-      "x": -220,
-      "y": 101,
+      "x": -45,
+      "y": -240,
       "link": "https://github.com/JavaScriptSolidServer/nostr-solid-auth/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#jc8bp2",
+      "@id": "#yykvgk",
       "name": "← JavaScriptSolidServer",
-      "x": -247,
-      "y": 35,
+      "x": 71,
+      "y": -196,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,8 +21,8 @@
     {
       "@id": "#6ktxue",
       "name": "Quick Start",
-      "x": -244,
-      "y": -45,
+      "x": 181,
+      "y": -147,
       "link": "https://jss.live/docs/features/nostr#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#qrakrq",
       "name": "Configuration",
-      "x": -200,
-      "y": -128,
+      "x": 245,
+      "y": -40,
       "link": "https://jss.live/docs/features/nostr#configuration",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#ppuaac",
       "name": "Supported NIPs",
-      "x": -139,
-      "y": -187,
+      "x": 232,
+      "y": 79,
       "link": "https://jss.live/docs/features/nostr#supported-nips",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#f77hg7",
       "name": "Event Kinds",
-      "x": -5,
-      "y": -212,
+      "x": 145,
+      "y": 173,
       "link": "https://jss.live/docs/features/nostr#event-kinds",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#kpihvt",
       "name": "Protocol",
-      "x": 179,
-      "y": -149,
+      "x": 12,
+      "y": 212,
       "link": "https://jss.live/docs/features/nostr#protocol",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#k58b5b",
       "name": "EVENT",
-      "x": 211,
-      "y": -385,
+      "x": 103,
+      "y": 416,
       "link": "https://jss.live/docs/features/nostr#event",
       "bgColor": "#f2ecd2",
       "parent": "#kpihvt"
@@ -75,8 +75,8 @@
     {
       "@id": "#htircd",
       "name": "REQ",
-      "x": 422,
-      "y": -351,
+      "x": 28,
+      "y": 501,
       "link": "https://jss.live/docs/features/nostr#req",
       "bgColor": "#f2ecd2",
       "parent": "#kpihvt"
@@ -84,8 +84,8 @@
     {
       "@id": "#sixamq",
       "name": "CLOSE",
-      "x": 458,
-      "y": -171,
+      "x": -56,
+      "y": 422,
       "link": "https://jss.live/docs/features/nostr#close",
       "bgColor": "#f2ecd2",
       "parent": "#kpihvt"
@@ -93,8 +93,8 @@
     {
       "@id": "#j99zi5",
       "name": "Relay Information",
-      "x": 248,
-      "y": 24,
+      "x": -125,
+      "y": 184,
       "link": "https://jss.live/docs/features/nostr#relay-information-nip-11",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#kwrapz",
       "name": "Rate Limiting",
-      "x": 211,
-      "y": 114,
+      "x": -222,
+      "y": 97,
       "link": "https://jss.live/docs/features/nostr#rate-limiting",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -111,8 +111,8 @@
     {
       "@id": "#n3epze",
       "name": "NIP-98 HTTP Authentication",
-      "x": 148,
-      "y": 178,
+      "x": -249,
+      "y": -20,
       "link": "https://jss.live/docs/features/nostr#nip-98-http-authentication",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#42eis4",
       "name": "Browser Login",
-      "x": 271,
-      "y": 357,
+      "x": -498,
+      "y": -40,
       "link": "https://jss.live/docs/features/nostr#browser-login",
       "bgColor": "#daeeff",
       "parent": "#n3epze"
@@ -129,8 +129,8 @@
     {
       "@id": "#f65d8e",
       "name": "Identity Linking",
-      "x": -51,
-      "y": 209,
+      "x": -197,
+      "y": -131,
       "link": "https://jss.live/docs/features/nostr#identity-linking",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -138,8 +138,8 @@
     {
       "@id": "#ncsetq",
       "name": "Nostr → ActivityPub",
-      "x": 27,
-      "y": 424,
+      "x": -428,
+      "y": -220,
       "link": "https://jss.live/docs/features/nostr#nostr-activitypub",
       "bgColor": "#efe6ff",
       "parent": "#f65d8e"
@@ -147,8 +147,8 @@
     {
       "@id": "#b9nzdc",
       "name": "did:nostr Resolution",
-      "x": -227,
-      "y": 463,
+      "x": -418,
+      "y": -354,
       "link": "https://jss.live/docs/features/nostr#didnostr-resolution",
       "bgColor": "#efe6ff",
       "parent": "#f65d8e"
@@ -156,8 +156,8 @@
     {
       "@id": "#k8wdpx",
       "name": "Storage",
-      "x": -200,
-      "y": 128,
+      "x": -82,
+      "y": -201,
       "link": "https://jss.live/docs/features/nostr#storage",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -165,8 +165,8 @@
     {
       "@id": "#a9fnph",
       "name": "← Features",
-      "x": -244,
-      "y": 45,
+      "x": 59,
+      "y": -207,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

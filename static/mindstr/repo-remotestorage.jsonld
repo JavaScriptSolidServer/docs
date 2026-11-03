@@ -19,82 +19,82 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#vy3tsq",
+      "@id": "#gh56tu",
       "name": "Apps",
-      "x": -105,
-      "y": -193,
+      "x": 241,
+      "y": -58,
       "link": "https://github.com/JavaScriptSolidServer/remotestorage#apps",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#pibigc",
+      "@id": "#8vbc5u",
       "name": "notes/",
-      "x": -456,
-      "y": -174,
+      "x": 362,
+      "y": -293,
       "link": "https://github.com/JavaScriptSolidServer/remotestorage#notes",
       "bgColor": "#daeeff",
-      "parent": "#vy3tsq"
-    },
-    {
-      "@id": "#gh56tu",
-      "name": "bookmarks/",
-      "x": -367,
-      "y": -392,
-      "link": "https://github.com/JavaScriptSolidServer/remotestorage#bookmarks",
-      "bgColor": "#daeeff",
-      "parent": "#vy3tsq"
-    },
-    {
-      "@id": "#8vbc5u",
-      "name": "grouptabs/",
-      "x": -97,
-      "y": -417,
-      "link": "https://github.com/JavaScriptSolidServer/remotestorage#grouptabs",
-      "bgColor": "#daeeff",
-      "parent": "#vy3tsq"
+      "parent": "#gh56tu"
     },
     {
       "@id": "#qtqg2a",
-      "name": "editor/",
-      "x": 165,
-      "y": -482,
-      "link": "https://github.com/JavaScriptSolidServer/remotestorage#editor",
+      "name": "bookmarks/",
+      "x": 535,
+      "y": -212,
+      "link": "https://github.com/JavaScriptSolidServer/remotestorage#bookmarks",
       "bgColor": "#daeeff",
-      "parent": "#vy3tsq"
+      "parent": "#gh56tu"
     },
     {
       "@id": "#5xddae",
+      "name": "grouptabs/",
+      "x": 497,
+      "y": -48,
+      "link": "https://github.com/JavaScriptSolidServer/remotestorage#grouptabs",
+      "bgColor": "#daeeff",
+      "parent": "#gh56tu"
+    },
+    {
+      "@id": "#g56v86",
+      "name": "editor/",
+      "x": 577,
+      "y": 106,
+      "link": "https://github.com/JavaScriptSolidServer/remotestorage#editor",
+      "bgColor": "#daeeff",
+      "parent": "#gh56tu"
+    },
+    {
+      "@id": "#7ptw38",
       "name": "Usage",
-      "x": 209,
-      "y": -117,
+      "x": 120,
+      "y": 187,
       "link": "https://github.com/JavaScriptSolidServer/remotestorage#usage",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
-      "@id": "#g56v86",
+      "@id": "#hkakqp",
       "name": "Simple apps that sync via the remoteStorage protocol. Works ",
-      "x": 202,
-      "y": 125,
+      "x": -165,
+      "y": 160,
       "link": "https://github.com/JavaScriptSolidServer/remotestorage",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#7ptw38",
+      "@id": "#cmc5g4",
       "name": "last commit 2026-03-10",
-      "x": -92,
-      "y": 198,
+      "x": -234,
+      "y": -74,
       "link": "https://github.com/JavaScriptSolidServer/remotestorage/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#hkakqp",
+      "@id": "#h64kxg",
       "name": "← JavaScriptSolidServer",
-      "x": -230,
-      "y": 83,
+      "x": -14,
+      "y": -212,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

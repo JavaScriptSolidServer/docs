@@ -20,32 +20,32 @@
     {
       "@id": "#452y5w",
       "name": "--single-user",
-      "x": -205,
-      "y": -122,
+      "x": 241,
+      "y": -55,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#yyjnxk",
       "name": "--single-user-name <name>",
-      "x": 137,
-      "y": -178,
+      "x": 65,
+      "y": 205,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#hrvxpy",
       "name": "--single-user-password <pw>",
-      "x": 150,
-      "y": 170,
+      "x": -241,
+      "y": 65,
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
       "@id": "#hzsqn4",
       "name": "← jss start",
-      "x": -205,
-      "y": 122,
+      "x": -65,
+      "y": -205,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

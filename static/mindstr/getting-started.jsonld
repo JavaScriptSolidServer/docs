@@ -20,27 +20,27 @@
     },
     {
       "@id": "#imr4n9",
-      "name": "Installation",
-      "x": -177,
-      "y": -150,
+      "name": "Installation ›",
+      "x": 241,
+      "y": -55,
       "link": "./getting-started-installation.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#tpktj6",
-      "name": "First Run",
-      "x": 177,
-      "y": -150,
+      "name": "First Run ›",
+      "x": 65,
+      "y": 205,
       "link": "./getting-started-first-run.jsonld",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#u94rpy",
-      "name": "Quick Start",
-      "x": 177,
-      "y": 150,
+      "name": "Quick Start ›",
+      "x": -241,
+      "y": 55,
       "link": "./getting-started-quick-start.jsonld",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#7txfyn",
       "name": "← JSS docs",
-      "x": -177,
-      "y": 150,
+      "x": -65,
+      "y": -205,
       "link": "./index.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

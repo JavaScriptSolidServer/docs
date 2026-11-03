@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#beqq5j",
-      "name": "unlabelled · 1",
-      "x": 0,
-      "y": -212,
+      "@id": "#d5e2jv",
+      "name": "unlabelled · 1 ›",
+      "x": 217,
+      "y": 106,
       "link": "./issues-docs-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#6r28st",
+      "@id": "#3g77sx",
       "name": "← docs",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./repo-docs.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

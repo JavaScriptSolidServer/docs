@@ -1,0 +1,89 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "remotestorage.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/remotestorage.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#wsjdx6",
+      "name": "exports",
+      "x": 250,
+      "y": 0,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ukqvr4",
+      "name": "remoteStoragePlugin()",
+      "x": 457,
+      "y": -173,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/remotestorage.js#L24",
+      "bgColor": "#daeeff",
+      "parent": "#wsjdx6"
+    },
+    {
+      "@id": "#ixkv7h",
+      "name": "default export",
+      "x": 529,
+      "y": 223,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/remotestorage.js#L325",
+      "bgColor": "#daeeff",
+      "parent": "#wsjdx6"
+    },
+    {
+      "@id": "#yq8nzx",
+      "name": "326 lines",
+      "x": -125,
+      "y": 184,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/remotestorage.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rh653j",
+      "name": "← src",
+      "x": -125,
+      "y": -184,
+      "link": "./src-root.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "selectedNode": 0
+}

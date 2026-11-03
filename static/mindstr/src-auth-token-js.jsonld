@@ -19,72 +19,72 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#qnf7j2",
+      "@id": "#simp87",
       "name": "exports",
-      "x": 175,
-      "y": -152,
+      "x": 218,
+      "y": 103,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#rx55k2",
+      "@id": "#tzmucf",
       "name": "createToken()",
-      "x": -379,
-      "y": -277,
+      "x": 425,
+      "y": -224,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js#L29",
       "bgColor": "#daeeff",
-      "parent": "#qnf7j2"
-    },
-    {
-      "@id": "#ux93wm",
-      "name": "verifyToken()",
-      "x": -112,
-      "y": -492,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js#L56",
-      "bgColor": "#daeeff",
-      "parent": "#qnf7j2"
-    },
-    {
-      "@id": "#a464iu",
-      "name": "extractToken()",
-      "x": 230,
-      "y": -377,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js#L154",
-      "bgColor": "#daeeff",
-      "parent": "#qnf7j2"
-    },
-    {
-      "@id": "#simp87",
-      "name": "getWebIdFromRequest()",
-      "x": 561,
-      "y": -156,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js#L173",
-      "bgColor": "#daeeff",
-      "parent": "#qnf7j2"
-    },
-    {
-      "@id": "#tzmucf",
-      "name": "getWebIdFromRequestAsync()",
-      "x": 399,
-      "y": 257,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js#L201",
-      "bgColor": "#daeeff",
-      "parent": "#qnf7j2"
+      "parent": "#simp87"
     },
     {
       "@id": "#xmtzgz",
+      "name": "verifyToken()",
+      "x": 588,
+      "y": -37,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js#L56",
+      "bgColor": "#daeeff",
+      "parent": "#simp87"
+    },
+    {
+      "@id": "#b9snuz",
+      "name": "extractToken()",
+      "x": 458,
+      "y": 170,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js#L154",
+      "bgColor": "#daeeff",
+      "parent": "#simp87"
+    },
+    {
+      "@id": "#nxqgmq",
+      "name": "getWebIdFromRequest()",
+      "x": 358,
+      "y": 398,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js#L173",
+      "bgColor": "#daeeff",
+      "parent": "#simp87"
+    },
+    {
+      "@id": "#dguykc",
+      "name": "getWebIdFromRequestAsync()",
+      "x": 36,
+      "y": 424,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js#L201",
+      "bgColor": "#daeeff",
+      "parent": "#simp87"
+    },
+    {
+      "@id": "#28eue2",
       "name": "264 lines",
-      "x": -92,
-      "y": 198,
+      "x": -240,
+      "y": 60,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/token.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#b9snuz",
+      "@id": "#f4n9qu",
       "name": "← auth",
-      "x": -230,
-      "y": 82,
+      "x": -67,
+      "y": -205,
       "link": "./src-auth.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#w4qstn",
-      "name": "profile.js · 5",
-      "x": 0,
-      "y": -212,
+      "@id": "#dskmb8",
+      "name": "profile.js · 5 ›",
+      "x": 217,
+      "y": 106,
       "link": "./src-webid-profile-js.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#8q2ipi",
+      "@id": "#xtiknb",
       "name": "← src/",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

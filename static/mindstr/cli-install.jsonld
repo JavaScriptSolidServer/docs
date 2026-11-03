@@ -21,48 +21,48 @@
     {
       "@id": "#dry8wx",
       "name": "--pod <url>",
-      "x": -221,
-      "y": -99,
+      "x": 217,
+      "y": -106,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#rmckuv",
       "name": "--user <name>",
-      "x": -27,
-      "y": -211,
+      "x": 217,
+      "y": 106,
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
     {
       "@id": "#6cicry",
       "name": "--password <pw>",
-      "x": 192,
-      "y": -137,
+      "x": 0,
+      "y": 213,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#7c28q6",
       "name": "--nostr-privkey <hex>",
-      "x": 226,
-      "y": 90,
+      "x": -217,
+      "y": 106,
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
       "@id": "#4qbh3e",
       "name": "--bundle <source>",
-      "x": -13,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "bgColor": "#c1dba8",
       "parent": "#this"
     },
     {
       "@id": "#m3xps2",
       "name": "← jss CLI",
-      "x": -221,
-      "y": 99,
+      "x": 0,
+      "y": -212,
       "link": "./cli.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,8 +21,8 @@
     {
       "@id": "#bbimsx",
       "name": "jss start",
-      "x": -219,
-      "y": -102,
+      "x": 228,
+      "y": -86,
       "link": "https://jss.live/docs/reference/cli#jss-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#drrwuk",
       "name": "Options",
-      "x": -438,
-      "y": -204,
+      "x": 457,
+      "y": -173,
       "link": "https://jss.live/docs/reference/cli#options",
       "bgColor": "#daeeff",
       "parent": "#bbimsx"
@@ -39,8 +39,8 @@
     {
       "@id": "#nsm2yi",
       "name": "jss init",
-      "x": -17,
-      "y": -212,
+      "x": 167,
+      "y": 158,
       "link": "https://jss.live/docs/reference/cli#jss-init",
       "bgColor": "#e9c1ef",
       "parent": "#this"
@@ -48,17 +48,17 @@
     {
       "@id": "#2xe78q",
       "name": "jss --help",
-      "x": 201,
-      "y": -126,
+      "x": -125,
+      "y": 184,
       "link": "https://jss.live/docs/reference/cli#jss---help",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
       "@id": "#jgw4tz",
-      "name": "Live reference: every command and option",
-      "x": 135,
-      "y": 179,
+      "name": "Live reference: every command and option ›",
+      "x": -279,
+      "y": -44,
       "link": "./cli.jsonld",
       "bgColor": "#d7d59b",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#bekswu",
       "name": "← Reference",
-      "x": -219,
-      "y": 102,
+      "x": -26,
+      "y": -211,
       "link": "./reference.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

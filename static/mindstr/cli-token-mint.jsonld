@@ -21,64 +21,64 @@
     {
       "@id": "#nxqgmq",
       "name": "--ticker <ticker>",
-      "x": -228,
-      "y": -87,
+      "x": 198,
+      "y": -129,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#dguykc",
       "name": "--supply <n>",
-      "x": -87,
-      "y": -199,
+      "x": 248,
+      "y": 28,
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#28eue2",
       "name": "--voucher <txo>",
-      "x": 97,
-      "y": -196,
+      "x": 152,
+      "y": 169,
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
       "@id": "#f4n9qu",
       "name": "--name <name>",
-      "x": 229,
-      "y": -85,
+      "x": -33,
+      "y": 211,
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
       "@id": "#krwt6e",
       "name": "--root <path>",
-      "x": 236,
-      "y": 70,
+      "x": -198,
+      "y": 129,
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
       "@id": "#emecna",
       "name": "--mempool-url <url>",
-      "x": 97,
-      "y": 196,
+      "x": -248,
+      "y": -28,
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
       "@id": "#u8v9bw",
       "name": "--network <net>",
-      "x": -106,
-      "y": 192,
+      "x": -152,
+      "y": -169,
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
       "@id": "#j6zbf9",
       "name": "← jss token",
-      "x": -233,
-      "y": 78,
+      "x": 33,
+      "y": -211,
       "link": "./cli-token.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -20,27 +20,27 @@
     },
     {
       "@id": "#kmcrgd",
-      "name": "jss invite create",
-      "x": -170,
-      "y": -156,
+      "name": "jss invite create ›",
+      "x": 241,
+      "y": -55,
       "link": "./cli-invite-create.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#ktiw89",
-      "name": "jss invite list",
-      "x": 185,
-      "y": -143,
+      "name": "jss invite list ›",
+      "x": 65,
+      "y": 205,
       "link": "./cli-invite-list.jsonld",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#c74y5q",
-      "name": "jss invite revoke",
-      "x": 167,
-      "y": 158,
+      "name": "jss invite revoke ›",
+      "x": -241,
+      "y": 55,
       "link": "./cli-invite-revoke.jsonld",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#374kep",
       "name": "← jss CLI",
-      "x": -185,
-      "y": 143,
+      "x": -65,
+      "y": -205,
       "link": "./cli.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

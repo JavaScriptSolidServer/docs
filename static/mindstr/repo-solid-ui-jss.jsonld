@@ -19,136 +19,136 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#awrgkd",
+      "@id": "#abay86",
       "name": "Getting started",
-      "x": -246,
-      "y": -36,
+      "x": 180,
+      "y": -147,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#getting-started",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#6npnp6",
+      "@id": "#ci9c3c",
       "name": "Install via npm",
-      "x": -218,
-      "y": -105,
+      "x": 245,
+      "y": -43,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#install-via-npm",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#abay86",
+      "@id": "#c54vbt",
       "name": "Use Directly in a Browser",
-      "x": 41,
-      "y": -210,
+      "x": 197,
+      "y": 131,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#use-directly-in-a-browser",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#ci9c3c",
+      "@id": "#e7mcpc",
       "name": "Available Files",
-      "x": -271,
-      "y": -357,
+      "x": 483,
+      "y": 109,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#available-files",
       "bgColor": "#ffe2ed",
-      "parent": "#abay86"
-    },
-    {
-      "@id": "#c54vbt",
-      "name": "UMD Bundle",
-      "x": -166,
-      "y": -481,
-      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#umd-bundle-global-variable",
-      "bgColor": "#ffe2ed",
-      "parent": "#abay86"
-    },
-    {
-      "@id": "#e7mcpc",
-      "name": "ESM Bundle",
-      "x": -1,
-      "y": -425,
-      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#esm-bundle-import-as-module",
-      "bgColor": "#ffe2ed",
-      "parent": "#abay86"
+      "parent": "#c54vbt"
     },
     {
       "@id": "#x6r876",
-      "name": "ESM Bundle with Import Maps",
-      "x": 213,
-      "y": -468,
-      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#esm-bundle-with-import-maps",
+      "name": "UMD Bundle",
+      "x": 536,
+      "y": 210,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#umd-bundle-global-variable",
       "bgColor": "#ffe2ed",
-      "parent": "#abay86"
+      "parent": "#c54vbt"
     },
     {
       "@id": "#m5cayp",
-      "name": "Development new components",
-      "x": 366,
-      "y": -290,
-      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#development-new-components",
+      "name": "ESM Bundle",
+      "x": 411,
+      "y": 242,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#esm-bundle-import-as-module",
       "bgColor": "#ffe2ed",
-      "parent": "#abay86"
+      "parent": "#c54vbt"
     },
     {
       "@id": "#95hxn6",
+      "name": "ESM Bundle with Import Maps",
+      "x": 408,
+      "y": 335,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#esm-bundle-with-import-maps",
+      "bgColor": "#ffe2ed",
+      "parent": "#c54vbt"
+    },
+    {
+      "@id": "#m2z7s3",
+      "name": "Development new components",
+      "x": 254,
+      "y": 381,
+      "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#development-new-components",
+      "bgColor": "#ffe2ed",
+      "parent": "#c54vbt"
+    },
+    {
+      "@id": "#iznddb",
       "name": "Adding Tests",
-      "x": 245,
-      "y": -40,
+      "x": 11,
+      "y": 212,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#adding-tests",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#m2z7s3",
+      "@id": "#5gmfss",
       "name": "GitHub Pages",
-      "x": 247,
-      "y": 31,
+      "x": -124,
+      "y": 185,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#github-pages",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#iznddb",
+      "@id": "#3v7g7s",
       "name": "Further documentation",
-      "x": 215,
-      "y": 109,
+      "x": -221,
+      "y": 100,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#further-documentation",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#5gmfss",
+      "@id": "#jjpc9k",
       "name": "Credits",
-      "x": 150,
-      "y": 168,
+      "x": -249,
+      "y": -16,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss#credits",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#3v7g7s",
+      "@id": "#vxdvti",
       "name": "UI library for Solid applications (JSS variant with minimal ",
-      "x": -20,
-      "y": 213,
+      "x": -197,
+      "y": -131,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#jjpc9k",
+      "@id": "#8qyphq",
       "name": "last commit 2026-01-18",
-      "x": -190,
-      "y": 138,
+      "x": -126,
+      "y": -202,
       "link": "https://github.com/JavaScriptSolidServer/solid-ui-jss/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#vxdvti",
+      "@id": "#awt4ph",
       "name": "← JavaScriptSolidServer",
-      "x": -243,
-      "y": 50,
+      "x": 85,
+      "y": -206,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

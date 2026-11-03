@@ -19,37 +19,37 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#96tbf9",
+      "@id": "#yv5i54",
       "name": "index.js",
-      "x": 125,
-      "y": -184,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/tunnel/index.js",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#f2gvzm",
+      "@id": "#cfextr",
       "name": "tunnelPlugin()",
-      "x": -174,
-      "y": -398,
+      "x": 495,
+      "y": -58,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/tunnel/index.js#L89",
       "bgColor": "#daeeff",
-      "parent": "#96tbf9"
+      "parent": "#yv5i54"
     },
     {
-      "@id": "#2y862s",
+      "@id": "#n4bn2e",
       "name": "default export",
-      "x": 582,
-      "y": -84,
+      "x": 223,
+      "y": 464,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/tunnel/index.js#L319",
       "bgColor": "#daeeff",
-      "parent": "#96tbf9"
+      "parent": "#yv5i54"
     },
     {
-      "@id": "#8x5xg4",
+      "@id": "#eud79w",
       "name": "← src/",
-      "x": -125,
-      "y": 184,
+      "x": -217,
+      "y": -106,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

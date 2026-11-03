@@ -20,80 +20,80 @@
     {
       "@id": "#tz98k5",
       "name": "--base-domain <domain>",
-      "x": -231,
-      "y": -81,
+      "x": 186,
+      "y": -142,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#437yyk",
       "name": "--[no-]git",
-      "x": -121,
-      "y": -186,
+      "x": 249,
+      "y": -22,
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#j3k2bu",
       "name": "--body-limit <size>",
-      "x": 32,
-      "y": -211,
+      "x": 217,
+      "y": 106,
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
       "@id": "#uhqx6j",
       "name": "--[no-]terminal",
-      "x": 173,
-      "y": -153,
+      "x": 109,
+      "y": 194,
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
       "@id": "#aurbbn",
       "name": "--[no-]activitypub",
-      "x": 258,
-      "y": -38,
+      "x": -55,
+      "y": 208,
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
       "@id": "#fxz322",
       "name": "--[no-]invite-only",
-      "x": 221,
-      "y": 99,
+      "x": -186,
+      "y": 142,
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
       "@id": "#s77s87",
       "name": "--[no-]webid-tls",
-      "x": 108,
-      "y": 192,
+      "x": -251,
+      "y": 22,
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
       "@id": "#k73rni",
       "name": "--public",
-      "x": -36,
-      "y": 210,
+      "x": -217,
+      "y": -106,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#r8zm2z",
       "name": "--read-only",
-      "x": -164,
-      "y": 161,
+      "x": -102,
+      "y": -194,
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#wzv4c3",
       "name": "← jss start",
-      "x": -240,
-      "y": 60,
+      "x": 52,
+      "y": -208,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

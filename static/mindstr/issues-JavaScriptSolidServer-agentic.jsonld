@@ -19,89 +19,89 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#za8che",
+      "@id": "#rbwcef",
       "name": "Jun 2026 · 6",
-      "x": 189,
-      "y": -139,
+      "x": 103,
+      "y": 194,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#rbwcef",
+      "@id": "#mvt9ib",
       "name": "#463 Apps in pods: should JSS surface in…",
-      "x": -373,
-      "y": -283,
+      "x": 463,
+      "y": -161,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/463",
       "bgColor": "#daeeff",
-      "parent": "#za8che"
-    },
-    {
-      "@id": "#mvt9ib",
-      "name": "#464 Apps in pods: support git as a firs…",
-      "x": -94,
-      "y": -495,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/464",
-      "bgColor": "#daeeff",
-      "parent": "#za8che"
+      "parent": "#rbwcef"
     },
     {
       "@id": "#4cdvsg",
-      "name": "#495 feat(mcp): call_remote_pod tool — b…",
-      "x": 249,
-      "y": -368,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/495",
+      "name": "#464 Apps in pods: support git as a firs…",
+      "x": 575,
+      "y": 113,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/464",
       "bgColor": "#daeeff",
-      "parent": "#za8che"
+      "parent": "#rbwcef"
     },
     {
       "@id": "#ur7wv9",
-      "name": "#496 feat(mcp): read_acl / write_acl con…",
-      "x": 551,
-      "y": -180,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/496",
+      "name": "#495 feat(mcp): call_remote_pod tool — b…",
+      "x": 332,
+      "y": 317,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/495",
       "bgColor": "#daeeff",
-      "parent": "#za8che"
+      "parent": "#rbwcef"
     },
     {
       "@id": "#j2eaqz",
-      "name": "#500 feat(mcp): hint at create_resource…",
-      "x": 477,
-      "y": 129,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/500",
+      "name": "#496 feat(mcp): read_acl / write_acl con…",
+      "x": 66,
+      "y": 498,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/496",
       "bgColor": "#daeeff",
-      "parent": "#za8che"
+      "parent": "#rbwcef"
     },
     {
       "@id": "#vqbwbg",
-      "name": "#501 Audit log container pattern for MCP…",
-      "x": 328,
-      "y": 417,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/501",
+      "name": "#500 feat(mcp): hint at create_resource…",
+      "x": -239,
+      "y": 373,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/500",
       "bgColor": "#daeeff",
-      "parent": "#za8che"
+      "parent": "#rbwcef"
     },
     {
       "@id": "#y9jt3w",
+      "name": "#501 Audit log container pattern for MCP…",
+      "x": -528,
+      "y": 224,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/501",
+      "bgColor": "#daeeff",
+      "parent": "#rbwcef"
+    },
+    {
+      "@id": "#vxinpu",
       "name": "May 2026 · 1",
-      "x": -130,
-      "y": 182,
+      "x": -196,
+      "y": -132,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#vxinpu",
+      "@id": "#spatem",
       "name": "#404 Position JSS visibly as agent-frien…",
-      "x": -260,
-      "y": 363,
+      "x": -392,
+      "y": -264,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/404",
       "bgColor": "#ffe2e6",
-      "parent": "#y9jt3w"
+      "parent": "#vxinpu"
     },
     {
-      "@id": "#spatem",
+      "@id": "#twzhxn",
       "name": "← JavaScriptSolidServer issues",
-      "x": -238,
-      "y": 65,
+      "x": 12,
+      "y": -212,
       "link": "./issues-JavaScriptSolidServer.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

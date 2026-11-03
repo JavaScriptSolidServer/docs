@@ -20,27 +20,27 @@
     },
     {
       "@id": "#fertai",
-      "name": "jss quota set",
-      "x": -184,
-      "y": -144,
+      "name": "jss quota set ›",
+      "x": 241,
+      "y": -55,
       "link": "./cli-quota-set.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#9u36xp",
-      "name": "jss quota show",
-      "x": 154,
-      "y": -167,
+      "name": "jss quota show ›",
+      "x": 65,
+      "y": 205,
       "link": "./cli-quota-show.jsonld",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#5q2nc4",
-      "name": "jss quota reconcile",
-      "x": 184,
-      "y": 144,
+      "name": "jss quota reconcile ›",
+      "x": -241,
+      "y": 55,
       "link": "./cli-quota-reconcile.jsonld",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#eegh3a",
       "name": "← jss CLI",
-      "x": -184,
-      "y": 144,
+      "x": -65,
+      "y": -205,
       "link": "./cli.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

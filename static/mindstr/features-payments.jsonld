@@ -21,8 +21,8 @@
     {
       "@id": "#6r28st",
       "name": "Quick Start",
-      "x": -247,
-      "y": -33,
+      "x": 182,
+      "y": -146,
       "link": "https://jss.live/docs/features/payments#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#d5e2jv",
       "name": "Configuration",
-      "x": -217,
-      "y": -106,
+      "x": 246,
+      "y": -37,
       "link": "https://jss.live/docs/features/payments#configuration",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#3g77sx",
       "name": "Environment Variables",
-      "x": -433,
-      "y": -212,
+      "x": 492,
+      "y": -75,
       "link": "https://jss.live/docs/features/payments#environment-variables",
       "bgColor": "#efe6ff",
       "parent": "#d5e2jv"
@@ -48,8 +48,8 @@
     {
       "@id": "#ucs9ug",
       "name": "API Endpoints",
-      "x": -125,
-      "y": -184,
+      "x": 230,
+      "y": 84,
       "link": "https://jss.live/docs/features/payments#api-endpoints",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#tse2je",
       "name": "Public",
-      "x": -305,
-      "y": -337,
+      "x": 480,
+      "y": 118,
       "link": "https://jss.live/docs/features/payments#public-no-auth",
       "bgColor": "#ffe2ed",
       "parent": "#ucs9ug"
@@ -66,8 +66,8 @@
     {
       "@id": "#cvh8ee",
       "name": "Authenticated",
-      "x": -225,
-      "y": -463,
+      "x": 510,
+      "y": 252,
       "link": "https://jss.live/docs/features/payments#authenticated-nip-98",
       "bgColor": "#ffe2ed",
       "parent": "#ucs9ug"
@@ -75,8 +75,8 @@
     {
       "@id": "#3xd5xn",
       "name": "How It Works",
-      "x": 105,
-      "y": -193,
+      "x": 116,
+      "y": 188,
       "link": "https://jss.live/docs/features/payments#how-it-works",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#jingvu",
       "name": "Discover",
-      "x": 13,
-      "y": -425,
+      "x": 334,
+      "y": 317,
       "link": "https://jss.live/docs/features/payments#1-discover",
       "bgColor": "#ffe4d9",
       "parent": "#3xd5xn"
@@ -93,8 +93,8 @@
     {
       "@id": "#u9rrt3",
       "name": "Authenticate",
-      "x": 169,
-      "y": -480,
+      "x": 316,
+      "y": 423,
       "link": "https://jss.live/docs/features/payments#2-authenticate",
       "bgColor": "#ffe4d9",
       "parent": "#3xd5xn"
@@ -102,8 +102,8 @@
     {
       "@id": "#kgvapt",
       "name": "Deposit",
-      "x": 264,
-      "y": -361,
+      "x": 195,
+      "y": 391,
       "link": "https://jss.live/docs/features/payments#3-deposit",
       "bgColor": "#ffe4d9",
       "parent": "#3xd5xn"
@@ -111,8 +111,8 @@
     {
       "@id": "#6yp854",
       "name": "Access Resources",
-      "x": 435,
-      "y": -338,
+      "x": 137,
+      "y": 488,
       "link": "https://jss.live/docs/features/payments#4-access-resources",
       "bgColor": "#ffe4d9",
       "parent": "#3xd5xn"
@@ -120,8 +120,8 @@
     {
       "@id": "#g8htk4",
       "name": "Token Economy",
-      "x": 247,
-      "y": 31,
+      "x": -75,
+      "y": 203,
       "link": "https://jss.live/docs/features/payments#token-economy",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -129,8 +129,8 @@
     {
       "@id": "#iq664j",
       "name": "Mint a Token",
-      "x": 483,
-      "y": -110,
+      "x": -28,
+      "y": 424,
       "link": "https://jss.live/docs/features/payments#mint-a-token-cli",
       "bgColor": "#f2ecd2",
       "parent": "#g8htk4"
@@ -138,8 +138,8 @@
     {
       "@id": "#gz4cvb",
       "name": "Primary Market",
-      "x": 590,
-      "y": 2,
+      "x": -130,
+      "y": 489,
       "link": "https://jss.live/docs/features/payments#primary-market",
       "bgColor": "#f2ecd2",
       "parent": "#g8htk4"
@@ -147,8 +147,8 @@
     {
       "@id": "#itdh4e",
       "name": "Withdrawal",
-      "x": 482,
-      "y": 113,
+      "x": -177,
+      "y": 394,
       "link": "https://jss.live/docs/features/payments#withdrawal",
       "bgColor": "#f2ecd2",
       "parent": "#g8htk4"
@@ -156,8 +156,8 @@
     {
       "@id": "#wymkpw",
       "name": "Secondary Market",
-      "x": 505,
-      "y": 259,
+      "x": -316,
+      "y": 427,
       "link": "https://jss.live/docs/features/payments#secondary-market",
       "bgColor": "#f2ecd2",
       "parent": "#g8htk4"
@@ -165,8 +165,8 @@
     {
       "@id": "#qhm56x",
       "name": "Multi-Chain AMM",
-      "x": 64,
-      "y": 205,
+      "x": -213,
+      "y": 111,
       "link": "https://jss.live/docs/features/payments#multi-chain-amm",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -174,8 +174,8 @@
     {
       "@id": "#gyahr4",
       "name": "Supported Chains",
-      "x": 265,
-      "y": 360,
+      "x": -372,
+      "y": 298,
       "link": "https://jss.live/docs/features/payments#supported-chains",
       "bgColor": "#ddf2de",
       "parent": "#qhm56x"
@@ -183,8 +183,8 @@
     {
       "@id": "#wt6f72",
       "name": "Multi-Chain Deposits",
-      "x": 146,
-      "y": 486,
+      "x": -503,
+      "y": 254,
       "link": "https://jss.live/docs/features/payments#multi-chain-deposits",
       "bgColor": "#ddf2de",
       "parent": "#qhm56x"
@@ -192,8 +192,8 @@
     {
       "@id": "#zy9np2",
       "name": "AMM Pool",
-      "x": -25,
-      "y": 424,
+      "x": -466,
+      "y": 153,
       "link": "https://jss.live/docs/features/payments#amm-pool",
       "bgColor": "#ddf2de",
       "parent": "#qhm56x"
@@ -201,8 +201,8 @@
     {
       "@id": "#3jk3i5",
       "name": "Use Cases",
-      "x": -103,
-      "y": 197,
+      "x": -250,
+      "y": -13,
       "link": "https://jss.live/docs/features/payments#use-cases",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -210,8 +210,8 @@
     {
       "@id": "#94asrn",
       "name": "Balance Tracking",
-      "x": -171,
-      "y": 153,
+      "x": -200,
+      "y": -127,
       "link": "https://jss.live/docs/features/payments#balance-tracking",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -219,8 +219,8 @@
     {
       "@id": "#kgrwxb",
       "name": "Token Management",
-      "x": -221,
-      "y": 99,
+      "x": -85,
+      "y": -200,
       "link": "https://jss.live/docs/features/payments#token-management-cli",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -228,8 +228,8 @@
     {
       "@id": "#aj9t28",
       "name": "← Features",
-      "x": -247,
-      "y": 33,
+      "x": 58,
+      "y": -207,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

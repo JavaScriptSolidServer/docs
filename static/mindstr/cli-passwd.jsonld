@@ -21,32 +21,32 @@
     {
       "@id": "#varvfj",
       "name": "--password <password>",
-      "x": -144,
-      "y": -174,
+      "x": 241,
+      "y": -55,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#ucttef",
       "name": "--generate",
-      "x": 220,
-      "y": -101,
+      "x": 65,
+      "y": 205,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#vzipyd",
       "name": "--root <path>",
-      "x": 144,
-      "y": 174,
+      "x": -241,
+      "y": 55,
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
       "@id": "#miy6ts",
       "name": "← jss CLI",
-      "x": -187,
-      "y": 141,
+      "x": -65,
+      "y": -205,
       "link": "./cli.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

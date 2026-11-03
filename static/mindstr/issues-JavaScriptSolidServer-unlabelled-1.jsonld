@@ -20,16 +20,16 @@
     {
       "@id": "#6ab87r",
       "name": "Oct 2026 · 1",
-      "x": -248,
-      "y": -65,
+      "x": 157,
+      "y": -158,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#uyfscv",
       "name": "#545 WebSocket upgrades fail intermitten…",
-      "x": -496,
-      "y": -54,
+      "x": 315,
+      "y": -330,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/545",
       "bgColor": "#daeeff",
       "parent": "#6ab87r"
@@ -37,16 +37,16 @@
     {
       "@id": "#z5cumb",
       "name": "Jul 2026 · 4",
-      "x": -183,
-      "y": -145,
+      "x": 242,
+      "y": -64,
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
     {
       "@id": "#7iejm3",
       "name": "#606 Plugin API seam: shared discovery d…",
-      "x": -453,
-      "y": -180,
+      "x": 425,
+      "y": -224,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/606",
       "bgColor": "#f2e5fd",
       "parent": "#z5cumb"
@@ -54,8 +54,8 @@
     {
       "@id": "#452y5w",
       "name": "#608 idp: createAccount without a webId…",
-      "x": -470,
-      "y": -286,
+      "x": 553,
+      "y": -174,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/608",
       "bgColor": "#f2e5fd",
       "parent": "#z5cumb"
@@ -63,8 +63,8 @@
     {
       "@id": "#yyjnxk",
       "name": "#609 idp: issuer required before listen…",
-      "x": -328,
-      "y": -330,
+      "x": 494,
+      "y": -66,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/609",
       "bgColor": "#f2e5fd",
       "parent": "#z5cumb"
@@ -72,8 +72,8 @@
     {
       "@id": "#hrvxpy",
       "name": "#611 WAC-exempt app subtrees (appPaths /…",
-      "x": -285,
-      "y": -474,
+      "x": 589,
+      "y": 23,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/611",
       "bgColor": "#f2e5fd",
       "parent": "#z5cumb"
@@ -81,16 +81,16 @@
     {
       "@id": "#hzsqn4",
       "name": "Jun 2026 · 6",
-      "x": 91,
-      "y": -198,
+      "x": 158,
+      "y": 165,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#dttxwc",
       "name": "#559 Default bundle cannot fully install…",
-      "x": -51,
-      "y": -430,
+      "x": 454,
+      "y": 178,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/559",
       "bgColor": "#ffe2e6",
       "parent": "#hzsqn4"
@@ -98,8 +98,8 @@
     {
       "@id": "#p8ysyk",
       "name": "#560 jss install reports '0/N installed'…",
-      "x": 65,
-      "y": -498,
+      "x": 475,
+      "y": 280,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/560",
       "bgColor": "#ffe2e6",
       "parent": "#hzsqn4"
@@ -107,8 +107,8 @@
     {
       "@id": "#9c2qhr",
       "name": "#541 chore: bump engines.node minimum to…",
-      "x": 158,
-      "y": -386,
+      "x": 335,
+      "y": 324,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/541",
       "bgColor": "#ffe2e6",
       "parent": "#hzsqn4"
@@ -117,7 +117,7 @@
       "@id": "#h59t8f",
       "name": "#544 chore: SSRF test sweep — migrate `.…",
       "x": 300,
-      "y": -434,
+      "y": 438,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/544",
       "bgColor": "#ffe2e6",
       "parent": "#hzsqn4"
@@ -125,8 +125,8 @@
     {
       "@id": "#rfby2g",
       "name": "#23 Consider using solid-oidc for authe…",
-      "x": 339,
-      "y": -342,
+      "x": 163,
+      "y": 375,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/23",
       "bgColor": "#ffe2e6",
       "parent": "#hzsqn4"
@@ -134,8 +134,8 @@
     {
       "@id": "#arxjt8",
       "name": "#538 Patched fork",
-      "x": 462,
-      "y": -297,
+      "x": 107,
+      "y": 493,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/538",
       "bgColor": "#ffe2e6",
       "parent": "#hzsqn4"
@@ -143,16 +143,16 @@
     {
       "@id": "#jtyjdw",
       "name": "May 2026 · 1–7 of 14",
-      "x": 289,
-      "y": 102,
+      "x": -228,
+      "y": 178,
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
       "@id": "#dtqx4z",
       "name": "#508 Solid-native filesystem mount — FUS…",
-      "x": 483,
-      "y": -111,
+      "x": -106,
+      "y": 419,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/508",
       "bgColor": "#fbe8d3",
       "parent": "#jtyjdw"
@@ -160,8 +160,8 @@
     {
       "@id": "#u2s2vv",
       "name": "#510 Solid-OIDC RS: missing solid:oidcIs…",
-      "x": 589,
-      "y": -26,
+      "x": -239,
+      "y": 463,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/510",
       "bgColor": "#fbe8d3",
       "parent": "#jtyjdw"
@@ -169,8 +169,8 @@
     {
       "@id": "#vx2z65",
       "name": "#475 Container requests without trailing…",
-      "x": 494,
-      "y": 56,
+      "x": -291,
+      "y": 372,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/475",
       "bgColor": "#fbe8d3",
       "parent": "#jtyjdw"
@@ -178,8 +178,8 @@
     {
       "@id": "#xwei9g",
       "name": "#459 Hook for downstream wrappers to shi…",
-      "x": 549,
-      "y": 183,
+      "x": -433,
+      "y": 326,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/459",
       "bgColor": "#fbe8d3",
       "parent": "#jtyjdw"
@@ -187,8 +187,8 @@
     {
       "@id": "#6bzs4i",
       "name": "#460 Content type is coupled to document…",
-      "x": 417,
-      "y": 235,
+      "x": -428,
+      "y": 222,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/460",
       "bgColor": "#fbe8d3",
       "parent": "#jtyjdw"
@@ -196,8 +196,8 @@
     {
       "@id": "#fkywkd",
       "name": "#462 Onboarding overhaul: phased plan to…",
-      "x": 412,
-      "y": 330,
+      "x": -556,
+      "y": 167,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/462",
       "bgColor": "#fbe8d3",
       "parent": "#jtyjdw"
@@ -205,8 +205,8 @@
     {
       "@id": "#j8deiz",
       "name": "#458 README: surface jspod as the headli…",
-      "x": 266,
-      "y": 375,
+      "x": -495,
+      "y": 58,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/458",
       "bgColor": "#fbe8d3",
       "parent": "#jtyjdw"
@@ -214,16 +214,16 @@
     {
       "@id": "#aya9s9",
       "name": "May 2026 · 8–14 of 14",
-      "x": -165,
-      "y": 223,
+      "x": -183,
+      "y": -213,
       "bgColor": "#c1dba8",
       "parent": "#this"
     },
     {
       "@id": "#vn2imx",
       "name": "#427 ACL generators emit absolute URIs,…",
-      "x": 35,
-      "y": 433,
+      "x": -472,
+      "y": -140,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/427",
       "bgColor": "#e3f0d8",
       "parent": "#aya9s9"
@@ -231,8 +231,8 @@
     {
       "@id": "#2tznvh",
       "name": "#439 Landing page: IDP-availability prob…",
-      "x": -83,
-      "y": 497,
+      "x": -507,
+      "y": -247,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/439",
       "bgColor": "#e3f0d8",
       "parent": "#aya9s9"
@@ -240,8 +240,8 @@
     {
       "@id": "#cnh2fk",
       "name": "#448 umbrella: Credible Exit ladder — id…",
-      "x": -173,
-      "y": 385,
+      "x": -369,
+      "y": -291,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/448",
       "bgColor": "#e3f0d8",
       "parent": "#aya9s9"
@@ -249,8 +249,8 @@
     {
       "@id": "#dk76uz",
       "name": "#450 Replace tar-stream with leaner tar…",
-      "x": -315,
-      "y": 429,
+      "x": -354,
+      "y": -421,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/450",
       "bgColor": "#e3f0d8",
       "parent": "#aya9s9"
@@ -258,8 +258,8 @@
     {
       "@id": "#5aggpq",
       "name": "#366 Native Android APK wrapper for JSS…",
-      "x": -348,
-      "y": 318,
+      "x": -209,
+      "y": -377,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/366",
       "bgColor": "#e3f0d8",
       "parent": "#aya9s9"
@@ -267,8 +267,8 @@
     {
       "@id": "#eqmaaw",
       "name": "#358 Move internal server state out of .…",
-      "x": -490,
-      "y": 272,
+      "x": -134,
+      "y": -488,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/358",
       "bgColor": "#e3f0d8",
       "parent": "#aya9s9"
@@ -276,8 +276,8 @@
     {
       "@id": "#pjbq25",
       "name": "#354 Pod portability: restore from expor…",
-      "x": -465,
-      "y": 157,
+      "x": -10,
+      "y": -425,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/354",
       "bgColor": "#e3f0d8",
       "parent": "#aya9s9"
@@ -285,8 +285,8 @@
     {
       "@id": "#tz98k5",
       "name": "← unlabelled issues",
-      "x": -249,
-      "y": 65,
+      "x": 90,
+      "y": -202,
       "link": "./issues-JavaScriptSolidServer-unlabelled.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -19,54 +19,54 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#7ikicx",
+      "@id": "#45xtcc",
       "name": "exports",
-      "x": 84,
-      "y": -200,
+      "x": 250,
+      "y": 6,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ice2bk",
+      "@id": "#ybwvcb",
       "name": "TOOLS()",
-      "x": -340,
-      "y": -311,
+      "x": 420,
+      "y": -231,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/tools.js#L607",
       "bgColor": "#daeeff",
-      "parent": "#7ikicx"
+      "parent": "#45xtcc"
     },
     {
-      "@id": "#scytyn",
+      "@id": "#i9qywf",
       "name": "listToolsForRpc()",
-      "x": 198,
-      "y": -472,
+      "x": 590,
+      "y": 13,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/tools.js#L783",
       "bgColor": "#daeeff",
-      "parent": "#7ikicx"
+      "parent": "#45xtcc"
     },
     {
-      "@id": "#jbhqgv",
+      "@id": "#iyzq7q",
       "name": "callTool()",
-      "x": 495,
-      "y": -58,
+      "x": 405,
+      "y": 250,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/tools.js#L794",
       "bgColor": "#daeeff",
-      "parent": "#7ikicx"
+      "parent": "#45xtcc"
     },
     {
-      "@id": "#5seuyw",
+      "@id": "#bke9zd",
       "name": "805 lines",
-      "x": 67,
-      "y": 205,
+      "x": -134,
+      "y": 180,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/tools.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#nm5hts",
+      "@id": "#fuxupn",
       "name": "← mcp",
-      "x": -204,
-      "y": 122,
+      "x": -122,
+      "y": -185,
       "link": "./src-mcp.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

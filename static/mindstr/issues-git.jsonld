@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#pu9sy8",
-      "name": "unlabelled · 1",
-      "x": 0,
-      "y": -212,
+      "@id": "#c8rxju",
+      "name": "unlabelled · 1 ›",
+      "x": 217,
+      "y": 106,
       "link": "./issues-git-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#7ppwsy",
+      "@id": "#jr3z4p",
       "name": "← git",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./repo-git.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

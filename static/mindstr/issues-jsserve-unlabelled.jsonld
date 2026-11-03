@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#k258qh",
+      "@id": "#6qa3f3",
       "name": "#1 Live reload support (--live flag)",
-      "x": 120,
-      "y": -186,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/jsserve/issues/1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#3nbxqz",
+      "@id": "#7yk22v",
       "name": "← jsserve issues",
-      "x": -120,
-      "y": 186,
+      "x": -217,
+      "y": -106,
       "link": "./issues-jsserve.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

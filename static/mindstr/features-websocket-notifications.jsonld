@@ -21,8 +21,8 @@
     {
       "@id": "#it6792",
       "name": "Position",
-      "x": -247,
-      "y": -31,
+      "x": 166,
+      "y": -155,
       "link": "https://jss.live/docs/features/websocket-notifications#position",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#dnz3gb",
       "name": "Enable",
-      "x": -226,
-      "y": -91,
+      "x": 227,
+      "y": -89,
       "link": "https://jss.live/docs/features/websocket-notifications#enable",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#3ifse5",
       "name": "Discover",
-      "x": -185,
-      "y": -140,
+      "x": 250,
+      "y": -5,
       "link": "https://jss.live/docs/features/websocket-notifications#discover",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#ju3xzh",
       "name": "Connect",
-      "x": -150,
-      "y": -184,
+      "x": 232,
+      "y": 80,
       "link": "https://jss.live/docs/features/websocket-notifications#connect",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#p46jmx",
       "name": "Subscribe",
-      "x": -50,
-      "y": -206,
+      "x": 175,
+      "y": 137,
       "link": "https://jss.live/docs/features/websocket-notifications#subscribe",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#bu7kuh",
       "name": "JSS-specific extensions",
-      "x": 119,
-      "y": -187,
+      "x": 73,
+      "y": 182,
       "link": "https://jss.live/docs/features/websocket-notifications#jss-specific-extensions",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#2iffkx",
       "name": "ack <absolute-url>",
-      "x": 68,
-      "y": -421,
+      "x": 221,
+      "y": 378,
       "link": "https://jss.live/docs/features/websocket-notifications#ack-absolute-url",
       "bgColor": "#ddf2de",
       "parent": "#bu7kuh"
@@ -84,8 +84,8 @@
     {
       "@id": "#ssgz3q",
       "name": "err <absolute-url> <reason>",
-      "x": 277,
-      "y": -443,
+      "x": 174,
+      "y": 479,
       "link": "https://jss.live/docs/features/websocket-notifications#err-absolute-url-reason",
       "bgColor": "#ddf2de",
       "parent": "#bu7kuh"
@@ -93,8 +93,8 @@
     {
       "@id": "#gksydt",
       "name": "unsub <absolute-url>",
-      "x": 373,
-      "y": -283,
+      "x": 67,
+      "y": 422,
       "link": "https://jss.live/docs/features/websocket-notifications#unsub-absolute-url",
       "bgColor": "#ddf2de",
       "parent": "#bu7kuh"
@@ -102,8 +102,8 @@
     {
       "@id": "#8su7v6",
       "name": "Implementation limits",
-      "x": 240,
-      "y": -65,
+      "x": -46,
+      "y": 227,
       "link": "https://jss.live/docs/features/websocket-notifications#implementation-limits",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -111,8 +111,8 @@
     {
       "@id": "#2da7xj",
       "name": "Auth",
-      "x": 250,
-      "y": 13,
+      "x": -140,
+      "y": 175,
       "link": "https://jss.live/docs/features/websocket-notifications#auth",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#9e878e",
       "name": "Ordering and delivery",
-      "x": 230,
-      "y": 67,
+      "x": -211,
+      "y": 114,
       "link": "https://jss.live/docs/features/websocket-notifications#ordering-and-delivery",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -129,8 +129,8 @@
     {
       "@id": "#cp2str",
       "name": "Reconnect",
-      "x": 184,
-      "y": 113,
+      "x": -247,
+      "y": 33,
       "link": "https://jss.live/docs/features/websocket-notifications#reconnect",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -138,8 +138,8 @@
     {
       "@id": "#swzzzt",
       "name": "JavaScript example",
-      "x": 122,
-      "y": 158,
+      "x": -244,
+      "y": -53,
       "link": "https://jss.live/docs/features/websocket-notifications#javascript-example",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -147,8 +147,8 @@
     {
       "@id": "#pj9sd5",
       "name": "Shell example",
-      "x": 48,
-      "y": 246,
+      "x": -197,
+      "y": -112,
       "link": "https://jss.live/docs/features/websocket-notifications#shell-example",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -156,8 +156,8 @@
     {
       "@id": "#9incsq",
       "name": "Relation to the W3C Solid Notifications Protocol",
-      "x": -85,
-      "y": 202,
+      "x": -120,
+      "y": -158,
       "link": "https://jss.live/docs/features/websocket-notifications#relation-to-the-w3c-solid-notifications-protocol",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -165,8 +165,8 @@
     {
       "@id": "#gwp9qx",
       "name": "Why this matters for app design",
-      "x": -212,
-      "y": 113,
+      "x": -23,
+      "y": -248,
       "link": "https://jss.live/docs/features/websocket-notifications#why-this-matters-for-app-design",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -174,8 +174,8 @@
     {
       "@id": "#7csjb6",
       "name": "← Features",
-      "x": -247,
-      "y": 31,
+      "x": 78,
+      "y": -202,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

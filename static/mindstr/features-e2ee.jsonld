@@ -21,8 +21,8 @@
     {
       "@id": "#yyu7jz",
       "name": "Architecture",
-      "x": -243,
-      "y": -51,
+      "x": 201,
+      "y": -132,
       "link": "https://jss.live/docs/features/e2ee#architecture",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#wkrebf",
       "name": "Protocols",
-      "x": -186,
-      "y": -142,
+      "x": 249,
+      "y": 17,
       "link": "https://jss.live/docs/features/e2ee#protocols",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#bu5bte",
       "name": "Recipe: encrypt-then-PUT",
-      "x": -90,
-      "y": -206,
+      "x": 168,
+      "y": 157,
       "link": "https://jss.live/docs/features/e2ee#recipe-encrypt-then-put",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#4hakzu",
       "name": "Recipe: GET-then-decrypt",
-      "x": 130,
-      "y": -189,
+      "x": -3,
+      "y": 212,
       "link": "https://jss.live/docs/features/e2ee#recipe-get-then-decrypt",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#yhcpjw",
       "name": "Browser flow with a NIP-07 signer",
-      "x": 241,
-      "y": -65,
+      "x": -173,
+      "y": 153,
       "link": "https://jss.live/docs/features/e2ee#browser-flow-with-a-nip-07-signer",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#m7mgcv",
       "name": "Threat model",
-      "x": 227,
-      "y": 89,
+      "x": -250,
+      "y": 11,
       "link": "https://jss.live/docs/features/e2ee#threat-model",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#gekznt",
       "name": "Why reuse Nostr primitives instead of designing a Solid-native E2EE protocol",
-      "x": -24,
-      "y": 212,
+      "x": -171,
+      "y": -157,
       "link": "https://jss.live/docs/features/e2ee#why-reuse-nostr-primitives-instead-of-designing-a-solid-native-e2ee-protocol",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#beqq5j",
       "name": "← Features",
-      "x": -243,
-      "y": 51,
+      "x": 37,
+      "y": -210,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

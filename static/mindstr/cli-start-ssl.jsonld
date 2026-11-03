@@ -20,24 +20,24 @@
     {
       "@id": "#fad69b",
       "name": "--ssl-key <path>",
-      "x": -124,
-      "y": -185,
+      "x": 250,
+      "y": 0,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#fnrzmm",
       "name": "--ssl-cert <path>",
-      "x": 249,
-      "y": 14,
+      "x": -125,
+      "y": 184,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#3y3s3p",
       "name": "← jss start",
-      "x": -138,
-      "y": 177,
+      "x": -125,
+      "y": -184,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -1,0 +1,89 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "cookies.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/cookies.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#bwj4g5",
+      "name": "exports",
+      "x": 250,
+      "y": 0,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9fjvd8",
+      "name": "expireSessionCookies()",
+      "x": 447,
+      "y": -190,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/cookies.js#L33",
+      "bgColor": "#daeeff",
+      "parent": "#bwj4g5"
+    },
+    {
+      "@id": "#6fwnzy",
+      "name": "expireSessionCookiesKoa()",
+      "x": 539,
+      "y": 203,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/cookies.js#L46",
+      "bgColor": "#daeeff",
+      "parent": "#bwj4g5"
+    },
+    {
+      "@id": "#rtnzsk",
+      "name": "50 lines",
+      "x": -125,
+      "y": 184,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/cookies.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v8phzs",
+      "name": "← idp",
+      "x": -125,
+      "y": -184,
+      "link": "./src-idp.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    }
+  ],
+  "selectedNode": 0
+}

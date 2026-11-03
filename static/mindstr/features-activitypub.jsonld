@@ -21,8 +21,8 @@
     {
       "@id": "#59pd9r",
       "name": "Quick Start",
-      "x": -236,
-      "y": -70,
+      "x": 198,
+      "y": -129,
       "link": "https://jss.live/docs/features/activitypub#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#2ec6a3",
       "name": "Configuration",
-      "x": -134,
-      "y": -180,
+      "x": 248,
+      "y": 28,
       "link": "https://jss.live/docs/features/activitypub#configuration",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#ta2q85",
       "name": "Endpoints",
-      "x": 27,
-      "y": -211,
+      "x": 152,
+      "y": 169,
       "link": "https://jss.live/docs/features/activitypub#endpoints",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#f6qx4w",
       "name": "Supported Activities",
-      "x": 224,
-      "y": -94,
+      "x": -33,
+      "y": 211,
       "link": "https://jss.live/docs/features/activitypub#supported-activities",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#su9mmy",
       "name": "Incoming",
-      "x": 369,
-      "y": -287,
+      "x": 17,
+      "y": 425,
       "link": "https://jss.live/docs/features/activitypub#incoming-inbox",
       "bgColor": "#ffe4d9",
       "parent": "#f6qx4w"
@@ -66,8 +66,8 @@
     {
       "@id": "#puabcz",
       "name": "Outgoing",
-      "x": 581,
-      "y": -88,
+      "x": -172,
+      "y": 480,
       "link": "https://jss.live/docs/features/activitypub#outgoing-outbox",
       "bgColor": "#ffe4d9",
       "parent": "#f6qx4w"
@@ -75,8 +75,8 @@
     {
       "@id": "#pggewd",
       "name": "Security",
-      "x": 213,
-      "y": 111,
+      "x": -198,
+      "y": 129,
       "link": "https://jss.live/docs/features/activitypub#security",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#7cv7qa",
       "name": "Nostr Identity Linking",
-      "x": 57,
-      "y": 207,
+      "x": -254,
+      "y": -28,
       "link": "https://jss.live/docs/features/activitypub#nostr-identity-linking",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#4evz5w",
       "name": "NodeInfo",
-      "x": -134,
-      "y": 180,
+      "x": -152,
+      "y": -169,
       "link": "https://jss.live/docs/features/activitypub#nodeinfo",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#vh32g5",
       "name": "← Features",
-      "x": -236,
-      "y": 70,
+      "x": 33,
+      "y": -211,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

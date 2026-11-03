@@ -19,63 +19,63 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#2gvkzt",
+      "@id": "#ysvez3",
       "name": "exports",
-      "x": 155,
-      "y": -167,
+      "x": 233,
+      "y": 78,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#5gpqg5",
+      "@id": "#83zuf9",
       "name": "PROXY_CORS_HEADERS()",
-      "x": -334,
-      "y": -316,
+      "x": 434,
+      "y": -211,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/cors-proxy.js#L45",
       "bgColor": "#daeeff",
-      "parent": "#2gvkzt"
+      "parent": "#ysvez3"
     },
     {
-      "@id": "#wzta82",
+      "@id": "#vrzefk",
       "name": "setProxyCorsHeaders()",
-      "x": 144,
-      "y": -486,
+      "x": 588,
+      "y": 46,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/cors-proxy.js#L67",
       "bgColor": "#daeeff",
-      "parent": "#2gvkzt"
+      "parent": "#ysvez3"
     },
     {
-      "@id": "#jw3kjf",
+      "@id": "#hvyxxr",
       "name": "handleCorsProxy()",
-      "x": 460,
-      "y": -167,
+      "x": 387,
+      "y": 270,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/cors-proxy.js#L263",
       "bgColor": "#daeeff",
-      "parent": "#2gvkzt"
+      "parent": "#ysvez3"
     },
     {
-      "@id": "#r76gtv",
+      "@id": "#qahfae",
       "name": "isCorsProxyRequest()",
-      "x": 518,
-      "y": 240,
+      "x": 174,
+      "y": 479,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/cors-proxy.js#L421",
       "bgColor": "#daeeff",
-      "parent": "#2gvkzt"
+      "parent": "#ysvez3"
     },
     {
-      "@id": "#qmk4u7",
+      "@id": "#tgdsut",
       "name": "424 lines",
-      "x": -54,
-      "y": 207,
+      "x": -221,
+      "y": 99,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/cors-proxy.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#ysvez3",
+      "@id": "#ijf3kk",
       "name": "← handlers",
-      "x": -225,
-      "y": 93,
+      "x": -82,
+      "y": -201,
       "link": "./src-handlers.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

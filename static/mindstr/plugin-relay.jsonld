@@ -21,8 +21,8 @@
     {
       "@id": "#tbf3y4",
       "name": "Findings",
-      "x": -177,
-      "y": -150,
+      "x": 251,
+      "y": -55,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/relay/README.md#findings",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#z9ubg8",
       "name": "plugin.js",
-      "x": 177,
-      "y": -150,
+      "x": 65,
+      "y": 205,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/relay/plugin.js",
       "bgColor": "#f3bee1",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#5h5cc9",
       "name": "activate()",
-      "x": 354,
-      "y": -301,
+      "x": 129,
+      "y": 411,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/relay/plugin.js#L44",
       "bgColor": "#fce3f3",
       "parent": "#z9ubg8"
@@ -48,8 +48,8 @@
     {
       "@id": "#2682x9",
       "name": "test.js",
-      "x": 177,
-      "y": 150,
+      "x": -248,
+      "y": 55,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/relay/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#dgxw48",
       "name": "← JSS plugins",
-      "x": -177,
-      "y": 150,
+      "x": -65,
+      "y": -205,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

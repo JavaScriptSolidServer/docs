@@ -19,134 +19,134 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#iuspsm",
+      "@id": "#4hwtf3",
       "name": "exports 1/2",
-      "x": -35,
-      "y": -210,
+      "x": 249,
+      "y": 17,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ncvdiq",
+      "@id": "#w4qstn",
       "name": "AccessMode()",
-      "x": -459,
-      "y": -168,
+      "x": 377,
+      "y": -279,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L13",
       "bgColor": "#daeeff",
-      "parent": "#iuspsm"
+      "parent": "#4hwtf3"
     },
     {
-      "@id": "#95c6bh",
+      "@id": "#8q2ipi",
       "name": "AgentClass()",
-      "x": -428,
-      "y": -346,
+      "x": 539,
+      "y": -203,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L21",
       "bgColor": "#daeeff",
-      "parent": "#iuspsm"
+      "parent": "#4hwtf3"
     },
     {
-      "@id": "#jdqw4m",
+      "@id": "#u48jbf",
       "name": "parseAcl()",
-      "x": -220,
-      "y": -381,
+      "x": 497,
+      "y": -50,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L32",
       "bgColor": "#daeeff",
-      "parent": "#iuspsm"
+      "parent": "#4hwtf3"
     },
     {
-      "@id": "#ci6a2d",
+      "@id": "#tq7qua",
       "name": "grantsAccess()",
-      "x": -60,
-      "y": -499,
+      "x": 580,
+      "y": 91,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L159",
       "bgColor": "#daeeff",
-      "parent": "#iuspsm"
+      "parent": "#4hwtf3"
     },
     {
-      "@id": "#e9ev2h",
+      "@id": "#vws4ar",
       "name": "relativizeOwnerWebId()",
-      "x": 156,
-      "y": -404,
+      "x": 438,
+      "y": 205,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L312",
       "bgColor": "#daeeff",
-      "parent": "#iuspsm"
+      "parent": "#4hwtf3"
     },
     {
-      "@id": "#qg3m9n",
+      "@id": "#e4dfcy",
       "name": "generatePublicReadAcl()",
-      "x": 427,
-      "y": -346,
+      "x": 389,
+      "y": 377,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L330",
       "bgColor": "#daeeff",
-      "parent": "#iuspsm"
+      "parent": "#4hwtf3"
     },
     {
-      "@id": "#hd3dbi",
+      "@id": "#4w8knq",
       "name": "exports 2/2",
-      "x": 133,
-      "y": 180,
+      "x": -152,
+      "y": 169,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
-      "@id": "#pkx9gj",
+      "@id": "#7bushy",
       "name": "generateOwnerAcl()",
-      "x": 496,
-      "y": 56,
+      "x": 20,
+      "y": 425,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L361",
       "bgColor": "#fce3f3",
-      "parent": "#hd3dbi"
+      "parent": "#4w8knq"
     },
     {
-      "@id": "#zm97u9",
+      "@id": "#9uzi5i",
       "name": "generatePrivateAcl()",
-      "x": 499,
-      "y": 268,
+      "x": -169,
+      "y": 481,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L411",
       "bgColor": "#fce3f3",
-      "parent": "#hd3dbi"
+      "parent": "#4w8knq"
     },
     {
-      "@id": "#dxk4uv",
+      "@id": "#stqn7y",
       "name": "generateInboxAcl()",
-      "x": 273,
-      "y": 356,
+      "x": -291,
+      "y": 346,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L443",
       "bgColor": "#fce3f3",
-      "parent": "#hd3dbi"
+      "parent": "#4w8knq"
     },
     {
-      "@id": "#zxxzax",
+      "@id": "#j6h28m",
       "name": "generatePublicFolderAcl()",
-      "x": 60,
-      "y": 499,
+      "x": -491,
+      "y": 278,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L483",
       "bgColor": "#fce3f3",
-      "parent": "#hd3dbi"
+      "parent": "#4w8knq"
     },
     {
-      "@id": "#w59yz8",
+      "@id": "#cr4xei",
       "name": "serializeAcl()",
-      "x": -169,
-      "y": 400,
+      "x": -488,
+      "y": 94,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js#L519",
       "bgColor": "#fce3f3",
-      "parent": "#hd3dbi"
+      "parent": "#4w8knq"
     },
     {
-      "@id": "#n6njdt",
+      "@id": "#yxp6wn",
       "name": "522 lines",
-      "x": -202,
-      "y": 126,
+      "x": -207,
+      "y": -120,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/parser.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#we24ey",
+      "@id": "#gzqwa4",
       "name": "← wac",
-      "x": -244,
-      "y": 44,
+      "x": 6,
+      "y": -212,
       "link": "./src-wac.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

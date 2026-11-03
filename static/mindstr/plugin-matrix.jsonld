@@ -21,8 +21,8 @@
     {
       "@id": "#4pcagq",
       "name": "Pointing a client at it",
-      "x": -245,
-      "y": -65,
+      "x": 178,
+      "y": -149,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#pointing-a-client-at-it",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#5b4mbz",
       "name": "Endpoint coverage",
-      "x": -209,
-      "y": -116,
+      "x": 243,
+      "y": -64,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#endpoint-coverage",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#6kbx7u",
       "name": "The login → pod-credentials bridge",
-      "x": -128,
-      "y": -173,
+      "x": 240,
+      "y": 65,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#the-login-pod-credentials-bridge",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#9bysfh",
       "name": "Identity & object derivation",
-      "x": -2,
-      "y": -217,
+      "x": 170,
+      "y": 156,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#identity-object-derivation",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#cyd9xx",
       "name": "Findings",
-      "x": 237,
-      "y": 66,
+      "x": -125,
+      "y": 177,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#findings",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#bvsynb",
       "name": "Matrix's fixed /matrix root doesn't fit the one-prefix plugin model",
-      "x": 406,
-      "y": -248,
+      "x": 24,
+      "y": 409,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#1-matrixs-fixed-matrix-root-doesnt-fit-the-one-prefix-plugin-model-the-nth-confirmation-now-for-a-chat-protocol-closed-apireservepath-jss-00219",
       "bgColor": "#f2ecd2",
       "parent": "#cyd9xx"
@@ -75,8 +75,8 @@
     {
       "@id": "#xintwj",
       "name": "The /idp/credentials token bridge generalizes to a 4th protocol",
-      "x": 573,
-      "y": 121,
+      "x": -272,
+      "y": 453,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#2-the-idpcredentials-token-bridge-generalizes-to-a-4th-protocol",
       "bgColor": "#f2ecd2",
       "parent": "#cyd9xx"
@@ -84,8 +84,8 @@
     {
       "@id": "#yhbdjy",
       "name": "LDP ↔ Matrix-event mapping: timelines fit, the /sync since-token model does not",
-      "x": 188,
-      "y": 394,
+      "x": -434,
+      "y": 223,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#3-ldp-matrix-event-mapping-timelines-fit-the-sync-since-token-model-does-not",
       "bgColor": "#f2ecd2",
       "parent": "#cyd9xx"
@@ -93,8 +93,8 @@
     {
       "@id": "#hgctui",
       "name": "Run",
-      "x": -129,
-      "y": 197,
+      "x": -244,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/README.md#run",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#vz6dbr",
       "name": "plugin.js",
-      "x": -186,
-      "y": 153,
+      "x": -182,
+      "y": -146,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/plugin.js",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -111,8 +111,8 @@
     {
       "@id": "#ecv4rb",
       "name": "activate()",
-      "x": -371,
-      "y": 285,
+      "x": -363,
+      "y": -292,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/plugin.js#L102",
       "bgColor": "#d1f3f4",
       "parent": "#vz6dbr"
@@ -120,8 +120,8 @@
     {
       "@id": "#57jxgj",
       "name": "test.js",
-      "x": -226,
-      "y": 109,
+      "x": -69,
+      "y": -204,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/matrix/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -129,8 +129,8 @@
     {
       "@id": "#ttdvnf",
       "name": "← JSS plugins",
-      "x": -247,
-      "y": 64,
+      "x": 63,
+      "y": -206,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

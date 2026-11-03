@@ -21,8 +21,8 @@
     {
       "@id": "#9c2qhr",
       "name": "actor.js",
-      "x": -200,
-      "y": -127,
+      "x": 207,
+      "y": -120,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/actor.js",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#h59t8f",
       "name": "createActorHandler()",
-      "x": -460,
-      "y": -167,
+      "x": 355,
+      "y": -299,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/actor.js#L12",
       "bgColor": "#daeeff",
       "parent": "#9c2qhr"
@@ -39,8 +39,8 @@
     {
       "@id": "#rfby2g",
       "name": "default export",
-      "x": -347,
-      "y": -405,
+      "x": 542,
+      "y": -198,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/actor.js#L70",
       "bgColor": "#daeeff",
       "parent": "#9c2qhr"
@@ -48,8 +48,8 @@
     {
       "@id": "#arxjt8",
       "name": "collections.js",
-      "x": 106,
-      "y": -193,
+      "x": 239,
+      "y": 63,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/collections.js",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#jtyjdw",
       "name": "createCollectionsHandler()",
-      "x": 98,
-      "y": -417,
+      "x": 495,
+      "y": 57,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/collections.js#L13",
       "bgColor": "#efe6ff",
       "parent": "#arxjt8"
@@ -66,8 +66,8 @@
     {
       "@id": "#dtqx4z",
       "name": "default export",
-      "x": 426,
-      "y": -347,
+      "x": 514,
+      "y": 246,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/collections.js#L46",
       "bgColor": "#efe6ff",
       "parent": "#arxjt8"
@@ -75,8 +75,8 @@
     {
       "@id": "#u2s2vv",
       "name": "inbox.js",
-      "x": 243,
-      "y": 49,
+      "x": 91,
+      "y": 198,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/inbox.js",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#vx2z65",
       "name": "createInboxHandler()",
-      "x": 500,
-      "y": -3,
+      "x": 264,
+      "y": 361,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/inbox.js#L117",
       "bgColor": "#ffe2ed",
       "parent": "#u2s2vv"
@@ -93,35 +93,35 @@
     {
       "@id": "#xwei9g",
       "name": "default export",
-      "x": 509,
-      "y": 254,
+      "x": 106,
+      "y": 493,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/inbox.js#L247",
       "bgColor": "#ffe2ed",
       "parent": "#u2s2vv"
     },
     {
       "@id": "#6bzs4i",
-      "name": "mastodon.js · 5",
-      "x": 102,
-      "y": 195,
+      "name": "mastodon.js · 5 ›",
+      "x": -125,
+      "y": 184,
       "link": "./src-ap-routes-mastodon-js.jsonld",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
       "@id": "#fkywkd",
-      "name": "oauth.js · 4",
-      "x": -40,
-      "y": 210,
+      "name": "oauth.js · 4 ›",
+      "x": -247,
+      "y": 32,
       "link": "./src-ap-routes-oauth-js.jsonld",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
       "@id": "#j8deiz",
-      "name": "outbox.js · 3",
-      "x": -165,
-      "y": 159,
+      "name": "outbox.js · 3 ›",
+      "x": -183,
+      "y": -145,
       "link": "./src-ap-routes-outbox-js.jsonld",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -129,8 +129,8 @@
     {
       "@id": "#aya9s9",
       "name": "← ap",
-      "x": -240,
-      "y": 59,
+      "x": 19,
+      "y": -212,
       "link": "./src-ap.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,8 +21,8 @@
     {
       "@id": "#f6qx4w",
       "name": "A curl session",
-      "x": -247,
-      "y": -65,
+      "x": 189,
+      "y": -139,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#a-curl-session",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#su9mmy",
       "name": "What maps / what doesn't",
-      "x": -209,
-      "y": -116,
+      "x": 250,
+      "y": -64,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#what-maps-what-doesnt",
       "bgColor": "#e0c4f6",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#puabcz",
       "name": "Findings",
-      "x": 249,
-      "y": -64,
+      "x": -47,
+      "y": 209,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#findings",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#pggewd",
       "name": "The token bridge, fourth witness",
-      "x": -64,
-      "y": -422,
+      "x": 384,
+      "y": 272,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#1-the-token-bridge-fourth-witness-and-the-purest-one",
       "bgColor": "#ffe2e6",
       "parent": "#puabcz"
@@ -57,8 +57,8 @@
     {
       "@id": "#7cv7qa",
       "name": "Media endpoint blocked on the streaming-body primitive",
-      "x": 309,
-      "y": -427,
+      "x": 244,
+      "y": 460,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#2-media-endpoint-blocked-on-the-streaming-body-primitive-583",
       "bgColor": "#ffe2e6",
       "parent": "#puabcz"
@@ -66,8 +66,8 @@
     {
       "@id": "#4evz5w",
       "name": "Endpoint discovery needs headers on routes the plugin doesn't own",
-      "x": 497,
-      "y": -108,
+      "x": -88,
+      "y": 416,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#3-endpoint-discovery-needs-headers-on-routes-the-plugin-doesnt-own",
       "bgColor": "#ffe2e6",
       "parent": "#puabcz"
@@ -75,8 +75,8 @@
     {
       "@id": "#vh32g5",
       "name": "Counter-witness: the one-prefix model fits Micropub exactly",
-      "x": 396,
-      "y": 372,
+      "x": -425,
+      "y": 348,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#4-counter-witness-the-one-prefix-model-fits-micropub-exactly",
       "bgColor": "#ffe2e6",
       "parent": "#puabcz"
@@ -84,8 +84,8 @@
     {
       "@id": "#6ktxue",
       "name": "Small mercies that just worked",
-      "x": 18,
-      "y": 425,
+      "x": -477,
+      "y": 127,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/README.md#5-small-mercies-that-just-worked",
       "bgColor": "#ffe2e6",
       "parent": "#puabcz"
@@ -93,8 +93,8 @@
     {
       "@id": "#qrakrq",
       "name": "plugin.js",
-      "x": -168,
-      "y": 158,
+      "x": -227,
+      "y": -89,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/plugin.js",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#ppuaac",
       "name": "activate()",
-      "x": -335,
-      "y": 315,
+      "x": -454,
+      "y": -178,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/plugin.js#L96",
       "bgColor": "#fbe8d3",
       "parent": "#qrakrq"
@@ -111,8 +111,8 @@
     {
       "@id": "#f77hg7",
       "name": "test.js",
-      "x": -219,
-      "y": 109,
+      "x": -114,
+      "y": -189,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/micropub/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#kpihvt",
       "name": "← JSS plugins",
-      "x": -247,
-      "y": 65,
+      "x": 47,
+      "y": -209,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

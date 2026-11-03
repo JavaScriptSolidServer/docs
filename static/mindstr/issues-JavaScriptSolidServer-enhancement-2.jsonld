@@ -20,16 +20,16 @@
     {
       "@id": "#krwt6e",
       "name": "May 2026 · 1–5 of 10",
-      "x": -17,
-      "y": -212,
+      "x": 235,
+      "y": 73,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#emecna",
       "name": "#95 Feature: Admin Onboarding Wizard &…",
-      "x": -441,
-      "y": -200,
+      "x": 415,
+      "y": -237,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/95",
       "bgColor": "#daeeff",
       "parent": "#krwt6e"
@@ -37,8 +37,8 @@
     {
       "@id": "#u8v9bw",
       "name": "#97 Feature: Configuration Presets for…",
-      "x": -358,
-      "y": -419,
+      "x": 585,
+      "y": -64,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/97",
       "bgColor": "#daeeff",
       "parent": "#krwt6e"
@@ -46,8 +46,8 @@
     {
       "@id": "#j6zbf9",
       "name": "#98 Feature: Enhanced CLI Setup Wizard…",
-      "x": -24,
-      "y": -417,
+      "x": 472,
+      "y": 140,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/98",
       "bgColor": "#daeeff",
       "parent": "#krwt6e"
@@ -55,8 +55,8 @@
     {
       "@id": "#2z3p7w",
       "name": "#99 Feature: Docker Support - Dockerfil…",
-      "x": 240,
-      "y": -461,
+      "x": 409,
+      "y": 362,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/99",
       "bgColor": "#daeeff",
       "parent": "#krwt6e"
@@ -64,8 +64,8 @@
     {
       "@id": "#pvzwd8",
       "name": "#102 Feature Discussion: File Sync for N…",
-      "x": 402,
-      "y": -253,
+      "x": 141,
+      "y": 408,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/102",
       "bgColor": "#daeeff",
       "parent": "#krwt6e"
@@ -73,16 +73,16 @@
     {
       "@id": "#57iy7q",
       "name": "May 2026 · 6–10 of 10",
-      "x": 59,
-      "y": 207,
+      "x": -359,
+      "y": 5,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#qprvms",
       "name": "#108 Feature: jsserve - npx serve altern…",
-      "x": 468,
-      "y": 149,
+      "x": -300,
+      "y": 340,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/108",
       "bgColor": "#ffe2e6",
       "parent": "#57iy7q"
@@ -90,8 +90,8 @@
     {
       "@id": "#7fucmt",
       "name": "#151 Add --db-public flag for public wri…",
-      "x": 376,
-      "y": 374,
+      "x": -533,
+      "y": 215,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/151",
       "bgColor": "#ffe2e6",
       "parent": "#57iy7q"
@@ -99,8 +99,8 @@
     {
       "@id": "#t922yq",
       "name": "#156 Add a Recipes repository",
-      "x": 118,
-      "y": 420,
+      "x": -588,
+      "y": 9,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/156",
       "bgColor": "#ffe2e6",
       "parent": "#57iy7q"
@@ -108,8 +108,8 @@
     {
       "@id": "#26rfi6",
       "name": "#231 Support JSON Merge Patch (applicati…",
-      "x": -126,
-      "y": 490,
+      "x": -543,
+      "y": -196,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/231",
       "bgColor": "#ffe2e6",
       "parent": "#57iy7q"
@@ -117,8 +117,8 @@
     {
       "@id": "#u28rkq",
       "name": "#396 Migrate existing on-disk profiles t…",
-      "x": -336,
-      "y": 315,
+      "x": -316,
+      "y": -329,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/396",
       "bgColor": "#ffe2e6",
       "parent": "#57iy7q"
@@ -126,8 +126,8 @@
     {
       "@id": "#varvfj",
       "name": "← enhancement issues",
-      "x": -246,
-      "y": 64,
+      "x": 37,
+      "y": -210,
       "link": "./issues-JavaScriptSolidServer-enhancement.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

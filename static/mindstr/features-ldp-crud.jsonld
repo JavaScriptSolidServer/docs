@@ -21,8 +21,8 @@
     {
       "@id": "#sbf4ee",
       "name": "GET",
-      "x": -219,
-      "y": -102,
+      "x": 217,
+      "y": -106,
       "link": "https://jss.live/docs/features/ldp-crud#get---read-resources",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#t6q67m",
       "name": "PUT",
-      "x": -17,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "link": "https://jss.live/docs/features/ldp-crud#put---create-or-update",
       "bgColor": "#e0c4f6",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#abq85r",
       "name": "POST",
-      "x": 201,
-      "y": -126,
+      "x": 0,
+      "y": 213,
       "link": "https://jss.live/docs/features/ldp-crud#post---create-in-container",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#sy2ncx",
       "name": "DELETE",
-      "x": 233,
-      "y": 76,
+      "x": -217,
+      "y": 106,
       "link": "https://jss.live/docs/features/ldp-crud#delete---remove-resources",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#fertai",
       "name": "Conditional Requests",
-      "x": 17,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "link": "https://jss.live/docs/features/ldp-crud#conditional-requests",
       "bgColor": "#c1dba8",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#9u36xp",
       "name": "← Features",
-      "x": -219,
-      "y": 102,
+      "x": 0,
+      "y": -212,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

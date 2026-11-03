@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#2y862s",
+      "@id": "#4qhe86",
       "name": "#1 Future: Extend to general orchestra…",
-      "x": 85,
-      "y": -200,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-sync/issues/1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#8x5xg4",
+      "@id": "#z2x7bd",
       "name": "← nostr-git-sync issues",
-      "x": -85,
-      "y": 200,
+      "x": -217,
+      "y": -106,
       "link": "./issues-nostr-git-sync.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

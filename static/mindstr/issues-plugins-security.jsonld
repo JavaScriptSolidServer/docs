@@ -19,46 +19,46 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#zm97u9",
+      "@id": "#zxxzax",
       "name": "#1 activitypub: inbound HTTP-Signature…",
-      "x": -190,
-      "y": -138,
+      "x": 228,
+      "y": -86,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#dxk4uv",
+      "@id": "#w59yz8",
       "name": "#2 DNS-rebinding TOCTOU in gatedFetch…",
-      "x": 128,
-      "y": -183,
+      "x": 167,
+      "y": 145,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/2",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
-      "@id": "#zxxzax",
+      "@id": "#n6njdt",
       "name": "#3 No per-resource body-size ceiling o…",
-      "x": 233,
-      "y": 76,
+      "x": -125,
+      "y": 191,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/3",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
-      "@id": "#w59yz8",
+      "@id": "#we24ey",
       "name": "#4 pluginDir read-modify-write TOCTOU…",
-      "x": -49,
-      "y": 208,
+      "x": -245,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/4",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },
     {
-      "@id": "#n6njdt",
+      "@id": "#9e76te",
       "name": "← plugins issues",
-      "x": -236,
-      "y": 71,
+      "x": -26,
+      "y": -211,
       "link": "./issues-plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

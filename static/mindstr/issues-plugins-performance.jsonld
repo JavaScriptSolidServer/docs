@@ -19,28 +19,28 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#7c6syt",
+      "@id": "#rf2fdu",
       "name": "#5 s3: ListObjectsV2 fetches every obj…",
-      "x": -75,
-      "y": -203,
+      "x": 328,
+      "y": 0,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/5",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#attg7q",
+      "@id": "#rfrezv",
       "name": "#6 relay: rewrites the whole event fil…",
-      "x": 198,
-      "y": 130,
+      "x": -125,
+      "y": 184,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/6",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#rf2fdu",
+      "@id": "#wjrmez",
       "name": "← plugins issues",
-      "x": -205,
-      "y": 122,
+      "x": -125,
+      "y": -184,
       "link": "./issues-plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

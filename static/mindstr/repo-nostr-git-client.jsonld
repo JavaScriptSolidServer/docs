@@ -19,118 +19,118 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#u3dr42",
+      "@id": "#u49sh5",
       "name": "Installation",
-      "x": -245,
-      "y": -43,
+      "x": 202,
+      "y": -126,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#installation",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#hjxwny",
+      "@id": "#xdk3d5",
       "name": "Usage",
-      "x": -64,
-      "y": -205,
+      "x": 230,
+      "y": 83,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#usage",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#u49sh5",
+      "@id": "#f4wxnt",
       "name": "Basic Git Sync",
-      "x": -376,
-      "y": -280,
+      "x": 500,
+      "y": 6,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#basic-git-sync",
       "bgColor": "#efe6ff",
-      "parent": "#hjxwny"
-    },
-    {
-      "@id": "#xdk3d5",
-      "name": "State Management with Bitcoin Anchoring",
-      "x": -177,
-      "y": -478,
-      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#state-management-with-bitcoin-anchoring",
-      "bgColor": "#efe6ff",
-      "parent": "#hjxwny"
-    },
-    {
-      "@id": "#f4wxnt",
-      "name": "Self-Deploying Pages",
-      "x": 142,
-      "y": -408,
-      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#self-deploying-pages",
-      "bgColor": "#efe6ff",
-      "parent": "#hjxwny"
+      "parent": "#xdk3d5"
     },
     {
       "@id": "#izya3w",
+      "name": "State Management with Bitcoin Anchoring",
+      "x": 545,
+      "y": 192,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#state-management-with-bitcoin-anchoring",
+      "bgColor": "#efe6ff",
+      "parent": "#xdk3d5"
+    },
+    {
+      "@id": "#wpzfj8",
+      "name": "Self-Deploying Pages",
+      "x": 356,
+      "y": 299,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#self-deploying-pages",
+      "bgColor": "#efe6ff",
+      "parent": "#xdk3d5"
+    },
+    {
+      "@id": "#fdyzb2",
       "name": "API",
-      "x": 238,
-      "y": -66,
+      "x": 34,
+      "y": 211,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#api",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#wpzfj8",
+      "@id": "#wdpbcx",
       "name": "NostrGitClient",
-      "x": 396,
-      "y": -259,
+      "x": 180,
+      "y": 396,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#nostrgitclient",
       "bgColor": "#ffe2ed",
-      "parent": "#izya3w"
-    },
-    {
-      "@id": "#fdyzb2",
-      "name": "StateManager",
-      "x": 561,
-      "y": -156,
-      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#statemanager",
-      "bgColor": "#ffe2ed",
-      "parent": "#izya3w"
-    },
-    {
-      "@id": "#wdpbcx",
-      "name": "SelfDeploy",
-      "x": 500,
-      "y": 10,
-      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#selfdeploy",
-      "bgColor": "#ffe2ed",
-      "parent": "#izya3w"
+      "parent": "#fdyzb2"
     },
     {
       "@id": "#fjs37a",
+      "name": "StateManager",
+      "x": 81,
+      "y": 497,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#statemanager",
+      "bgColor": "#ffe2ed",
+      "parent": "#fdyzb2"
+    },
+    {
+      "@id": "#yxptnb",
+      "name": "SelfDeploy",
+      "x": -47,
+      "y": 423,
+      "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#selfdeploy",
+      "bgColor": "#ffe2ed",
+      "parent": "#fdyzb2"
+    },
+    {
+      "@id": "#96tbf9",
       "name": "Dependencies",
-      "x": 220,
-      "y": 100,
+      "x": -159,
+      "y": 164,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-client#dependencies",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#yxptnb",
+      "@id": "#f2gvzm",
       "name": "Browser-based git sync via Nostr with optional Bitcoin ancho",
-      "x": 54,
-      "y": 208,
+      "x": -365,
+      "y": 3,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-client",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#96tbf9",
+      "@id": "#2y862s",
       "name": "last commit 2026-01-02",
       "x": -165,
-      "y": 160,
+      "y": -160,
       "link": "https://github.com/JavaScriptSolidServer/nostr-git-client/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#f2gvzm",
+      "@id": "#8x5xg4",
       "name": "← JavaScriptSolidServer",
-      "x": -240,
-      "y": 60,
+      "x": 27,
+      "y": -211,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

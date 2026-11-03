@@ -20,18 +20,18 @@
     },
     {
       "@id": "#4wkdd9",
-      "name": "newest 25",
-      "x": -183,
-      "y": -145,
+      "name": "newest 25 ›",
+      "x": 293,
+      "y": 0,
       "link": "./issues-JavaScriptSolidServer-unlabelled-1.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#yiscsp",
-      "name": "older 16, to 2026-04-29",
-      "x": 210,
-      "y": -116,
+      "name": "older 16, to 2026-04-29 ›",
+      "x": -125,
+      "y": 184,
       "link": "./issues-JavaScriptSolidServer-unlabelled-2.jsonld",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#2fzfhg",
       "name": "← JavaScriptSolidServer issues",
-      "x": -60,
-      "y": 206,
+      "x": -125,
+      "y": -184,
       "link": "./issues-JavaScriptSolidServer.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

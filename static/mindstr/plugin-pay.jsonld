@@ -21,8 +21,8 @@
     {
       "@id": "#gyahr4",
       "name": "What core pay is",
-      "x": -233,
-      "y": -76,
+      "x": 207,
+      "y": -120,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/pay/README.md#what-core-pay-is",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#wt6f72",
       "name": "Findings",
-      "x": -117,
-      "y": -188,
+      "x": 239,
+      "y": 63,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/pay/README.md#findings-why-a-plugin-cant-be-that",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#zy9np2",
       "name": "The line this draws for #564",
-      "x": 105,
-      "y": -193,
+      "x": 91,
+      "y": 218,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/pay/README.md#the-line-this-draws-for-564",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#3jk3i5",
       "name": "What this directory's plugin actually does",
-      "x": 242,
-      "y": 65,
+      "x": -125,
+      "y": 174,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/pay/README.md#what-this-directorys-plugin-actually-does",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#94asrn",
       "name": "plugin.js",
-      "x": 39,
-      "y": 210,
+      "x": -247,
+      "y": 32,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/pay/plugin.js",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#kgrwxb",
       "name": "activate()",
-      "x": 77,
-      "y": 420,
+      "x": -494,
+      "y": 63,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/pay/plugin.js#L20",
       "bgColor": "#f2ecd2",
       "parent": "#94asrn"
@@ -75,8 +75,8 @@
     {
       "@id": "#aj9t28",
       "name": "test.js",
-      "x": -127,
-      "y": 183,
+      "x": -183,
+      "y": -145,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/pay/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#vx7khw",
       "name": "← JSS plugins",
-      "x": -235,
-      "y": 72,
+      "x": 19,
+      "y": -212,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -19,199 +19,151 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#f77hg7",
-      "name": "accounts.js · 16",
-      "x": -246,
-      "y": -37,
-      "link": "./src-idp-accounts-js.jsonld",
+      "@id": "#u9rrt3",
+      "name": "around index.js · 6",
+      "x": 248,
+      "y": 30,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#kpihvt",
-      "name": "adapter.js",
-      "x": -196,
-      "y": -132,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/adapter.js",
-      "bgColor": "#d9c6fb",
-      "parent": "#this"
+      "@id": "#kgvapt",
+      "name": "index.js · 2 ›",
+      "x": 384,
+      "y": -273,
+      "link": "./src-idp-index-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#u9rrt3"
     },
     {
-      "@id": "#k58b5b",
-      "name": "createAdapter()",
-      "x": -430,
-      "y": -217,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/adapter.js#L200",
-      "bgColor": "#efe6ff",
-      "parent": "#kpihvt"
+      "@id": "#6yp854",
+      "name": "provider.js · 1 ›",
+      "x": 549,
+      "y": -184,
+      "link": "./src-idp-provider-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#u9rrt3"
     },
     {
-      "@id": "#htircd",
-      "name": "default export",
-      "x": -407,
-      "y": -363,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/adapter.js#L204",
-      "bgColor": "#efe6ff",
-      "parent": "#kpihvt"
-    },
-    {
-      "@id": "#sixamq",
-      "name": "cookies.js",
-      "x": -26,
-      "y": -211,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/cookies.js",
-      "bgColor": "#f9bdd5",
-      "parent": "#this"
-    },
-    {
-      "@id": "#j99zi5",
-      "name": "expireSessionCookies()",
-      "x": -153,
-      "y": -405,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/cookies.js#L33",
-      "bgColor": "#ffe2ed",
-      "parent": "#sixamq"
-    },
-    {
-      "@id": "#kwrapz",
-      "name": "expireSessionCookiesKoa()",
-      "x": 48,
-      "y": -500,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/cookies.js#L46",
-      "bgColor": "#ffe2ed",
-      "parent": "#sixamq"
-    },
-    {
-      "@id": "#n3epze",
-      "name": "credentials.js · 6",
-      "x": 131,
-      "y": -181,
-      "link": "./src-idp-credentials-js.jsonld",
-      "bgColor": "#fcc2a9",
-      "parent": "#this"
-    },
-    {
-      "@id": "#42eis4",
-      "name": "export.js",
-      "x": 204,
-      "y": -123,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/export.js",
-      "bgColor": "#e0d199",
-      "parent": "#this"
-    },
-    {
-      "@id": "#f65d8e",
-      "name": "handleExportAccount()",
-      "x": 408,
-      "y": -246,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/export.js#L133",
-      "bgColor": "#f2ecd2",
-      "parent": "#42eis4"
-    },
-    {
-      "@id": "#ncsetq",
-      "name": "index.js",
-      "x": 249,
-      "y": -17,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/index.js",
-      "bgColor": "#b1dfb5",
-      "parent": "#this"
-    },
-    {
-      "@id": "#b9nzdc",
-      "name": "idpPlugin()",
-      "x": 488,
-      "y": -92,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/index.js#L53",
-      "bgColor": "#ddf2de",
-      "parent": "#ncsetq"
-    },
-    {
-      "@id": "#k8wdpx",
-      "name": "default export",
-      "x": 589,
-      "y": 28,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/index.js#L546",
-      "bgColor": "#ddf2de",
-      "parent": "#ncsetq"
-    },
-    {
-      "@id": "#a9fnph",
-      "name": "interactions.js · 11",
-      "x": 225,
-      "y": 92,
-      "link": "./src-idp-interactions-js.jsonld",
-      "bgColor": "#95e1e3",
-      "parent": "#this"
-    },
-    {
-      "@id": "#yyu7jz",
-      "name": "invites.js · 6",
-      "x": 171,
-      "y": 150,
-      "link": "./src-idp-invites-js.jsonld",
-      "bgColor": "#acd5ff",
-      "parent": "#this"
-    },
-    {
-      "@id": "#wkrebf",
-      "name": "keys.js · 5",
-      "x": 182,
-      "y": 196,
+      "@id": "#g8htk4",
+      "name": "keys.js · 5 ›",
+      "x": 499,
+      "y": -22,
       "link": "./src-idp-keys-js.jsonld",
-      "bgColor": "#d9c6fb",
+      "bgColor": "#daeeff",
+      "parent": "#u9rrt3"
+    },
+    {
+      "@id": "#iq664j",
+      "name": "interactions.js · 11 ›",
+      "x": 565,
+      "y": 144,
+      "link": "./src-idp-interactions-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#u9rrt3"
+    },
+    {
+      "@id": "#gz4cvb",
+      "name": "credentials.js · 6 ›",
+      "x": 400,
+      "y": 255,
+      "link": "./src-idp-credentials-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#u9rrt3"
+    },
+    {
+      "@id": "#itdh4e",
+      "name": "export.js · 1 ›",
+      "x": 331,
+      "y": 415,
+      "link": "./src-idp-export-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#u9rrt3"
+    },
+    {
+      "@id": "#wymkpw",
+      "name": "around accounts.js · 3",
+      "x": -108,
+      "y": 192,
+      "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
-      "@id": "#bu5bte",
-      "name": "passkey.js · 4",
-      "x": 47,
-      "y": 211,
+      "@id": "#qhm56x",
+      "name": "accounts.js · 16 ›",
+      "x": -18,
+      "y": 425,
+      "link": "./src-idp-accounts-js.jsonld",
+      "bgColor": "#fce3f3",
+      "parent": "#wymkpw"
+    },
+    {
+      "@id": "#gyahr4",
+      "name": "passkey.js · 4 ›",
+      "x": -216,
+      "y": 467,
       "link": "./src-idp-passkey-js.jsonld",
-      "bgColor": "#f9bdd5",
-      "parent": "#this"
+      "bgColor": "#fce3f3",
+      "parent": "#wymkpw"
     },
     {
-      "@id": "#4hakzu",
-      "name": "provider.js",
-      "x": -88,
-      "y": 219,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/provider.js",
-      "bgColor": "#fcc2a9",
-      "parent": "#this"
-    },
-    {
-      "@id": "#yhcpjw",
-      "name": "createProvider()",
-      "x": -112,
-      "y": 414,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/provider.js#L93",
-      "bgColor": "#ffe4d9",
-      "parent": "#4hakzu"
-    },
-    {
-      "@id": "#m7mgcv",
-      "name": "views.js · 7",
-      "x": -133,
-      "y": 173,
-      "link": "./src-idp-views-js.jsonld",
-      "bgColor": "#e0d199",
-      "parent": "#this"
-    },
-    {
-      "@id": "#gekznt",
-      "name": "well-known-did-nostr.js · 4",
-      "x": -208,
-      "y": 117,
+      "@id": "#wt6f72",
+      "name": "well-known-did-nostr.js · 4 ›",
+      "x": -354,
+      "y": 300,
       "link": "./src-idp-well-known-did-nostr-js.jsonld",
-      "bgColor": "#b1dfb5",
+      "bgColor": "#fce3f3",
+      "parent": "#wymkpw"
+    },
+    {
+      "@id": "#zy9np2",
+      "name": "other · 4",
+      "x": -238,
+      "y": -64,
+      "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
-      "@id": "#beqq5j",
+      "@id": "#3jk3i5",
+      "name": "adapter.js · 2 ›",
+      "x": -494,
+      "y": 67,
+      "link": "./src-idp-adapter-js.jsonld",
+      "bgColor": "#fbe8d3",
+      "parent": "#zy9np2"
+    },
+    {
+      "@id": "#94asrn",
+      "name": "cookies.js · 2 ›",
+      "x": -583,
+      "y": -76,
+      "link": "./src-idp-cookies-js.jsonld",
+      "bgColor": "#fbe8d3",
+      "parent": "#zy9np2"
+    },
+    {
+      "@id": "#kgrwxb",
+      "name": "invites.js · 6 ›",
+      "x": -448,
+      "y": -189,
+      "link": "./src-idp-invites-js.jsonld",
+      "bgColor": "#fbe8d3",
+      "parent": "#zy9np2"
+    },
+    {
+      "@id": "#aj9t28",
+      "name": "views.js · 7 ›",
+      "x": -424,
+      "y": -349,
+      "link": "./src-idp-views-js.jsonld",
+      "bgColor": "#fbe8d3",
+      "parent": "#zy9np2"
+    },
+    {
+      "@id": "#vx7khw",
       "name": "← src/",
-      "x": -247,
-      "y": 34,
+      "x": -1,
+      "y": -212,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -223,27 +175,27 @@
       "end": 1
     },
     {
-      "start": 0,
+      "start": 1,
       "end": 2
     },
     {
-      "start": 2,
+      "start": 1,
       "end": 3
     },
     {
-      "start": 2,
+      "start": 1,
       "end": 4
     },
     {
-      "start": 0,
+      "start": 1,
       "end": 5
     },
     {
-      "start": 5,
+      "start": 1,
       "end": 6
     },
     {
-      "start": 5,
+      "start": 1,
       "end": 7
     },
     {
@@ -251,60 +203,40 @@
       "end": 8
     },
     {
-      "start": 0,
+      "start": 8,
       "end": 9
     },
     {
-      "start": 9,
+      "start": 8,
       "end": 10
     },
     {
-      "start": 0,
+      "start": 8,
       "end": 11
     },
     {
-      "start": 11,
+      "start": 0,
       "end": 12
     },
     {
-      "start": 11,
+      "start": 12,
       "end": 13
     },
     {
-      "start": 0,
+      "start": 12,
       "end": 14
     },
     {
-      "start": 0,
+      "start": 12,
       "end": 15
     },
     {
-      "start": 0,
+      "start": 12,
       "end": 16
     },
     {
       "start": 0,
       "end": 17
-    },
-    {
-      "start": 0,
-      "end": 18
-    },
-    {
-      "start": 18,
-      "end": 19
-    },
-    {
-      "start": 0,
-      "end": 20
-    },
-    {
-      "start": 0,
-      "end": 21
-    },
-    {
-      "start": 0,
-      "end": 22
     }
   ],
   "selectedNode": 0

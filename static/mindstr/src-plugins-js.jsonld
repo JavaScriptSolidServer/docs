@@ -19,117 +19,117 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#xtiknb",
+      "@id": "#5xddae",
       "name": "exports 1/2",
-      "x": -12,
-      "y": -212,
+      "x": 249,
+      "y": 20,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#cyduqq",
+      "@id": "#g56v86",
       "name": "makePluginLog()",
-      "x": -446,
-      "y": -192,
+      "x": 388,
+      "y": -268,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L58",
       "bgColor": "#daeeff",
-      "parent": "#xtiknb"
+      "parent": "#5xddae"
     },
     {
-      "@id": "#c4smut",
+      "@id": "#7ptw38",
       "name": "isParamPath()",
-      "x": -359,
-      "y": -398,
+      "x": 561,
+      "y": -156,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L80",
       "bgColor": "#daeeff",
-      "parent": "#xtiknb"
+      "parent": "#5xddae"
     },
     {
-      "@id": "#2h67yt",
+      "@id": "#hkakqp",
       "name": "compilePathPattern()",
-      "x": -75,
-      "y": -420,
+      "x": 499,
+      "y": 26,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L84",
       "bgColor": "#daeeff",
-      "parent": "#xtiknb"
+      "parent": "#5xddae"
     },
     {
-      "@id": "#xahf87",
+      "@id": "#cmc5g4",
       "name": "compileSubtreePattern()",
-      "x": 254,
-      "y": -452,
+      "x": 526,
+      "y": 227,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L102",
       "bgColor": "#daeeff",
-      "parent": "#xtiknb"
+      "parent": "#5xddae"
     },
     {
-      "@id": "#xknjsu",
+      "@id": "#h64kxg",
       "name": "reservationKey()",
-      "x": 420,
-      "y": -231,
+      "x": 323,
+      "y": 324,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L113",
       "bgColor": "#daeeff",
-      "parent": "#xtiknb"
+      "parent": "#5xddae"
     },
     {
-      "@id": "#f8wqe4",
+      "@id": "#3mw9e8",
       "name": "exports 2/2",
-      "x": 136,
-      "y": 178,
+      "x": -115,
+      "y": 189,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
-      "@id": "#aviq5u",
+      "@id": "#3yvsbg",
       "name": "normalizePrefix()",
-      "x": 473,
-      "y": 138,
+      "x": 18,
+      "y": 425,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L120",
       "bgColor": "#fce3f3",
-      "parent": "#f8wqe4"
+      "parent": "#3mw9e8"
     },
     {
-      "@id": "#xc7efr",
+      "@id": "#ijvikk",
       "name": "fileStem()",
-      "x": 411,
-      "y": 360,
+      "x": -178,
+      "y": 478,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L140",
       "bgColor": "#fce3f3",
-      "parent": "#f8wqe4"
+      "parent": "#3mw9e8"
     },
     {
-      "@id": "#3e3498",
+      "@id": "#4dijv5",
       "name": "pluginId()",
-      "x": 161,
-      "y": 402,
+      "x": -302,
+      "y": 339,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L162",
       "bgColor": "#fce3f3",
-      "parent": "#f8wqe4"
+      "parent": "#3mw9e8"
     },
     {
-      "@id": "#vnbjwk",
+      "@id": "#ievj7v",
       "name": "loadPlugins()",
-      "x": -69,
-      "y": 498,
+      "x": -493,
+      "y": 275,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js#L189",
       "bgColor": "#fce3f3",
-      "parent": "#f8wqe4"
+      "parent": "#3mw9e8"
     },
     {
-      "@id": "#ar4eav",
+      "@id": "#ak9asq",
       "name": "464 lines",
-      "x": -175,
-      "y": 151,
+      "x": -238,
+      "y": -66,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/plugins.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#zuzczj",
+      "@id": "#8vzryr",
       "name": "← src",
-      "x": -241,
-      "y": 56,
-      "link": "./src-.jsonld",
+      "x": -17,
+      "y": -212,
+      "link": "./src-root.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
     }

@@ -21,8 +21,8 @@
     {
       "@id": "#im3caa",
       "name": "Findings",
-      "x": -177,
-      "y": -150,
+      "x": 245,
+      "y": -55,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webrtc/README.md#findings",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#up5tww",
       "name": "plugin.js",
-      "x": 177,
-      "y": -150,
+      "x": 65,
+      "y": 205,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webrtc/plugin.js",
       "bgColor": "#f3bee1",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#w7nqyt",
       "name": "activate()",
-      "x": 354,
-      "y": -301,
+      "x": 129,
+      "y": 411,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webrtc/plugin.js#L38",
       "bgColor": "#fce3f3",
       "parent": "#up5tww"
@@ -48,8 +48,8 @@
     {
       "@id": "#csuere",
       "name": "test.js",
-      "x": 177,
-      "y": 150,
+      "x": -243,
+      "y": 55,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webrtc/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#vb2ctp",
       "name": "← JSS plugins",
-      "x": -177,
-      "y": 150,
+      "x": -65,
+      "y": -205,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

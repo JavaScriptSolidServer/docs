@@ -19,54 +19,54 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#eqmaaw",
+      "@id": "#j3k2bu",
       "name": "exports",
-      "x": 122,
-      "y": -185,
+      "x": 245,
+      "y": 42,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#pjbq25",
+      "@id": "#uhqx6j",
       "name": "fetchWithRedirectGuard()",
-      "x": -276,
-      "y": -354,
+      "x": 444,
+      "y": -195,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/did-nostr.js#L93",
       "bgColor": "#daeeff",
-      "parent": "#eqmaaw"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#tz98k5",
+      "@id": "#aurbbn",
       "name": "resolveDidNostrToWebId()",
-      "x": 389,
-      "y": -377,
+      "x": 570,
+      "y": 131,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/did-nostr.js#L184",
       "bgColor": "#daeeff",
-      "parent": "#eqmaaw"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#437yyk",
+      "@id": "#fxz322",
       "name": "clearCache()",
-      "x": 485,
-      "y": 103,
+      "x": 296,
+      "y": 343,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/did-nostr.js#L561",
       "bgColor": "#daeeff",
-      "parent": "#eqmaaw"
+      "parent": "#j3k2bu"
     },
     {
-      "@id": "#j3k2bu",
+      "@id": "#s77s87",
       "name": "577 lines",
-      "x": 4,
-      "y": 212,
+      "x": -183,
+      "y": 145,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/did-nostr.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#uhqx6j",
+      "@id": "#k73rni",
       "name": "← auth",
-      "x": -216,
-      "y": 107,
+      "x": -103,
+      "y": -194,
       "link": "./src-auth.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,8 +21,8 @@
     {
       "@id": "#34dvu3",
       "name": "The model",
-      "x": -242,
-      "y": -64,
+      "x": 189,
+      "y": -139,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/README.md#the-model-rwp-mapped",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#v52rfv",
       "name": "Endpoints",
-      "x": -182,
-      "y": -146,
+      "x": 340,
+      "y": -10,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/README.md#endpoints",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#gitnhm",
       "name": "What maps cleanly",
-      "x": -71,
-      "y": -204,
+      "x": 204,
+      "y": 123,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/README.md#what-maps-cleanly",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#hzes4u",
       "name": "Findings",
-      "x": 65,
-      "y": -206,
+      "x": 71,
+      "y": 204,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/README.md#findings",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#mciseu",
       "name": "Not yet",
-      "x": 173,
-      "y": -154,
+      "x": -92,
+      "y": 198,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/README.md#not-yet-scoped-out-no-api-gap-just-work",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#dm48gj",
       "name": "Test",
-      "x": 239,
-      "y": -65,
+      "x": -216,
+      "y": 107,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/README.md#test",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#k6cm7k",
       "name": "plugin.js",
-      "x": 127,
-      "y": 183,
+      "x": -240,
+      "y": -64,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/plugin.js",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#djkutb",
       "name": "canonicalize()",
-      "x": 472,
-      "y": 140,
+      "x": -500,
+      "y": 8,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/plugin.js#L79",
       "bgColor": "#d1f3f4",
       "parent": "#k6cm7k"
@@ -93,8 +93,8 @@
     {
       "@id": "#pu9sy8",
       "name": "computeSnapshotHash()",
-      "x": 399,
-      "y": 369,
+      "x": -580,
+      "y": -93,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/plugin.js#L101",
       "bgColor": "#d1f3f4",
       "parent": "#k6cm7k"
@@ -102,8 +102,8 @@
     {
       "@id": "#7ppwsy",
       "name": "merkleRoot()",
-      "x": 124,
-      "y": 412,
+      "x": -462,
+      "y": -162,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/plugin.js#L115",
       "bgColor": "#d1f3f4",
       "parent": "#k6cm7k"
@@ -111,8 +111,8 @@
     {
       "@id": "#c8rxju",
       "name": "activate()",
-      "x": -102,
-      "y": 494,
+      "x": -491,
+      "y": -278,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/plugin.js#L183",
       "bgColor": "#d1f3f4",
       "parent": "#k6cm7k"
@@ -120,8 +120,8 @@
     {
       "@id": "#jr3z4p",
       "name": "test.js",
-      "x": -182,
-      "y": 146,
+      "x": -114,
+      "y": -189,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/recordweb/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -129,8 +129,8 @@
     {
       "@id": "#hmnpnc",
       "name": "← JSS plugins",
-      "x": -242,
-      "y": 65,
+      "x": 47,
+      "y": -209,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

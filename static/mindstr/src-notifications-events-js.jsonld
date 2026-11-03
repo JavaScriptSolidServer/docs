@@ -19,54 +19,54 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#45xtcc",
+      "@id": "#h94qk3",
       "name": "exports",
-      "x": 89,
-      "y": -199,
+      "x": 250,
+      "y": 11,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ybwvcb",
+      "@id": "#tupb65",
       "name": "resourceEvents()",
-      "x": -332,
-      "y": -318,
+      "x": 423,
+      "y": -227,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/notifications/events.js#L13",
       "bgColor": "#daeeff",
-      "parent": "#45xtcc"
+      "parent": "#h94qk3"
     },
     {
-      "@id": "#i9qywf",
+      "@id": "#5xqpjs",
       "name": "emitChange()",
-      "x": 182,
-      "y": -477,
+      "x": 589,
+      "y": 27,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/notifications/events.js#L22",
       "bgColor": "#daeeff",
-      "parent": "#45xtcc"
+      "parent": "#h94qk3"
     },
     {
-      "@id": "#iyzq7q",
+      "@id": "#k258qh",
       "name": "startFileWatcher()",
-      "x": 493,
-      "y": -71,
+      "x": 392,
+      "y": 264,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/notifications/events.js#L31",
       "bgColor": "#daeeff",
-      "parent": "#45xtcc"
+      "parent": "#h94qk3"
     },
     {
-      "@id": "#bke9zd",
+      "@id": "#3nbxqz",
       "name": "78 lines",
-      "x": 60,
-      "y": 206,
+      "x": -142,
+      "y": 175,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/notifications/events.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#fuxupn",
+      "@id": "#6qa3f3",
       "name": "← notifications",
-      "x": -205,
-      "y": 121,
+      "x": -119,
+      "y": -187,
       "link": "./src-notifications.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

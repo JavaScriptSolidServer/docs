@@ -19,81 +19,81 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#aypwsg",
+      "@id": "#tznyhy",
       "name": "exports",
-      "x": 187,
-      "y": -141,
+      "x": 205,
+      "y": 121,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#h94qk3",
+      "@id": "#uwwb48",
       "name": "PatchError()",
-      "x": -385,
-      "y": -271,
+      "x": 424,
+      "y": -226,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/quads.js#L26",
       "bgColor": "#daeeff",
-      "parent": "#aypwsg"
+      "parent": "#tznyhy"
     },
     {
-      "@id": "#tupb65",
+      "@id": "#bkdx9m",
       "name": "parseN3PatchQuads()",
-      "x": -121,
-      "y": -491,
+      "x": 586,
+      "y": -55,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/quads.js#L38",
       "bgColor": "#daeeff",
-      "parent": "#aypwsg"
+      "parent": "#tznyhy"
     },
     {
-      "@id": "#5xqpjs",
+      "@id": "#uyi44v",
       "name": "parseSparqlUpdateQuads()",
-      "x": 286,
-      "y": -349,
+      "x": 463,
+      "y": 161,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/quads.js#L76",
       "bgColor": "#daeeff",
-      "parent": "#aypwsg"
+      "parent": "#tznyhy"
     },
     {
-      "@id": "#k258qh",
+      "@id": "#pepean",
       "name": "parsePatch()",
-      "x": 577,
-      "y": -106,
+      "x": 374,
+      "y": 388,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/quads.js#L86",
       "bgColor": "#daeeff",
-      "parent": "#aypwsg"
+      "parent": "#tznyhy"
     },
     {
-      "@id": "#3nbxqz",
+      "@id": "#uxyq6b",
       "name": "isInsertOnly()",
-      "x": 461,
-      "y": 164,
+      "x": 119,
+      "y": 413,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/quads.js#L91",
       "bgColor": "#daeeff",
-      "parent": "#aypwsg"
+      "parent": "#tznyhy"
     },
     {
-      "@id": "#6qa3f3",
+      "@id": "#pms64g",
       "name": "applyPatch()",
-      "x": 317,
-      "y": 423,
+      "x": -120,
+      "y": 491,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/quads.js#L148",
       "bgColor": "#daeeff",
-      "parent": "#aypwsg"
+      "parent": "#tznyhy"
     },
     {
-      "@id": "#7yk22v",
+      "@id": "#cywvmh",
       "name": "167 lines",
-      "x": -117,
-      "y": 188,
+      "x": -248,
+      "y": 29,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/quads.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#mczqgg",
+      "@id": "#mmmrka",
       "name": "← patch",
-      "x": -234,
-      "y": 75,
+      "x": -54,
+      "y": -207,
       "link": "./src-patch.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

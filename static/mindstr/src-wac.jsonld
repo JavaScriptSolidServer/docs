@@ -19,46 +19,46 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#9e76te",
+      "@id": "#qy3bub",
       "name": "checker.js",
-      "x": 11,
-      "y": -212,
+      "x": 250,
+      "y": 0,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/checker.js",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#z9jayy",
+      "@id": "#p3akty",
       "name": "checkAccess()",
-      "x": -311,
-      "y": -333,
+      "x": 452,
+      "y": -181,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/checker.js#L38",
       "bgColor": "#daeeff",
-      "parent": "#9e76te"
+      "parent": "#qy3bub"
     },
     {
-      "@id": "#7c6syt",
+      "@id": "#vvkdar",
       "name": "getRequiredMode()",
-      "x": 374,
-      "y": -388,
+      "x": 534,
+      "y": 214,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/wac/checker.js#L336",
       "bgColor": "#daeeff",
-      "parent": "#9e76te"
+      "parent": "#qy3bub"
     },
     {
-      "@id": "#attg7q",
-      "name": "parser.js · 11",
-      "x": 165,
-      "y": 160,
+      "@id": "#853ejw",
+      "name": "parser.js · 11 ›",
+      "x": -125,
+      "y": 184,
       "link": "./src-wac-parser-js.jsonld",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#rf2fdu",
+      "@id": "#dug4dv",
       "name": "← src/",
-      "x": -181,
-      "y": 147,
+      "x": -125,
+      "y": -184,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

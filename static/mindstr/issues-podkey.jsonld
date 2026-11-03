@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#bp8t6w",
-      "name": "unlabelled · 6",
-      "x": 0,
-      "y": -212,
+      "@id": "#jk6pre",
+      "name": "unlabelled · 6 ›",
+      "x": 217,
+      "y": 106,
       "link": "./issues-podkey-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#nxqa9m",
+      "@id": "#fcz58x",
       "name": "← podkey",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./repo-podkey.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

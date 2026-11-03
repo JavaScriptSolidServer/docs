@@ -19,90 +19,90 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#y2vgqr",
+      "@id": "#a9fnph",
       "name": "exports",
-      "x": 244,
-      "y": -163,
+      "x": 239,
+      "y": 168,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#nb2pv3",
+      "@id": "#yyu7jz",
       "name": "loginPage()",
-      "x": -390,
-      "y": -266,
+      "x": 423,
+      "y": -226,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/views.js#L239",
       "bgColor": "#daeeff",
-      "parent": "#y2vgqr"
+      "parent": "#a9fnph"
     },
     {
-      "@id": "#gb9vd3",
+      "@id": "#wkrebf",
       "name": "consentPage()",
-      "x": -194,
-      "y": -474,
+      "x": 584,
+      "y": -73,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/views.js#L494",
       "bgColor": "#daeeff",
-      "parent": "#y2vgqr"
+      "parent": "#a9fnph"
     },
     {
-      "@id": "#85n9f9",
+      "@id": "#bu5bte",
       "name": "accountDeletePage()",
-      "x": 140,
-      "y": -408,
+      "x": 482,
+      "y": 114,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/views.js#L583",
       "bgColor": "#daeeff",
-      "parent": "#y2vgqr"
+      "parent": "#a9fnph"
     },
     {
-      "@id": "#59pd9r",
+      "@id": "#4hakzu",
       "name": "errorPage()",
-      "x": 464,
-      "y": -310,
+      "x": 455,
+      "y": 320,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/views.js#L750",
       "bgColor": "#daeeff",
-      "parent": "#y2vgqr"
+      "parent": "#a9fnph"
     },
     {
-      "@id": "#2ec6a3",
+      "@id": "#yhcpjw",
       "name": "landingPage()",
-      "x": 497,
-      "y": -45,
+      "x": 224,
+      "y": 380,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/views.js#L783",
       "bgColor": "#daeeff",
-      "parent": "#y2vgqr"
+      "parent": "#a9fnph"
     },
     {
-      "@id": "#ta2q85",
+      "@id": "#m7mgcv",
       "name": "registerPage()",
-      "x": 531,
-      "y": 219,
+      "x": 29,
+      "y": 501,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/views.js#L855",
       "bgColor": "#daeeff",
-      "parent": "#y2vgqr"
+      "parent": "#a9fnph"
     },
     {
-      "@id": "#f6qx4w",
+      "@id": "#gekznt",
       "name": "passkeyPromptPage()",
-      "x": 239,
-      "y": 373,
+      "x": -181,
+      "y": 396,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/views.js#L1007",
       "bgColor": "#daeeff",
-      "parent": "#y2vgqr"
+      "parent": "#a9fnph"
     },
     {
-      "@id": "#su9mmy",
+      "@id": "#beqq5j",
       "name": "1181 lines",
-      "x": -135,
-      "y": 179,
+      "x": -250,
+      "y": 2,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/views.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#puabcz",
+      "@id": "#6r28st",
       "name": "← idp",
-      "x": -236,
-      "y": 69,
+      "x": -44,
+      "y": -209,
       "link": "./src-idp.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

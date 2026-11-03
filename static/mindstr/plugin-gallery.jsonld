@@ -21,8 +21,8 @@
     {
       "@id": "#vbyvwg",
       "name": "A curl session",
-      "x": -248,
-      "y": -65,
+      "x": 180,
+      "y": -148,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#a-curl-session",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#ahre4u",
       "name": "What maps / what doesn't",
-      "x": -225,
-      "y": -109,
+      "x": 244,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#what-maps-what-doesnt",
       "bgColor": "#e0c4f6",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#ibdfdz",
       "name": "Findings",
-      "x": 387,
-      "y": -18,
+      "x": -75,
+      "y": 256,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#findings",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#z7edqb",
       "name": "api.mountApp delivers exactly what #583 promised",
-      "x": -126,
-      "y": -411,
+      "x": 426,
+      "y": 223,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#1-apimountapp-delivers-exactly-what-583-promised-first-consumer-verdict",
       "bgColor": "#ffe2e6",
       "parent": "#ibdfdz"
@@ -57,8 +57,8 @@
     {
       "@id": "#2qq2fn",
       "name": "Streaming ends at core's front door",
-      "x": 147,
-      "y": -486,
+      "x": 361,
+      "y": 369,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#2-streaming-ends-at-cores-front-door-the-seams-other-half-is-still-open",
       "bgColor": "#ffe2e6",
       "parent": "#ibdfdz"
@@ -66,8 +66,8 @@
     {
       "@id": "#ri2pzw",
       "name": "Core LDP GET honors Range natively",
-      "x": 316,
-      "y": -329,
+      "x": 172,
+      "y": 414,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#3-core-ldp-get-honors-range-natively-playback-needs-no-plugin-lane",
       "bgColor": "#ffe2e6",
       "parent": "#ibdfdz"
@@ -75,8 +75,8 @@
     {
       "@id": "#qbizrq",
       "name": "Raw-body upload over multipart, deliberately",
-      "x": 542,
-      "y": -198,
+      "x": 6,
+      "y": 501,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#4-raw-body-upload-over-multipart-deliberately-micropubs-finding-stays-open",
       "bgColor": "#ffe2e6",
       "parent": "#ibdfdz"
@@ -84,8 +84,8 @@
     {
       "@id": "#yyfuzg",
       "name": "A bare is the price of the stream",
-      "x": 499,
-      "y": 29,
+      "x": -161,
+      "y": 421,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#5-a-bare-req-res-is-the-price-of-the-stream",
       "bgColor": "#ffe2e6",
       "parent": "#ibdfdz"
@@ -93,8 +93,8 @@
     {
       "@id": "#xet7zf",
       "name": "getAgent has an impedance mismatch in the raw lane",
-      "x": 495,
-      "y": 273,
+      "x": -375,
+      "y": 377,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#6-getagent-has-an-impedance-mismatch-in-the-raw-lane",
       "bgColor": "#ffe2e6",
       "parent": "#ibdfdz"
@@ -102,8 +102,8 @@
     {
       "@id": "#wjzwqw",
       "name": "The dot-guard outranks appPaths",
-      "x": 239,
-      "y": 373,
+      "x": -432,
+      "y": 214,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#7-the-dot-guard-outranks-apppaths-even-inside-a-mounted-prefix",
       "bgColor": "#ffe2e6",
       "parent": "#ibdfdz"
@@ -111,8 +111,8 @@
     {
       "@id": "#cpmgtf",
       "name": "Content-Type is extension-derived on GET",
-      "x": 33,
-      "y": 501,
+      "x": -577,
+      "y": 107,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#8-content-type-is-extension-derived-on-get-the-upload-header-is-cosmetic",
       "bgColor": "#ffe2e6",
       "parent": "#ibdfdz"
@@ -120,8 +120,8 @@
     {
       "@id": "#a85fzz",
       "name": "Small mercies",
-      "x": -147,
-      "y": 406,
+      "x": -499,
+      "y": -22,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/README.md#9-small-mercies",
       "bgColor": "#ffe2e6",
       "parent": "#ibdfdz"
@@ -129,8 +129,8 @@
     {
       "@id": "#eitj67",
       "name": "plugin.js",
-      "x": -200,
-      "y": 155,
+      "x": -191,
+      "y": -137,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/plugin.js",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -138,8 +138,8 @@
     {
       "@id": "#bpmjzd",
       "name": "activate()",
-      "x": -400,
-      "y": 256,
+      "x": -381,
+      "y": -275,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/plugin.js#L119",
       "bgColor": "#fbe8d3",
       "parent": "#eitj67"
@@ -147,8 +147,8 @@
     {
       "@id": "#r8aetn",
       "name": "test.js",
-      "x": -232,
-      "y": 109,
+      "x": -76,
+      "y": -202,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gallery/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -156,8 +156,8 @@
     {
       "@id": "#j3rh5f",
       "name": "← JSS plugins",
-      "x": -248,
-      "y": 64,
+      "x": 61,
+      "y": -206,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

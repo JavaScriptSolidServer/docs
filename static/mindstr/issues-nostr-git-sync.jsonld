@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#4qhe86",
-      "name": "unlabelled · 1",
-      "x": -13,
-      "y": -212,
+      "@id": "#a22mzd",
+      "name": "unlabelled · 1 ›",
+      "x": 217,
+      "y": 106,
       "link": "./issues-nostr-git-sync-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#z2x7bd",
+      "@id": "#duad9x",
       "name": "← nostr-git-sync",
-      "x": 13,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "link": "./repo-nostr-git-sync.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

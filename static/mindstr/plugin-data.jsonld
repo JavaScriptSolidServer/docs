@@ -21,8 +21,8 @@
     {
       "@id": "#varvfj",
       "name": "← JSS plugins",
-      "x": 250,
-      "y": 0,
+      "x": -125,
+      "y": 184,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

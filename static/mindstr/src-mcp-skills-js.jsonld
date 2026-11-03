@@ -19,54 +19,54 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#mikqv6",
+      "@id": "#9n2fi8",
       "name": "exports",
-      "x": 81,
-      "y": -201,
+      "x": 250,
+      "y": 3,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#7s8ycb",
+      "@id": "#27czbt",
       "name": "discoverSkills()",
-      "x": -326,
-      "y": -322,
+      "x": 418,
+      "y": -233,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/skills.js#L63",
       "bgColor": "#daeeff",
-      "parent": "#mikqv6"
+      "parent": "#9n2fi8"
     },
     {
-      "@id": "#7jybab",
+      "@id": "#eqxhbv",
       "name": "readSkill()",
-      "x": 211,
-      "y": -468,
+      "x": 590,
+      "y": 8,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/skills.js#L111",
       "bgColor": "#daeeff",
-      "parent": "#mikqv6"
+      "parent": "#9n2fi8"
     },
     {
-      "@id": "#7rqytw",
+      "@id": "#m3zt7z",
       "name": "readPodSkill()",
-      "x": 493,
-      "y": -69,
+      "x": 410,
+      "y": 244,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/skills.js#L131",
       "bgColor": "#daeeff",
-      "parent": "#mikqv6"
+      "parent": "#9n2fi8"
     },
     {
-      "@id": "#hir8hx",
+      "@id": "#xzgaz8",
       "name": "139 lines",
-      "x": 71,
-      "y": 204,
+      "x": -130,
+      "y": 182,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/skills.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#ykkb9u",
+      "@id": "#brfb5w",
       "name": "← mcp",
-      "x": -203,
-      "y": 123,
+      "x": -123,
+      "y": -185,
       "link": "./src-mcp.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,8 +21,8 @@
     {
       "@id": "#t5gcp9",
       "name": "Status at a glance",
-      "x": -239,
-      "y": -64,
+      "x": 192,
+      "y": -137,
       "link": "https://jss.live/docs/features/plugins#status-at-a-glance",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#wdgxta",
       "name": "Using the loader",
-      "x": -164,
-      "y": -160,
+      "x": 261,
+      "y": 0,
       "link": "https://jss.live/docs/features/plugins#using-the-loader",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#4pcagq",
       "name": "Why plugins?",
-      "x": -64,
-      "y": -208,
+      "x": 192,
+      "y": 137,
       "link": "https://jss.live/docs/features/plugins#why-plugins",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#5b4mbz",
       "name": "What shipped: appPaths",
-      "x": 105,
-      "y": -196,
+      "x": 43,
+      "y": 222,
       "link": "https://jss.live/docs/features/plugins#what-shipped-apppaths",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#6kbx7u",
       "name": "Pod identity as the app's login",
-      "x": 233,
-      "y": -77,
+      "x": -125,
+      "y": 177,
       "link": "https://jss.live/docs/features/plugins#pod-identity-as-the-apps-login",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#9bysfh",
       "name": "Wrapping an existing app",
-      "x": 225,
-      "y": 93,
+      "x": -235,
+      "y": 73,
       "link": "https://jss.live/docs/features/plugins#wrapping-an-existing-app-apimountapp",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#cyd9xx",
       "name": "Case studies: the plugins that built the system",
-      "x": 23,
-      "y": 212,
+      "x": -235,
+      "y": -73,
       "link": "https://jss.live/docs/features/plugins#case-studies-the-plugins-that-built-the-system",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#bvsynb",
       "name": "The road ahead",
-      "x": -182,
-      "y": 145,
+      "x": -125,
+      "y": -184,
       "link": "https://jss.live/docs/features/plugins#the-road-ahead",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#xintwj",
       "name": "← Features",
-      "x": -242,
-      "y": 53,
+      "x": 43,
+      "y": -209,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

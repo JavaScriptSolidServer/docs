@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#wsjdx6",
-      "name": "unlabelled · 1",
-      "x": -3,
-      "y": -212,
+      "@id": "#ixkv7h",
+      "name": "unlabelled · 1 ›",
+      "x": 217,
+      "y": 106,
       "link": "./issues-solid-desktop-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ukqvr4",
+      "@id": "#yq8nzx",
       "name": "← solid-desktop",
-      "x": 3,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "link": "./repo-solid-desktop.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,8 +21,8 @@
     {
       "@id": "#mczqgg",
       "name": "Usage",
-      "x": -232,
-      "y": -80,
+      "x": 198,
+      "y": -129,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/sparql/README.md#usage",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#rp2kdh",
       "name": "SPARQL UPDATE",
-      "x": -101,
-      "y": -194,
+      "x": 248,
+      "y": 66,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/sparql/README.md#sparql-update",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#6c8mfm",
       "name": "Supported SPARQL subset",
-      "x": 101,
-      "y": -194,
+      "x": 152,
+      "y": 169,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/sparql/README.md#supported-sparql-subset",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#uhqyuf",
       "name": "JSON-LD flattening",
-      "x": 202,
-      "y": -389,
+      "x": 304,
+      "y": 337,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/sparql/README.md#json-ld-flattening-also-a-documented-subset",
       "bgColor": "#ffe2ed",
       "parent": "#6c8mfm"
@@ -57,8 +57,8 @@
     {
       "@id": "#gkdxt6",
       "name": "Test",
-      "x": 237,
-      "y": -67,
+      "x": -33,
+      "y": 211,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/sparql/README.md#test",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#ujfctz",
       "name": "Findings",
-      "x": 225,
-      "y": 92,
+      "x": -198,
+      "y": 129,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/sparql/README.md#findings",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#5if5dv",
       "name": "plugin.js",
-      "x": 86,
-      "y": 199,
+      "x": -248,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/sparql/plugin.js",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#7xg3ip",
       "name": "activate()",
-      "x": 173,
-      "y": 399,
+      "x": -496,
+      "y": -55,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/sparql/plugin.js#L706",
       "bgColor": "#ddf2de",
       "parent": "#5if5dv"
@@ -93,8 +93,8 @@
     {
       "@id": "#y43huz",
       "name": "test.js",
-      "x": -101,
-      "y": 194,
+      "x": -152,
+      "y": -169,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/sparql/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#4j26c6",
       "name": "← JSS plugins",
-      "x": -232,
-      "y": 80,
+      "x": 33,
+      "y": -211,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

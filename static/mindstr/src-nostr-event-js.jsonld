@@ -19,90 +19,90 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#qrspvr",
+      "@id": "#bekswu",
       "name": "exports",
-      "x": 241,
-      "y": -166,
+      "x": 243,
+      "y": 164,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#wfbk2v",
+      "@id": "#pxrawa",
       "name": "getEventHash()",
-      "x": -389,
-      "y": -267,
+      "x": 422,
+      "y": -228,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/event.js#L45",
       "bgColor": "#daeeff",
-      "parent": "#qrspvr"
+      "parent": "#bekswu"
     },
     {
-      "@id": "#xetwaa",
+      "@id": "#gsrdqa",
       "name": "validateEvent()",
-      "x": -183,
-      "y": -477,
+      "x": 583,
+      "y": -77,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/event.js#L61",
       "bgColor": "#daeeff",
-      "parent": "#qrspvr"
+      "parent": "#bekswu"
     },
     {
-      "@id": "#wtpnjp",
+      "@id": "#ttvgv4",
       "name": "verifyEvent()",
-      "x": 128,
-      "y": -411,
+      "x": 484,
+      "y": 108,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/event.js#L89",
       "bgColor": "#daeeff",
-      "parent": "#qrspvr"
+      "parent": "#bekswu"
     },
     {
-      "@id": "#7cw6cg",
+      "@id": "#g5xqe3",
       "name": "generateSecretKey()",
-      "x": 459,
-      "y": -315,
+      "x": 462,
+      "y": 312,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/event.js#L112",
       "bgColor": "#daeeff",
-      "parent": "#qrspvr"
+      "parent": "#bekswu"
     },
     {
-      "@id": "#a54nev",
+      "@id": "#cvkstp",
       "name": "getPublicKey()",
-      "x": 499,
-      "y": -20,
+      "x": 233,
+      "y": 376,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/event.js#L122",
       "bgColor": "#daeeff",
-      "parent": "#qrspvr"
+      "parent": "#bekswu"
     },
     {
-      "@id": "#qhb5iq",
+      "@id": "#jw6hux",
       "name": "finalizeEvent()",
-      "x": 510,
-      "y": 253,
+      "x": 43,
+      "y": 500,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/event.js#L137",
       "bgColor": "#daeeff",
-      "parent": "#qrspvr"
+      "parent": "#bekswu"
     },
     {
-      "@id": "#nvqaxu",
+      "@id": "#ueruwd",
       "name": "nip98Token()",
-      "x": 225,
-      "y": 379,
+      "x": -166,
+      "y": 401,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/event.js#L186",
       "bgColor": "#daeeff",
-      "parent": "#qrspvr"
+      "parent": "#bekswu"
     },
     {
-      "@id": "#9n2fi8",
+      "@id": "#j52mw6",
       "name": "207 lines",
-      "x": -131,
-      "y": 181,
+      "x": -250,
+      "y": 8,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/event.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#27czbt",
+      "@id": "#gu5n3w",
       "name": "← nostr",
-      "x": -236,
-      "y": 71,
+      "x": -47,
+      "y": -209,
       "link": "./src-nostr.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -20,80 +20,80 @@
     {
       "@id": "#fkywkd",
       "name": "--port <number>",
-      "x": -239,
-      "y": -64,
+      "x": 186,
+      "y": -142,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#j8deiz",
       "name": "--host <address>",
-      "x": -157,
-      "y": -165,
+      "x": 252,
+      "y": -22,
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#aya9s9",
       "name": "--root <path>",
-      "x": -24,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
       "@id": "#vn2imx",
       "name": "--config <file>",
-      "x": 121,
-      "y": -187,
+      "x": 107,
+      "y": 194,
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
       "@id": "#2tznvh",
       "name": "--[no-]multi-user",
-      "x": 224,
-      "y": -94,
+      "x": -55,
+      "y": 208,
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
       "@id": "#cnh2fk",
       "name": "--[no-]conneg",
-      "x": 247,
-      "y": 31,
+      "x": -186,
+      "y": 142,
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
       "@id": "#dk76uz",
       "name": "--[no-]notifications",
-      "x": 174,
-      "y": 153,
+      "x": -266,
+      "y": 22,
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
       "@id": "#5aggpq",
       "name": "--[no-]provision-keys",
-      "x": 7,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#eqmaaw",
       "name": "--[no-]subdomains",
-      "x": -156,
-      "y": 166,
+      "x": -102,
+      "y": -194,
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#pjbq25",
       "name": "← jss start",
-      "x": -240,
-      "y": 60,
+      "x": 52,
+      "y": -208,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

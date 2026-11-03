@@ -19,46 +19,46 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#vx7khw",
+      "@id": "#eud4cc",
       "name": "container.js",
-      "x": 53,
-      "y": -208,
+      "x": 250,
+      "y": 0,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/container.js",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#34dvu3",
+      "@id": "#5mb355",
       "name": "generateContainerJsonLd()",
-      "x": -204,
-      "y": -388,
+      "x": 463,
+      "y": -161,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/container.js#L41",
       "bgColor": "#daeeff",
-      "parent": "#vx7khw"
+      "parent": "#eud4cc"
     },
     {
-      "@id": "#v52rfv",
+      "@id": "#mikqv6",
       "name": "serializeJsonLd()",
       "x": 520,
-      "y": -237,
+      "y": 237,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ldp/container.js#L74",
       "bgColor": "#daeeff",
-      "parent": "#vx7khw"
+      "parent": "#eud4cc"
     },
     {
-      "@id": "#gitnhm",
-      "name": "headers.js · 6",
-      "x": 112,
-      "y": 190,
+      "@id": "#7s8ycb",
+      "name": "headers.js · 6 ›",
+      "x": -125,
+      "y": 184,
       "link": "./src-ldp-headers-js.jsonld",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#hzes4u",
+      "@id": "#7jybab",
       "name": "← src/",
-      "x": -195,
-      "y": 133,
+      "x": -125,
+      "y": -184,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

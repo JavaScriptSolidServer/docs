@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#x4i3m8",
+      "@id": "#gmpnfq",
       "name": "#9 Plugin idea: feed-ingest — subscrib…",
-      "x": 131,
-      "y": -181,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/9",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#2dm2gz",
+      "@id": "#4hwtf3",
       "name": "← plugins issues",
-      "x": -131,
-      "y": 181,
+      "x": -217,
+      "y": -106,
       "link": "./issues-plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

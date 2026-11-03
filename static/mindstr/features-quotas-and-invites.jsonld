@@ -21,8 +21,8 @@
     {
       "@id": "#5gpqg5",
       "name": "Storage Quotas",
-      "x": -72,
-      "y": -204,
+      "x": 249,
+      "y": -17,
       "link": "https://jss.live/docs/features/quotas-and-invites#storage-quotas",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#wzta82",
       "name": "Setting Quotas",
-      "x": -457,
-      "y": -173,
+      "x": 372,
+      "y": -284,
       "link": "https://jss.live/docs/features/quotas-and-invites#setting-quotas",
       "bgColor": "#daeeff",
       "parent": "#5gpqg5"
@@ -39,8 +39,8 @@
     {
       "@id": "#jw3kjf",
       "name": "How Quotas Work",
-      "x": -389,
-      "y": -377,
+      "x": 542,
+      "y": -198,
       "link": "https://jss.live/docs/features/quotas-and-invites#how-quotas-work",
       "bgColor": "#daeeff",
       "parent": "#5gpqg5"
@@ -48,8 +48,8 @@
     {
       "@id": "#r76gtv",
       "name": "Default Quota",
-      "x": -142,
-      "y": -408,
+      "x": 498,
+      "y": -35,
       "link": "https://jss.live/docs/features/quotas-and-invites#default-quota",
       "bgColor": "#daeeff",
       "parent": "#5gpqg5"
@@ -57,8 +57,8 @@
     {
       "@id": "#qmk4u7",
       "name": "Size Formats",
-      "x": 83,
-      "y": -497,
+      "x": 573,
+      "y": 121,
       "link": "https://jss.live/docs/features/quotas-and-invites#size-formats",
       "bgColor": "#daeeff",
       "parent": "#5gpqg5"
@@ -66,8 +66,8 @@
     {
       "@id": "#ysvez3",
       "name": "Reconciliation",
-      "x": 270,
-      "y": -358,
+      "x": 422,
+      "y": 229,
       "link": "https://jss.live/docs/features/quotas-and-invites#reconciliation",
       "bgColor": "#daeeff",
       "parent": "#5gpqg5"
@@ -75,8 +75,8 @@
     {
       "@id": "#83zuf9",
       "name": "Invite Codes",
-      "x": 180,
-      "y": 148,
+      "x": -82,
+      "y": 201,
       "link": "https://jss.live/docs/features/quotas-and-invites#invite-codes",
       "bgColor": "#f3bee1",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#vrzefk",
       "name": "Quick Start",
-      "x": 494,
-      "y": -64,
+      "x": 172,
+      "y": 399,
       "link": "https://jss.live/docs/features/quotas-and-invites#quick-start",
       "bgColor": "#fce3f3",
       "parent": "#83zuf9"
@@ -93,8 +93,8 @@
     {
       "@id": "#hvyxxr",
       "name": "Managing Invites",
-      "x": 565,
-      "y": 144,
+      "x": 5,
+      "y": 501,
       "link": "https://jss.live/docs/features/quotas-and-invites#managing-invites",
       "bgColor": "#fce3f3",
       "parent": "#83zuf9"
@@ -102,8 +102,8 @@
     {
       "@id": "#qahfae",
       "name": "Configuration",
-      "x": 371,
-      "y": 285,
+      "x": -164,
+      "y": 401,
       "link": "https://jss.live/docs/features/quotas-and-invites#configuration",
       "bgColor": "#fce3f3",
       "parent": "#83zuf9"
@@ -111,8 +111,8 @@
     {
       "@id": "#tgdsut",
       "name": "How Invites Work",
-      "x": 227,
-      "y": 463,
+      "x": -370,
+      "y": 391,
       "link": "https://jss.live/docs/features/quotas-and-invites#how-invites-work",
       "bgColor": "#fce3f3",
       "parent": "#83zuf9"
@@ -120,8 +120,8 @@
     {
       "@id": "#ijf3kk",
       "name": "Registration Modes",
-      "x": -42,
-      "y": 423,
+      "x": -426,
+      "y": 222,
       "link": "https://jss.live/docs/features/quotas-and-invites#registration-modes",
       "bgColor": "#fce3f3",
       "parent": "#83zuf9"
@@ -129,8 +129,8 @@
     {
       "@id": "#anp567",
       "name": "Rate Limits",
-      "x": -180,
-      "y": 147,
+      "x": -234,
+      "y": -75,
       "link": "https://jss.live/docs/features/quotas-and-invites#rate-limits",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -138,8 +138,8 @@
     {
       "@id": "#svn3gp",
       "name": "← Features",
-      "x": -242,
-      "y": 54,
+      "x": -13,
+      "y": -212,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -20,24 +20,24 @@
     {
       "@id": "#bq9ccn",
       "name": "--[no-]webrtc",
-      "x": -143,
-      "y": -174,
+      "x": 250,
+      "y": 0,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#3yirdr",
       "name": "--webrtc-path <path>",
-      "x": 261,
-      "y": 0,
+      "x": -125,
+      "y": 184,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#ptf2jy",
       "name": "← jss start",
-      "x": -143,
-      "y": 174,
+      "x": -125,
+      "y": -184,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

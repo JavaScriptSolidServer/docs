@@ -20,27 +20,27 @@
     },
     {
       "@id": "#simp87",
-      "name": "jss token mint",
-      "x": -182,
-      "y": -145,
+      "name": "jss token mint ›",
+      "x": 241,
+      "y": -55,
       "link": "./cli-token-mint.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#tzmucf",
-      "name": "jss token transfer",
-      "x": 182,
-      "y": -145,
+      "name": "jss token transfer ›",
+      "x": 65,
+      "y": 205,
       "link": "./cli-token-transfer.jsonld",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#xmtzgz",
-      "name": "jss token info",
-      "x": 159,
-      "y": 164,
+      "name": "jss token info ›",
+      "x": -241,
+      "y": 55,
       "link": "./cli-token-info.jsonld",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#b9snuz",
       "name": "← jss CLI",
-      "x": -182,
-      "y": 145,
+      "x": -65,
+      "y": -205,
       "link": "./cli.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

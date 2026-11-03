@@ -20,24 +20,24 @@
     {
       "@id": "#4bfy6j",
       "name": "--[no-]tunnel",
-      "x": -143,
-      "y": -174,
+      "x": 250,
+      "y": 0,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#4wkdd9",
       "name": "--tunnel-path <path>",
-      "x": 261,
-      "y": 0,
+      "x": -125,
+      "y": 184,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#yiscsp",
       "name": "← jss start",
-      "x": -143,
-      "y": 174,
+      "x": -125,
+      "y": -184,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

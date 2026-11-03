@@ -19,81 +19,81 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ph8a5e",
+      "@id": "#gb9vd3",
       "name": "exports",
-      "x": 178,
-      "y": -149,
+      "x": 215,
+      "y": 108,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#uncmtp",
+      "@id": "#85n9f9",
       "name": "loadInvites()",
-      "x": -381,
-      "y": -275,
+      "x": 420,
+      "y": -230,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/invites.js#L37",
       "bgColor": "#daeeff",
-      "parent": "#ph8a5e"
+      "parent": "#gb9vd3"
     },
     {
-      "@id": "#3vjzm2",
+      "@id": "#59pd9r",
       "name": "createInvite()",
-      "x": -125,
-      "y": -490,
+      "x": 585,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/invites.js#L81",
       "bgColor": "#daeeff",
-      "parent": "#ph8a5e"
+      "parent": "#gb9vd3"
     },
     {
-      "@id": "#6wz95i",
+      "@id": "#2ec6a3",
       "name": "listInvites()",
-      "x": 213,
-      "y": -385,
+      "x": 476,
+      "y": 131,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/invites.js#L107",
       "bgColor": "#daeeff",
-      "parent": "#ph8a5e"
+      "parent": "#gb9vd3"
     },
     {
-      "@id": "#mkijzp",
+      "@id": "#ta2q85",
       "name": "revokeInvite()",
-      "x": 524,
-      "y": -231,
+      "x": 429,
+      "y": 344,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/invites.js#L120",
       "bgColor": "#daeeff",
-      "parent": "#ph8a5e"
+      "parent": "#gb9vd3"
     },
     {
-      "@id": "#wm3fr8",
+      "@id": "#f6qx4w",
       "name": "validateInvite()",
-      "x": 490,
-      "y": 83,
+      "x": 182,
+      "y": 396,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/invites.js#L138",
       "bgColor": "#daeeff",
-      "parent": "#ph8a5e"
+      "parent": "#gb9vd3"
     },
     {
-      "@id": "#xx6ai9",
+      "@id": "#su9mmy",
       "name": "isValidInvite()",
-      "x": 377,
-      "y": 385,
+      "x": -42,
+      "y": 500,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/invites.js#L167",
       "bgColor": "#daeeff",
-      "parent": "#ph8a5e"
+      "parent": "#gb9vd3"
     },
     {
-      "@id": "#t5gcp9",
+      "@id": "#puabcz",
       "name": "182 lines",
-      "x": -98,
-      "y": 195,
+      "x": -243,
+      "y": 52,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/invites.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#wdgxta",
+      "@id": "#pggewd",
       "name": "← idp",
-      "x": -231,
-      "y": 81,
+      "x": -63,
+      "y": -206,
       "link": "./src-idp.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

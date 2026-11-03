@@ -19,28 +19,28 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ft3k8u",
+      "@id": "#bu7kuh",
       "name": "install.js",
-      "x": 0,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/cli/install.js",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#it6792",
+      "@id": "#2iffkx",
       "name": "runInstall()",
-      "x": 0,
-      "y": -425,
+      "x": 433,
+      "y": 213,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/cli/install.js#L325",
       "bgColor": "#daeeff",
-      "parent": "#ft3k8u"
+      "parent": "#bu7kuh"
     },
     {
-      "@id": "#dnz3gb",
+      "@id": "#ssgz3q",
       "name": "← src/",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

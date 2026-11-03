@@ -21,8 +21,8 @@
     {
       "@id": "#nbjpha",
       "name": "Usage",
-      "x": -233,
-      "y": -77,
+      "x": 207,
+      "y": -120,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/shortlink/README.md#usage",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#aypwsg",
       "name": "A curl session",
-      "x": -110,
-      "y": -191,
+      "x": 239,
+      "y": 66,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/shortlink/README.md#a-curl-session",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#h94qk3",
       "name": "What maps / what doesn't",
-      "x": 110,
-      "y": -191,
+      "x": 91,
+      "y": 198,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/shortlink/README.md#what-maps-what-doesnt",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#tupb65",
       "name": "Findings",
-      "x": 245,
-      "y": -64,
+      "x": -125,
+      "y": 184,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/shortlink/README.md#findings",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#5xqpjs",
       "name": "plugin.js",
-      "x": 152,
-      "y": 168,
+      "x": -247,
+      "y": 64,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/shortlink/plugin.js",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#k258qh",
       "name": "randomSlug()",
-      "x": 412,
-      "y": 241,
+      "x": -472,
+      "y": 141,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/shortlink/plugin.js#L59",
       "bgColor": "#f2ecd2",
       "parent": "#5xqpjs"
@@ -75,8 +75,8 @@
     {
       "@id": "#3nbxqz",
       "name": "activate()",
-      "x": 199,
-      "y": 472,
+      "x": -590,
+      "y": -20,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/shortlink/plugin.js#L99",
       "bgColor": "#f2ecd2",
       "parent": "#5xqpjs"
@@ -84,8 +84,8 @@
     {
       "@id": "#6qa3f3",
       "name": "test.js",
-      "x": -110,
-      "y": 191,
+      "x": -183,
+      "y": -145,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/shortlink/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#7yk22v",
       "name": "← JSS plugins",
-      "x": -233,
-      "y": 77,
+      "x": 19,
+      "y": -212,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

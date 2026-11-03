@@ -21,8 +21,8 @@
     {
       "@id": "#3nbxqz",
       "name": "WebID Profile",
-      "x": -177,
-      "y": -150,
+      "x": 241,
+      "y": -55,
       "link": "https://jss.live/docs/reference/pod-structure#webid-profile",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#6qa3f3",
       "name": "Root ACL",
-      "x": 177,
-      "y": -150,
+      "x": 65,
+      "y": 205,
       "link": "https://jss.live/docs/reference/pod-structure#root-acl",
       "bgColor": "#f3bee1",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#7yk22v",
       "name": "Inbox ACL",
-      "x": 177,
-      "y": 150,
+      "x": -241,
+      "y": 55,
       "link": "https://jss.live/docs/reference/pod-structure#inbox-acl",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#mczqgg",
       "name": "← Reference",
-      "x": -177,
-      "y": 150,
+      "x": -65,
+      "y": -205,
       "link": "./reference.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

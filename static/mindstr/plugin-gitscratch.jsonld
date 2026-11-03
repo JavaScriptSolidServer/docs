@@ -21,8 +21,8 @@
     {
       "@id": "#mhgzj7",
       "name": "How: the git-http-backend CGI bridge",
-      "x": -189,
-      "y": -139,
+      "x": 198,
+      "y": -129,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gitscratch/README.md#how-the-git-http-backend-cgi-bridge",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#67qhwk",
       "name": "Auth model",
-      "x": 52,
-      "y": -208,
+      "x": 298,
+      "y": 28,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gitscratch/README.md#auth-model",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#s9du6c",
       "name": "TTL model",
-      "x": 196,
-      "y": -132,
+      "x": 152,
+      "y": 169,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gitscratch/README.md#ttl-model",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#tjeu4p",
       "name": "Test",
-      "x": 276,
-      "y": 5,
+      "x": -33,
+      "y": 211,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gitscratch/README.md#test",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#x9rczq",
       "name": "Findings",
-      "x": 189,
-      "y": 139,
+      "x": -198,
+      "y": 129,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gitscratch/README.md#findings",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#48j6uy",
       "name": "plugin.js",
-      "x": 40,
-      "y": 210,
+      "x": -294,
+      "y": -28,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gitscratch/plugin.js",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#9kbx2m",
       "name": "activate()",
-      "x": 80,
-      "y": 419,
+      "x": -496,
+      "y": -55,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gitscratch/plugin.js#L67",
       "bgColor": "#ddf2de",
       "parent": "#48j6uy"
@@ -84,8 +84,8 @@
     {
       "@id": "#9gbbfy",
       "name": "test.js",
-      "x": -127,
-      "y": 183,
+      "x": -152,
+      "y": -169,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/gitscratch/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#kue24d",
       "name": "← JSS plugins",
-      "x": -235,
-      "y": 72,
+      "x": 33,
+      "y": -211,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

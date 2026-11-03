@@ -19,81 +19,81 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#mciseu",
+      "@id": "#7rqytw",
       "name": "exports",
-      "x": 211,
-      "y": -114,
+      "x": 165,
+      "y": 160,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#dm48gj",
+      "@id": "#hir8hx",
       "name": "DATA_ISLAND_MAX_BYTES()",
-      "x": -367,
-      "y": -289,
+      "x": 440,
+      "y": -203,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mashlib/index.js#L24",
       "bgColor": "#daeeff",
-      "parent": "#mciseu"
+      "parent": "#7rqytw"
     },
     {
-      "@id": "#k6cm7k",
+      "@id": "#ykkb9u",
       "name": "roundTripOptimizationScript()",
-      "x": -48,
-      "y": -500,
+      "x": 589,
+      "y": 25,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mashlib/index.js#L103",
       "bgColor": "#daeeff",
-      "parent": "#mciseu"
+      "parent": "#7rqytw"
     },
     {
-      "@id": "#djkutb",
+      "@id": "#7ikicx",
       "name": "generateDatabrowserHtml()",
-      "x": 316,
-      "y": -329,
+      "x": 409,
+      "y": 244,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mashlib/index.js#L265",
       "bgColor": "#daeeff",
-      "parent": "#mciseu"
+      "parent": "#7rqytw"
     },
     {
-      "@id": "#pu9sy8",
+      "@id": "#ice2bk",
       "name": "generateModuleDatabrowserHtml()",
-      "x": 587,
-      "y": -49,
+      "x": 218,
+      "y": 466,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mashlib/index.js#L306",
       "bgColor": "#daeeff",
-      "parent": "#mciseu"
+      "parent": "#7rqytw"
     },
     {
-      "@id": "#7ppwsy",
+      "@id": "#scytyn",
       "name": "shouldServeMashlib()",
-      "x": 404,
-      "y": 251,
+      "x": -79,
+      "y": 420,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mashlib/index.js#L326",
       "bgColor": "#daeeff",
-      "parent": "#mciseu"
+      "parent": "#7rqytw"
     },
     {
-      "@id": "#c8rxju",
+      "@id": "#jbhqgv",
       "name": "generateSolidosUiHtml()",
-      "x": 177,
-      "y": 479,
+      "x": -346,
+      "y": 406,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mashlib/index.js#L389",
       "bgColor": "#daeeff",
-      "parent": "#mciseu"
+      "parent": "#7rqytw"
     },
     {
-      "@id": "#jr3z4p",
+      "@id": "#5seuyw",
       "name": "500 lines",
-      "x": -166,
-      "y": 159,
+      "x": -244,
+      "y": -48,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mashlib/index.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#hmnpnc",
+      "@id": "#nm5hts",
       "name": "← mashlib",
-      "x": -240,
-      "y": 59,
+      "x": -25,
+      "y": -211,
       "link": "./src-mashlib.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

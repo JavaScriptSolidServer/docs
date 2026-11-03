@@ -21,16 +21,16 @@
     {
       "@id": "#452y5w",
       "name": "exports",
-      "x": 118,
-      "y": -187,
+      "x": 246,
+      "y": 38,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#yyjnxk",
       "name": "createOutboxHandler()",
-      "x": -301,
-      "y": -340,
+      "x": 435,
+      "y": -209,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/outbox.js#L17",
       "bgColor": "#daeeff",
       "parent": "#452y5w"
@@ -38,8 +38,8 @@
     {
       "@id": "#hrvxpy",
       "name": "createOutboxPostHandler()",
-      "x": 351,
-      "y": -403,
+      "x": 577,
+      "y": 103,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/outbox.js#L61",
       "bgColor": "#daeeff",
       "parent": "#452y5w"
@@ -47,8 +47,8 @@
     {
       "@id": "#hzsqn4",
       "name": "default export",
-      "x": 490,
-      "y": 86,
+      "x": 311,
+      "y": 333,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/outbox.js#L149",
       "bgColor": "#daeeff",
       "parent": "#452y5w"
@@ -56,8 +56,8 @@
     {
       "@id": "#dttxwc",
       "name": "150 lines",
-      "x": 11,
-      "y": 212,
+      "x": -178,
+      "y": 150,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ap/routes/outbox.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -65,8 +65,8 @@
     {
       "@id": "#p8ysyk",
       "name": "← routes",
-      "x": -215,
-      "y": 109,
+      "x": -105,
+      "y": -193,
       "link": "./src-ap-routes.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

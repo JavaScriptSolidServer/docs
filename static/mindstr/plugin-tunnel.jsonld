@@ -21,8 +21,8 @@
     {
       "@id": "#9b7nqt",
       "name": "Protocol",
-      "x": -227,
-      "y": -89,
+      "x": 207,
+      "y": -120,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/tunnel/README.md#protocol-unchanged-from-core",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#tznyhy",
       "name": "Deviations from core",
-      "x": -39,
-      "y": -210,
+      "x": 239,
+      "y": 66,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/tunnel/README.md#deviations-from-core",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#uwwb48",
       "name": "Findings",
-      "x": 183,
-      "y": -145,
+      "x": 91,
+      "y": 198,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/tunnel/README.md#findings",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#bkdx9m",
       "name": "Test",
-      "x": 287,
-      "y": 24,
+      "x": -125,
+      "y": 184,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/tunnel/README.md#test",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#uyi44v",
       "name": "plugin.js",
-      "x": 139,
-      "y": 176,
+      "x": -304,
+      "y": 32,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/tunnel/plugin.js",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#pepean",
       "name": "activate()",
-      "x": 279,
-      "y": 353,
+      "x": -494,
+      "y": 63,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/tunnel/plugin.js#L81",
       "bgColor": "#f2ecd2",
       "parent": "#uyi44v"
@@ -75,8 +75,8 @@
     {
       "@id": "#uxyq6b",
       "name": "test.js",
-      "x": -68,
-      "y": 205,
+      "x": -183,
+      "y": -145,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/tunnel/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#pms64g",
       "name": "← JSS plugins",
-      "x": -227,
-      "y": 89,
+      "x": 19,
+      "y": -212,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

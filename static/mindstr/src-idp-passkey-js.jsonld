@@ -19,63 +19,63 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#hgctui",
+      "@id": "#k58b5b",
       "name": "exports",
-      "x": 164,
-      "y": -160,
+      "x": 227,
+      "y": 90,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#vz6dbr",
+      "@id": "#htircd",
       "name": "registrationOptions()",
-      "x": -335,
-      "y": -316,
+      "x": 438,
+      "y": -205,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js#L85",
       "bgColor": "#daeeff",
-      "parent": "#hgctui"
+      "parent": "#k58b5b"
     },
     {
-      "@id": "#ecv4rb",
+      "@id": "#sixamq",
       "name": "registrationVerify()",
-      "x": 113,
-      "y": -492,
+      "x": 587,
+      "y": 48,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js#L137",
       "bgColor": "#daeeff",
-      "parent": "#hgctui"
+      "parent": "#k58b5b"
     },
     {
-      "@id": "#57jxgj",
+      "@id": "#j99zi5",
       "name": "authenticationOptions()",
-      "x": 457,
-      "y": -172,
+      "x": 376,
+      "y": 280,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js#L197",
       "bgColor": "#daeeff",
-      "parent": "#hgctui"
+      "parent": "#k58b5b"
     },
     {
-      "@id": "#ttdvnf",
+      "@id": "#kwrapz",
       "name": "authenticationVerify()",
-      "x": 494,
-      "y": 275,
+      "x": 121,
+      "y": 491,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js#L243",
       "bgColor": "#daeeff",
-      "parent": "#hgctui"
+      "parent": "#k58b5b"
     },
     {
-      "@id": "#pehema",
+      "@id": "#n3epze",
       "name": "312 lines",
-      "x": -72,
-      "y": 204,
+      "x": -231,
+      "y": 81,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/passkey.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#csimu2",
+      "@id": "#42eis4",
       "name": "← idp",
-      "x": -228,
-      "y": 88,
+      "x": -75,
+      "y": -203,
       "link": "./src-idp.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

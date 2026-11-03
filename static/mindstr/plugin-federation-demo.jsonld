@@ -21,8 +21,8 @@
     {
       "@id": "#gksydt",
       "name": "What it walks",
-      "x": -218,
-      "y": -104,
+      "x": 217,
+      "y": -106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/README.md#what-it-walks",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#8su7v6",
       "name": "Transcript excerpt",
-      "x": 11,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/README.md#transcript-excerpt",
       "bgColor": "#e0c4f6",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#2da7xj",
       "name": "The files",
-      "x": 228,
-      "y": -88,
+      "x": 0,
+      "y": 213,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/README.md#the-files",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#9e878e",
       "name": "Findings",
-      "x": 207,
-      "y": 119,
+      "x": -217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/README.md#findings",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#cp2str",
       "name": "test.js",
-      "x": -11,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/federation-demo/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#swzzzt",
       "name": "← JSS plugins",
-      "x": -218,
-      "y": 104,
+      "x": 0,
+      "y": -212,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

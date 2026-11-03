@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#6qa3f3",
-      "name": "unlabelled · 1",
-      "x": 0,
-      "y": -212,
+      "@id": "#mczqgg",
+      "name": "unlabelled · 1 ›",
+      "x": 217,
+      "y": 106,
       "link": "./issues-jsserve-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#7yk22v",
+      "@id": "#rp2kdh",
       "name": "← jsserve",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./repo-jsserve.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

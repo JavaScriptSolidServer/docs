@@ -19,73 +19,73 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#xet7zf",
-      "name": "container.js · 3",
-      "x": -225,
-      "y": -93,
+      "@id": "#r8aetn",
+      "name": "container.js · 3 ›",
+      "x": 217,
+      "y": -106,
       "link": "./src-handlers-container-js.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#wjzwqw",
-      "name": "cors-proxy.js · 4",
-      "x": -46,
-      "y": -209,
+      "@id": "#j3rh5f",
+      "name": "cors-proxy.js · 4 ›",
+      "x": 217,
+      "y": 106,
       "link": "./src-handlers-cors-proxy-js.jsonld",
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
     {
-      "@id": "#cpmgtf",
-      "name": "git.js · 4",
-      "x": 164,
-      "y": -160,
+      "@id": "#mhgzj7",
+      "name": "git.js · 4 ›",
+      "x": 0,
+      "y": 213,
       "link": "./src-handlers-git-js.jsonld",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#a85fzz",
+      "@id": "#67qhwk",
       "name": "pay.js",
-      "x": 220,
-      "y": 101,
+      "x": -217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/pay.js",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
-      "@id": "#eitj67",
+      "@id": "#s9du6c",
       "name": "isPayRequest()",
-      "x": 498,
-      "y": 34,
+      "x": -368,
+      "y": 288,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/pay.js#L226",
       "bgColor": "#fbe8d3",
-      "parent": "#a85fzz"
+      "parent": "#67qhwk"
     },
     {
-      "@id": "#bpmjzd",
+      "@id": "#tjeu4p",
       "name": "createPayHandler()",
-      "x": 387,
-      "y": 379,
+      "x": -563,
+      "y": 150,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/handlers/pay.js#L241",
       "bgColor": "#fbe8d3",
-      "parent": "#a85fzz"
+      "parent": "#67qhwk"
     },
     {
-      "@id": "#r8aetn",
-      "name": "resource.js · 6",
-      "x": -70,
-      "y": 204,
+      "@id": "#x9rczq",
+      "name": "resource.js · 6 ›",
+      "x": -217,
+      "y": -106,
       "link": "./src-handlers-resource-js.jsonld",
       "bgColor": "#c1dba8",
       "parent": "#this"
     },
     {
-      "@id": "#j3rh5f",
+      "@id": "#48j6uy",
       "name": "← src/",
-      "x": -228,
-      "y": 88,
+      "x": 0,
+      "y": -212,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

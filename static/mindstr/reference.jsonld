@@ -19,36 +19,36 @@
     },
     {
       "@id": "#i9qywf",
-      "name": "CLI Commands",
-      "x": -202,
-      "y": -125,
+      "name": "CLI Commands ›",
+      "x": 228,
+      "y": -86,
       "link": "./reference-cli.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#iyzq7q",
-      "name": "Configuration",
-      "x": 77,
-      "y": -202,
+      "name": "Configuration ›",
+      "x": 167,
+      "y": 158,
       "link": "./reference-configuration.jsonld",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
       "@id": "#bke9zd",
-      "name": "HTTP API",
-      "x": 250,
-      "y": 0,
+      "name": "HTTP API ›",
+      "x": -125,
+      "y": 184,
       "link": "./reference-api.jsonld",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
       "@id": "#fuxupn",
-      "name": "Pod Structure",
-      "x": 77,
-      "y": 202,
+      "name": "Pod Structure ›",
+      "x": -245,
+      "y": -44,
       "link": "./reference-pod-structure.jsonld",
       "bgColor": "#d7d59b",
       "parent": "#this"
@@ -56,8 +56,8 @@
     {
       "@id": "#5m2ws9",
       "name": "← JSS docs",
-      "x": -202,
-      "y": 125,
+      "x": -26,
+      "y": -211,
       "link": "./index.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

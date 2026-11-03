@@ -21,32 +21,32 @@
     {
       "@id": "#ba2cgp",
       "name": "--uses <number>",
-      "x": -175,
-      "y": -152,
+      "x": 241,
+      "y": -55,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#h7ym9k",
       "name": "--note <text>",
-      "x": 180,
-      "y": -148,
+      "x": 65,
+      "y": 205,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#ius84b",
       "name": "--root <path>",
-      "x": 175,
-      "y": 152,
+      "x": -241,
+      "y": 55,
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
       "@id": "#583aqh",
       "name": "← jss invite",
-      "x": -177,
-      "y": 150,
+      "x": -65,
+      "y": -205,
       "link": "./cli-invite.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

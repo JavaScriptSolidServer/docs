@@ -19,54 +19,54 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#7fnz2s",
+      "@id": "#kwm3he",
       "name": "exports",
-      "x": 101,
-      "y": -195,
+      "x": 249,
+      "y": 20,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#p89exh",
+      "@id": "#qvd9cw",
       "name": "buildResourceUrl()",
-      "x": -317,
-      "y": -329,
+      "x": 426,
+      "y": -222,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/middleware.js#L26",
       "bgColor": "#daeeff",
-      "parent": "#7fnz2s"
+      "parent": "#kwm3he"
     },
     {
-      "@id": "#urtpxv",
+      "@id": "#sf37xb",
       "name": "authorize()",
-      "x": 211,
-      "y": -468,
+      "x": 588,
+      "y": 39,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/middleware.js#L74",
       "bgColor": "#daeeff",
-      "parent": "#7fnz2s"
+      "parent": "#kwm3he"
     },
     {
-      "@id": "#4dg5c4",
+      "@id": "#fuhjpf",
       "name": "handleUnauthorized()",
-      "x": 497,
-      "y": -44,
+      "x": 374,
+      "y": 282,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/middleware.js#L166",
       "bgColor": "#daeeff",
-      "parent": "#7fnz2s"
+      "parent": "#kwm3he"
     },
     {
-      "@id": "#kwm3he",
+      "@id": "#dry8wx",
       "name": "455 lines",
-      "x": 41,
-      "y": 210,
+      "x": -155,
+      "y": 167,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/middleware.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#qvd9cw",
+      "@id": "#rmckuv",
       "name": "← auth",
-      "x": -209,
-      "y": 116,
+      "x": -114,
+      "y": -189,
       "link": "./src-auth.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

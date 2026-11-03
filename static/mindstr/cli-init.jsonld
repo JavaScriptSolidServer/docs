@@ -21,24 +21,24 @@
     {
       "@id": "#yxjf84",
       "name": "--config <file>",
-      "x": -122,
-      "y": -185,
+      "x": 250,
+      "y": 0,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#mrv4db",
       "name": "--yes",
-      "x": 250,
-      "y": 4,
+      "x": -125,
+      "y": 184,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#i6483q",
       "name": "← jss CLI",
-      "x": -126,
-      "y": 183,
+      "x": -125,
+      "y": -184,
       "link": "./cli.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

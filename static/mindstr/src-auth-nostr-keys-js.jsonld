@@ -19,63 +19,63 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#sf37xb",
+      "@id": "#6cicry",
       "name": "exports",
-      "x": 175,
-      "y": -151,
+      "x": 218,
+      "y": 104,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#fuhjpf",
+      "@id": "#7c28q6",
       "name": "nostrJwkYParities()",
-      "x": -355,
-      "y": -299,
+      "x": 432,
+      "y": -214,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js#L28",
       "bgColor": "#daeeff",
-      "parent": "#sf37xb"
+      "parent": "#6cicry"
     },
     {
-      "@id": "#dry8wx",
+      "@id": "#4qbh3e",
       "name": "pubkeyFromValidatedJwk()",
-      "x": 62,
-      "y": -499,
+      "x": 589,
+      "y": 33,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js#L64",
       "bgColor": "#daeeff",
-      "parent": "#sf37xb"
+      "parent": "#6cicry"
     },
     {
-      "@id": "#rmckuv",
+      "@id": "#m3xps2",
       "name": "decodeFFormSecp256k1()",
-      "x": 434,
-      "y": -212,
+      "x": 385,
+      "y": 272,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js#L94",
       "bgColor": "#daeeff",
-      "parent": "#sf37xb"
+      "parent": "#6cicry"
     },
     {
-      "@id": "#6cicry",
+      "@id": "#yxjf84",
       "name": "extractNostrPubkeysFromProfile()",
-      "x": 501,
-      "y": 265,
+      "x": 95,
+      "y": 495,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js#L117",
       "bgColor": "#daeeff",
-      "parent": "#sf37xb"
+      "parent": "#6cicry"
     },
     {
-      "@id": "#7c28q6",
+      "@id": "#mrv4db",
       "name": "140 lines",
-      "x": -93,
-      "y": 197,
+      "x": -240,
+      "y": 58,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr-keys.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#4qbh3e",
+      "@id": "#i6483q",
       "name": "← auth",
-      "x": -231,
-      "y": 82,
+      "x": -66,
+      "y": -205,
       "link": "./src-auth.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

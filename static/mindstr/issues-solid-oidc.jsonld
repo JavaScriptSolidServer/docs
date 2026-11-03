@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#5ypcqw",
-      "name": "unlabelled · 3",
-      "x": 0,
-      "y": -212,
+      "@id": "#7vxdhv",
+      "name": "unlabelled · 3 ›",
+      "x": 217,
+      "y": 106,
       "link": "./issues-solid-oidc-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#7dsgy2",
+      "@id": "#3kphhf",
       "name": "← solid-oidc",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./repo-solid-oidc.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

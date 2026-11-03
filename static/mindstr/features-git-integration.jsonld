@@ -21,7 +21,7 @@
     {
       "@id": "#zpagjg",
       "name": "Enable Git support",
-      "x": -217,
+      "x": 217,
       "y": -106,
       "link": "https://jss.live/docs/features/git-integration#enable-git-support",
       "bgColor": "#acd5ff",
@@ -30,8 +30,8 @@
     {
       "@id": "#sptvks",
       "name": "Clone a repository",
-      "x": -3,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "link": "https://jss.live/docs/features/git-integration#clone-a-repository",
       "bgColor": "#e0c4f6",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#u6iz6f",
       "name": "Push changes",
-      "x": 204,
-      "y": -123,
+      "x": 0,
+      "y": 213,
       "link": "https://jss.live/docs/features/git-integration#push-changes",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#vb6nak",
       "name": "Auto-checkout",
-      "x": 241,
-      "y": 58,
+      "x": -217,
+      "y": 106,
       "link": "https://jss.live/docs/features/git-integration#auto-checkout",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#zv6fek",
       "name": "Git with Nostr Authentication",
-      "x": 21,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "link": "https://jss.live/docs/features/git-integration#git-with-nostr-authentication",
       "bgColor": "#c1dba8",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#y6p8te",
       "name": "← Features",
-      "x": -226,
-      "y": 92,
+      "x": 0,
+      "y": -212,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

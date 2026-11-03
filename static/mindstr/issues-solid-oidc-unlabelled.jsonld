@@ -19,37 +19,37 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#9mz5yc",
+      "@id": "#vih7v4",
       "name": "#13 redirect_uri asymmetry: query strin…",
-      "x": -156,
-      "y": -166,
+      "x": 241,
+      "y": -64,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc/issues/13",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#2vy2cx",
+      "@id": "#wmzib5",
       "name": "#10 Graceful degradation when Web Crypt…",
-      "x": 226,
-      "y": -91,
+      "x": 65,
+      "y": 205,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc/issues/10",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
-      "@id": "#vih7v4",
+      "@id": "#5ypcqw",
       "name": "#1 Explore did:nostr: identity support",
-      "x": 63,
-      "y": 206,
+      "x": -241,
+      "y": 65,
       "link": "https://github.com/JavaScriptSolidServer/solid-oidc/issues/1",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
-      "@id": "#wmzib5",
+      "@id": "#7dsgy2",
       "name": "← solid-oidc issues",
-      "x": -221,
-      "y": 99,
+      "x": -65,
+      "y": -205,
       "link": "./issues-solid-oidc.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

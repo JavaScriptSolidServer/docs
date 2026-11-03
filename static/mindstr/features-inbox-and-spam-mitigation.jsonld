@@ -21,8 +21,8 @@
     {
       "@id": "#vbyvwg",
       "name": "Inbox Setup",
-      "x": -243,
-      "y": -51,
+      "x": 195,
+      "y": -133,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#inbox-setup",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#ahre4u",
       "name": "How It Works",
-      "x": -187,
-      "y": -142,
+      "x": 249,
+      "y": 14,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#how-it-works",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#ibdfdz",
       "name": "Spam Mitigation",
-      "x": 112,
-      "y": -190,
+      "x": 160,
+      "y": 177,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#spam-mitigation",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#z7edqb",
       "name": "Rate Limiting",
-      "x": -111,
-      "y": -414,
+      "x": 403,
+      "y": 252,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#rate-limiting",
       "bgColor": "#ffe2ed",
       "parent": "#ibdfdz"
@@ -57,8 +57,8 @@
     {
       "@id": "#2qq2fn",
       "name": "WAC Enforcement",
-      "x": 110,
-      "y": -493,
+      "x": 387,
+      "y": 378,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#wac-enforcement",
       "bgColor": "#ffe2ed",
       "parent": "#ibdfdz"
@@ -66,8 +66,8 @@
     {
       "@id": "#ri2pzw",
       "name": "Authentication",
-      "x": 282,
-      "y": -351,
+      "x": 238,
+      "y": 374,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#authentication",
       "bgColor": "#ffe2ed",
       "parent": "#ibdfdz"
@@ -75,8 +75,8 @@
     {
       "@id": "#qbizrq",
       "name": "Additional Protections",
-      "x": 521,
-      "y": -236,
+      "x": 152,
+      "y": 485,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#additional-protections",
       "bgColor": "#ffe2ed",
       "parent": "#ibdfdz"
@@ -84,8 +84,8 @@
     {
       "@id": "#yyfuzg",
       "name": "Comparison with Email Anti-Spam Evolution",
-      "x": 217,
-      "y": 106,
+      "x": -90,
+      "y": 201,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#comparison-with-email-anti-spam-evolution",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#xet7zf",
       "name": "Planned",
-      "x": 62,
-      "y": 206,
+      "x": -219,
+      "y": 103,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#planned",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#wjzwqw",
       "name": "ActivityPub Inbox",
-      "x": -68,
-      "y": 205,
+      "x": -243,
+      "y": -50,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#activitypub-inbox",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -111,8 +111,8 @@
     {
       "@id": "#cpmgtf",
       "name": "Design Philosophy",
-      "x": -182,
-      "y": 146,
+      "x": -139,
+      "y": -177,
       "link": "https://jss.live/docs/features/inbox-and-spam-mitigation#design-philosophy",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#a85fzz",
       "name": "← Features",
-      "x": -243,
-      "y": 51,
+      "x": 38,
+      "y": -210,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,8 +21,8 @@
     {
       "@id": "#cvh8ee",
       "name": "Usage",
-      "x": -241,
-      "y": -65,
+      "x": 196,
+      "y": -132,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#usage",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#3xd5xn",
       "name": "The channel adapter",
-      "x": -160,
-      "y": -164,
+      "x": 338,
+      "y": 18,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#the-channel-adapter-the-integration-point",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#jingvu",
       "name": "Session token format",
-      "x": -3,
-      "y": -218,
+      "x": 168,
+      "y": 158,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#session-token-format-hmac-macaroon-lite-same-shape-as-capability",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#u9rrt3",
       "name": "Security model",
-      "x": 142,
-      "y": -172,
+      "x": -5,
+      "y": 212,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#security-model",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#kgvapt",
       "name": "Findings",
-      "x": 228,
-      "y": -86,
+      "x": -175,
+      "y": 152,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/README.md#findings",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#6yp854",
       "name": "plugin.js",
-      "x": 145,
-      "y": 173,
+      "x": -299,
+      "y": -18,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#g8htk4",
       "name": "signSession()",
-      "x": 483,
-      "y": 109,
+      "x": -486,
+      "y": 99,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js#L61",
       "bgColor": "#ddf2de",
       "parent": "#6yp854"
@@ -84,8 +84,8 @@
     {
       "@id": "#iq664j",
       "name": "verifySession()",
-      "x": 443,
-      "y": 331,
+      "x": -590,
+      "y": 11,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js#L68",
       "bgColor": "#ddf2de",
       "parent": "#6yp854"
@@ -93,8 +93,8 @@
     {
       "@id": "#gz4cvb",
       "name": "hashCode()",
-      "x": 188,
-      "y": 394,
+      "x": -491,
+      "y": -80,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js#L98",
       "bgColor": "#ddf2de",
       "parent": "#6yp854"
@@ -102,8 +102,8 @@
     {
       "@id": "#itdh4e",
       "name": "activate()",
-      "x": -43,
-      "y": 500,
+      "x": -543,
+      "y": -196,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/plugin.js#L145",
       "bgColor": "#ddf2de",
       "parent": "#6yp854"
@@ -111,8 +111,8 @@
     {
       "@id": "#wymkpw",
       "name": "test.js",
-      "x": -171,
-      "y": 155,
+      "x": -143,
+      "y": -175,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/otp/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#qhm56x",
       "name": "← JSS plugins",
-      "x": -241,
-      "y": 66,
+      "x": 37,
+      "y": -210,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

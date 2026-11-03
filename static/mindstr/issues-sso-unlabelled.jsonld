@@ -19,90 +19,98 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ee3shg",
-      "name": "May 2026 · 8",
-      "x": 306,
-      "y": -45,
+      "@id": "#8dsc8w",
+      "name": "May 2026 · 1–4 of 8",
+      "x": 241,
+      "y": 58,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#rmz6un",
+      "@id": "#esbs6z",
       "name": "#1 0.0.1 — one-button SSO end-to-end a…",
-      "x": -351,
-      "y": -302,
+      "x": 426,
+      "y": -222,
       "link": "https://github.com/JavaScriptSolidServer/sso/issues/1",
       "bgColor": "#daeeff",
-      "parent": "#ee3shg"
-    },
-    {
-      "@id": "#8dsc8w",
-      "name": "#2 0.0.2 — step-by-step coaching UI (c…",
-      "x": -86,
-      "y": -496,
-      "link": "https://github.com/JavaScriptSolidServer/sso/issues/2",
-      "bgColor": "#daeeff",
-      "parent": "#ee3shg"
-    },
-    {
-      "@id": "#esbs6z",
-      "name": "#3 0.0.3 — multi-resolver fallback",
-      "x": 218,
-      "y": -382,
-      "link": "https://github.com/JavaScriptSolidServer/sso/issues/3",
-      "bgColor": "#daeeff",
-      "parent": "#ee3shg"
+      "parent": "#8dsc8w"
     },
     {
       "@id": "#suwi6b",
-      "name": "#4 0.0.5 — remember the user's success…",
-      "x": 511,
-      "y": -250,
-      "link": "https://github.com/JavaScriptSolidServer/sso/issues/4",
+      "name": "#2 0.0.2 — step-by-step coaching UI (c…",
+      "x": 590,
+      "y": 11,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/2",
       "bgColor": "#daeeff",
-      "parent": "#ee3shg"
+      "parent": "#8dsc8w"
     },
     {
       "@id": "#94tsvd",
-      "name": "#5 0.0.6 — authenticated session (NIP-…",
-      "x": 497,
-      "y": 47,
-      "link": "https://github.com/JavaScriptSolidServer/sso/issues/5",
+      "name": "#3 0.0.3 — multi-resolver fallback",
+      "x": 424,
+      "y": 226,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/3",
       "bgColor": "#daeeff",
-      "parent": "#ee3shg"
+      "parent": "#8dsc8w"
     },
     {
       "@id": "#ggsydb",
-      "name": "#6 0.0.4 — direct Nostr-relay resoluti…",
-      "x": 434,
-      "y": 340,
-      "link": "https://github.com/JavaScriptSolidServer/sso/issues/6",
+      "name": "#4 0.0.5 — remember the user's success…",
+      "x": 268,
+      "y": 447,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/4",
       "bgColor": "#daeeff",
-      "parent": "#ee3shg"
+      "parent": "#8dsc8w"
     },
     {
       "@id": "#yhtpzc",
-      "name": "#7 Multi-user support: switch identiti…",
-      "x": 96,
-      "y": 417,
-      "link": "https://github.com/JavaScriptSolidServer/sso/issues/7",
-      "bgColor": "#daeeff",
-      "parent": "#ee3shg"
+      "name": "May 2026 · 5–8 of 8",
+      "x": -246,
+      "y": 39,
+      "bgColor": "#febdc6",
+      "parent": "#this"
     },
     {
       "@id": "#f7kevu",
-      "name": "#8 Cross-origin SSO→pod handoff (phase…",
-      "x": -251,
-      "y": 454,
-      "link": "https://github.com/JavaScriptSolidServer/sso/issues/8",
-      "bgColor": "#daeeff",
-      "parent": "#ee3shg"
+      "name": "#5 0.0.6 — authenticated session (NIP-…",
+      "x": -252,
+      "y": 367,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/5",
+      "bgColor": "#ffe2e6",
+      "parent": "#yhtpzc"
     },
     {
       "@id": "#vtafiv",
+      "name": "#6 0.0.4 — direct Nostr-relay resoluti…",
+      "x": -526,
+      "y": 228,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/6",
+      "bgColor": "#ffe2e6",
+      "parent": "#yhtpzc"
+    },
+    {
+      "@id": "#cggzrn",
+      "name": "#7 Multi-user support: switch identiti…",
+      "x": -498,
+      "y": -42,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/7",
+      "bgColor": "#ffe2e6",
+      "parent": "#yhtpzc"
+    },
+    {
+      "@id": "#p9zyk4",
+      "name": "#8 Cross-origin SSO→pod handoff (phase…",
+      "x": -462,
+      "y": -312,
+      "link": "https://github.com/JavaScriptSolidServer/sso/issues/8",
+      "bgColor": "#ffe2e6",
+      "parent": "#yhtpzc"
+    },
+    {
+      "@id": "#wunehi",
       "name": "← sso issues",
-      "x": -246,
-      "y": 36,
+      "x": 16,
+      "y": -212,
       "link": "./issues-sso.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -130,24 +138,28 @@
       "end": 5
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 6
     },
     {
-      "start": 1,
+      "start": 6,
       "end": 7
     },
     {
-      "start": 1,
+      "start": 6,
       "end": 8
     },
     {
-      "start": 1,
+      "start": 6,
       "end": 9
     },
     {
-      "start": 0,
+      "start": 6,
       "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
     }
   ],
   "selectedNode": 0

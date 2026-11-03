@@ -21,8 +21,8 @@
     {
       "@id": "#ktiw89",
       "name": "Usage",
-      "x": -236,
-      "y": -71,
+      "x": 206,
+      "y": -121,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/README.md#usage",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#c74y5q",
       "name": "Token format",
-      "x": -131,
-      "y": -181,
+      "x": 240,
+      "y": 64,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/README.md#token-format-macaroon-lite",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#374kep",
       "name": "Security model",
-      "x": 33,
-      "y": -211,
+      "x": 97,
+      "y": 196,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/README.md#security-model",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#ba2cgp",
       "name": "Findings",
-      "x": 181,
-      "y": -146,
+      "x": -117,
+      "y": 188,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/README.md#findings",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#h7ym9k",
       "name": "plugin.js",
-      "x": 194,
-      "y": 134,
+      "x": -299,
+      "y": 34,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/plugin.js",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#ius84b",
       "name": "signCapability()",
-      "x": 499,
-      "y": 26,
+      "x": -455,
+      "y": 176,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/plugin.js#L80",
       "bgColor": "#f2ecd2",
       "parent": "#h7ym9k"
@@ -75,8 +75,8 @@
     {
       "@id": "#583aqh",
       "name": "verifyCapability()",
-      "x": 451,
-      "y": 323,
+      "x": -583,
+      "y": 80,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/plugin.js#L87",
       "bgColor": "#f2ecd2",
       "parent": "#h7ym9k"
@@ -84,8 +84,8 @@
     {
       "@id": "#sbf4ee",
       "name": "activate()",
-      "x": 125,
-      "y": 412,
+      "x": -497,
+      "y": -46,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/plugin.js#L111",
       "bgColor": "#f2ecd2",
       "parent": "#h7ym9k"
@@ -93,8 +93,8 @@
     {
       "@id": "#t6q67m",
       "name": "test.js",
-      "x": -131,
-      "y": 181,
+      "x": -181,
+      "y": -147,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/capability/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#abq85r",
       "name": "← JSS plugins",
-      "x": -236,
-      "y": 71,
+      "x": 20,
+      "y": -212,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

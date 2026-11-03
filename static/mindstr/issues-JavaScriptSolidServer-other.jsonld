@@ -19,186 +19,194 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#twzhxn",
+      "@id": "#ir6eif",
       "name": "Jun 2026 · 2",
-      "x": -232,
-      "y": -78,
+      "x": 194,
+      "y": -134,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ir6eif",
+      "@id": "#bwj4g5",
       "name": "#570 /private/privkey.jsonld uses extern…",
-      "x": -488,
-      "y": -92,
+      "x": 335,
+      "y": -315,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/570",
       "bgColor": "#daeeff",
-      "parent": "#twzhxn"
-    },
-    {
-      "@id": "#bwj4g5",
-      "name": "#572 RFC: a did:nostr resolver/indexer m…",
-      "x": -508,
-      "y": -256,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/572",
-      "bgColor": "#daeeff",
-      "parent": "#twzhxn"
+      "parent": "#ir6eif"
     },
     {
       "@id": "#9fjvd8",
-      "name": "May 2026 · 4",
-      "x": -19,
-      "y": -212,
-      "bgColor": "#e9c1ef",
-      "parent": "#this"
+      "name": "#572 RFC: a did:nostr resolver/indexer m…",
+      "x": 509,
+      "y": -253,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/572",
+      "bgColor": "#daeeff",
+      "parent": "#ir6eif"
     },
     {
       "@id": "#6fwnzy",
-      "name": "#519 Document hardware security key (Yub…",
-      "x": -257,
-      "y": -364,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/519",
-      "bgColor": "#f7e4f9",
-      "parent": "#9fjvd8"
+      "name": "May 2026 · 4",
+      "x": 230,
+      "y": 83,
+      "bgColor": "#e0c4f6",
+      "parent": "#this"
     },
     {
       "@id": "#rtnzsk",
-      "name": "#42 Spec: did:nostr to WebID Resolution",
-      "x": -135,
-      "y": -488,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/42",
-      "bgColor": "#f7e4f9",
-      "parent": "#9fjvd8"
+      "name": "#519 Document hardware security key (Yub…",
+      "x": 499,
+      "y": -21,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/519",
+      "bgColor": "#f2e5fd",
+      "parent": "#6fwnzy"
     },
     {
       "@id": "#v8phzs",
-      "name": "#51 Spec: Solid + ActivityPub Federatio…",
-      "x": 38,
-      "y": -421,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/51",
-      "bgColor": "#f7e4f9",
-      "parent": "#9fjvd8"
+      "name": "#42 Spec: did:nostr to WebID Resolution",
+      "x": 571,
+      "y": 125,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/42",
+      "bgColor": "#f2e5fd",
+      "parent": "#6fwnzy"
     },
     {
       "@id": "#izxsmt",
-      "name": "#120 Test: Add missing test coverage for…",
-      "x": 224,
-      "y": -465,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/120",
-      "bgColor": "#f7e4f9",
-      "parent": "#9fjvd8"
+      "name": "#51 Spec: Solid + ActivityPub Federatio…",
+      "x": 427,
+      "y": 221,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/51",
+      "bgColor": "#f2e5fd",
+      "parent": "#6fwnzy"
     },
     {
       "@id": "#er3xwg",
-      "name": "Mar 2026 · 2",
-      "x": 216,
-      "y": -107,
-      "bgColor": "#fec0b1",
-      "parent": "#this"
+      "name": "#120 Test: Add missing test coverage for…",
+      "x": 389,
+      "y": 371,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/120",
+      "bgColor": "#f2e5fd",
+      "parent": "#6fwnzy"
     },
     {
       "@id": "#3p4wn2",
-      "name": "#214 N3 PATCH insertTriple does not inse…",
-      "x": 387,
-      "y": -269,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/214",
-      "bgColor": "#ffe3dc",
-      "parent": "#er3xwg"
-    },
-    {
-      "@id": "#f356md",
-      "name": "#215 bug: remove preferences/typeIndex f…",
-      "x": 550,
-      "y": -182,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/215",
-      "bgColor": "#ffe3dc",
-      "parent": "#er3xwg"
-    },
-    {
-      "@id": "#c9pfmk",
-      "name": "Jan 2026 · 8",
-      "x": 68,
-      "y": 257,
-      "bgColor": "#d7d59b",
+      "name": "Mar 2026 · 2",
+      "x": 21,
+      "y": 212,
+      "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
+      "@id": "#f356md",
+      "name": "#214 N3 PATCH insertTriple does not inse…",
+      "x": 118,
+      "y": 416,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/214",
+      "bgColor": "#ffe2e6",
+      "parent": "#3p4wn2"
+    },
+    {
+      "@id": "#c9pfmk",
+      "name": "#215 bug: remove preferences/typeIndex f…",
+      "x": -40,
+      "y": 500,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/215",
+      "bgColor": "#ffe2e6",
+      "parent": "#3p4wn2"
+    },
+    {
       "@id": "#metvfr",
-      "name": "#121 Docs: Document config flow from ser…",
-      "x": 485,
-      "y": 104,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/121",
-      "bgColor": "#eeedd3",
-      "parent": "#c9pfmk"
+      "name": "Jan 2026 · 1–4 of 8",
+      "x": -212,
+      "y": 113,
+      "bgColor": "#f1c99c",
+      "parent": "#this"
     },
     {
       "@id": "#rnyi3y",
-      "name": "#115 Refactor: Unify scattered request c…",
-      "x": 499,
-      "y": 268,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/115",
-      "bgColor": "#eeedd3",
-      "parent": "#c9pfmk"
+      "name": "#121 Docs: Document config flow from ser…",
+      "x": -261,
+      "y": 369,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/121",
+      "bgColor": "#fbe8d3",
+      "parent": "#metvfr"
     },
     {
       "@id": "#ph8a5e",
-      "name": "#116 Refactor: Extract duplicate getRequ…",
-      "x": 319,
-      "y": 328,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/116",
-      "bgColor": "#eeedd3",
-      "parent": "#c9pfmk"
+      "name": "#115 Refactor: Unify scattered request c…",
+      "x": -446,
+      "y": 325,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/115",
+      "bgColor": "#fbe8d3",
+      "parent": "#metvfr"
     },
     {
       "@id": "#uncmtp",
-      "name": "#117 Refactor: Split handlers/resource.j…",
-      "x": 216,
-      "y": 469,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/117",
-      "bgColor": "#eeedd3",
-      "parent": "#c9pfmk"
+      "name": "#116 Refactor: Extract duplicate getRequ…",
+      "x": -459,
+      "y": 169,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/116",
+      "bgColor": "#fbe8d3",
+      "parent": "#metvfr"
     },
     {
       "@id": "#3vjzm2",
-      "name": "#118 Refactor: Extract server.js setup i…",
-      "x": 29,
-      "y": 423,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/118",
-      "bgColor": "#eeedd3",
-      "parent": "#c9pfmk"
+      "name": "#117 Refactor: Split handlers/resource.j…",
+      "x": -587,
+      "y": 51,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/117",
+      "bgColor": "#fbe8d3",
+      "parent": "#metvfr"
     },
     {
       "@id": "#6wz95i",
-      "name": "#119 Refactor: Add comprehensive config…",
-      "x": -149,
-      "y": 485,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/119",
-      "bgColor": "#eeedd3",
-      "parent": "#c9pfmk"
+      "name": "Jan 2026 · 5–8 of 8",
+      "x": -156,
+      "y": -166,
+      "bgColor": "#c1dba8",
+      "parent": "#this"
     },
     {
       "@id": "#mkijzp",
-      "name": "#122 Refactor: Consolidate error respons…",
-      "x": -269,
-      "y": 361,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/122",
-      "bgColor": "#eeedd3",
-      "parent": "#c9pfmk"
+      "name": "#118 Refactor: Extract server.js setup i…",
+      "x": -453,
+      "y": -180,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/118",
+      "bgColor": "#e3f0d8",
+      "parent": "#6wz95i"
     },
     {
       "@id": "#wm3fr8",
-      "name": "#123 Refactor: Split idp/interactions.js…",
-      "x": -457,
-      "y": 317,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/123",
-      "bgColor": "#eeedd3",
-      "parent": "#c9pfmk"
+      "name": "#119 Refactor: Add comprehensive config…",
+      "x": -435,
+      "y": -328,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/119",
+      "bgColor": "#e3f0d8",
+      "parent": "#6wz95i"
     },
     {
       "@id": "#xx6ai9",
+      "name": "#122 Refactor: Consolidate error respons…",
+      "x": -251,
+      "y": -374,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/122",
+      "bgColor": "#e3f0d8",
+      "parent": "#6wz95i"
+    },
+    {
+      "@id": "#t5gcp9",
+      "name": "#123 Refactor: Split idp/interactions.js…",
+      "x": -128,
+      "y": -490,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/123",
+      "bgColor": "#e3f0d8",
+      "parent": "#6wz95i"
+    },
+    {
+      "@id": "#wdgxta",
       "name": "← JavaScriptSolidServer issues",
-      "x": -247,
-      "y": 64,
+      "x": 71,
+      "y": -204,
       "link": "./issues-JavaScriptSolidServer.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -270,24 +278,28 @@
       "end": 16
     },
     {
-      "start": 12,
+      "start": 0,
       "end": 17
     },
     {
-      "start": 12,
+      "start": 17,
       "end": 18
     },
     {
-      "start": 12,
+      "start": 17,
       "end": 19
     },
     {
-      "start": 12,
+      "start": 17,
       "end": 20
     },
     {
-      "start": 0,
+      "start": 17,
       "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
     }
   ],
   "selectedNode": 0

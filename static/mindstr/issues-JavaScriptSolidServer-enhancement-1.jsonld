@@ -20,16 +20,16 @@
     {
       "@id": "#i6483q",
       "name": "Oct 2026 · 5",
-      "x": -201,
-      "y": -127,
+      "x": 228,
+      "y": -88,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#kmcrgd",
       "name": "#621 Track: LWS protocol conformance (Oc…",
-      "x": -489,
-      "y": -89,
+      "x": 332,
+      "y": -333,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/621",
       "bgColor": "#daeeff",
       "parent": "#i6483q"
@@ -37,8 +37,8 @@
     {
       "@id": "#ktiw89",
       "name": "#603 Plugin API seam: api.events.onResou…",
-      "x": -538,
-      "y": -207,
+      "x": 475,
+      "y": -289,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/603",
       "bgColor": "#daeeff",
       "parent": "#i6483q"
@@ -46,8 +46,8 @@
     {
       "@id": "#c74y5q",
       "name": "#622 plugin api: api.auth.registerVerifi…",
-      "x": -401,
-      "y": -254,
+      "x": 455,
+      "y": -176,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/622",
       "bgColor": "#daeeff",
       "parent": "#i6483q"
@@ -55,8 +55,8 @@
     {
       "@id": "#374kep",
       "name": "#624 plugin api: api.wac.registerReader(…",
-      "x": -387,
-      "y": -394,
+      "x": 576,
+      "y": -108,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/624",
       "bgColor": "#daeeff",
       "parent": "#i6483q"
@@ -64,8 +64,8 @@
     {
       "@id": "#ba2cgp",
       "name": "#625 plugin api: api.headers.link() — pl…",
-      "x": -240,
-      "y": -350,
+      "x": 500,
+      "y": -4,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/625",
       "bgColor": "#daeeff",
       "parent": "#i6483q"
@@ -73,16 +73,16 @@
     {
       "@id": "#h7ym9k",
       "name": "Jul 2026 · 2",
-      "x": -19,
-      "y": -212,
+      "x": 230,
+      "y": 83,
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
     {
       "@id": "#ius84b",
       "name": "#604 Plugin API seam: api.authorize — as…",
-      "x": -74,
-      "y": -440,
+      "x": 473,
+      "y": 139,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/604",
       "bgColor": "#f2e5fd",
       "parent": "#h7ym9k"
@@ -90,8 +90,8 @@
     {
       "@id": "#583aqh",
       "name": "#206 Plugin system for JSS",
-      "x": 18,
-      "y": -501,
+      "x": 516,
+      "y": 243,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/206",
       "bgColor": "#f2e5fd",
       "parent": "#h7ym9k"
@@ -99,16 +99,16 @@
     {
       "@id": "#sbf4ee",
       "name": "Jun 2026 · 1–6 of 12",
-      "x": 186,
-      "y": -142,
+      "x": 69,
+      "y": 204,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#t6q67m",
       "name": "#567 tunnel: 10MB MAX_MESSAGE_SIZE cap i…",
-      "x": 175,
-      "y": -387,
+      "x": 340,
+      "y": 312,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/567",
       "bgColor": "#ffe2e6",
       "parent": "#sbf4ee"
@@ -116,8 +116,8 @@
     {
       "@id": "#abq85r",
       "name": "#21 Add social login (GitHub, Google)",
-      "x": 315,
-      "y": -431,
+      "x": 327,
+      "y": 425,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/21",
       "bgColor": "#ffe2e6",
       "parent": "#sbf4ee"
@@ -125,8 +125,8 @@
     {
       "@id": "#sy2ncx",
       "name": "#29 Add Git LFS support",
-      "x": 332,
-      "y": -343,
+      "x": 189,
+      "y": 379,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/29",
       "bgColor": "#ffe2e6",
       "parent": "#sbf4ee"
@@ -134,8 +134,8 @@
     {
       "@id": "#fertai",
       "name": "#86 Support did:key Authentication (LWS…",
-      "x": 461,
-      "y": -297,
+      "x": 130,
+      "y": 469,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/86",
       "bgColor": "#ffe2e6",
       "parent": "#sbf4ee"
@@ -143,8 +143,8 @@
     {
       "@id": "#9u36xp",
       "name": "#96 Feature: Admin Control Panel for Se…",
-      "x": 447,
-      "y": -190,
+      "x": -2,
+      "y": 424,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/96",
       "bgColor": "#ffe2e6",
       "parent": "#sbf4ee"
@@ -152,8 +152,8 @@
     {
       "@id": "#5q2nc4",
       "name": "#129 Feature: Production-grade logging a…",
-      "x": 572,
-      "y": -124,
+      "x": -110,
+      "y": 514,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/129",
       "bgColor": "#ffe2e6",
       "parent": "#sbf4ee"
@@ -161,16 +161,16 @@
     {
       "@id": "#eegh3a",
       "name": "Jun 2026 · 7–12 of 12",
-      "x": 186,
-      "y": 142,
+      "x": -225,
+      "y": 89,
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
       "@id": "#tmtdcb",
       "name": "#157 Add CardDAV plugin for contact sync…",
-      "x": 490,
-      "y": 84,
+      "x": -292,
+      "y": 370,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/157",
       "bgColor": "#fbe8d3",
       "parent": "#eegh3a"
@@ -178,8 +178,8 @@
     {
       "@id": "#ziixui",
       "name": "#164 Extract WebFinger and OAuth into st…",
-      "x": 540,
-      "y": 202,
+      "x": -436,
+      "y": 324,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/164",
       "bgColor": "#fbe8d3",
       "parent": "#eegh3a"
@@ -187,8 +187,8 @@
     {
       "@id": "#qnf7j2",
       "name": "#211 feat: Bluesky integration — bring S…",
-      "x": 404,
-      "y": 250,
+      "x": -431,
+      "y": 215,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/211",
       "bgColor": "#fbe8d3",
       "parent": "#eegh3a"
@@ -196,8 +196,8 @@
     {
       "@id": "#rx55k2",
       "name": "#236 Add SFTP/SSH access for pod users",
-      "x": 395,
-      "y": 398,
+      "x": -558,
+      "y": 162,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/236",
       "bgColor": "#fbe8d3",
       "parent": "#eegh3a"
@@ -205,8 +205,8 @@
     {
       "@id": "#ux93wm",
       "name": "#382 cors-proxy: support per-pod /<pod>/…",
-      "x": 251,
-      "y": 352,
+      "x": -499,
+      "y": 54,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/382",
       "bgColor": "#fbe8d3",
       "parent": "#eegh3a"
@@ -214,8 +214,8 @@
     {
       "@id": "#a464iu",
       "name": "#527 Tunnel client mode: jss --tunnel-co…",
-      "x": 181,
-      "y": 477,
+      "x": -588,
+      "y": -41,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/527",
       "bgColor": "#fbe8d3",
       "parent": "#eegh3a"
@@ -223,16 +223,16 @@
     {
       "@id": "#simp87",
       "name": "May 2026 · 6",
-      "x": -156,
-      "y": 166,
+      "x": -127,
+      "y": -183,
       "bgColor": "#c1dba8",
       "parent": "#this"
     },
     {
       "@id": "#tzmucf",
       "name": "#535 Track: LWS server-managed Type Inde…",
-      "x": -73,
-      "y": 426,
+      "x": -432,
+      "y": -213,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/535",
       "bgColor": "#e3f0d8",
       "parent": "#simp87"
@@ -240,8 +240,8 @@
     {
       "@id": "#xmtzgz",
       "name": "#522 Mobile: run JSS on Android via Reac…",
-      "x": -208,
-      "y": 470,
+      "x": -438,
+      "y": -311,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/522",
       "bgColor": "#e3f0d8",
       "parent": "#simp87"
@@ -249,8 +249,8 @@
     {
       "@id": "#b9snuz",
       "name": "#101 Feature: ETag Strategy Alignment wi…",
-      "x": -272,
-      "y": 382,
+      "x": -294,
+      "y": -357,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/101",
       "bgColor": "#e3f0d8",
       "parent": "#simp87"
@@ -258,8 +258,8 @@
     {
       "@id": "#nxqgmq",
       "name": "#35 Feature: Terms & Conditions accepta…",
-      "x": -419,
-      "y": 337,
+      "x": -241,
+      "y": -458,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/35",
       "bgColor": "#e3f0d8",
       "parent": "#simp87"
@@ -267,8 +267,8 @@
     {
       "@id": "#dguykc",
       "name": "#38 Add standalone login page (/idp/log…",
-      "x": -420,
-      "y": 230,
+      "x": -108,
+      "y": -414,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/38",
       "bgColor": "#e3f0d8",
       "parent": "#simp87"
@@ -276,8 +276,8 @@
     {
       "@id": "#28eue2",
       "name": "#75 feat: add --solidos-ui-cdn flag to…",
-      "x": -551,
-      "y": 178,
+      "x": -9,
+      "y": -502,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/75",
       "bgColor": "#e3f0d8",
       "parent": "#simp87"
@@ -285,8 +285,8 @@
     {
       "@id": "#f4n9qu",
       "name": "← enhancement issues",
-      "x": -249,
-      "y": 65,
+      "x": 89,
+      "y": -199,
       "link": "./issues-JavaScriptSolidServer-enhancement.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

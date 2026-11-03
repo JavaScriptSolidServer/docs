@@ -19,99 +19,107 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#5h5cc9",
-      "name": "exports",
-      "x": 253,
-      "y": -153,
+      "@id": "#uja84e",
+      "name": "exports 1/2",
+      "x": 248,
+      "y": -26,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#2682x9",
+      "@id": "#78sngm",
       "name": "PROTOCOL_VERSION()",
-      "x": -380,
+      "x": 381,
       "y": -276,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L12",
       "bgColor": "#daeeff",
-      "parent": "#5h5cc9"
+      "parent": "#uja84e"
     },
     {
-      "@id": "#dgxw48",
+      "@id": "#58pkgm",
       "name": "SERVER_INFO()",
-      "x": -175,
-      "y": -479,
+      "x": 561,
+      "y": -156,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L14",
       "bgColor": "#daeeff",
-      "parent": "#5h5cc9"
+      "parent": "#uja84e"
     },
     {
-      "@id": "#3m2wcm",
+      "@id": "#7jxpjz",
       "name": "RPC_ERRORS()",
-      "x": 108,
-      "y": -415,
+      "x": 499,
+      "y": 30,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L20",
       "bgColor": "#daeeff",
-      "parent": "#5h5cc9"
+      "parent": "#uja84e"
     },
     {
-      "@id": "#4ad697",
+      "@id": "#qrspvr",
       "name": "rpcResult()",
-      "x": 396,
-      "y": -372,
+      "x": 529,
+      "y": 222,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L32",
       "bgColor": "#daeeff",
-      "parent": "#5h5cc9"
+      "parent": "#uja84e"
     },
     {
-      "@id": "#z237xc",
+      "@id": "#wfbk2v",
+      "name": "exports 2/2",
+      "x": -29,
+      "y": 211,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xetwaa",
       "name": "rpcError()",
-      "x": 475,
-      "y": -132,
+      "x": 214,
+      "y": 384,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L36",
-      "bgColor": "#daeeff",
-      "parent": "#5h5cc9"
+      "bgColor": "#fce3f3",
+      "parent": "#wfbk2v"
     },
     {
-      "@id": "#ern3ds",
+      "@id": "#wtpnjp",
       "name": "toolText()",
-      "x": 578,
-      "y": 102,
+      "x": 41,
+      "y": 500,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L42",
-      "bgColor": "#daeeff",
-      "parent": "#5h5cc9"
+      "bgColor": "#fce3f3",
+      "parent": "#wfbk2v"
     },
     {
-      "@id": "#cixa8i",
+      "@id": "#7cw6cg",
       "name": "toolError()",
-      "x": 375,
-      "y": 281,
+      "x": -149,
+      "y": 406,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L46",
-      "bgColor": "#daeeff",
-      "parent": "#5h5cc9"
+      "bgColor": "#fce3f3",
+      "parent": "#wfbk2v"
     },
     {
-      "@id": "#w8ga4c",
+      "@id": "#a54nev",
       "name": "toolJson()",
-      "x": 190,
-      "y": 475,
+      "x": -369,
+      "y": 391,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js#L50",
-      "bgColor": "#daeeff",
-      "parent": "#5h5cc9"
+      "bgColor": "#fce3f3",
+      "parent": "#wfbk2v"
     },
     {
-      "@id": "#eud4cc",
+      "@id": "#qhb5iq",
       "name": "53 lines",
-      "x": -150,
-      "y": 170,
+      "x": -249,
+      "y": -21,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/protocol.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#5mb355",
+      "@id": "#nvqaxu",
       "name": "← mcp",
-      "x": -238,
-      "y": 65,
+      "x": -35,
+      "y": -210,
       "link": "./src-mcp.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -139,28 +147,32 @@
       "end": 5
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 6
     },
     {
-      "start": 1,
+      "start": 6,
       "end": 7
     },
     {
-      "start": 1,
+      "start": 6,
       "end": 8
     },
     {
-      "start": 1,
+      "start": 6,
       "end": 9
     },
     {
-      "start": 0,
+      "start": 6,
       "end": 10
     },
     {
       "start": 0,
       "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
     }
   ],
   "selectedNode": 0

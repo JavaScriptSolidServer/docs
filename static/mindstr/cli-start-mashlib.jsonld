@@ -20,40 +20,40 @@
     {
       "@id": "#tpktj6",
       "name": "--mashlib-cdn",
-      "x": -216,
-      "y": -107,
+      "x": 228,
+      "y": -86,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#u94rpy",
       "name": "--mashlib-module <url>",
-      "x": 49,
-      "y": -208,
+      "x": 167,
+      "y": 158,
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
       "@id": "#7txfyn",
       "name": "--no-mashlib",
-      "x": 248,
-      "y": -28,
+      "x": -125,
+      "y": 184,
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
       "@id": "#v5njcx",
       "name": "--mashlib-version <version>",
-      "x": 81,
-      "y": 201,
+      "x": -245,
+      "y": -65,
       "bgColor": "#d7d59b",
       "parent": "#this"
     },
     {
       "@id": "#z8kicz",
       "name": "← jss start",
-      "x": -216,
-      "y": 107,
+      "x": -26,
+      "y": -211,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

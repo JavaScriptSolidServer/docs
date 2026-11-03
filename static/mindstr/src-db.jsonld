@@ -19,46 +19,46 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#cp2str",
+      "@id": "#cyfvb8",
       "name": "index.js",
-      "x": 0,
-      "y": -212,
+      "x": 250,
+      "y": 0,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/db/index.js",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#swzzzt",
+      "@id": "#ngjuhg",
       "name": "dbPlugin()",
-      "x": -306,
-      "y": -336,
+      "x": 452,
+      "y": -181,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/db/index.js#L20",
       "bgColor": "#daeeff",
-      "parent": "#cp2str"
+      "parent": "#cyfvb8"
     },
     {
-      "@id": "#pj9sd5",
+      "@id": "#ad25k5",
       "name": "default export",
-      "x": 362,
-      "y": -396,
+      "x": 534,
+      "y": 214,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/db/index.js#L306",
       "bgColor": "#daeeff",
-      "parent": "#cp2str"
+      "parent": "#cyfvb8"
     },
     {
-      "@id": "#9incsq",
-      "name": "store.js · 7",
-      "x": 177,
-      "y": 150,
+      "@id": "#6zhwac",
+      "name": "store.js · 7 ›",
+      "x": -125,
+      "y": 184,
       "link": "./src-db-store-js.jsonld",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#gwp9qx",
+      "@id": "#sigj2h",
       "name": "← src/",
-      "x": -177,
-      "y": 150,
+      "x": -125,
+      "y": -184,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

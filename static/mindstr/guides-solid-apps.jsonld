@@ -21,7 +21,7 @@
     {
       "@id": "#7cw6cg",
       "name": "SolidOS / Mashlib",
-      "x": -225,
+      "x": 226,
       "y": -92,
       "link": "https://jss.live/docs/guides/solid-apps#solidos-mashlib",
       "bgColor": "#acd5ff",
@@ -30,8 +30,8 @@
     {
       "@id": "#a54nev",
       "name": "Solid-OIDC Apps",
-      "x": -65,
-      "y": -205,
+      "x": 182,
+      "y": 146,
       "link": "https://jss.live/docs/guides/solid-apps#solid-oidc-apps",
       "bgColor": "#e9c1ef",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#qhb5iq",
       "name": "Common Apps",
-      "x": 130,
-      "y": -182,
+      "x": -94,
+      "y": 197,
       "link": "https://jss.live/docs/guides/solid-apps#common-apps",
       "bgColor": "#fec0b1",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#nvqaxu",
       "name": "Troubleshooting",
-      "x": 164,
-      "y": 161,
+      "x": -247,
+      "y": -33,
       "link": "https://jss.live/docs/guides/solid-apps#troubleshooting",
       "bgColor": "#d7d59b",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#9n2fi8",
       "name": "App can't parse responses",
-      "x": 496,
-      "y": 53,
+      "x": -487,
+      "y": 95,
       "link": "https://jss.live/docs/guides/solid-apps#app-cant-parse-responses",
       "bgColor": "#eeedd3",
       "parent": "#nvqaxu"
@@ -66,8 +66,8 @@
     {
       "@id": "#27czbt",
       "name": "Login doesn't work",
-      "x": 303,
-      "y": 430,
+      "x": -578,
+      "y": -102,
       "link": "https://jss.live/docs/guides/solid-apps#login-doesnt-work",
       "bgColor": "#eeedd3",
       "parent": "#nvqaxu"
@@ -75,8 +75,8 @@
     {
       "@id": "#eqxhbv",
       "name": "CORS errors",
-      "x": -96,
-      "y": 417,
+      "x": -417,
+      "y": -235,
       "link": "https://jss.live/docs/guides/solid-apps#cors-errors",
       "bgColor": "#eeedd3",
       "parent": "#nvqaxu"
@@ -84,8 +84,8 @@
     {
       "@id": "#m3zt7z",
       "name": "← Guides",
-      "x": -230,
-      "y": 83,
+      "x": -19,
+      "y": -212,
       "link": "./guides.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

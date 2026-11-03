@@ -1,0 +1,76 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "export.js",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/export.js",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#3vjzm2",
+      "name": "exports",
+      "x": 250,
+      "y": 0,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6wz95i",
+      "name": "handleExportAccount()",
+      "x": 500,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/export.js#L133",
+      "bgColor": "#daeeff",
+      "parent": "#3vjzm2"
+    },
+    {
+      "@id": "#mkijzp",
+      "name": "548 lines",
+      "x": -125,
+      "y": 184,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/export.js",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wm3fr8",
+      "name": "← idp",
+      "x": -125,
+      "y": -184,
+      "link": "./src-idp.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    }
+  ],
+  "selectedNode": 0
+}

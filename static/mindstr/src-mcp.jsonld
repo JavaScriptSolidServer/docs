@@ -19,55 +19,55 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#mesfa4",
+      "@id": "#5m2ws9",
       "name": "index.js",
-      "x": -203,
-      "y": -125,
+      "x": 228,
+      "y": -86,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/index.js",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ek2jcm",
+      "@id": "#bbimsx",
       "name": "mcpPlugin()",
-      "x": -405,
-      "y": -249,
+      "x": 457,
+      "y": -173,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/mcp/index.js#L159",
       "bgColor": "#daeeff",
-      "parent": "#mesfa4"
+      "parent": "#5m2ws9"
     },
     {
-      "@id": "#uja84e",
-      "name": "protocol.js · 8",
-      "x": 78,
-      "y": -202,
+      "@id": "#drrwuk",
+      "name": "protocol.js · 8 ›",
+      "x": 167,
+      "y": 158,
       "link": "./src-mcp-protocol-js.jsonld",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
-      "@id": "#78sngm",
-      "name": "skills.js · 3",
-      "x": 250,
-      "y": 2,
+      "@id": "#nsm2yi",
+      "name": "skills.js · 3 ›",
+      "x": -125,
+      "y": 184,
       "link": "./src-mcp-skills-js.jsonld",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
-      "@id": "#58pkgm",
-      "name": "tools.js · 3",
-      "x": 76,
-      "y": 203,
+      "@id": "#2xe78q",
+      "name": "tools.js · 3 ›",
+      "x": -245,
+      "y": -44,
       "link": "./src-mcp-tools-js.jsonld",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },
     {
-      "@id": "#7jxpjz",
+      "@id": "#jgw4tz",
       "name": "← src/",
-      "x": -203,
-      "y": 125,
+      "x": -26,
+      "y": -211,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

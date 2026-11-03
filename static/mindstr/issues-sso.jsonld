@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#cggzrn",
-      "name": "unlabelled · 8",
-      "x": 0,
-      "y": -212,
+      "@id": "#zr8yui",
+      "name": "unlabelled · 8 ›",
+      "x": 217,
+      "y": 106,
       "link": "./issues-sso-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#p9zyk4",
+      "@id": "#dvsh9t",
       "name": "← sso",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./repo-sso.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

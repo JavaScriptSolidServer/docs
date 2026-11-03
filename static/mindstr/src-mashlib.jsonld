@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#tbf3y4",
-      "name": "index.js · 6",
-      "x": 0,
-      "y": -212,
+      "@id": "#mesfa4",
+      "name": "index.js · 6 ›",
+      "x": 217,
+      "y": 106,
       "link": "./src-mashlib-index-js.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#z9ubg8",
+      "@id": "#ek2jcm",
       "name": "← src/",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

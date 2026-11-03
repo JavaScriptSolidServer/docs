@@ -19,55 +19,55 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#pxrawa",
-      "name": "events.js · 3",
-      "x": -209,
-      "y": -117,
+      "@id": "#5if5dv",
+      "name": "events.js · 3 ›",
+      "x": 241,
+      "y": -55,
       "link": "./src-notifications-events-js.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#gsrdqa",
+      "@id": "#7xg3ip",
       "name": "index.js",
-      "x": 203,
-      "y": -124,
+      "x": 65,
+      "y": 205,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/notifications/index.js",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
-      "@id": "#ttvgv4",
+      "@id": "#y43huz",
       "name": "notificationsPlugin()",
-      "x": 221,
-      "y": -381,
+      "x": 272,
+      "y": 356,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/notifications/index.js#L29",
       "bgColor": "#fce3f3",
-      "parent": "#gsrdqa"
+      "parent": "#7xg3ip"
     },
     {
-      "@id": "#g5xqe3",
+      "@id": "#4j26c6",
       "name": "default export",
-      "x": 590,
-      "y": 12,
+      "x": -49,
+      "y": 500,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/notifications/index.js#L56",
       "bgColor": "#fce3f3",
-      "parent": "#gsrdqa"
+      "parent": "#7xg3ip"
     },
     {
-      "@id": "#cvkstp",
-      "name": "websocket.js · 4",
-      "x": 54,
-      "y": 207,
+      "@id": "#uaafj4",
+      "name": "websocket.js · 4 ›",
+      "x": -241,
+      "y": 55,
       "link": "./src-notifications-websocket-js.jsonld",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
-      "@id": "#jw6hux",
+      "@id": "#v8kw9g",
       "name": "← src/",
-      "x": -209,
-      "y": 117,
+      "x": -65,
+      "y": -205,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

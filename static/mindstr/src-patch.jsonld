@@ -19,55 +19,55 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#rp2kdh",
-      "name": "n3-patch.js · 3",
-      "x": -208,
-      "y": -118,
+      "@id": "#u2r43v",
+      "name": "n3-patch.js · 3 ›",
+      "x": 241,
+      "y": -55,
       "link": "./src-patch-n3-patch-js.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#6c8mfm",
-      "name": "quads.js · 6",
-      "x": 44,
-      "y": -209,
+      "@id": "#pnzi2z",
+      "name": "quads.js · 6 ›",
+      "x": 65,
+      "y": 205,
       "link": "./src-patch-quads-js.jsonld",
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
-      "@id": "#uhqyuf",
+      "@id": "#2yz4j8",
       "name": "sparql-update.js",
-      "x": 208,
-      "y": 118,
+      "x": -241,
+      "y": 55,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/sparql-update.js",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
-      "@id": "#gkdxt6",
+      "@id": "#xgkrrw",
       "name": "parseSparqlUpdate()",
-      "x": 500,
-      "y": -1,
+      "x": -415,
+      "y": 237,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/sparql-update.js#L22",
       "bgColor": "#fbe8d3",
-      "parent": "#uhqyuf"
+      "parent": "#2yz4j8"
     },
     {
-      "@id": "#ujfctz",
+      "@id": "#2yqrnt",
       "name": "applySparqlUpdate()",
-      "x": 227,
-      "y": 463,
+      "x": -589,
+      "y": -34,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/patch/sparql-update.js#L242",
       "bgColor": "#fbe8d3",
-      "parent": "#uhqyuf"
+      "parent": "#2yz4j8"
     },
     {
-      "@id": "#5if5dv",
+      "@id": "#igep64",
       "name": "← src/",
-      "x": -210,
-      "y": 116,
+      "x": -65,
+      "y": -205,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

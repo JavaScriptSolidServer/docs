@@ -21,16 +21,16 @@
     {
       "@id": "#26rfi6",
       "name": "--root <path>",
-      "x": 0,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#u28rkq",
       "name": "← jss token",
-      "x": 0,
-      "y": 213,
+      "x": -217,
+      "y": -106,
       "link": "./cli-token.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -20,64 +20,64 @@
     {
       "@id": "#dttxwc",
       "name": "--[no-]pay",
-      "x": -236,
-      "y": -71,
+      "x": 198,
+      "y": -129,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#p8ysyk",
       "name": "--pay-cost <n>",
-      "x": -131,
-      "y": -181,
+      "x": 248,
+      "y": 28,
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#9c2qhr",
       "name": "--pay-mempool-url <url>",
-      "x": 66,
-      "y": -205,
+      "x": 152,
+      "y": 167,
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
       "@id": "#h59t8f",
       "name": "--pay-address <addr>",
-      "x": 231,
-      "y": -82,
+      "x": -33,
+      "y": 212,
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
       "@id": "#rfby2g",
       "name": "--pay-token <ticker>",
-      "x": 224,
-      "y": 95,
+      "x": -198,
+      "y": 129,
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
       "@id": "#arxjt8",
       "name": "--pay-rate <n>",
-      "x": 83,
-      "y": 200,
+      "x": -248,
+      "y": -28,
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
       "@id": "#jtyjdw",
       "name": "--pay-chains <chains>",
-      "x": -108,
-      "y": 192,
+      "x": -152,
+      "y": -169,
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
       "@id": "#dtqx4z",
       "name": "← jss start",
-      "x": -236,
-      "y": 71,
+      "x": 33,
+      "y": -211,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

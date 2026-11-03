@@ -21,8 +21,8 @@
     {
       "@id": "#z9ubg8",
       "name": "The architectural question",
-      "x": -234,
-      "y": -76,
+      "x": 181,
+      "y": -147,
       "link": "https://jss.live/docs/guides/git-on-solid#the-architectural-question",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#5h5cc9",
       "name": "Pattern A",
-      "x": -155,
-      "y": -174,
+      "x": 245,
+      "y": -40,
       "link": "https://jss.live/docs/guides/git-on-solid#pattern-a-url-flattening",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#2682x9",
       "name": "Pattern B",
-      "x": -46,
-      "y": -210,
+      "x": 232,
+      "y": 79,
       "link": "https://jss.live/docs/guides/git-on-solid#pattern-b-protocol-gateway-jsss-approach",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#dgxw48",
       "name": "Why this matters",
-      "x": 89,
-      "y": -201,
+      "x": 145,
+      "y": 170,
       "link": "https://jss.live/docs/guides/git-on-solid#why-this-matters",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#3m2wcm",
       "name": "Security comparison",
-      "x": 216,
-      "y": -107,
+      "x": 12,
+      "y": 223,
       "link": "https://jss.live/docs/guides/git-on-solid#security-comparison",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#4ad697",
       "name": "Pattern A",
-      "x": 376,
-      "y": -281,
+      "x": 83,
+      "y": 419,
       "link": "https://jss.live/docs/guides/git-on-solid#pattern-a-what-is-exposed",
       "bgColor": "#f2ecd2",
       "parent": "#3m2wcm"
@@ -75,8 +75,8 @@
     {
       "@id": "#z237xc",
       "name": "Pattern B",
-      "x": 558,
-      "y": -163,
+      "x": -43,
+      "y": 500,
       "link": "https://jss.live/docs/guides/git-on-solid#pattern-b-what-is-mitigated",
       "bgColor": "#f2ecd2",
       "parent": "#3m2wcm"
@@ -84,8 +84,8 @@
     {
       "@id": "#ern3ds",
       "name": "JSS reference pattern",
-      "x": 243,
-      "y": 51,
+      "x": -125,
+      "y": 179,
       "link": "https://jss.live/docs/guides/git-on-solid#jss-reference-pattern",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#cixa8i",
       "name": "Browser viewer",
-      "x": 177,
-      "y": 150,
+      "x": -222,
+      "y": 97,
       "link": "https://jss.live/docs/guides/git-on-solid#browser-viewer",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#w8ga4c",
       "name": "Server-side dotfile policy",
-      "x": 78,
-      "y": 209,
+      "x": -249,
+      "y": -20,
       "link": "https://jss.live/docs/guides/git-on-solid#server-side-dotfile-policy",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -111,8 +111,8 @@
     {
       "@id": "#eud4cc",
       "name": "Further reading",
-      "x": -116,
-      "y": 195,
+      "x": -197,
+      "y": -131,
       "link": "https://jss.live/docs/guides/git-on-solid#further-reading",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#5mb355",
       "name": "Philosophy",
-      "x": -192,
-      "y": 136,
+      "x": -82,
+      "y": -201,
       "link": "https://jss.live/docs/guides/git-on-solid#philosophy",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -129,8 +129,8 @@
     {
       "@id": "#mikqv6",
       "name": "← Guides",
-      "x": -243,
-      "y": 49,
+      "x": 59,
+      "y": -207,
       "link": "./guides.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

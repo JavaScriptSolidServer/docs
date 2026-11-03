@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#8f9s7w",
+      "@id": "#x4i3m8",
       "name": "#10 Plugin idea: WebSub/PubSubHubbub hu…",
-      "x": 134,
-      "y": -179,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/10",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#xdptk7",
+      "@id": "#2dm2gz",
       "name": "← plugins issues",
-      "x": -134,
-      "y": 179,
+      "x": -217,
+      "y": -106,
       "link": "./issues-plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,16 +21,16 @@
     {
       "@id": "#ucttef",
       "name": "Jul 2026 · 4",
-      "x": -215,
-      "y": -108,
+      "x": 216,
+      "y": -107,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#vzipyd",
       "name": "#597 Plugin loader: dotted prefixes (/.f…",
-      "x": -490,
-      "y": -83,
+      "x": 328,
+      "y": -335,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/597",
       "bgColor": "#daeeff",
       "parent": "#ucttef"
@@ -38,8 +38,8 @@
     {
       "@id": "#miy6ts",
       "name": "#598 logger: false silently disables eve…",
-      "x": -539,
-      "y": -205,
+      "x": 475,
+      "y": -291,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/598",
       "bgColor": "#daeeff",
       "parent": "#ucttef"
@@ -47,8 +47,8 @@
     {
       "@id": "#ft3k8u",
       "name": "#599 Plugin loader: activate() failure w…",
-      "x": -400,
-      "y": -255,
+      "x": 457,
+      "y": -173,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/599",
       "bgColor": "#daeeff",
       "parent": "#ucttef"
@@ -56,8 +56,8 @@
     {
       "@id": "#it6792",
       "name": "#600 LDP write path: If-Match conditiona…",
-      "x": -382,
-      "y": -332,
+      "x": 578,
+      "y": -99,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/600",
       "bgColor": "#daeeff",
       "parent": "#ucttef"
@@ -65,16 +65,16 @@
     {
       "@id": "#dnz3gb",
       "name": "Jun 2026 · 7",
-      "x": 125,
-      "y": -241,
+      "x": 194,
+      "y": 205,
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
       "@id": "#3ifse5",
       "name": "#381 ssrf: validateExternalUrl fails ope…",
-      "x": -123,
-      "y": -378,
+      "x": 485,
+      "y": 104,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/381",
       "bgColor": "#f7e4f9",
       "parent": "#dnz3gb"
@@ -82,8 +82,8 @@
     {
       "@id": "#ju3xzh",
       "name": "#523 OIDC IdP 500s on Node <20: @koa/rou…",
-      "x": -15,
-      "y": -511,
+      "x": 527,
+      "y": 223,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/523",
       "bgColor": "#f7e4f9",
       "parent": "#dnz3gb"
@@ -91,8 +91,8 @@
     {
       "@id": "#p46jmx",
       "name": "#526 IdP errors with SessionNotFound on…",
-      "x": 97,
-      "y": -423,
+      "x": 389,
+      "y": 268,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/526",
       "bgColor": "#f7e4f9",
       "parent": "#dnz3gb"
@@ -100,8 +100,8 @@
     {
       "@id": "#bu7kuh",
       "name": "#70 WebID-TLS: Fix Accept header and JS…",
-      "x": 238,
-      "y": -467,
+      "x": 369,
+      "y": 414,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/70",
       "bgColor": "#f7e4f9",
       "parent": "#dnz3gb"
@@ -109,8 +109,8 @@
     {
       "@id": "#2iffkx",
       "name": "#327 Conneg .acl rendered without content",
-      "x": 297,
-      "y": -362,
+      "x": 222,
+      "y": 368,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/327",
       "bgColor": "#f7e4f9",
       "parent": "#dnz3gb"
@@ -118,8 +118,8 @@
     {
       "@id": "#ssgz3q",
       "name": "#389 rdf/turtle: JSON-LD @context array…",
-      "x": 446,
-      "y": -318,
+      "x": 143,
+      "y": 487,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/389",
       "bgColor": "#f7e4f9",
       "parent": "#dnz3gb"
@@ -127,8 +127,8 @@
     {
       "@id": "#gksydt",
       "name": "#390 rdf/turtle: emit @type:'@json' lite…",
-      "x": 440,
-      "y": -201,
+      "x": 14,
+      "y": 425,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/390",
       "bgColor": "#f7e4f9",
       "parent": "#dnz3gb"
@@ -136,16 +136,16 @@
     {
       "@id": "#8su7v6",
       "name": "May 2026 · 1–6 of 12",
-      "x": 212,
-      "y": 112,
+      "x": -210,
+      "y": 115,
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
       "@id": "#2da7xj",
       "name": "#521 TOKEN_SECRET default path uses os.h…",
-      "x": 500,
-      "y": 2,
+      "x": -221,
+      "y": 358,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/521",
       "bgColor": "#ffe3dc",
       "parent": "#8su7v6"
@@ -153,8 +153,8 @@
     {
       "@id": "#9e878e",
       "name": "#317 Container-via-index.html: If-None-M…",
-      "x": 575,
-      "y": 113,
+      "x": -369,
+      "y": 404,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/317",
       "bgColor": "#ffe3dc",
       "parent": "#8su7v6"
@@ -162,8 +162,8 @@
     {
       "@id": "#cp2str",
       "name": "#318 Container listing ETag stale: direc…",
-      "x": 450,
-      "y": 185,
+      "x": -390,
+      "y": 266,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/318",
       "bgColor": "#ffe3dc",
       "parent": "#8su7v6"
@@ -171,8 +171,8 @@
     {
       "@id": "#swzzzt",
       "name": "#359 Container ETags computed from unfil…",
-      "x": 461,
-      "y": 297,
+      "x": -529,
+      "y": 221,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/359",
       "bgColor": "#ffe3dc",
       "parent": "#8su7v6"
@@ -180,8 +180,8 @@
     {
       "@id": "#pj9sd5",
       "name": "#16 Profile documents stored as HTML ca…",
-      "x": 313,
-      "y": 341,
+      "x": -486,
+      "y": 102,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/16",
       "bgColor": "#ffe3dc",
       "parent": "#8su7v6"
@@ -189,8 +189,8 @@
     {
       "@id": "#9incsq",
       "name": "#33 Login 'Allow Access' button doesn't…",
-      "x": 261,
-      "y": 464,
+      "x": -590,
+      "y": 14,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/33",
       "bgColor": "#ffe3dc",
       "parent": "#8su7v6"
@@ -198,16 +198,16 @@
     {
       "@id": "#gwp9qx",
       "name": "May 2026 · 7–12 of 12",
-      "x": -136,
-      "y": 179,
+      "x": -143,
+      "y": -177,
       "bgColor": "#d7d59b",
       "parent": "#this"
     },
     {
       "@id": "#7csjb6",
       "name": "#105 Security: Update @fastify/middie to…",
-      "x": -9,
-      "y": 420,
+      "x": -453,
+      "y": -180,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/105",
       "bgColor": "#eeedd3",
       "parent": "#gwp9qx"
@@ -215,8 +215,8 @@
     {
       "@id": "#cyfvb8",
       "name": "#311 calculateDirSize: quota temp-file p…",
-      "x": -141,
-      "y": 487,
+      "x": -468,
+      "y": -290,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/311",
       "bgColor": "#eeedd3",
       "parent": "#gwp9qx"
@@ -224,8 +224,8 @@
     {
       "@id": "#ngjuhg",
       "name": "#334 PATCH Append fails with 403 on inse…",
-      "x": -224,
-      "y": 355,
+      "x": -321,
+      "y": -334,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/334",
       "bgColor": "#eeedd3",
       "parent": "#gwp9qx"
@@ -233,8 +233,8 @@
     {
       "@id": "#ad25k5",
       "name": "#336 mashlib 2.2.0 is not rendered corre…",
-      "x": -374,
-      "y": 401,
+      "x": -272,
+      "y": -452,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/336",
       "bgColor": "#eeedd3",
       "parent": "#gwp9qx"
@@ -242,8 +242,8 @@
     {
       "@id": "#6zhwac",
       "name": "#356 Rate-limit keyGenerator uses reques…",
-      "x": -395,
-      "y": 261,
+      "x": -129,
+      "y": -408,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/356",
       "bgColor": "#eeedd3",
       "parent": "#gwp9qx"
@@ -251,8 +251,8 @@
     {
       "@id": "#sigj2h",
       "name": "#380 cors-proxy: enforce timeout during…",
-      "x": -534,
-      "y": 213,
+      "x": -26,
+      "y": -501,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/380",
       "bgColor": "#eeedd3",
       "parent": "#gwp9qx"
@@ -260,8 +260,8 @@
     {
       "@id": "#2gvkzt",
       "name": "← JavaScriptSolidServer issues",
-      "x": -329,
-      "y": 22,
+      "x": 90,
+      "y": -199,
       "link": "./issues-JavaScriptSolidServer.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

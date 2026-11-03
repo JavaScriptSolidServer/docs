@@ -20,16 +20,16 @@
     {
       "@id": "#437yyk",
       "name": "Apr 2026 · 4",
-      "x": -176,
-      "y": -151,
+      "x": 239,
+      "y": -64,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#j3k2bu",
       "name": "#338 Track healthcare and IRB-controlled…",
-      "x": -478,
-      "y": -123,
+      "x": 360,
+      "y": -295,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/338",
       "bgColor": "#daeeff",
       "parent": "#437yyk"
@@ -37,8 +37,8 @@
     {
       "@id": "#uhqx6j",
       "name": "#332 Treat directories like Apache/nginx…",
-      "x": -476,
-      "y": -296,
+      "x": 532,
+      "y": -216,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/332",
       "bgColor": "#daeeff",
       "parent": "#437yyk"
@@ -46,8 +46,8 @@
     {
       "@id": "#aurbbn",
       "name": "#328 --conneg what is ACL/META contentTy…",
-      "x": -284,
-      "y": -350,
+      "x": 496,
+      "y": -53,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/328",
       "bgColor": "#daeeff",
       "parent": "#437yyk"
@@ -55,8 +55,8 @@
     {
       "@id": "#fxz322",
       "name": "#276 Default index.html for server root",
-      "x": -160,
-      "y": -483,
+      "x": 580,
+      "y": 94,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/276",
       "bgColor": "#daeeff",
       "parent": "#437yyk"
@@ -64,16 +64,16 @@
     {
       "@id": "#s77s87",
       "name": "Mar 2026 · 2",
-      "x": 100,
-      "y": -195,
+      "x": 166,
+      "y": 159,
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
     {
       "@id": "#k73rni",
       "name": "#230 Auto-provision pod with profile ind…",
-      "x": 121,
-      "y": -387,
+      "x": 388,
+      "y": 268,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/230",
       "bgColor": "#f2e5fd",
       "parent": "#s77s87"
@@ -81,8 +81,8 @@
     {
       "@id": "#r8zm2z",
       "name": "#217 refactor: reduce codebase size — la…",
-      "x": 324,
-      "y": -433,
+      "x": 317,
+      "y": 451,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/217",
       "bgColor": "#f2e5fd",
       "parent": "#s77s87"
@@ -90,16 +90,16 @@
     {
       "@id": "#wzv4c3",
       "name": "Feb 2026 · 2",
-      "x": 224,
-      "y": -94,
+      "x": 15,
+      "y": 212,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#7fnz2s",
       "name": "#132 Federation interop: profile card sh…",
-      "x": 428,
-      "y": -219,
+      "x": 71,
+      "y": 406,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/132",
       "bgColor": "#ffe2e6",
       "parent": "#wzv4c3"
@@ -107,8 +107,8 @@
     {
       "@id": "#p89exh",
       "name": "#124 use fatsify@5",
-      "x": 565,
-      "y": -143,
+      "x": -58,
+      "y": 499,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/124",
       "bgColor": "#ffe2e6",
       "parent": "#wzv4c3"
@@ -116,16 +116,16 @@
     {
       "@id": "#urtpxv",
       "name": "Jan 2026 · 6",
-      "x": 135,
-      "y": 179,
+      "x": -243,
+      "y": 64,
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
       "@id": "#4dg5c4",
       "name": "#100 Roadmap: Production Readiness for v…",
-      "x": 490,
-      "y": 83,
+      "x": -267,
+      "y": 362,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/100",
       "bgColor": "#fbe8d3",
       "parent": "#urtpxv"
@@ -133,8 +133,8 @@
     {
       "@id": "#kwm3he",
       "name": "#83 Evaluate FedCM patterns for potenti…",
-      "x": 509,
-      "y": 253,
+      "x": -455,
+      "y": 318,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/83",
       "bgColor": "#fbe8d3",
       "parent": "#urtpxv"
@@ -142,8 +142,8 @@
     {
       "@id": "#qvd9cw",
       "name": "#84 Evaluate Digital Credentials API fo…",
-      "x": 327,
-      "y": 321,
+      "x": -465,
+      "y": 156,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/84",
       "bgColor": "#fbe8d3",
       "parent": "#urtpxv"
@@ -151,8 +151,8 @@
     {
       "@id": "#sf37xb",
       "name": "#85 Evaluate SD-JWT for selective discl…",
-      "x": 221,
-      "y": 467,
+      "x": -589,
+      "y": 32,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/85",
       "bgColor": "#fbe8d3",
       "parent": "#urtpxv"
@@ -160,8 +160,8 @@
     {
       "@id": "#fuhjpf",
       "name": "#46 Vision: Solid Pod on Every Phone",
-      "x": 35,
-      "y": 423,
+      "x": -486,
+      "y": -100,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/46",
       "bgColor": "#fbe8d3",
       "parent": "#urtpxv"
@@ -169,8 +169,8 @@
     {
       "@id": "#dry8wx",
       "name": "#32 Security: Default WAC mode changed…",
-      "x": -141,
-      "y": 487,
+      "x": -508,
+      "y": -255,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/32",
       "bgColor": "#fbe8d3",
       "parent": "#urtpxv"
@@ -178,16 +178,16 @@
     {
       "@id": "#rmckuv",
       "name": "Dec 2025 · 2",
-      "x": -207,
-      "y": 120,
+      "x": -87,
+      "y": -200,
       "bgColor": "#c1dba8",
       "parent": "#this"
     },
     {
       "@id": "#6cicry",
       "name": "#12 Return mashlib HTML for 401/403 res…",
-      "x": -363,
-      "y": 292,
+      "x": -236,
+      "y": -374,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/12",
       "bgColor": "#e3f0d8",
       "parent": "#rmckuv"
@@ -195,8 +195,8 @@
     {
       "@id": "#7c28q6",
       "name": "#20 Research: Cookie usage and session…",
-      "x": -536,
-      "y": 210,
+      "x": -107,
+      "y": -493,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/issues/20",
       "bgColor": "#e3f0d8",
       "parent": "#rmckuv"
@@ -204,8 +204,8 @@
     {
       "@id": "#4qbh3e",
       "name": "← unlabelled issues",
-      "x": -249,
-      "y": 66,
+      "x": 71,
+      "y": -204,
       "link": "./issues-JavaScriptSolidServer-unlabelled.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

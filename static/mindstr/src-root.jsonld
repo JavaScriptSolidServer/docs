@@ -1,0 +1,178 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "src/",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/tree/fix/post-any-content-type/src",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#7vxdhv",
+      "name": "around server.js · 5",
+      "x": 248,
+      "y": 30,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3kphhf",
+      "name": "server.js · 2 ›",
+      "x": 394,
+      "y": -262,
+      "link": "./src-server-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#7vxdhv"
+    },
+    {
+      "@id": "#cxccaf",
+      "name": "index.js",
+      "x": 568,
+      "y": -136,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/index.js",
+      "bgColor": "#daeeff",
+      "parent": "#7vxdhv"
+    },
+    {
+      "@id": "#nwjmka",
+      "name": "config.js · 6 ›",
+      "x": 497,
+      "y": 48,
+      "link": "./src-config-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#7vxdhv"
+    },
+    {
+      "@id": "#i383qk",
+      "name": "remotestorage.js · 2 ›",
+      "x": 510,
+      "y": 253,
+      "link": "./src-remotestorage-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#7vxdhv"
+    },
+    {
+      "@id": "#rq99fb",
+      "name": "plugins.js · 9 ›",
+      "x": 294,
+      "y": 344,
+      "link": "./src-plugins-js.jsonld",
+      "bgColor": "#daeeff",
+      "parent": "#7vxdhv"
+    },
+    {
+      "@id": "#5t4u6w",
+      "name": "around mrc20.js · 2",
+      "x": -99,
+      "y": 195,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i94kqv",
+      "name": "mrc20.js · 9 ›",
+      "x": -67,
+      "y": 421,
+      "link": "./src-mrc20-js.jsonld",
+      "bgColor": "#fce3f3",
+      "parent": "#5t4u6w"
+    },
+    {
+      "@id": "#iqbs7a",
+      "name": "token.js · 10 ›",
+      "x": -372,
+      "y": 390,
+      "link": "./src-token-js.jsonld",
+      "bgColor": "#fce3f3",
+      "parent": "#5t4u6w"
+    },
+    {
+      "@id": "#ibtdgn",
+      "name": "other · 1",
+      "x": -248,
+      "y": -30,
+      "bgColor": "#f1c99c",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pe4tpj",
+      "name": "webledger.js · 10 ›",
+      "x": -495,
+      "y": -59,
+      "link": "./src-webledger-js.jsonld",
+      "bgColor": "#fbe8d3",
+      "parent": "#ibtdgn"
+    },
+    {
+      "@id": "#chzsp9",
+      "name": "← src/",
+      "x": -32,
+      "y": -211,
+      "link": "./src.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

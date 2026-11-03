@@ -20,9 +20,9 @@
     },
     {
       "@id": "#ft3k8u",
-      "name": "jss account delete",
-      "x": 30,
-      "y": -211,
+      "name": "jss account delete ›",
+      "x": 217,
+      "y": 106,
       "link": "./cli-account-delete.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#it6792",
       "name": "← jss CLI",
-      "x": -30,
-      "y": 211,
+      "x": -217,
+      "y": -106,
       "link": "./cli.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

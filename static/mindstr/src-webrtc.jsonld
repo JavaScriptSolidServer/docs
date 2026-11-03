@@ -19,37 +19,37 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#u48jbf",
+      "@id": "#cyduqq",
       "name": "index.js",
-      "x": 125,
-      "y": -184,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webrtc/index.js",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#tq7qua",
+      "@id": "#c4smut",
       "name": "webrtcPlugin()",
-      "x": -174,
-      "y": -398,
+      "x": 495,
+      "y": -58,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webrtc/index.js#L59",
       "bgColor": "#daeeff",
-      "parent": "#u48jbf"
+      "parent": "#cyduqq"
     },
     {
-      "@id": "#vws4ar",
+      "@id": "#2h67yt",
       "name": "default export",
-      "x": 582,
-      "y": -84,
+      "x": 223,
+      "y": 464,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/webrtc/index.js#L430",
       "bgColor": "#daeeff",
-      "parent": "#u48jbf"
+      "parent": "#cyduqq"
     },
     {
-      "@id": "#e4dfcy",
+      "@id": "#xahf87",
       "name": "← src/",
-      "x": -125,
-      "y": 184,
+      "x": -217,
+      "y": -106,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

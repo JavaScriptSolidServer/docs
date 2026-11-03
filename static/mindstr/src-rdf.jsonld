@@ -19,28 +19,28 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#mmmrka",
-      "name": "conneg.js · 8",
-      "x": -125,
-      "y": -184,
+      "@id": "#vb2ctp",
+      "name": "conneg.js · 8 ›",
+      "x": 250,
+      "y": 0,
       "link": "./src-rdf-conneg-js.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#u2r43v",
-      "name": "turtle.js · 5",
-      "x": 250,
-      "y": 0,
+      "@id": "#gfdcab",
+      "name": "turtle.js · 5 ›",
+      "x": -125,
+      "y": 184,
       "link": "./src-rdf-turtle-js.jsonld",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#pnzi2z",
+      "@id": "#u3dr42",
       "name": "← src/",
       "x": -125,
-      "y": 184,
+      "y": -184,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,8 +21,8 @@
     {
       "@id": "#7s8ycb",
       "name": "Prerequisites",
-      "x": -235,
-      "y": -73,
+      "x": 198,
+      "y": -129,
       "link": "https://jss.live/docs/guides/git-push-nostr#prerequisites",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#7jybab",
       "name": "Install credential helper",
-      "x": -81,
-      "y": -201,
+      "x": 250,
+      "y": 28,
       "link": "https://jss.live/docs/guides/git-push-nostr#install-credential-helper",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#7rqytw",
       "name": "Generate keypair",
-      "x": 138,
-      "y": -177,
+      "x": 152,
+      "y": 169,
       "link": "https://jss.live/docs/guides/git-push-nostr#generate-keypair",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#hir8hx",
       "name": "Configure git",
-      "x": 242,
-      "y": -54,
+      "x": -33,
+      "y": 211,
       "link": "https://jss.live/docs/guides/git-push-nostr#configure-git",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#ykkb9u",
       "name": "Create repository ACL",
-      "x": 212,
-      "y": 113,
+      "x": -198,
+      "y": 129,
       "link": "https://jss.live/docs/guides/git-push-nostr#create-repository-acl",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#7ikicx",
       "name": "Push",
-      "x": 48,
-      "y": 209,
+      "x": -248,
+      "y": -28,
       "link": "https://jss.live/docs/guides/git-push-nostr#push",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#ice2bk",
       "name": "How it works",
-      "x": -122,
-      "y": 185,
+      "x": -152,
+      "y": -169,
       "link": "https://jss.live/docs/guides/git-push-nostr#how-it-works",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#scytyn",
       "name": "← Guides",
-      "x": -235,
-      "y": 73,
+      "x": 33,
+      "y": -211,
       "link": "./guides.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

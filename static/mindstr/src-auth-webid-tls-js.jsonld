@@ -19,72 +19,72 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#nxqgmq",
+      "@id": "#krwt6e",
       "name": "exports",
-      "x": 172,
-      "y": -154,
+      "x": 221,
+      "y": 100,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#dguykc",
+      "@id": "#emecna",
       "name": "extractWebIdFromSAN()",
-      "x": -341,
-      "y": -311,
+      "x": 431,
+      "y": -215,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js#L44",
       "bgColor": "#daeeff",
-      "parent": "#nxqgmq"
-    },
-    {
-      "@id": "#28eue2",
-      "name": "verifyWebIdTls()",
-      "x": 37,
-      "y": -501,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js#L180",
-      "bgColor": "#daeeff",
-      "parent": "#nxqgmq"
-    },
-    {
-      "@id": "#f4n9qu",
-      "name": "webIdTlsAuth()",
-      "x": 347,
-      "y": -306,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js#L221",
-      "bgColor": "#daeeff",
-      "parent": "#nxqgmq"
-    },
-    {
-      "@id": "#krwt6e",
-      "name": "hasClientCertificate()",
-      "x": 590,
-      "y": 0,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js#L257",
-      "bgColor": "#daeeff",
-      "parent": "#nxqgmq"
-    },
-    {
-      "@id": "#emecna",
-      "name": "clearCache()",
-      "x": 346,
-      "y": 307,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js#L268",
-      "bgColor": "#daeeff",
-      "parent": "#nxqgmq"
+      "parent": "#krwt6e"
     },
     {
       "@id": "#u8v9bw",
+      "name": "verifyWebIdTls()",
+      "x": 590,
+      "y": -7,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js#L180",
+      "bgColor": "#daeeff",
+      "parent": "#krwt6e"
+    },
+    {
+      "@id": "#j6zbf9",
+      "name": "webIdTlsAuth()",
+      "x": 444,
+      "y": 196,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js#L221",
+      "bgColor": "#daeeff",
+      "parent": "#krwt6e"
+    },
+    {
+      "@id": "#2z3p7w",
+      "name": "hasClientCertificate()",
+      "x": 315,
+      "y": 424,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js#L257",
+      "bgColor": "#daeeff",
+      "parent": "#krwt6e"
+    },
+    {
+      "@id": "#pvzwd8",
+      "name": "clearCache()",
+      "x": 18,
+      "y": 425,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js#L268",
+      "bgColor": "#daeeff",
+      "parent": "#krwt6e"
+    },
+    {
+      "@id": "#57iy7q",
       "name": "271 lines",
-      "x": -87,
-      "y": 199,
+      "x": -238,
+      "y": 65,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/webid-tls.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#j6zbf9",
+      "@id": "#qprvms",
       "name": "← auth",
-      "x": -230,
-      "y": 84,
+      "x": -69,
+      "y": -204,
       "link": "./src-auth.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

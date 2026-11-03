@@ -19,54 +19,54 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#aurbbn",
+      "@id": "#r8zm2z",
       "name": "exports",
-      "x": 106,
-      "y": -192,
+      "x": 248,
+      "y": 26,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#fxz322",
+      "@id": "#wzv4c3",
       "name": "hasLwsCidAuth()",
-      "x": -347,
-      "y": -306,
+      "x": 427,
+      "y": -221,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/lws-cid.js#L85",
       "bgColor": "#daeeff",
-      "parent": "#aurbbn"
+      "parent": "#r8zm2z"
     },
     {
-      "@id": "#s77s87",
+      "@id": "#7fnz2s",
       "name": "verifyLwsCidAuth()",
-      "x": 159,
-      "y": -483,
+      "x": 588,
+      "y": 39,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/lws-cid.js#L110",
       "bgColor": "#daeeff",
-      "parent": "#aurbbn"
+      "parent": "#r8zm2z"
     },
     {
-      "@id": "#k73rni",
+      "@id": "#p89exh",
       "name": "normalizeControllers()",
-      "x": 498,
-      "y": -40,
+      "x": 367,
+      "y": 288,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/lws-cid.js#L453",
       "bgColor": "#daeeff",
-      "parent": "#aurbbn"
+      "parent": "#r8zm2z"
     },
     {
-      "@id": "#r8zm2z",
+      "@id": "#urtpxv",
       "name": "517 lines",
-      "x": 32,
-      "y": 211,
+      "x": -162,
+      "y": 162,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/lws-cid.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#wzv4c3",
+      "@id": "#4dg5c4",
       "name": "← auth",
-      "x": -211,
-      "y": 114,
+      "x": -112,
+      "y": -190,
       "link": "./src-auth.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

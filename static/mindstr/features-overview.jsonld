@@ -21,8 +21,8 @@
     {
       "@id": "#m3xps2",
       "name": "Quick Start",
-      "x": -243,
-      "y": -49,
+      "x": 177,
+      "y": -150,
       "link": "https://jss.live/docs/features/overview#quick-start",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#yxjf84",
       "name": "Core Solid Protocol",
-      "x": -184,
-      "y": -144,
+      "x": 241,
+      "y": -55,
       "link": "https://jss.live/docs/features/overview#core-solid-protocol",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#mrv4db",
       "name": "Authentication & Identity",
-      "x": -78,
-      "y": -209,
+      "x": 241,
+      "y": 55,
       "link": "https://jss.live/docs/features/overview#authentication-identity",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#i6483q",
       "name": "Developer Tools",
-      "x": 112,
-      "y": -196,
+      "x": 177,
+      "y": 150,
       "link": "https://jss.live/docs/features/overview#developer-tools",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#kmcrgd",
       "name": "Federation & Social",
-      "x": 198,
-      "y": -130,
+      "x": 73,
+      "y": 205,
       "link": "https://jss.live/docs/features/overview#federation-social",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#ktiw89",
       "name": "Security",
-      "x": 247,
-      "y": -30,
+      "x": -70,
+      "y": 205,
       "link": "https://jss.live/docs/features/overview#security",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#c74y5q",
       "name": "Payments & Tokens",
-      "x": 235,
-      "y": 72,
+      "x": -177,
+      "y": 150,
       "link": "https://jss.live/docs/features/overview#payments-tokens",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#374kep",
       "name": "Integrations",
-      "x": 167,
-      "y": 158,
+      "x": -241,
+      "y": 55,
       "link": "https://jss.live/docs/features/overview#integrations",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#ba2cgp",
       "name": "HTTP Methods",
-      "x": 78,
-      "y": 205,
+      "x": -241,
+      "y": -55,
       "link": "https://jss.live/docs/features/overview#http-methods",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#h7ym9k",
       "name": "CLI Commands",
-      "x": -54,
-      "y": 208,
+      "x": -177,
+      "y": -150,
       "link": "https://jss.live/docs/features/overview#cli-commands",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -111,8 +111,8 @@
     {
       "@id": "#ius84b",
       "name": "What's New Since v0.0.42",
-      "x": -174,
-      "y": 153,
+      "x": -90,
+      "y": -205,
       "link": "https://jss.live/docs/features/overview#whats-new-since-v0042",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#583aqh",
       "name": "← Features",
-      "x": -243,
-      "y": 49,
+      "x": 79,
+      "y": -205,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

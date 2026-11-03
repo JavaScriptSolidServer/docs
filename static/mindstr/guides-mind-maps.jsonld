@@ -21,8 +21,8 @@
     {
       "@id": "#xzgaz8",
       "name": "Where the maps live",
-      "x": -161,
-      "y": -163,
+      "x": 241,
+      "y": -55,
       "link": "https://jss.live/docs/guides/mind-maps#where-the-maps-live",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#brfb5w",
       "name": "What is in the set",
-      "x": 212,
-      "y": -113,
+      "x": 65,
+      "y": 205,
       "link": "https://jss.live/docs/guides/mind-maps#what-is-in-the-set",
       "bgColor": "#f3bee1",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#45xtcc",
       "name": "For agents",
-      "x": 137,
-      "y": 178,
+      "x": -241,
+      "y": 55,
       "link": "https://jss.live/docs/guides/mind-maps#for-agents",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#ybwvcb",
       "name": "← Guides",
-      "x": -188,
-      "y": 140,
+      "x": -65,
+      "y": -205,
       "link": "./guides.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

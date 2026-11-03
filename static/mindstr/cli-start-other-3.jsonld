@@ -20,64 +20,64 @@
     {
       "@id": "#7fnz2s",
       "name": "--live-reload",
-      "x": -234,
-      "y": -74,
+      "x": 198,
+      "y": -129,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#p89exh",
       "name": "--[no-]mcp",
-      "x": -119,
-      "y": -187,
+      "x": 248,
+      "y": 28,
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#urtpxv",
       "name": "--quiet",
-      "x": 54,
-      "y": -207,
+      "x": 152,
+      "y": 169,
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
       "@id": "#4dg5c4",
       "name": "--plugin <module[@prefix]>",
-      "x": 227,
-      "y": -90,
+      "x": -33,
+      "y": 211,
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
       "@id": "#kwm3he",
       "name": "--log-level <level>",
-      "x": 212,
-      "y": 113,
+      "x": -198,
+      "y": 129,
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
       "@id": "#qvd9cw",
       "name": "--print-config",
-      "x": 54,
-      "y": 207,
+      "x": -248,
+      "y": -28,
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
       "@id": "#sf37xb",
       "name": "--help",
-      "x": -119,
-      "y": 187,
+      "x": -152,
+      "y": -169,
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
       "@id": "#fuhjpf",
       "name": "← jss start",
-      "x": -234,
-      "y": 74,
+      "x": 33,
+      "y": -211,
       "link": "./cli-start.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

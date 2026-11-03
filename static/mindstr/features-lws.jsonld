@@ -21,8 +21,8 @@
     {
       "@id": "#t922yq",
       "name": "Compatibility, by level",
-      "x": -222,
-      "y": -97,
+      "x": 198,
+      "y": -129,
       "link": "https://jss.live/docs/features/lws#compatibility-by-level",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#26rfi6",
       "name": "What you can do today",
-      "x": -45,
-      "y": -209,
+      "x": 280,
+      "y": 28,
       "link": "https://jss.live/docs/features/lws#what-you-can-do-today",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#u28rkq",
       "name": "Profile shape",
-      "x": 140,
-      "y": -176,
+      "x": 152,
+      "y": 169,
       "link": "https://jss.live/docs/features/lws#profile-shape-phase-a-whats-emitted-at-pod-creation-jss-00174",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#varvfj",
       "name": "Adding keys",
-      "x": 238,
-      "y": -64,
+      "x": -33,
+      "y": 211,
       "link": "https://jss.live/docs/features/lws#adding-keys-phase-b-via-the-doctor",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#ucttef",
       "name": "Server-side verifier",
-      "x": 225,
-      "y": 93,
+      "x": -198,
+      "y": 129,
       "link": "https://jss.live/docs/features/lws#server-side-verifier-phase-3-srcauthlws-cidjs",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#vzipyd",
       "name": "NIP-98 → WebID upgrade",
-      "x": 59,
-      "y": 207,
+      "x": -284,
+      "y": -28,
       "link": "https://jss.live/docs/features/lws#nip-98-webid-upgrade-srcauthnostrjs",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#miy6ts",
       "name": "Spec references",
-      "x": -133,
-      "y": 180,
+      "x": -152,
+      "y": -169,
       "link": "https://jss.live/docs/features/lws#spec-references",
       "bgColor": "#95e1e3",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#ft3k8u",
       "name": "← Features",
-      "x": -236,
-      "y": 70,
+      "x": 33,
+      "y": -211,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

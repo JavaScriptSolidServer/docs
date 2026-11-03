@@ -19,55 +19,55 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#u9rrt3",
+      "@id": "#6yp854",
       "name": "What it does",
-      "x": -235,
-      "y": -72,
+      "x": 216,
+      "y": -108,
       "link": "https://github.com/JavaScriptSolidServer/doctor#what-it-does",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#kgvapt",
+      "@id": "#g8htk4",
       "name": "Stack",
-      "x": -126,
-      "y": -183,
+      "x": 219,
+      "y": 102,
       "link": "https://github.com/JavaScriptSolidServer/doctor#stack",
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
     {
-      "@id": "#6yp854",
+      "@id": "#iq664j",
       "name": "Refs",
-      "x": 41,
-      "y": -210,
+      "x": 10,
+      "y": 212,
       "link": "https://github.com/JavaScriptSolidServer/doctor#refs",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#g8htk4",
+      "@id": "#gz4cvb",
       "name": "Connect your Nostr key to your Solid pod. Live: https://jss.",
-      "x": 315,
-      "y": 16,
+      "x": -216,
+      "y": 108,
       "link": "https://github.com/JavaScriptSolidServer/doctor",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#iq664j",
+      "@id": "#itdh4e",
       "name": "last commit 2026-10-22",
-      "x": -28,
-      "y": 211,
+      "x": -214,
+      "y": -110,
       "link": "https://github.com/JavaScriptSolidServer/doctor/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#gz4cvb",
+      "@id": "#wymkpw",
       "name": "← JavaScriptSolidServer",
-      "x": -220,
-      "y": 100,
+      "x": 2,
+      "y": -212,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -19,100 +19,100 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#nm5hts",
+      "@id": "#ek2jcm",
       "name": "List of JIPs",
-      "x": -244,
-      "y": -48,
+      "x": 201,
+      "y": -127,
       "link": "https://github.com/JavaScriptSolidServer/jips#list-of-jips",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#mesfa4",
+      "@id": "#uja84e",
       "name": "Process",
-      "x": -6,
-      "y": -212,
+      "x": 228,
+      "y": 88,
       "link": "https://github.com/JavaScriptSolidServer/jips#process",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
-      "@id": "#ek2jcm",
+      "@id": "#78sngm",
       "name": "Proposing a JIP",
-      "x": -341,
-      "y": -311,
+      "x": 500,
+      "y": 0,
       "link": "https://github.com/JavaScriptSolidServer/jips#proposing-a-jip",
       "bgColor": "#efe6ff",
-      "parent": "#mesfa4"
-    },
-    {
-      "@id": "#uja84e",
-      "name": "Statuses",
-      "x": -212,
-      "y": -468,
-      "link": "https://github.com/JavaScriptSolidServer/jips#statuses",
-      "bgColor": "#efe6ff",
-      "parent": "#mesfa4"
-    },
-    {
-      "@id": "#78sngm",
-      "name": "What belongs in a JIP?",
-      "x": 41,
-      "y": -424,
-      "link": "https://github.com/JavaScriptSolidServer/jips#what-belongs-in-a-jip",
-      "bgColor": "#efe6ff",
-      "parent": "#mesfa4"
+      "parent": "#uja84e"
     },
     {
       "@id": "#58pkgm",
-      "name": "What doesn't need a JIP?",
-      "x": 343,
-      "y": -408,
-      "link": "https://github.com/JavaScriptSolidServer/jips#what-doesnt-need-a-jip",
+      "name": "Statuses",
+      "x": 571,
+      "y": 126,
+      "link": "https://github.com/JavaScriptSolidServer/jips#statuses",
       "bgColor": "#efe6ff",
-      "parent": "#mesfa4"
+      "parent": "#uja84e"
     },
     {
       "@id": "#7jxpjz",
+      "name": "What belongs in a JIP?",
+      "x": 432,
+      "y": 213,
+      "link": "https://github.com/JavaScriptSolidServer/jips#what-belongs-in-a-jip",
+      "bgColor": "#efe6ff",
+      "parent": "#uja84e"
+    },
+    {
+      "@id": "#qrspvr",
+      "name": "What doesn't need a JIP?",
+      "x": 400,
+      "y": 369,
+      "link": "https://github.com/JavaScriptSolidServer/jips#what-doesnt-need-a-jip",
+      "bgColor": "#efe6ff",
+      "parent": "#uja84e"
+    },
+    {
+      "@id": "#wfbk2v",
       "name": "Philosophy",
-      "x": 241,
-      "y": -57,
+      "x": 19,
+      "y": 212,
       "link": "https://github.com/JavaScriptSolidServer/jips#philosophy",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
-      "@id": "#qrspvr",
+      "@id": "#xetwaa",
       "name": "History",
-      "x": 246,
-      "y": 38,
+      "x": -168,
+      "y": 157,
       "link": "https://github.com/JavaScriptSolidServer/jips#history",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
-      "@id": "#wfbk2v",
+      "@id": "#wtpnjp",
       "name": "JIPs are proposals for improving the JavaScript Solid Server",
-      "x": 103,
-      "y": 209,
+      "x": -305,
+      "y": -4,
       "link": "https://github.com/JavaScriptSolidServer/jips",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#xetwaa",
+      "@id": "#7cw6cg",
       "name": "last commit 2025-12-27",
-      "x": -146,
-      "y": 165,
+      "x": -161,
+      "y": -163,
       "link": "https://github.com/JavaScriptSolidServer/jips/commits",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#wtpnjp",
+      "@id": "#a54nev",
       "name": "← JavaScriptSolidServer",
-      "x": -237,
-      "y": 67,
+      "x": 29,
+      "y": -211,
       "link": "./org.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

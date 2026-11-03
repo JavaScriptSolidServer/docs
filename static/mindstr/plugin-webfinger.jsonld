@@ -21,8 +21,8 @@
     {
       "@id": "#x5dcei",
       "name": "The JRD it returns",
-      "x": -224,
-      "y": -95,
+      "x": 217,
+      "y": -106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/README.md#the-jrd-it-returns",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#uchvmk",
       "name": "Fediverse & Solid integration",
-      "x": 10,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/README.md#fediverse-solid-integration",
       "bgColor": "#e0c4f6",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#72kqt7",
       "name": "Findings",
-      "x": 225,
-      "y": -93,
+      "x": 0,
+      "y": 213,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/README.md#findings",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#vbasu4",
       "name": "plugin.js",
-      "x": 183,
-      "y": 145,
+      "x": -217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/plugin.js",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#8gars2",
       "name": "parseResource()",
-      "x": 458,
-      "y": 171,
+      "x": -368,
+      "y": 288,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/plugin.js#L75",
       "bgColor": "#fbe8d3",
       "parent": "#vbasu4"
@@ -66,8 +66,8 @@
     {
       "@id": "#ttudn3",
       "name": "activate()",
-      "x": 274,
-      "y": 444,
+      "x": -563,
+      "y": 150,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/plugin.js#L96",
       "bgColor": "#fbe8d3",
       "parent": "#vbasu4"
@@ -75,8 +75,8 @@
     {
       "@id": "#nm9jmm",
       "name": "test.js",
-      "x": -92,
-      "y": 198,
+      "x": -217,
+      "y": -106,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/webfinger/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#fcu6nk",
       "name": "← JSS plugins",
-      "x": -230,
-      "y": 82,
+      "x": 0,
+      "y": -212,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

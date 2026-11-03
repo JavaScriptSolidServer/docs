@@ -19,28 +19,28 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#we24ey",
+      "@id": "#z9jayy",
       "name": "#7 Plugin idea: webhooks — change-noti…",
-      "x": -72,
-      "y": -203,
+      "x": 328,
+      "y": 0,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/7",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#9e76te",
+      "@id": "#7c6syt",
       "name": "#8 Plugin idea: webmention — IndieWeb…",
-      "x": 197,
-      "y": 131,
+      "x": -125,
+      "y": 184,
       "link": "https://github.com/JavaScriptSolidServer/plugins/issues/8",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#z9jayy",
+      "@id": "#attg7q",
       "name": "← plugins issues",
-      "x": -204,
-      "y": 123,
+      "x": -125,
+      "y": -184,
       "link": "./issues-plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

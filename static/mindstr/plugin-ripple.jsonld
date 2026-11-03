@@ -21,8 +21,8 @@
     {
       "@id": "#ice2bk",
       "name": "The model",
-      "x": -247,
-      "y": -65,
+      "x": 179,
+      "y": -148,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#the-model",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#scytyn",
       "name": "Endpoints",
-      "x": -223,
-      "y": -109,
+      "x": 244,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#endpoints",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#jbhqgv",
       "name": "Findings",
-      "x": -177,
-      "y": -153,
+      "x": 236,
+      "y": 70,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#findings",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#5seuyw",
       "name": "Flavours",
-      "x": -121,
-      "y": -197,
+      "x": 157,
+      "y": 165,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#flavours-the-sequence",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#nm5hts",
       "name": "Test",
-      "x": -36,
-      "y": -210,
+      "x": 32,
+      "y": 211,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/README.md#test",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#mesfa4",
       "name": "plugin.js",
-      "x": 276,
-      "y": 119,
+      "x": -303,
+      "y": 66,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#ek2jcm",
       "name": "toMicro()",
-      "x": 219,
-      "y": -382,
+      "x": -204,
+      "y": 388,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L75",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -84,8 +84,8 @@
     {
       "@id": "#uja84e",
       "name": "fromMicro()",
-      "x": 388,
-      "y": -378,
+      "x": -321,
+      "y": 421,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L83",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -93,8 +93,8 @@
     {
       "@id": "#78sngm",
       "name": "pair()",
-      "x": 415,
-      "y": -237,
+      "x": -334,
+      "y": 317,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L86",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -102,8 +102,8 @@
     {
       "@id": "#58pkgm",
       "name": "pairKey()",
-      "x": 559,
-      "y": -162,
+      "x": -457,
+      "y": 317,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L87",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -111,8 +111,8 @@
     {
       "@id": "#7jxpjz",
       "name": "lineKey()",
-      "x": 499,
-      "y": -28,
+      "x": -432,
+      "y": 214,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L88",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -120,8 +120,8 @@
     {
       "@id": "#qrspvr",
       "name": "debtOf()",
-      "x": 578,
-      "y": 99,
+      "x": -549,
+      "y": 183,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L91",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -129,8 +129,8 @@
     {
       "@id": "#wfbk2v",
       "name": "adjustDebt()",
-      "x": 448,
-      "y": 189,
+      "x": -488,
+      "y": 92,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L97",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -138,8 +138,8 @@
     {
       "@id": "#xetwaa",
       "name": "capacityOf()",
-      "x": 442,
-      "y": 332,
+      "x": -589,
+      "y": 31,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L105",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -147,8 +147,8 @@
     {
       "@id": "#wtpnjp",
       "name": "normalizeAgent()",
-      "x": 272,
-      "y": 357,
+      "x": -498,
+      "y": -40,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L122",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -156,8 +156,8 @@
     {
       "@id": "#7cw6cg",
       "name": "findPath()",
-      "x": 176,
-      "y": 479,
+      "x": -572,
+      "y": -124,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L131",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -165,8 +165,8 @@
     {
       "@id": "#a54nev",
       "name": "canonicalize()",
-      "x": 20,
-      "y": 425,
+      "x": -459,
+      "y": -168,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L168",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -174,8 +174,8 @@
     {
       "@id": "#qhb5iq",
       "name": "entryHash()",
-      "x": -130,
-      "y": 489,
+      "x": -499,
+      "y": -267,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L189",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -183,8 +183,8 @@
     {
       "@id": "#nvqaxu",
       "name": "activate()",
-      "x": -233,
-      "y": 376,
+      "x": -377,
+      "y": -279,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/plugin.js#L196",
       "bgColor": "#ddf2de",
       "parent": "#mesfa4"
@@ -192,8 +192,8 @@
     {
       "@id": "#9n2fi8",
       "name": "test.js",
-      "x": -223,
-      "y": 109,
+      "x": -75,
+      "y": -203,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/ripple/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -201,8 +201,8 @@
     {
       "@id": "#27czbt",
       "name": "← JSS plugins",
-      "x": -247,
-      "y": 65,
+      "x": 61,
+      "y": -206,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

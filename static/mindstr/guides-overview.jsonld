@@ -21,8 +21,8 @@
     {
       "@id": "#k6cm7k",
       "name": "Available Guides",
-      "x": 13,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "link": "https://jss.live/docs/guides/overview#available-guides",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#djkutb",
       "name": "← Guides",
-      "x": -13,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "link": "./guides.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

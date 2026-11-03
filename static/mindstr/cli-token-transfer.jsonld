@@ -21,48 +21,48 @@
     {
       "@id": "#2z3p7w",
       "name": "--ticker <ticker>",
-      "x": -213,
-      "y": -112,
+      "x": 217,
+      "y": -106,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#pvzwd8",
       "name": "--to <address>",
-      "x": 8,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
     {
       "@id": "#57iy7q",
       "name": "--amount <n>",
-      "x": 214,
-      "y": -110,
+      "x": 0,
+      "y": 213,
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
       "@id": "#qprvms",
       "name": "--root <path>",
-      "x": 225,
-      "y": 92,
+      "x": -217,
+      "y": 106,
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
       "@id": "#7fucmt",
       "name": "--mempool-url <url>",
-      "x": 6,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "bgColor": "#c1dba8",
       "parent": "#this"
     },
     {
       "@id": "#t922yq",
       "name": "← jss token",
-      "x": -220,
-      "y": 101,
+      "x": 0,
+      "y": -212,
       "link": "./cli-token.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

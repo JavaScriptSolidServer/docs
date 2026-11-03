@@ -19,28 +19,28 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ybwvcb",
-      "name": "unlabelled · 6",
-      "x": -126,
-      "y": -183,
+      "@id": "#iyzq7q",
+      "name": "unlabelled · 6 ›",
+      "x": 250,
+      "y": 0,
       "link": "./issues-jspod-unlabelled.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#i9qywf",
-      "name": "enhancement · 3",
-      "x": 250,
-      "y": 0,
+      "@id": "#bke9zd",
+      "name": "enhancement · 3 ›",
+      "x": -125,
+      "y": 184,
       "link": "./issues-jspod-enhancement.jsonld",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#iyzq7q",
+      "@id": "#fuxupn",
       "name": "← jspod",
-      "x": -126,
-      "y": 183,
+      "x": -125,
+      "y": -184,
       "link": "./repo-jspod.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

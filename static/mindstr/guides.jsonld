@@ -20,54 +20,54 @@
     },
     {
       "@id": "#vx7khw",
-      "name": "Deploy to Production",
-      "x": -217,
-      "y": -106,
+      "name": "Deploy to Production ›",
+      "x": 207,
+      "y": -120,
       "link": "./guides-deploy-production.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
       "@id": "#34dvu3",
-      "name": "Git on Solid",
-      "x": -30,
-      "y": -211,
+      "name": "Git on Solid ›",
+      "x": 239,
+      "y": 63,
       "link": "./guides-git-on-solid.jsonld",
       "bgColor": "#d9c6fb",
       "parent": "#this"
     },
     {
       "@id": "#v52rfv",
-      "name": "Git Push with Nostr",
-      "x": 178,
-      "y": -149,
+      "name": "Git Push with Nostr ›",
+      "x": 91,
+      "y": 198,
       "link": "./guides-git-push-nostr.jsonld",
       "bgColor": "#f9bdd5",
       "parent": "#this"
     },
     {
       "@id": "#gitnhm",
-      "name": "JSS on Android",
-      "x": 248,
-      "y": 28,
+      "name": "JSS on Android ›",
+      "x": -125,
+      "y": 184,
       "link": "./guides-jss-on-android.jsonld",
       "bgColor": "#fcc2a9",
       "parent": "#this"
     },
     {
       "@id": "#hzes4u",
-      "name": "Connect Solid Apps",
-      "x": 131,
-      "y": 181,
+      "name": "Connect Solid Apps ›",
+      "x": -247,
+      "y": 32,
       "link": "./guides-solid-apps.jsonld",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
       "@id": "#mciseu",
-      "name": "Mind Maps",
-      "x": -83,
-      "y": 200,
+      "name": "Mind Maps ›",
+      "x": -183,
+      "y": -145,
       "link": "./guides-mind-maps.jsonld",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#dm48gj",
       "name": "← JSS docs",
-      "x": -229,
-      "y": 85,
+      "x": 19,
+      "y": -212,
       "link": "./index.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

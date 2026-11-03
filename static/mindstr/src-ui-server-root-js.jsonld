@@ -19,54 +19,54 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#4qhe86",
+      "@id": "#wn4gws",
       "name": "exports",
-      "x": 127,
-      "y": -183,
+      "x": 244,
+      "y": 46,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#z2x7bd",
+      "@id": "#7urzyg",
       "name": "renderServerRoot()",
-      "x": -332,
-      "y": -318,
+      "x": 428,
+      "y": -219,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ui/server-root.js#L38",
       "bgColor": "#daeeff",
-      "parent": "#4qhe86"
+      "parent": "#wn4gws"
     },
     {
-      "@id": "#a22mzd",
+      "@id": "#fcdibk",
       "name": "decideRevealForRegisterStatus()",
-      "x": 321,
-      "y": -421,
+      "x": 576,
+      "y": 109,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ui/server-root.js#L58",
       "bgColor": "#daeeff",
-      "parent": "#4qhe86"
+      "parent": "#wn4gws"
     },
     {
-      "@id": "#duad9x",
+      "@id": "#tmtxc2",
       "name": "seedServerRoot()",
-      "x": 483,
-      "y": 110,
+      "x": 279,
+      "y": 353,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ui/server-root.js#L78",
       "bgColor": "#daeeff",
-      "parent": "#4qhe86"
+      "parent": "#wn4gws"
     },
     {
-      "@id": "#m37qt3",
+      "@id": "#f5mzxc",
       "name": "123 lines",
-      "x": -3,
-      "y": 212,
+      "x": -188,
+      "y": 140,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/ui/server-root.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#k5nh46",
+      "@id": "#assz83",
       "name": "← ui",
-      "x": -217,
-      "y": 105,
+      "x": -101,
+      "y": -195,
       "link": "./src-ui.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

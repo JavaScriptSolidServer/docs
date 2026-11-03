@@ -21,8 +21,8 @@
     {
       "@id": "#tzmucf",
       "name": "Simple Tokens",
-      "x": -221,
-      "y": -99,
+      "x": 241,
+      "y": -57,
       "link": "https://jss.live/docs/features/authentication#simple-tokens-development",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#xmtzgz",
       "name": "Solid-OIDC",
-      "x": 201,
-      "y": -126,
+      "x": 62,
+      "y": 206,
       "link": "https://jss.live/docs/features/authentication#solid-oidc",
       "bgColor": "#f3bee1",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#b9snuz",
       "name": "Built-in Identity Provider",
-      "x": 137,
-      "y": -409,
+      "x": 282,
+      "y": 351,
       "link": "https://jss.live/docs/features/authentication#built-in-identity-provider",
       "bgColor": "#fce3f3",
       "parent": "#xmtzgz"
@@ -48,8 +48,8 @@
     {
       "@id": "#nxqgmq",
       "name": "External Identity Providers",
-      "x": 590,
-      "y": 0,
+      "x": -53,
+      "y": 499,
       "link": "https://jss.live/docs/features/authentication#external-identity-providers",
       "bgColor": "#fce3f3",
       "parent": "#xmtzgz"
@@ -57,8 +57,8 @@
     {
       "@id": "#dguykc",
       "name": "Nostr Authentication",
-      "x": 8,
-      "y": 212,
+      "x": -244,
+      "y": 48,
       "link": "https://jss.live/docs/features/authentication#nostr-authentication-nip-98",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#28eue2",
       "name": "End-to-end encryption",
-      "x": 16,
-      "y": 425,
+      "x": -487,
+      "y": 95,
       "link": "https://jss.live/docs/features/authentication#end-to-end-encryption",
       "bgColor": "#fbe8d3",
       "parent": "#dguykc"
@@ -75,8 +75,8 @@
     {
       "@id": "#f4n9qu",
       "name": "← Features",
-      "x": -221,
-      "y": 99,
+      "x": -62,
+      "y": -206,
       "link": "./features.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

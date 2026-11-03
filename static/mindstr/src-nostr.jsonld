@@ -19,37 +19,37 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#eqxhbv",
-      "name": "event.js · 7",
-      "x": -143,
-      "y": -174,
+      "@id": "#mukqya",
+      "name": "event.js · 7 ›",
+      "x": 250,
+      "y": 0,
       "link": "./src-nostr-event-js.jsonld",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#m3zt7z",
+      "@id": "#rdjmhy",
       "name": "relay.js",
-      "x": 250,
-      "y": 0,
+      "x": -125,
+      "y": 184,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/relay.js",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#xzgaz8",
+      "@id": "#nbjpha",
       "name": "registerNostrRelay()",
-      "x": 500,
-      "y": 0,
+      "x": -250,
+      "y": 368,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/nostr/relay.js#L93",
       "bgColor": "#ffe2e6",
-      "parent": "#m3zt7z"
+      "parent": "#rdjmhy"
     },
     {
-      "@id": "#brfb5w",
+      "@id": "#aypwsg",
       "name": "← src/",
-      "x": -143,
-      "y": 174,
+      "x": -125,
+      "y": -184,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

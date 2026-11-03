@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#m7mgcv",
+      "@id": "#beqq5j",
       "name": "#31 mashlib url",
-      "x": 3,
-      "y": -212,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/docs/issues/31",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#gekznt",
+      "@id": "#6r28st",
       "name": "← docs issues",
-      "x": -3,
-      "y": 212,
+      "x": -217,
+      "y": -106,
       "link": "./issues-docs.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

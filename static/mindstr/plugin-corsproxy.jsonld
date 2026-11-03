@@ -21,8 +21,8 @@
     {
       "@id": "#ux93wm",
       "name": "Usage",
-      "x": -240,
-      "y": -65,
+      "x": 196,
+      "y": -132,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#usage",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#a464iu",
       "name": "Config",
-      "x": -480,
-      "y": -119,
+      "x": 391,
+      "y": -264,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#config",
       "bgColor": "#daeeff",
       "parent": "#ux93wm"
@@ -39,8 +39,8 @@
     {
       "@id": "#simp87",
       "name": "Security model",
-      "x": -165,
-      "y": -160,
+      "x": 319,
+      "y": 17,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#security-model",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#tzmucf",
       "name": "Tests",
-      "x": -38,
-      "y": -210,
+      "x": 168,
+      "y": 157,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#tests",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -57,8 +57,8 @@
     {
       "@id": "#xmtzgz",
       "name": "Findings",
-      "x": 240,
-      "y": -65,
+      "x": -37,
+      "y": 210,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#findings",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -66,8 +66,8 @@
     {
       "@id": "#b9snuz",
       "name": "The headline: per-pod ACL gating is impossible out here",
-      "x": 430,
-      "y": -218,
+      "x": -13,
+      "y": 412,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#the-headline-per-pod-acl-gating-is-impossible-out-here-exactly-what-382-says",
       "bgColor": "#ffe4d9",
       "parent": "#xmtzgz"
@@ -75,8 +75,8 @@
     {
       "@id": "#nxqgmq",
       "name": "Smaller findings",
-      "x": 535,
-      "y": 211,
+      "x": -259,
+      "y": 457,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#smaller-findings",
       "bgColor": "#ffe4d9",
       "parent": "#xmtzgz"
@@ -84,8 +84,8 @@
     {
       "@id": "#dguykc",
       "name": "License",
-      "x": 100,
-      "y": 195,
+      "x": -215,
+      "y": 108,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/README.md#license",
       "bgColor": "#e0d199",
       "parent": "#this"
@@ -93,8 +93,8 @@
     {
       "@id": "#28eue2",
       "name": "plugin.js",
-      "x": -38,
-      "y": 210,
+      "x": -244,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/plugin.js",
       "bgColor": "#b1dfb5",
       "parent": "#this"
@@ -102,8 +102,8 @@
     {
       "@id": "#f4n9qu",
       "name": "activate()",
-      "x": -76,
-      "y": 420,
+      "x": -488,
+      "y": -91,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/plugin.js#L223",
       "bgColor": "#ddf2de",
       "parent": "#28eue2"
@@ -111,8 +111,8 @@
     {
       "@id": "#krwt6e",
       "name": "test.js",
-      "x": -165,
-      "y": 160,
+      "x": -142,
+      "y": -175,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/corsproxy/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#emecna",
       "name": "← JSS plugins",
-      "x": -240,
-      "y": 64,
+      "x": 37,
+      "y": -210,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

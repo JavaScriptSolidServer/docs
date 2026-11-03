@@ -19,63 +19,63 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#pggewd",
+      "@id": "#d5e2jv",
       "name": "exports",
-      "x": 178,
-      "y": -149,
+      "x": 215,
+      "y": 108,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#7cv7qa",
+      "@id": "#3g77sx",
       "name": "profilePathFromWebId()",
-      "x": -339,
-      "y": -312,
+      "x": 440,
+      "y": -202,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/well-known-did-nostr.js#L278",
       "bgColor": "#daeeff",
-      "parent": "#pggewd"
+      "parent": "#d5e2jv"
     },
     {
-      "@id": "#4evz5w",
+      "@id": "#ucs9ug",
       "name": "profilePathCandidates()",
-      "x": 97,
-      "y": -495,
+      "x": 586,
+      "y": 57,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/well-known-did-nostr.js#L333",
       "bgColor": "#daeeff",
-      "parent": "#pggewd"
+      "parent": "#d5e2jv"
     },
     {
-      "@id": "#vh32g5",
+      "@id": "#tse2je",
       "name": "resolveDidNostrLocally()",
-      "x": 447,
-      "y": -190,
+      "x": 368,
+      "y": 288,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/well-known-did-nostr.js#L481",
       "bgColor": "#daeeff",
-      "parent": "#pggewd"
+      "parent": "#d5e2jv"
     },
     {
-      "@id": "#6ktxue",
+      "@id": "#cvh8ee",
       "name": "buildWellKnownDidNostrHandler()",
-      "x": 483,
-      "y": 288,
+      "x": 64,
+      "y": 499,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/well-known-did-nostr.js#L542",
       "bgColor": "#daeeff",
-      "parent": "#pggewd"
+      "parent": "#d5e2jv"
     },
     {
-      "@id": "#qrakrq",
+      "@id": "#3xd5xn",
       "name": "607 lines",
-      "x": -98,
-      "y": 196,
+      "x": -242,
+      "y": 52,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/idp/well-known-did-nostr.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#ppuaac",
+      "@id": "#jingvu",
       "name": "← idp",
-      "x": -231,
-      "y": 81,
+      "x": -64,
+      "y": -205,
       "link": "./src-idp.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -19,46 +19,46 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ppuaac",
+      "@id": "#kpihvt",
       "name": "#1 Pretty 'data browser' HTML view for…",
-      "x": -190,
-      "y": -138,
+      "x": 228,
+      "y": -86,
       "link": "https://github.com/JavaScriptSolidServer/beacon/issues/1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#f77hg7",
+      "@id": "#k58b5b",
       "name": "#2 Run beacon's raw-WS indexer in prod…",
-      "x": 129,
-      "y": -182,
+      "x": 167,
+      "y": 145,
       "link": "https://github.com/JavaScriptSolidServer/beacon/issues/2",
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
-      "@id": "#kpihvt",
+      "@id": "#htircd",
       "name": "#3 Interactive ego-network (force-dire…",
-      "x": 232,
-      "y": 79,
+      "x": -125,
+      "y": 191,
       "link": "https://github.com/JavaScriptSolidServer/beacon/issues/3",
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
-      "@id": "#k58b5b",
+      "@id": "#sixamq",
       "name": "#4 did:nostr DID document advertises a…",
-      "x": -55,
-      "y": 207,
+      "x": -245,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/beacon/issues/4",
       "bgColor": "#d7d59b",
       "parent": "#this"
     },
     {
-      "@id": "#htircd",
+      "@id": "#j99zi5",
       "name": "← beacon issues",
-      "x": -237,
-      "y": 67,
+      "x": -26,
+      "y": -211,
       "link": "./issues-beacon.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

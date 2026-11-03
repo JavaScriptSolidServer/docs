@@ -19,81 +19,81 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#m3xps2",
+      "@id": "#kmcrgd",
       "name": "exports",
-      "x": 196,
-      "y": -132,
+      "x": 193,
+      "y": 135,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#yxjf84",
+      "@id": "#ktiw89",
       "name": "hasNostrAuth()",
-      "x": -390,
-      "y": -266,
+      "x": 427,
+      "y": -221,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L57",
       "bgColor": "#daeeff",
-      "parent": "#m3xps2"
-    },
-    {
-      "@id": "#mrv4db",
-      "name": "extractNostrToken()",
-      "x": -158,
-      "y": -483,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L83",
-      "bgColor": "#daeeff",
-      "parent": "#m3xps2"
-    },
-    {
-      "@id": "#i6483q",
-      "name": "pubkeyToDidNostr()",
-      "x": 195,
-      "y": -392,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L150",
-      "bgColor": "#daeeff",
-      "parent": "#m3xps2"
-    },
-    {
-      "@id": "#kmcrgd",
-      "name": "verifyNostrAuth()",
-      "x": 509,
-      "y": -253,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L159",
-      "bgColor": "#daeeff",
-      "parent": "#m3xps2"
-    },
-    {
-      "@id": "#ktiw89",
-      "name": "verifyNostrPubkeyAgainstWebId()",
-      "x": 478,
-      "y": 124,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L577",
-      "bgColor": "#daeeff",
-      "parent": "#m3xps2"
+      "parent": "#kmcrgd"
     },
     {
       "@id": "#c74y5q",
-      "name": "getNostrPubkey()",
-      "x": 264,
-      "y": 448,
-      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L727",
+      "name": "extractNostrToken()",
+      "x": 587,
+      "y": -49,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L83",
       "bgColor": "#daeeff",
-      "parent": "#m3xps2"
+      "parent": "#kmcrgd"
     },
     {
       "@id": "#374kep",
+      "name": "pubkeyToDidNostr()",
+      "x": 469,
+      "y": 146,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L150",
+      "bgColor": "#daeeff",
+      "parent": "#kmcrgd"
+    },
+    {
+      "@id": "#ba2cgp",
+      "name": "verifyNostrAuth()",
+      "x": 412,
+      "y": 359,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L159",
+      "bgColor": "#daeeff",
+      "parent": "#kmcrgd"
+    },
+    {
+      "@id": "#h7ym9k",
+      "name": "verifyNostrPubkeyAgainstWebId()",
+      "x": 106,
+      "y": 415,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L577",
+      "bgColor": "#daeeff",
+      "parent": "#kmcrgd"
+    },
+    {
+      "@id": "#ius84b",
+      "name": "getNostrPubkey()",
+      "x": -201,
+      "y": 471,
+      "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js#L727",
+      "bgColor": "#daeeff",
+      "parent": "#kmcrgd"
+    },
+    {
+      "@id": "#583aqh",
       "name": "744 lines",
-      "x": -134,
-      "y": 179,
+      "x": -250,
+      "y": 4,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/nostr.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#ba2cgp",
+      "@id": "#sbf4ee",
       "name": "← auth",
-      "x": -236,
-      "y": 70,
+      "x": -45,
+      "y": -209,
       "link": "./src-auth.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

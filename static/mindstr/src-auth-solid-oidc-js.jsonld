@@ -19,63 +19,63 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#h7ym9k",
+      "@id": "#t6q67m",
       "name": "exports",
-      "x": 140,
-      "y": -176,
+      "x": 240,
+      "y": 61,
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#ius84b",
+      "@id": "#abq85r",
       "name": "addTrustedIssuer()",
-      "x": -340,
-      "y": -312,
+      "x": 426,
+      "y": -223,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js#L35",
       "bgColor": "#daeeff",
-      "parent": "#h7ym9k"
+      "parent": "#t6q67m"
     },
     {
-      "@id": "#583aqh",
+      "@id": "#sy2ncx",
       "name": "verifySolidOidc()",
-      "x": 110,
-      "y": -493,
+      "x": 590,
+      "y": 5,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js#L85",
       "bgColor": "#daeeff",
-      "parent": "#h7ym9k"
+      "parent": "#t6q67m"
     },
     {
-      "@id": "#sbf4ee",
+      "@id": "#fertai",
       "name": "clearCaches()",
-      "x": 435,
-      "y": -210,
+      "x": 421,
+      "y": 230,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js#L333",
       "bgColor": "#daeeff",
-      "parent": "#h7ym9k"
+      "parent": "#t6q67m"
     },
     {
-      "@id": "#t6q67m",
+      "@id": "#9u36xp",
       "name": "hasSolidOidcAuth()",
-      "x": 550,
-      "y": 181,
+      "x": 250,
+      "y": 454,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js#L341",
       "bgColor": "#daeeff",
-      "parent": "#h7ym9k"
+      "parent": "#t6q67m"
     },
     {
-      "@id": "#abq85r",
+      "@id": "#5q2nc4",
       "name": "345 lines",
-      "x": -27,
-      "y": 211,
+      "x": -205,
+      "y": 122,
       "link": "https://github.com/JavaScriptSolidServer/JavaScriptSolidServer/blob/fix/post-any-content-type/src/auth/solid-oidc.js",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#sy2ncx",
+      "@id": "#eegh3a",
       "name": "← auth",
-      "x": -221,
-      "y": 99,
+      "x": -92,
+      "y": -197,
       "link": "./src-auth.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

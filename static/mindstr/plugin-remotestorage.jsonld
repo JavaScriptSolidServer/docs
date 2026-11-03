@@ -21,8 +21,8 @@
     {
       "@id": "#3m2wcm",
       "name": "Surface",
-      "x": -248,
-      "y": -65,
+      "x": 183,
+      "y": -145,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#surface",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#4ad697",
       "name": "What maps / what doesn't",
-      "x": -224,
-      "y": -109,
+      "x": 247,
+      "y": -65,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#what-maps-what-doesnt",
       "bgColor": "#e0c4f6",
       "parent": "#this"
@@ -39,8 +39,8 @@
     {
       "@id": "#z237xc",
       "name": "Findings",
-      "x": 302,
-      "y": -65,
+      "x": -70,
+      "y": 257,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#findings",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -48,8 +48,8 @@
     {
       "@id": "#ern3ds",
       "name": "HEADLINE",
-      "x": -212,
-      "y": -385,
+      "x": 439,
+      "y": 203,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#1-headline-the-well-knownwebfinger-collision-now-witnessed",
       "bgColor": "#ffe2e6",
       "parent": "#z237xc"
@@ -57,8 +57,8 @@
     {
       "@id": "#cixa8i",
       "name": "Conditional-write pass-through: the host honors it",
-      "x": -9,
-      "y": -501,
+      "x": 403,
+      "y": 366,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#2-conditional-write-pass-through-the-host-honors-it-measured",
       "bgColor": "#ffe2e6",
       "parent": "#z237xc"
@@ -66,8 +66,8 @@
     {
       "@id": "#w8ga4c",
       "name": "ETag provenance: host's for documents, hand-rolled for folders",
-      "x": 311,
-      "y": -333,
+      "x": 126,
+      "y": 411,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#3-etag-provenance-hosts-for-documents-hand-rolled-for-folders-and-putdelete-responses-have-none",
       "bgColor": "#ffe2e6",
       "parent": "#z237xc"
@@ -75,8 +75,8 @@
     {
       "@id": "#eud4cc",
       "name": "rS is a route-owning feature → plugin-able",
-      "x": 571,
-      "y": -127,
+      "x": -122,
+      "y": 491,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#4-rs-is-a-route-owning-feature-plugin-able-7th-port-shaped-witness",
       "bgColor": "#ffe2e6",
       "parent": "#z237xc"
@@ -84,8 +84,8 @@
     {
       "@id": "#5mb355",
       "name": "Content types don't round-trip",
-      "x": 489,
-      "y": 88,
+      "x": -258,
+      "y": 364,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#5-content-types-dont-round-trip-measured",
       "bgColor": "#ffe2e6",
       "parent": "#z237xc"
@@ -93,8 +93,8 @@
     {
       "@id": "#mikqv6",
       "name": "Folder listings cost O loopback HEADs, and depth ≥ 2 version propagation is unbuildable",
-      "x": 355,
-      "y": 387,
+      "x": -514,
+      "y": 246,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#6-folder-listings-cost-on-loopback-heads-and-depth-2-version-propagation-is-unbuildable",
       "bgColor": "#ffe2e6",
       "parent": "#z237xc"
@@ -102,8 +102,8 @@
     {
       "@id": "#7s8ycb",
       "name": "Smaller notes",
-      "x": 8,
-      "y": 432,
+      "x": -500,
+      "y": 18,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/README.md#7-smaller-notes",
       "bgColor": "#ffe2e6",
       "parent": "#z237xc"
@@ -111,8 +111,8 @@
     {
       "@id": "#7jybab",
       "name": "plugin.js",
-      "x": -170,
-      "y": 156,
+      "x": -204,
+      "y": -123,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/plugin.js",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#7rqytw",
       "name": "userFromResource()",
-      "x": -296,
-      "y": 342,
+      "x": -441,
+      "y": -201,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/plugin.js#L79",
       "bgColor": "#fbe8d3",
       "parent": "#7jybab"
@@ -129,8 +129,8 @@
     {
       "@id": "#hir8hx",
       "name": "activate()",
-      "x": -454,
-      "y": 320,
+      "x": -435,
+      "y": -338,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/plugin.js#L95",
       "bgColor": "#fbe8d3",
       "parent": "#7jybab"
@@ -138,8 +138,8 @@
     {
       "@id": "#ykkb9u",
       "name": "test.js",
-      "x": -230,
-      "y": 109,
+      "x": -89,
+      "y": -199,
       "link": "https://github.com/JavaScriptSolidServer/plugins/blob/main/remotestorage/test.js",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -147,8 +147,8 @@
     {
       "@id": "#7ikicx",
       "name": "← JSS plugins",
-      "x": -248,
-      "y": 65,
+      "x": 57,
+      "y": -207,
       "link": "./plugins.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

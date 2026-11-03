@@ -19,55 +19,55 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#9qucge",
+      "@id": "#7p9b7p",
       "name": "#1 Bug: @type array causes TypeError i…",
-      "x": -211,
-      "y": -114,
+      "x": 217,
+      "y": -106,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#48sh62",
+      "@id": "#qg6nvb",
       "name": "#2 Enhancement: Use rdflib's JSON-LD p…",
-      "x": 32,
-      "y": -211,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/2",
       "bgColor": "#e0c4f6",
       "parent": "#this"
     },
     {
-      "@id": "#7p9b7p",
+      "@id": "#w94kzu",
       "name": "#3 Bug: Uses http://schema.org/ instea…",
-      "x": 238,
-      "y": -65,
+      "x": 0,
+      "y": 213,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/3",
       "bgColor": "#febdc6",
       "parent": "#this"
     },
     {
-      "@id": "#qg6nvb",
+      "@id": "#hhm2db",
       "name": "#4 Support both @view sugar AND explic…",
-      "x": 170,
-      "y": 154,
+      "x": -217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/4",
       "bgColor": "#f1c99c",
       "parent": "#this"
     },
     {
-      "@id": "#w94kzu",
+      "@id": "#gdy6vg",
       "name": "#5 Support JSON-LD data islands in HTM…",
-      "x": -93,
-      "y": 198,
+      "x": -217,
+      "y": -106,
       "link": "https://github.com/JavaScriptSolidServer/solid-shim/issues/5",
       "bgColor": "#c1dba8",
       "parent": "#this"
     },
     {
-      "@id": "#hhm2db",
+      "@id": "#tuysn4",
       "name": "← solid-shim issues",
-      "x": -238,
-      "y": 65,
+      "x": 0,
+      "y": -212,
       "link": "./issues-solid-shim.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

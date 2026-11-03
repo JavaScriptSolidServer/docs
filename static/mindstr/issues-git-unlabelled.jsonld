@@ -19,19 +19,19 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#k6cm7k",
+      "@id": "#pu9sy8",
       "name": "#1 Reduce layout shift (CLS) on reload…",
-      "x": 140,
-      "y": -176,
+      "x": 217,
+      "y": 106,
       "link": "https://github.com/JavaScriptSolidServer/git/issues/1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#djkutb",
+      "@id": "#7ppwsy",
       "name": "← git issues",
-      "x": -140,
-      "y": 176,
+      "x": -217,
+      "y": -106,
       "link": "./issues-git.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
