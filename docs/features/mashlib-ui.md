@@ -36,6 +36,14 @@ npm install && npm run build
 3. Mashlib fetches actual data via content negotiation
 4. Mashlib renders interactive, editable view
 
+## Add your own panes
+
+```bash
+jss start --mashlib-cdn --conneg --panes https://example.org/my-pane.js
+```
+
+`--panes` takes a list of pane modules that the data browser loads and registers before SolidOS starts, with no mashlib rebuild. See the [Dynamic Panes guide](/guides/dynamic-panes).
+
 ## Requirements
 
 Mashlib works best with `--conneg` enabled for Turtle support.

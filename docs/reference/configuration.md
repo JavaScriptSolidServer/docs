@@ -73,4 +73,5 @@ jss start --config config.json
 | `--base-domain` | `JSS_BASE_DOMAIN` | `baseDomain` | - |
 | `--mashlib` | `JSS_MASHLIB` | `mashlib` | false |
 | `--mashlib-cdn` | `JSS_MASHLIB_CDN` | `mashlibCdn` | false |
+| `--panes` | `JSS_PANES` | `panes` | - |
 | `--git` | `JSS_GIT` | `git` | false |
