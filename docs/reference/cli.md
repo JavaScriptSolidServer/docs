@@ -33,6 +33,7 @@ jss start [options]
 | `--mashlib` | Enable Mashlib (local) | false |
 | `--mashlib-cdn` | Enable Mashlib (CDN) | false |
 | `--mashlib-version <ver>` | Mashlib CDN version | 2.0.0 |
+| `--panes <urls>` | Pane modules the data browser loads at start-up ([guide](/guides/dynamic-panes)) | - |
 | `--git` | Enable Git HTTP backend | false |
 | `-q, --quiet` | Suppress logs | false |
 
