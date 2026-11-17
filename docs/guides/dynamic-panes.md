@@ -73,7 +73,7 @@ Working examples: [hello-pane.js](https://github.com/melvincarvalho/pane-loader/
 
 - Each entry is an `http(s)` URL or an absolute path on this server (`/public/panes/my-pane.js`). Anything else is dropped, and the server says which entries it dropped at start-up.
 - A URL that itself contains a comma has to go in the config file.
-- It applies to `--mashlib-cdn`. It does not apply to `--mashlib-module` yet; the server says so at start-up.
+- It applies to `--mashlib-cdn` and, from JSS 0.0.230, to `--mashlib-module`. A module entry point (for example the no-build SolidOS, [solidos-nobuild](https://github.com/JavaScriptSolidServer/solidos-nobuild)) starts SolidOS itself, so there the panes are added as soon as it has put the pane registry on the page, and the view on show is redrawn so that they are offered.
 - With no list, the page is exactly what it was before.
 
 ## What happens at start-up
